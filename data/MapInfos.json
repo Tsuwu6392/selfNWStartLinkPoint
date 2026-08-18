@@ -1,0 +1,4899 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "テストマップ",
+        "order": 2,
+        "parentId": 2,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 2,
+        "expanded": false,
+        "name": "■イベントマップ",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 3,
+        "expanded": false,
+        "name": "プリムのスキルツリー１",
+        "order": 5,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "プリムのスキルツリー２",
+        "order": 6,
+        "parentId": 3,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 5,
+        "expanded": false,
+        "name": "桜悳のスキルツリー１",
+        "order": 7,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "桜悳のスキルツリー２",
+        "order": 8,
+        "parentId": 5,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "ウーラのスキルツリー１",
+        "order": 9,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "ウーラのスキルツリー２",
+        "order": 10,
+        "parentId": 7,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "ナズナのスキルツリー１",
+        "order": 3,
+        "parentId": 2,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 10,
+        "expanded": false,
+        "name": "ナズナのスキルツリー２",
+        "order": 4,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 11,
+        "expanded": false,
+        "name": "壬生杖のスキルツリー１",
+        "order": 11,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "壬生杖のスキルツリー２",
+        "order": 12,
+        "parentId": 11,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "存子のスキルツリー２",
+        "order": 14,
+        "parentId": 14,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "存子のスキルツリー１",
+        "order": 13,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 15,
+        "expanded": false,
+        "name": "●真白神社",
+        "order": 63,
+        "parentId": 0,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 825.4285714285713
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "真白神社：内装",
+        "order": 64,
+        "parentId": 15,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 17,
+        "expanded": false,
+        "name": "■舟観",
+        "order": 80,
+        "parentId": 0,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 18,
+        "expanded": false,
+        "name": "■冠鎮",
+        "order": 148,
+        "parentId": 0,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 19,
+        "expanded": false,
+        "name": "■夜行岩屋",
+        "order": 251,
+        "parentId": 0,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 20,
+        "expanded": false,
+        "name": "■ウパシモシリ",
+        "order": 315,
+        "parentId": 0,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 21,
+        "expanded": false,
+        "name": "■オープニング",
+        "order": 73,
+        "parentId": 0,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 22,
+        "expanded": false,
+        "name": "ナーヴィガー号",
+        "order": 74,
+        "parentId": 21,
+        "scrollX": 1136,
+        "scrollY": 615.5
+    },
+    {
+        "id": 23,
+        "expanded": true,
+        "name": "？？？？",
+        "order": 79,
+        "parentId": 21,
+        "scrollX": 811,
+        "scrollY": 461.5
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "ナーヴィガー号",
+        "order": 75,
+        "parentId": 22,
+        "scrollX": 1034,
+        "scrollY": 554.5
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "ナーヴィガー号",
+        "order": 76,
+        "parentId": 22,
+        "scrollX": 869,
+        "scrollY": 554.5
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "ナーヴィガー号：個室１",
+        "order": 77,
+        "parentId": 25,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "ナーヴィガー号：個室２",
+        "order": 78,
+        "parentId": 25,
+        "scrollX": 1121.4545454545455,
+        "scrollY": 917.4545454545455
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "落命ヶ浜",
+        "order": 81,
+        "parentId": 17,
+        "scrollX": 1404,
+        "scrollY": 1428.8571428571427
+    },
+    {
+        "id": 29,
+        "expanded": false,
+        "name": "ともしび村",
+        "order": 90,
+        "parentId": 17,
+        "scrollX": 1622,
+        "scrollY": 949
+    },
+    {
+        "id": 30,
+        "expanded": false,
+        "name": "夜寄せ塔",
+        "order": 96,
+        "parentId": 17,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 31,
+        "expanded": false,
+        "name": "旧笹倉町",
+        "order": 106,
+        "parentId": 17,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "舟観砦",
+        "order": 116,
+        "parentId": 17,
+        "scrollX": 1404,
+        "scrollY": 1130.5714285714284
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "落命ヶ浜",
+        "order": 82,
+        "parentId": 28,
+        "scrollX": 1622,
+        "scrollY": 1107
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "落命ヶ浜",
+        "order": 83,
+        "parentId": 28,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "落命ヶ浜：洞窟",
+        "order": 84,
+        "parentId": 28,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "真白神社：内装",
+        "order": 65,
+        "parentId": 15,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "真白神社：内装二階",
+        "order": 67,
+        "parentId": 15,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "真白神社：内装地下",
+        "order": 68,
+        "parentId": 15,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "真白神社：清殿",
+        "order": 69,
+        "parentId": 15,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "真白神社：清殿地下",
+        "order": 70,
+        "parentId": 39,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 41,
+        "expanded": true,
+        "name": "落命ヶ浜：洞窟",
+        "order": 85,
+        "parentId": 28,
+        "scrollX": 1242,
+        "scrollY": 1086
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "落命ヶ浜：東",
+        "order": 86,
+        "parentId": 28,
+        "scrollX": 1222.8,
+        "scrollY": 1074
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "落命ヶ浜：東",
+        "order": 87,
+        "parentId": 28,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "落命ヶ浜：屋内",
+        "order": 88,
+        "parentId": 28,
+        "scrollX": 1104,
+        "scrollY": 934.909090909091
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "ともしび村",
+        "order": 91,
+        "parentId": 29,
+        "scrollX": 1638,
+        "scrollY": 937
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "ともしび村：内装１",
+        "order": 92,
+        "parentId": 29,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "ともしび村：内装２",
+        "order": 93,
+        "parentId": 29,
+        "scrollX": 1078,
+        "scrollY": 923
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "ともしび村：内装３",
+        "order": 94,
+        "parentId": 29,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 49,
+        "expanded": true,
+        "name": "ともしび村：倉庫",
+        "order": 95,
+        "parentId": 29,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "夜寄せ塔",
+        "order": 97,
+        "parentId": 30,
+        "scrollX": 811,
+        "scrollY": 646.5
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "夜寄せ塔",
+        "order": 98,
+        "parentId": 30,
+        "scrollX": 811,
+        "scrollY": 553.5
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "夜寄せ塔",
+        "order": 99,
+        "parentId": 30,
+        "scrollX": 811,
+        "scrollY": 738.5
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "夜寄せ塔",
+        "order": 100,
+        "parentId": 30,
+        "scrollX": 811,
+        "scrollY": 615.5
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "夜寄せ塔",
+        "order": 101,
+        "parentId": 30,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "夜寄せ塔最上層",
+        "order": 102,
+        "parentId": 30,
+        "scrollX": 811,
+        "scrollY": 615.5
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "夜寄せ塔地下",
+        "order": 103,
+        "parentId": 30,
+        "scrollX": 974,
+        "scrollY": 692.5
+    },
+    {
+        "id": 57,
+        "expanded": false,
+        "name": "イベントマップ",
+        "order": 19,
+        "parentId": 2,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "見知らぬ村",
+        "order": 20,
+        "parentId": 57,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 935.1428571428571
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "真白神社（夜）",
+        "order": 21,
+        "parentId": 57,
+        "scrollX": 982.8,
+        "scrollY": 888.5999999999999
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "真白神社（会話）",
+        "order": 22,
+        "parentId": 57,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "落命ヶ浜：屋内",
+        "order": 89,
+        "parentId": 28,
+        "scrollX": 869,
+        "scrollY": 554.5
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "夜寄せ塔地下",
+        "order": 104,
+        "parentId": 56,
+        "scrollX": 1216.5,
+        "scrollY": 780.75
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "夜寄せ塔地下",
+        "order": 105,
+        "parentId": 56,
+        "scrollX": 832,
+        "scrollY": 656
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "真白神社外れ",
+        "order": 71,
+        "parentId": 15,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 65,
+        "expanded": false,
+        "name": "真白神社：鍛冶場",
+        "order": 72,
+        "parentId": 64,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "旧笹倉町",
+        "order": 107,
+        "parentId": 31,
+        "scrollX": 1134,
+        "scrollY": 848
+    },
+    {
+        "id": 67,
+        "expanded": false,
+        "name": "カンムイ小径",
+        "order": 149,
+        "parentId": 18,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "旧笹倉町",
+        "order": 108,
+        "parentId": 31,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 918
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "旧笹倉町",
+        "order": 110,
+        "parentId": 31,
+        "scrollX": 1134.6666666666667,
+        "scrollY": 872.6666666666666
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "旧笹倉町：洞窟",
+        "order": 109,
+        "parentId": 68,
+        "scrollX": 816,
+        "scrollY": 724
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "舟観砦：内装",
+        "order": 117,
+        "parentId": 32,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "舟観砦：内装",
+        "order": 119,
+        "parentId": 32,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "舟観砦：内装",
+        "order": 120,
+        "parentId": 32,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "舟観砦：地下",
+        "order": 118,
+        "parentId": 71,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 75,
+        "expanded": false,
+        "name": "秋水京西部",
+        "order": 154,
+        "parentId": 18,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 791.3333333333334
+    },
+    {
+        "id": 76,
+        "expanded": false,
+        "name": "石拾い道",
+        "order": 176,
+        "parentId": 18,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 984.8571428571428
+    },
+    {
+        "id": 77,
+        "expanded": false,
+        "name": "髪洗村",
+        "order": 185,
+        "parentId": 18,
+        "scrollX": 1216.5,
+        "scrollY": 924.75
+    },
+    {
+        "id": 78,
+        "expanded": false,
+        "name": "カンムイ小径",
+        "order": 150,
+        "parentId": 67,
+        "scrollX": 982.8,
+        "scrollY": 1140.6
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "カンムイ小径",
+        "order": 153,
+        "parentId": 67,
+        "scrollX": 1177.2,
+        "scrollY": 544.1999999999999
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "秋水京西部港口",
+        "order": 155,
+        "parentId": 75,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 924.8571428571428
+    },
+    {
+        "id": 81,
+        "expanded": false,
+        "name": "秋水京中央繁華街",
+        "order": 156,
+        "parentId": 75,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 948.8571428571428
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "秋水京城下",
+        "order": 164,
+        "parentId": 75,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 938.5714285714286
+    },
+    {
+        "id": 83,
+        "expanded": false,
+        "name": "秋水京南部下町",
+        "order": 166,
+        "parentId": 75,
+        "scrollX": 1164,
+        "scrollY": 776.6666666666666
+    },
+    {
+        "id": 84,
+        "expanded": true,
+        "name": "秋水京りゆう屋前",
+        "order": 169,
+        "parentId": 75,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "秋水京東部公共区",
+        "order": 170,
+        "parentId": 75,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 936.8571428571428
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "秋水京封じ牢前",
+        "order": 172,
+        "parentId": 75,
+        "scrollX": 1404,
+        "scrollY": 936.8571428571428
+    },
+    {
+        "id": 87,
+        "expanded": true,
+        "name": "石拾い道",
+        "order": 177,
+        "parentId": 76,
+        "scrollX": 1090,
+        "scrollY": 792
+    },
+    {
+        "id": 88,
+        "expanded": true,
+        "name": "石拾い道",
+        "order": 178,
+        "parentId": 76,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "石拾い道",
+        "order": 179,
+        "parentId": 76,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 90,
+        "expanded": true,
+        "name": "石拾い道",
+        "order": 180,
+        "parentId": 76,
+        "scrollX": 944,
+        "scrollY": 640
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "石拾い道",
+        "order": 181,
+        "parentId": 76,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 92,
+        "expanded": true,
+        "name": "石拾い道",
+        "order": 182,
+        "parentId": 76,
+        "scrollX": 1094,
+        "scrollY": 1154
+    },
+    {
+        "id": 93,
+        "expanded": true,
+        "name": "石拾い道",
+        "order": 183,
+        "parentId": 76,
+        "scrollX": 832,
+        "scrollY": 792
+    },
+    {
+        "id": 94,
+        "expanded": true,
+        "name": "石拾い道洞窟",
+        "order": 184,
+        "parentId": 76,
+        "scrollX": 1078,
+        "scrollY": 908
+    },
+    {
+        "id": 95,
+        "expanded": true,
+        "name": "秋水京内装：異人館１",
+        "order": 173,
+        "parentId": 75,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 96,
+        "expanded": true,
+        "name": "ラムルアラム領事館",
+        "order": 174,
+        "parentId": 95,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 97,
+        "expanded": true,
+        "name": "秋水京内装：宿",
+        "order": 157,
+        "parentId": 81,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 98,
+        "expanded": true,
+        "name": "秋水京内装：宿",
+        "order": 158,
+        "parentId": 97,
+        "scrollX": 848,
+        "scrollY": 640
+    },
+    {
+        "id": 99,
+        "expanded": true,
+        "name": "秋水京内装：土産物屋",
+        "order": 159,
+        "parentId": 81,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 100,
+        "expanded": true,
+        "name": "秋水京内装：甘味処",
+        "order": 160,
+        "parentId": 81,
+        "scrollX": 1104,
+        "scrollY": 934.909090909091
+    },
+    {
+        "id": 101,
+        "expanded": true,
+        "name": "秋水京内装：武具屋",
+        "order": 161,
+        "parentId": 81,
+        "scrollX": 873.4285714285713,
+        "scrollY": 753.4285714285713
+    },
+    {
+        "id": 102,
+        "expanded": true,
+        "name": "秋水京内装：たぬき店",
+        "order": 162,
+        "parentId": 81,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 103,
+        "expanded": true,
+        "name": "秋水京内装：鍛冶屋",
+        "order": 163,
+        "parentId": 81,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 104,
+        "expanded": true,
+        "name": "秋水京内装：とらや",
+        "order": 165,
+        "parentId": 82,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 105,
+        "expanded": true,
+        "name": "秋水京内装：下町民家１",
+        "order": 167,
+        "parentId": 83,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 604.6666666666666
+    },
+    {
+        "id": 106,
+        "expanded": true,
+        "name": "秋水京内装：下町民家２",
+        "order": 168,
+        "parentId": 83,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 107,
+        "expanded": true,
+        "name": "秋水京内装：柴組詰所",
+        "order": 171,
+        "parentId": 85,
+        "scrollX": 973.1999999999999,
+        "scrollY": 553.8
+    },
+    {
+        "id": 108,
+        "expanded": false,
+        "name": "雫村",
+        "order": 190,
+        "parentId": 18,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1279.7142857142856
+    },
+    {
+        "id": 109,
+        "expanded": false,
+        "name": "封じ牢",
+        "order": 195,
+        "parentId": 18,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 110,
+        "expanded": true,
+        "name": "カンムイ小径：厭い根",
+        "order": 151,
+        "parentId": 78,
+        "scrollX": 1946.3999999999999,
+        "scrollY": 1107.6
+    },
+    {
+        "id": 111,
+        "expanded": true,
+        "name": "カンムイ小径：厭い根",
+        "order": 152,
+        "parentId": 78,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 112,
+        "expanded": true,
+        "name": "秋水京宿（夜）",
+        "order": 23,
+        "parentId": 57,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 113,
+        "expanded": true,
+        "name": "鬨宮城天守（イベント）",
+        "order": 24,
+        "parentId": 57,
+        "scrollX": 1404,
+        "scrollY": 984.8571428571428
+    },
+    {
+        "id": 114,
+        "expanded": true,
+        "name": "秋水京（夜）",
+        "order": 25,
+        "parentId": 57,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 115,
+        "expanded": false,
+        "name": "旧笹倉町：屋内",
+        "order": 111,
+        "parentId": 31,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 116,
+        "expanded": true,
+        "name": "旧笹倉町：洞窟",
+        "order": 112,
+        "parentId": 115,
+        "scrollX": 832,
+        "scrollY": 624
+    },
+    {
+        "id": 117,
+        "expanded": true,
+        "name": "旧笹倉町：屋内",
+        "order": 113,
+        "parentId": 115,
+        "scrollX": 1228.5,
+        "scrollY": 680.25
+    },
+    {
+        "id": 118,
+        "expanded": true,
+        "name": "旧笹倉町：屋内",
+        "order": 114,
+        "parentId": 115,
+        "scrollX": 1104,
+        "scrollY": 934.909090909091
+    },
+    {
+        "id": 119,
+        "expanded": true,
+        "name": "旧笹倉町：廃墟神社",
+        "order": 115,
+        "parentId": 115,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1153.0909090909092
+    },
+    {
+        "id": 120,
+        "expanded": true,
+        "name": "白刀流道場",
+        "order": 186,
+        "parentId": 77,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 121,
+        "expanded": true,
+        "name": "髪洗村",
+        "order": 187,
+        "parentId": 77,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 122,
+        "expanded": true,
+        "name": "髪洗村",
+        "order": 188,
+        "parentId": 77,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 123,
+        "expanded": true,
+        "name": "髪洗村",
+        "order": 189,
+        "parentId": 77,
+        "scrollX": 816,
+        "scrollY": 640
+    },
+    {
+        "id": 124,
+        "expanded": false,
+        "name": "雫村：屋内",
+        "order": 191,
+        "parentId": 108,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 125,
+        "expanded": true,
+        "name": "雫村：屋内",
+        "order": 194,
+        "parentId": 108,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 126,
+        "expanded": true,
+        "name": "雫村：屋内地下",
+        "order": 192,
+        "parentId": 124,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 127,
+        "expanded": true,
+        "name": "雫村：屋内二階",
+        "order": 193,
+        "parentId": 124,
+        "scrollX": 1104,
+        "scrollY": 934.909090909091
+    },
+    {
+        "id": 128,
+        "expanded": false,
+        "name": "滝然山表参道",
+        "order": 198,
+        "parentId": 18,
+        "scrollX": 1622,
+        "scrollY": 1327
+    },
+    {
+        "id": 129,
+        "expanded": false,
+        "name": "滝然山星宝寺",
+        "order": 202,
+        "parentId": 18,
+        "scrollX": 1638,
+        "scrollY": 1045
+    },
+    {
+        "id": 130,
+        "expanded": false,
+        "name": "りゆう屋",
+        "order": 210,
+        "parentId": 18,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 131,
+        "expanded": false,
+        "name": "鬨宮城",
+        "order": 221,
+        "parentId": 18,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 132,
+        "expanded": false,
+        "name": "狭間塚原",
+        "order": 232,
+        "parentId": 18,
+        "scrollX": 1228.5,
+        "scrollY": 948.75
+    },
+    {
+        "id": 133,
+        "expanded": true,
+        "name": "封じ牢",
+        "order": 196,
+        "parentId": 109,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "封じ牢",
+        "order": 197,
+        "parentId": 109,
+        "scrollX": 1638,
+        "scrollY": 1035
+    },
+    {
+        "id": 135,
+        "expanded": true,
+        "name": "滝然山表参道",
+        "order": 199,
+        "parentId": 128,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 136,
+        "expanded": true,
+        "name": "滝然山表参道：洞窟",
+        "order": 200,
+        "parentId": 128,
+        "scrollX": 1946.3999999999999,
+        "scrollY": 1107.6
+    },
+    {
+        "id": 137,
+        "expanded": true,
+        "name": "滝然山表参道：桟道",
+        "order": 201,
+        "parentId": 128,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1007.1428571428571
+    },
+    {
+        "id": 138,
+        "expanded": true,
+        "name": "滝然山星宝寺",
+        "order": 203,
+        "parentId": 129,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "滝然山星宝寺：講堂",
+        "order": 204,
+        "parentId": 129,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 140,
+        "expanded": true,
+        "name": "滝然山星宝寺：講堂地下",
+        "order": 205,
+        "parentId": 139,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "滝然山星宝寺：講堂地下",
+        "order": 207,
+        "parentId": 139,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1087.7142857142856
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "滝然山星宝寺：講堂地下",
+        "order": 208,
+        "parentId": 139,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "滝然山星宝寺：講堂地下",
+        "order": 209,
+        "parentId": 139,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 144,
+        "expanded": true,
+        "name": "りゆう屋",
+        "order": 211,
+        "parentId": 130,
+        "scrollX": 811,
+        "scrollY": 642.5
+    },
+    {
+        "id": 145,
+        "expanded": true,
+        "name": "りゆう屋：夕闇の部屋",
+        "order": 212,
+        "parentId": 130,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "滝然山星宝寺：涅塚",
+        "order": 206,
+        "parentId": 140,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 147,
+        "expanded": false,
+        "name": "左雨屋敷",
+        "order": 236,
+        "parentId": 18,
+        "scrollX": 1040,
+        "scrollY": 656
+    },
+    {
+        "id": 148,
+        "expanded": false,
+        "name": "囁き墓地",
+        "order": 240,
+        "parentId": 18,
+        "scrollX": 1965.6,
+        "scrollY": 1148.3999999999999
+    },
+    {
+        "id": 149,
+        "expanded": false,
+        "name": "りゆう屋：無限回廊",
+        "order": 213,
+        "parentId": 130,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 150,
+        "expanded": true,
+        "name": "りゆう屋：無限回廊",
+        "order": 214,
+        "parentId": 149,
+        "scrollX": 1389.818181818182,
+        "scrollY": 934.909090909091
+    },
+    {
+        "id": 151,
+        "expanded": true,
+        "name": "りゆう屋：無限回廊",
+        "order": 215,
+        "parentId": 149,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 152,
+        "expanded": true,
+        "name": "狭間塚原",
+        "order": 233,
+        "parentId": 132,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 153,
+        "expanded": true,
+        "name": "狭間塚原",
+        "order": 234,
+        "parentId": 132,
+        "scrollX": 1390.5,
+        "scrollY": 791.25
+    },
+    {
+        "id": 154,
+        "expanded": true,
+        "name": "狭間塚原：洞窟",
+        "order": 235,
+        "parentId": 132,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1249.0909090909092
+    },
+    {
+        "id": 155,
+        "expanded": false,
+        "name": "分かち谷",
+        "order": 252,
+        "parentId": 19,
+        "scrollX": 1638,
+        "scrollY": 1007
+    },
+    {
+        "id": 156,
+        "expanded": true,
+        "name": "左雨屋敷：屋内",
+        "order": 237,
+        "parentId": 147,
+        "scrollX": 973.1999999999999,
+        "scrollY": 646.1999999999999
+    },
+    {
+        "id": 157,
+        "expanded": true,
+        "name": "左雨屋敷：屋内",
+        "order": 238,
+        "parentId": 147,
+        "scrollX": 1618,
+        "scrollY": 912
+    },
+    {
+        "id": 158,
+        "expanded": true,
+        "name": "左雨屋敷：屋根裏",
+        "order": 239,
+        "parentId": 157,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 159,
+        "expanded": false,
+        "name": "狭間塚関所",
+        "order": 257,
+        "parentId": 19,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 160,
+        "expanded": false,
+        "name": "魂の沼",
+        "order": 260,
+        "parentId": 19,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 161,
+        "expanded": false,
+        "name": "ぽんぽこ村",
+        "order": 267,
+        "parentId": 19,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 162,
+        "expanded": true,
+        "name": "分かち谷：洞窟",
+        "order": 253,
+        "parentId": 155,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 163,
+        "expanded": true,
+        "name": "狭間塚関所",
+        "order": 258,
+        "parentId": 159,
+        "scrollX": 1618,
+        "scrollY": 912
+    },
+    {
+        "id": 164,
+        "expanded": true,
+        "name": "分かち谷：東",
+        "order": 254,
+        "parentId": 155,
+        "scrollX": 1328,
+        "scrollY": 950
+    },
+    {
+        "id": 165,
+        "expanded": true,
+        "name": "分かち谷：東",
+        "order": 255,
+        "parentId": 164,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 166,
+        "expanded": true,
+        "name": "狭間塚関所",
+        "order": 259,
+        "parentId": 159,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 167,
+        "expanded": true,
+        "name": "分かち谷：東",
+        "order": 256,
+        "parentId": 164,
+        "scrollX": 816,
+        "scrollY": 640
+    },
+    {
+        "id": 168,
+        "expanded": true,
+        "name": "魂の沼",
+        "order": 261,
+        "parentId": 160,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1153.0909090909092
+    },
+    {
+        "id": 169,
+        "expanded": true,
+        "name": "魂の沼",
+        "order": 262,
+        "parentId": 160,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 170,
+        "expanded": true,
+        "name": "魂の沼",
+        "order": 263,
+        "parentId": 160,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 171,
+        "expanded": true,
+        "name": "魂の沼",
+        "order": 264,
+        "parentId": 160,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 172,
+        "expanded": true,
+        "name": "魂の沼：洞窟",
+        "order": 265,
+        "parentId": 160,
+        "scrollX": 1330.8,
+        "scrollY": 888.5999999999999
+    },
+    {
+        "id": 173,
+        "expanded": true,
+        "name": "魂の沼",
+        "order": 266,
+        "parentId": 160,
+        "scrollX": 1638,
+        "scrollY": 1125
+    },
+    {
+        "id": 174,
+        "expanded": false,
+        "name": "墨染神社",
+        "order": 273,
+        "parentId": 19,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 175,
+        "expanded": true,
+        "name": "ぽんぽこ村",
+        "order": 268,
+        "parentId": 161,
+        "scrollX": 1404,
+        "scrollY": 1007.1428571428571
+    },
+    {
+        "id": 176,
+        "expanded": false,
+        "name": "鐘突き洞",
+        "order": 276,
+        "parentId": 19,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1107.2727272727273
+    },
+    {
+        "id": 177,
+        "expanded": false,
+        "name": "岩屋の蓋",
+        "order": 284,
+        "parentId": 19,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 178,
+        "expanded": false,
+        "name": "奈落",
+        "order": 286,
+        "parentId": 19,
+        "scrollX": 1638,
+        "scrollY": 1121
+    },
+    {
+        "id": 179,
+        "expanded": false,
+        "name": "命刻山",
+        "order": 291,
+        "parentId": 19,
+        "scrollX": 1638,
+        "scrollY": 1007
+    },
+    {
+        "id": 180,
+        "expanded": false,
+        "name": "？？？？",
+        "order": 271,
+        "parentId": 161,
+        "scrollX": 1078,
+        "scrollY": 908
+    },
+    {
+        "id": 181,
+        "expanded": true,
+        "name": "？？？？",
+        "order": 272,
+        "parentId": 180,
+        "scrollX": 1094,
+        "scrollY": 1008
+    },
+    {
+        "id": 182,
+        "expanded": true,
+        "name": "ぽんぽこ村：屋内",
+        "order": 269,
+        "parentId": 175,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 183,
+        "expanded": true,
+        "name": "ぽんぽこ村：屋内",
+        "order": 270,
+        "parentId": 182,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 184,
+        "expanded": true,
+        "name": "墨染神社",
+        "order": 274,
+        "parentId": 174,
+        "scrollX": 1094,
+        "scrollY": 892
+    },
+    {
+        "id": 185,
+        "expanded": true,
+        "name": "鐘突き洞",
+        "order": 277,
+        "parentId": 176,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 186,
+        "expanded": true,
+        "name": "鐘突き洞",
+        "order": 278,
+        "parentId": 176,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 187,
+        "expanded": true,
+        "name": "鐘突き洞",
+        "order": 279,
+        "parentId": 176,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 188,
+        "expanded": false,
+        "name": "鐘突き洞：地下",
+        "order": 280,
+        "parentId": 176,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 189,
+        "expanded": true,
+        "name": "鐘突き洞：地下",
+        "order": 281,
+        "parentId": 188,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 190,
+        "expanded": true,
+        "name": "鐘突き洞：地下",
+        "order": 282,
+        "parentId": 188,
+        "scrollX": 1622,
+        "scrollY": 1035
+    },
+    {
+        "id": 191,
+        "expanded": true,
+        "name": "鐘突き洞：衣の部屋",
+        "order": 283,
+        "parentId": 188,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 909.4285714285713
+    },
+    {
+        "id": 192,
+        "expanded": true,
+        "name": "囁き墓地",
+        "order": 241,
+        "parentId": 148,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 193,
+        "expanded": true,
+        "name": "囁き墓地：内部",
+        "order": 242,
+        "parentId": 148,
+        "scrollX": 1404,
+        "scrollY": 1044.857142857143
+    },
+    {
+        "id": 194,
+        "expanded": true,
+        "name": "囁き墓地（直）",
+        "order": 26,
+        "parentId": 57,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 776.6666666666666
+    },
+    {
+        "id": 195,
+        "expanded": true,
+        "name": "岩屋の蓋",
+        "order": 285,
+        "parentId": 177,
+        "scrollX": 1965.6,
+        "scrollY": 1410
+    },
+    {
+        "id": 196,
+        "expanded": false,
+        "name": "眠りの森入口",
+        "order": 121,
+        "parentId": 17,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 197,
+        "expanded": false,
+        "name": "かつての眠りの森",
+        "order": 127,
+        "parentId": 17,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 198,
+        "expanded": false,
+        "name": "かつての真白神社",
+        "order": 133,
+        "parentId": 17,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 199,
+        "expanded": false,
+        "name": "巡り黄泉路",
+        "order": 136,
+        "parentId": 17,
+        "scrollX": 1404,
+        "scrollY": 777.4285714285713
+    },
+    {
+        "id": 200,
+        "expanded": true,
+        "name": "龍径",
+        "order": 243,
+        "parentId": 18,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1107.2727272727273
+    },
+    {
+        "id": 201,
+        "expanded": false,
+        "name": "アプノコンル",
+        "order": 316,
+        "parentId": 20,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 202,
+        "expanded": true,
+        "name": "眠りの森",
+        "order": 122,
+        "parentId": 196,
+        "scrollX": 1638,
+        "scrollY": 1031
+    },
+    {
+        "id": 203,
+        "expanded": true,
+        "name": "眠りの森",
+        "order": 123,
+        "parentId": 196,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 204,
+        "expanded": true,
+        "name": "眠りの森",
+        "order": 124,
+        "parentId": 196,
+        "scrollX": 1622,
+        "scrollY": 1237
+    },
+    {
+        "id": 205,
+        "expanded": true,
+        "name": "眠りの森",
+        "order": 125,
+        "parentId": 196,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 206,
+        "expanded": true,
+        "name": "眠りの森：泉",
+        "order": 126,
+        "parentId": 196,
+        "scrollX": 1638,
+        "scrollY": 927
+    },
+    {
+        "id": 207,
+        "expanded": true,
+        "name": "奈落",
+        "order": 287,
+        "parentId": 178,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1089.8181818181818
+    },
+    {
+        "id": 208,
+        "expanded": true,
+        "name": "奈落",
+        "order": 288,
+        "parentId": 178,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 209,
+        "expanded": true,
+        "name": "かつての眠りの森",
+        "order": 128,
+        "parentId": 197,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 210,
+        "expanded": true,
+        "name": "かつての眠りの森",
+        "order": 129,
+        "parentId": 197,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 211,
+        "expanded": true,
+        "name": "かつての眠りの森",
+        "order": 130,
+        "parentId": 197,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 984.8571428571428
+    },
+    {
+        "id": 212,
+        "expanded": true,
+        "name": "かつての眠りの森",
+        "order": 131,
+        "parentId": 197,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 213,
+        "expanded": true,
+        "name": "かつての眠りの森",
+        "order": 132,
+        "parentId": 197,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 214,
+        "expanded": false,
+        "name": "かつての真白神社",
+        "order": 134,
+        "parentId": 198,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 215,
+        "expanded": false,
+        "name": "かつての真白神社",
+        "order": 135,
+        "parentId": 214,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 216,
+        "expanded": true,
+        "name": "思い出の中",
+        "order": 66,
+        "parentId": 36,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 948.8571428571428
+    },
+    {
+        "id": 217,
+        "expanded": false,
+        "name": "■ver.1.10追加",
+        "order": 347,
+        "parentId": 0,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 218,
+        "expanded": true,
+        "name": "アプノコンル",
+        "order": 317,
+        "parentId": 201,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 219,
+        "expanded": false,
+        "name": "シュマリコタン",
+        "order": 325,
+        "parentId": 20,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 989.4545454545455
+    },
+    {
+        "id": 220,
+        "expanded": true,
+        "name": "アプノコンル",
+        "order": 318,
+        "parentId": 201,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1154.5714285714284
+    },
+    {
+        "id": 221,
+        "expanded": true,
+        "name": "八衢榕後",
+        "order": 27,
+        "parentId": 57,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 222,
+        "expanded": false,
+        "name": "秋水京城下（八衢榕後）",
+        "order": 28,
+        "parentId": 221,
+        "scrollX": 1638,
+        "scrollY": 949
+    },
+    {
+        "id": 223,
+        "expanded": true,
+        "name": "秋水京（八衢榕後）",
+        "order": 29,
+        "parentId": 221,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 224,
+        "expanded": true,
+        "name": "龍径（イベント）",
+        "order": 30,
+        "parentId": 221,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1011.2727272727274
+    },
+    {
+        "id": 225,
+        "expanded": true,
+        "name": "アプノコンル：迷いの森",
+        "order": 322,
+        "parentId": 201,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 226,
+        "expanded": true,
+        "name": "アプノコンル：洞窟",
+        "order": 319,
+        "parentId": 201,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 888.6666666666666
+    },
+    {
+        "id": 227,
+        "expanded": true,
+        "name": "アプノコンル：洞窟",
+        "order": 320,
+        "parentId": 201,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1249.0909090909092
+    },
+    {
+        "id": 228,
+        "expanded": true,
+        "name": "アプノコンル：森",
+        "order": 321,
+        "parentId": 201,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 229,
+        "expanded": true,
+        "name": "アプノコンル：森",
+        "order": 324,
+        "parentId": 201,
+        "scrollX": 1622,
+        "scrollY": 937
+    },
+    {
+        "id": 230,
+        "expanded": false,
+        "name": "シュマリコタン",
+        "order": 326,
+        "parentId": 219,
+        "scrollX": 867.4285714285713,
+        "scrollY": 720.8571428571428
+    },
+    {
+        "id": 231,
+        "expanded": true,
+        "name": "シュマリコタン地下１",
+        "order": 327,
+        "parentId": 230,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 232,
+        "expanded": true,
+        "name": "シュマリコタン",
+        "order": 328,
+        "parentId": 219,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 233,
+        "expanded": true,
+        "name": "シュマリコタン地下２",
+        "order": 329,
+        "parentId": 232,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 234,
+        "expanded": true,
+        "name": "シュマリコタン（夜）",
+        "order": 31,
+        "parentId": 57,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 791.3333333333334
+    },
+    {
+        "id": 235,
+        "expanded": false,
+        "name": "コタンの蔵",
+        "order": 330,
+        "parentId": 20,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 236,
+        "expanded": false,
+        "name": "カンムイ・チャシ",
+        "order": 332,
+        "parentId": 20,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 237,
+        "expanded": false,
+        "name": "イタクの宝殿",
+        "order": 340,
+        "parentId": 20,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1107.2727272727273
+    },
+    {
+        "id": 238,
+        "expanded": true,
+        "name": "シンナイサム",
+        "order": 343,
+        "parentId": 20,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1399.6363636363637
+    },
+    {
+        "id": 239,
+        "expanded": false,
+        "name": "全景域",
+        "order": 344,
+        "parentId": 20,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 240,
+        "expanded": true,
+        "name": "コタンの蔵",
+        "order": 331,
+        "parentId": 235,
+        "scrollX": 1638,
+        "scrollY": 949
+    },
+    {
+        "id": 241,
+        "expanded": true,
+        "name": "迷い森の深部",
+        "order": 323,
+        "parentId": 225,
+        "scrollX": 1638,
+        "scrollY": 923
+    },
+    {
+        "id": 242,
+        "expanded": true,
+        "name": "カンムイ・チャシ",
+        "order": 333,
+        "parentId": 236,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 243,
+        "expanded": true,
+        "name": "カンムイ・チャシ",
+        "order": 334,
+        "parentId": 236,
+        "scrollX": 1216.5,
+        "scrollY": 987.75
+    },
+    {
+        "id": 244,
+        "expanded": true,
+        "name": "カンムイ・チャシ：洞窟",
+        "order": 335,
+        "parentId": 236,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 245,
+        "expanded": true,
+        "name": "カンムイ・チャシ：洞窟",
+        "order": 336,
+        "parentId": 236,
+        "scrollX": 1216.5,
+        "scrollY": 699.75
+    },
+    {
+        "id": 246,
+        "expanded": true,
+        "name": "カンムイ・チャシ：外観",
+        "order": 337,
+        "parentId": 236,
+        "scrollX": 1216.5,
+        "scrollY": 888.75
+    },
+    {
+        "id": 247,
+        "expanded": true,
+        "name": "カンムイ・チャシ：洞窟",
+        "order": 338,
+        "parentId": 236,
+        "scrollX": 1638,
+        "scrollY": 1007
+    },
+    {
+        "id": 248,
+        "expanded": true,
+        "name": "カンムイ・チャシ：地下",
+        "order": 339,
+        "parentId": 236,
+        "scrollX": 1638,
+        "scrollY": 1633
+    },
+    {
+        "id": 249,
+        "expanded": true,
+        "name": "イタクの宝殿",
+        "order": 341,
+        "parentId": 237,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 250,
+        "expanded": true,
+        "name": "イタクの宝殿",
+        "order": 342,
+        "parentId": 237,
+        "scrollX": 1622,
+        "scrollY": 1153
+    },
+    {
+        "id": 251,
+        "expanded": true,
+        "name": "墨染神社",
+        "order": 275,
+        "parentId": 174,
+        "scrollX": 1230,
+        "scrollY": 908
+    },
+    {
+        "id": 252,
+        "expanded": true,
+        "name": "命刻山",
+        "order": 292,
+        "parentId": 179,
+        "scrollX": 1622,
+        "scrollY": 1107
+    },
+    {
+        "id": 253,
+        "expanded": true,
+        "name": "命刻山",
+        "order": 293,
+        "parentId": 179,
+        "scrollX": 1622,
+        "scrollY": 1095
+    },
+    {
+        "id": 254,
+        "expanded": true,
+        "name": "命刻山山小屋",
+        "order": 294,
+        "parentId": 253,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 255,
+        "expanded": true,
+        "name": "命刻山",
+        "order": 295,
+        "parentId": 179,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 256,
+        "expanded": true,
+        "name": "命刻山",
+        "order": 296,
+        "parentId": 179,
+        "scrollX": 1622,
+        "scrollY": 1267
+    },
+    {
+        "id": 257,
+        "expanded": true,
+        "name": "命刻山",
+        "order": 297,
+        "parentId": 179,
+        "scrollX": 1622,
+        "scrollY": 935
+    },
+    {
+        "id": 258,
+        "expanded": true,
+        "name": "命刻山",
+        "order": 299,
+        "parentId": 179,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 259,
+        "expanded": true,
+        "name": "巡り黄泉路",
+        "order": 137,
+        "parentId": 199,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 260,
+        "expanded": true,
+        "name": "巡り黄泉路",
+        "order": 138,
+        "parentId": 259,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1076.7272727272727
+    },
+    {
+        "id": 261,
+        "expanded": true,
+        "name": "巡り黄泉路",
+        "order": 139,
+        "parentId": 199,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 262,
+        "expanded": true,
+        "name": "巡り黄泉路",
+        "order": 140,
+        "parentId": 261,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 263,
+        "expanded": false,
+        "name": "巌への道",
+        "order": 141,
+        "parentId": 17,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 264,
+        "expanded": true,
+        "name": "黄泉の巌",
+        "order": 142,
+        "parentId": 263,
+        "scrollX": 811,
+        "scrollY": 888.5
+    },
+    {
+        "id": 265,
+        "expanded": false,
+        "name": "鬨宮城外観",
+        "order": 222,
+        "parentId": 131,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 888.6666666666666
+    },
+    {
+        "id": 266,
+        "expanded": false,
+        "name": "鬨宮城外観",
+        "order": 225,
+        "parentId": 131,
+        "scrollX": 1404,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 267,
+        "expanded": true,
+        "name": "鬨宮城天守",
+        "order": 226,
+        "parentId": 266,
+        "scrollX": 1092,
+        "scrollY": 776.6666666666666
+    },
+    {
+        "id": 268,
+        "expanded": true,
+        "name": "鬨宮城天守",
+        "order": 229,
+        "parentId": 266,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 269,
+        "expanded": true,
+        "name": "鬨宮城御殿",
+        "order": 223,
+        "parentId": 265,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 270,
+        "expanded": false,
+        "name": "エンディング",
+        "order": 32,
+        "parentId": 57,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 271,
+        "expanded": true,
+        "name": "命刻山",
+        "order": 298,
+        "parentId": 257,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 272,
+        "expanded": true,
+        "name": "鬨宮城御殿",
+        "order": 224,
+        "parentId": 265,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 273,
+        "expanded": true,
+        "name": "鬨宮城天守",
+        "order": 227,
+        "parentId": 266,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 274,
+        "expanded": true,
+        "name": "鬨宮城天守",
+        "order": 228,
+        "parentId": 266,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 275,
+        "expanded": true,
+        "name": "無限回廊（ヌシ）",
+        "order": 216,
+        "parentId": 130,
+        "scrollX": 1404,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 276,
+        "expanded": true,
+        "name": "無縁堂",
+        "order": 143,
+        "parentId": 17,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 971.1428571428571
+    },
+    {
+        "id": 277,
+        "expanded": true,
+        "name": "隠し岩",
+        "order": 300,
+        "parentId": 19,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 278,
+        "expanded": true,
+        "name": "鬨宮城井戸",
+        "order": 230,
+        "parentId": 131,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 938.5714285714286
+    },
+    {
+        "id": 279,
+        "expanded": true,
+        "name": "鬨宮城井戸",
+        "order": 231,
+        "parentId": 278,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 280,
+        "expanded": false,
+        "name": "龍の宮",
+        "order": 244,
+        "parentId": 18,
+        "scrollX": 1092,
+        "scrollY": 776.6666666666666
+    },
+    {
+        "id": 281,
+        "expanded": true,
+        "name": "龍の宮",
+        "order": 245,
+        "parentId": 280,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 680.6666666666666
+    },
+    {
+        "id": 282,
+        "expanded": true,
+        "name": "龍の宮",
+        "order": 246,
+        "parentId": 280,
+        "scrollX": 811,
+        "scrollY": 888.5
+    },
+    {
+        "id": 283,
+        "expanded": true,
+        "name": "龍の宮",
+        "order": 247,
+        "parentId": 280,
+        "scrollX": 811,
+        "scrollY": 791.5
+    },
+    {
+        "id": 284,
+        "expanded": true,
+        "name": "龍の宮",
+        "order": 248,
+        "parentId": 280,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 285,
+        "expanded": true,
+        "name": "龍の宮",
+        "order": 249,
+        "parentId": 280,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 286,
+        "expanded": true,
+        "name": "龍の宮",
+        "order": 250,
+        "parentId": 280,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 287,
+        "expanded": true,
+        "name": "全景域",
+        "order": 346,
+        "parentId": 239,
+        "scrollX": 1404,
+        "scrollY": 1019.1428571428571
+    },
+    {
+        "id": 288,
+        "expanded": true,
+        "name": "全景域",
+        "order": 345,
+        "parentId": 239,
+        "scrollX": 832,
+        "scrollY": 888
+    },
+    {
+        "id": 289,
+        "expanded": false,
+        "name": "蛇の村",
+        "order": 301,
+        "parentId": 19,
+        "scrollX": 1404,
+        "scrollY": 926.5714285714286
+    },
+    {
+        "id": 290,
+        "expanded": true,
+        "name": "奈落：奥地",
+        "order": 289,
+        "parentId": 178,
+        "scrollX": 832,
+        "scrollY": 1110
+    },
+    {
+        "id": 291,
+        "expanded": true,
+        "name": "奈落：奥地",
+        "order": 290,
+        "parentId": 290,
+        "scrollX": 1946.3999999999999,
+        "scrollY": 1244.3999999999999
+    },
+    {
+        "id": 292,
+        "expanded": true,
+        "name": "蛇の村",
+        "order": 302,
+        "parentId": 289,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 293,
+        "expanded": true,
+        "name": "蛇の村屋内",
+        "order": 303,
+        "parentId": 289,
+        "scrollX": 1078,
+        "scrollY": 908
+    },
+    {
+        "id": 294,
+        "expanded": true,
+        "name": "蛇の村屋内",
+        "order": 304,
+        "parentId": 289,
+        "scrollX": 1094,
+        "scrollY": 948
+    },
+    {
+        "id": 295,
+        "expanded": true,
+        "name": "蛇の村洞窟",
+        "order": 305,
+        "parentId": 289,
+        "scrollX": 1216,
+        "scrollY": 908
+    },
+    {
+        "id": 296,
+        "expanded": true,
+        "name": "蛇の村洞窟",
+        "order": 306,
+        "parentId": 289,
+        "scrollX": 1216.5,
+        "scrollY": 1083.75
+    },
+    {
+        "id": 297,
+        "expanded": true,
+        "name": "蛇の村洞窟",
+        "order": 307,
+        "parentId": 289,
+        "scrollX": 1094,
+        "scrollY": 924
+    },
+    {
+        "id": 298,
+        "expanded": true,
+        "name": "蛇の村屋内",
+        "order": 308,
+        "parentId": 289,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 299,
+        "expanded": true,
+        "name": "蛇の村洞窟",
+        "order": 309,
+        "parentId": 289,
+        "scrollX": 1638,
+        "scrollY": 1135
+    },
+    {
+        "id": 300,
+        "expanded": true,
+        "name": "蛇の村洞窟",
+        "order": 310,
+        "parentId": 289,
+        "scrollX": 1078,
+        "scrollY": 908
+    },
+    {
+        "id": 301,
+        "expanded": true,
+        "name": "蛇の村洞窟",
+        "order": 311,
+        "parentId": 289,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 302,
+        "expanded": true,
+        "name": "蛇の村屋内",
+        "order": 312,
+        "parentId": 289,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 303,
+        "expanded": true,
+        "name": "蛇の村屋内",
+        "order": 313,
+        "parentId": 289,
+        "scrollX": 1078,
+        "scrollY": 908
+    },
+    {
+        "id": 304,
+        "expanded": true,
+        "name": "蛇の村",
+        "order": 314,
+        "parentId": 289,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 305,
+        "expanded": false,
+        "name": "シーンマップ",
+        "order": 33,
+        "parentId": 2,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 306,
+        "expanded": true,
+        "name": "清殿地下（シーン）",
+        "order": 34,
+        "parentId": 305,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 307,
+        "expanded": true,
+        "name": "隠居所（夜）（シーン）",
+        "order": 35,
+        "parentId": 305,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 308,
+        "expanded": true,
+        "name": "秋水京（シーン）",
+        "order": 39,
+        "parentId": 305,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 309,
+        "expanded": false,
+        "name": "落命ヶ浜（シーン）",
+        "order": 40,
+        "parentId": 305,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 310,
+        "expanded": true,
+        "name": "舟観砦（シーン）",
+        "order": 41,
+        "parentId": 305,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 311,
+        "expanded": false,
+        "name": "滝然山星宝寺（シーン）",
+        "order": 42,
+        "parentId": 305,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 312,
+        "expanded": true,
+        "name": "舟観砦地下（シーン）",
+        "order": 43,
+        "parentId": 305,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 313,
+        "expanded": false,
+        "name": "夢幻回廊",
+        "order": 217,
+        "parentId": 130,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 314,
+        "expanded": true,
+        "name": "遊戯１",
+        "order": 218,
+        "parentId": 313,
+        "scrollX": 1404,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 315,
+        "expanded": true,
+        "name": "遊戯２",
+        "order": 219,
+        "parentId": 313,
+        "scrollX": 864.8571428571428,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 316,
+        "expanded": true,
+        "name": "遊戯３",
+        "order": 220,
+        "parentId": 313,
+        "scrollX": 1404,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 317,
+        "expanded": true,
+        "name": "夕闇の部屋（シーン）",
+        "order": 44,
+        "parentId": 305,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 318,
+        "expanded": false,
+        "name": "交流専用マップ",
+        "order": 52,
+        "parentId": 2,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 319,
+        "expanded": true,
+        "name": "夢と希望の家",
+        "order": 53,
+        "parentId": 318,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 320,
+        "expanded": true,
+        "name": "猫たちの住処",
+        "order": 54,
+        "parentId": 318,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 321,
+        "expanded": true,
+        "name": "古い御堂",
+        "order": 55,
+        "parentId": 318,
+        "scrollX": 1216.5,
+        "scrollY": 791.25
+    },
+    {
+        "id": 322,
+        "expanded": true,
+        "name": "商会東国支部",
+        "order": 56,
+        "parentId": 318,
+        "scrollX": 1404,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 323,
+        "expanded": true,
+        "name": "月見屋敷",
+        "order": 57,
+        "parentId": 318,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 324,
+        "expanded": false,
+        "name": "まばらな人里",
+        "order": 58,
+        "parentId": 318,
+        "scrollX": 1092,
+        "scrollY": 792.6666666666666
+    },
+    {
+        "id": 325,
+        "expanded": true,
+        "name": "夢と希望の家（シーン）",
+        "order": 45,
+        "parentId": 305,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 326,
+        "expanded": true,
+        "name": "清殿（シーン）",
+        "order": 36,
+        "parentId": 305,
+        "scrollX": 1078,
+        "scrollY": 908
+    },
+    {
+        "id": 327,
+        "expanded": true,
+        "name": "古い御堂（シーン）",
+        "order": 46,
+        "parentId": 305,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 328,
+        "expanded": true,
+        "name": "商会東国支部（夜）（シーン）",
+        "order": 47,
+        "parentId": 305,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 329,
+        "expanded": true,
+        "name": "まばらな人里（シーン）",
+        "order": 48,
+        "parentId": 305,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 330,
+        "expanded": true,
+        "name": "まばらな人里・屋内",
+        "order": 59,
+        "parentId": 324,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 331,
+        "expanded": true,
+        "name": "宴会殿（シーン）",
+        "order": 37,
+        "parentId": 305,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 332,
+        "expanded": true,
+        "name": "真白神社地下（シーン）",
+        "order": 38,
+        "parentId": 305,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 333,
+        "expanded": true,
+        "name": "夕闇の部屋（イベント）",
+        "order": 348,
+        "parentId": 217,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 334,
+        "expanded": true,
+        "name": "鵺の胎道",
+        "order": 349,
+        "parentId": 217,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 335,
+        "expanded": false,
+        "name": "笹倉霊園",
+        "order": 351,
+        "parentId": 217,
+        "scrollX": 1638,
+        "scrollY": 923
+    },
+    {
+        "id": 336,
+        "expanded": false,
+        "name": "夜光地",
+        "order": 356,
+        "parentId": 217,
+        "scrollX": 1404,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 337,
+        "expanded": false,
+        "name": "ユニ・サーキット",
+        "order": 360,
+        "parentId": 217,
+        "scrollX": 1228.5,
+        "scrollY": 923.25
+    },
+    {
+        "id": 338,
+        "expanded": false,
+        "name": "ガラスの町",
+        "order": 364,
+        "parentId": 217,
+        "scrollX": 1092,
+        "scrollY": 776.6666666666666
+    },
+    {
+        "id": 339,
+        "expanded": true,
+        "name": "笹倉霊園",
+        "order": 352,
+        "parentId": 335,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 948.8571428571428
+    },
+    {
+        "id": 340,
+        "expanded": true,
+        "name": "笹倉霊園",
+        "order": 353,
+        "parentId": 335,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 341,
+        "expanded": true,
+        "name": "笹倉霊園",
+        "order": 354,
+        "parentId": 335,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 342,
+        "expanded": true,
+        "name": "笹倉霊園",
+        "order": 355,
+        "parentId": 335,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 343,
+        "expanded": true,
+        "name": "夜光地",
+        "order": 357,
+        "parentId": 336,
+        "scrollX": 1216.5,
+        "scrollY": 923.25
+    },
+    {
+        "id": 344,
+        "expanded": true,
+        "name": "夜光地",
+        "order": 358,
+        "parentId": 336,
+        "scrollX": 1216.5,
+        "scrollY": 903.75
+    },
+    {
+        "id": 345,
+        "expanded": true,
+        "name": "夜光地",
+        "order": 359,
+        "parentId": 336,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 346,
+        "expanded": true,
+        "name": "ユニ・サーキット",
+        "order": 361,
+        "parentId": 337,
+        "scrollX": 1622,
+        "scrollY": 949
+    },
+    {
+        "id": 347,
+        "expanded": true,
+        "name": "ユニ・サーキット",
+        "order": 362,
+        "parentId": 337,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 348,
+        "expanded": true,
+        "name": "ユニ・サーキット",
+        "order": 363,
+        "parentId": 337,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 349,
+        "expanded": true,
+        "name": "ガラスの町",
+        "order": 365,
+        "parentId": 338,
+        "scrollX": 1216.5,
+        "scrollY": 791.25
+    },
+    {
+        "id": 350,
+        "expanded": true,
+        "name": "鵺の胎道・戦場",
+        "order": 350,
+        "parentId": 334,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 351,
+        "expanded": false,
+        "name": "名無し台地",
+        "order": 366,
+        "parentId": 217,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 352,
+        "expanded": true,
+        "name": "名無し台地",
+        "order": 367,
+        "parentId": 351,
+        "scrollX": 1638,
+        "scrollY": 1671
+    },
+    {
+        "id": 353,
+        "expanded": true,
+        "name": "名無し台地",
+        "order": 368,
+        "parentId": 351,
+        "scrollX": 1216.5,
+        "scrollY": 791.25
+    },
+    {
+        "id": 354,
+        "expanded": false,
+        "name": "笹倉霊園（亜命封印戦）",
+        "order": 369,
+        "parentId": 217,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 355,
+        "expanded": false,
+        "name": "夜光地（亜命封印戦）",
+        "order": 370,
+        "parentId": 354,
+        "scrollX": 1638,
+        "scrollY": 949
+    },
+    {
+        "id": 356,
+        "expanded": true,
+        "name": "ユニ・サーキット（封印戦）",
+        "order": 371,
+        "parentId": 354,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 357,
+        "expanded": false,
+        "name": "ガラスの町（封印戦）",
+        "order": 372,
+        "parentId": 354,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 752.6666666666666
+    },
+    {
+        "id": 358,
+        "expanded": true,
+        "name": "データベース・スケール",
+        "order": 373,
+        "parentId": 354,
+        "scrollX": 1092,
+        "scrollY": 772.6666666666666
+    },
+    {
+        "id": 359,
+        "expanded": false,
+        "name": "惑乱密室",
+        "order": 374,
+        "parentId": 217,
+        "scrollX": 1081.3333333333333,
+        "scrollY": 615.3333333333334
+    },
+    {
+        "id": 360,
+        "expanded": true,
+        "name": "惑乱密室",
+        "order": 375,
+        "parentId": 359,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 361,
+        "expanded": true,
+        "name": "淡雪のスキルツリー１",
+        "order": 15,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 362,
+        "expanded": true,
+        "name": "淡雪のスキルツリー２",
+        "order": 16,
+        "parentId": 361,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 363,
+        "expanded": true,
+        "name": "夕闇のスキルツリー１",
+        "order": 17,
+        "parentId": 9,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 364,
+        "expanded": true,
+        "name": "夕闇のスキルツリー２",
+        "order": 18,
+        "parentId": 363,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 365,
+        "expanded": true,
+        "name": "■ver.2.00追加",
+        "order": 376,
+        "parentId": 0,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 366,
+        "expanded": false,
+        "name": "■イベントマップ",
+        "order": 377,
+        "parentId": 365,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 367,
+        "expanded": false,
+        "name": "豊穣原盆地",
+        "order": 144,
+        "parentId": 17,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 368,
+        "expanded": false,
+        "name": "■ラムルアラム",
+        "order": 394,
+        "parentId": 365,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 369,
+        "expanded": false,
+        "name": "■アル・ヘルム",
+        "order": 500,
+        "parentId": 365,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 370,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 395,
+        "parentId": 368,
+        "scrollX": 811,
+        "scrollY": 699.5
+    },
+    {
+        "id": 371,
+        "expanded": false,
+        "name": "アルワーフ砂漠",
+        "order": 403,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1168.2857142857142
+    },
+    {
+        "id": 372,
+        "expanded": false,
+        "name": "神の都アスワド",
+        "order": 414,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 373,
+        "expanded": false,
+        "name": "アスワド宮殿",
+        "order": 430,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1008.8571428571428
+    },
+    {
+        "id": 374,
+        "expanded": false,
+        "name": "聖刻遺跡",
+        "order": 438,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 375,
+        "expanded": false,
+        "name": "マイヤの都市遺跡",
+        "order": 442,
+        "parentId": 368,
+        "scrollX": 1813.0909090909092,
+        "scrollY": 1308
+    },
+    {
+        "id": 376,
+        "expanded": false,
+        "name": "輝きの大ブルジュ",
+        "order": 449,
+        "parentId": 368,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 989.4545454545455
+    },
+    {
+        "id": 377,
+        "expanded": false,
+        "name": "アフダル高地",
+        "order": 456,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 378,
+        "expanded": false,
+        "name": "生命のブルジュ",
+        "order": 464,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 379,
+        "expanded": false,
+        "name": "眠る砂漠",
+        "order": 472,
+        "parentId": 368,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1225.0909090909092
+    },
+    {
+        "id": 380,
+        "expanded": false,
+        "name": "オルーサの墓所",
+        "order": 478,
+        "parentId": 368,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 381,
+        "expanded": false,
+        "name": "地上の星空",
+        "order": 483,
+        "parentId": 368,
+        "scrollX": 869,
+        "scrollY": 859.5
+    },
+    {
+        "id": 382,
+        "expanded": false,
+        "name": "シャマル・ハラム",
+        "order": 495,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 383,
+        "expanded": false,
+        "name": "イブティサーマ",
+        "order": 501,
+        "parentId": 369,
+        "scrollX": 1404,
+        "scrollY": 1410
+    },
+    {
+        "id": 384,
+        "expanded": false,
+        "name": "伝承管理塔",
+        "order": 517,
+        "parentId": 369,
+        "scrollX": 811,
+        "scrollY": 594.5
+    },
+    {
+        "id": 385,
+        "expanded": false,
+        "name": "オルーサ製造所",
+        "order": 524,
+        "parentId": 369,
+        "scrollX": 1404,
+        "scrollY": 1032.75
+    },
+    {
+        "id": 386,
+        "expanded": false,
+        "name": "歴史館廃墟",
+        "order": 531,
+        "parentId": 369,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 387,
+        "expanded": false,
+        "name": "中枢管理塔",
+        "order": 537,
+        "parentId": 369,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 388,
+        "expanded": false,
+        "name": "第三層研究施設",
+        "order": 528,
+        "parentId": 369,
+        "scrollX": 811,
+        "scrollY": 924.5
+    },
+    {
+        "id": 389,
+        "expanded": true,
+        "name": "豊穣原盆地",
+        "order": 145,
+        "parentId": 367,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 390,
+        "expanded": true,
+        "name": "豊穣原盆地",
+        "order": 147,
+        "parentId": 367,
+        "scrollX": 1092,
+        "scrollY": 738
+    },
+    {
+        "id": 391,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 396,
+        "parentId": 370,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 392,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 397,
+        "parentId": 370,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 393,
+        "expanded": false,
+        "name": "アルワーフ砂漠",
+        "order": 404,
+        "parentId": 371,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 394,
+        "expanded": false,
+        "name": "アルワーフ砂漠",
+        "order": 405,
+        "parentId": 371,
+        "scrollX": 1621.7142857142856,
+        "scrollY": 909.4285714285713
+    },
+    {
+        "id": 395,
+        "expanded": false,
+        "name": "アルワーフ砂漠",
+        "order": 409,
+        "parentId": 371,
+        "scrollX": 1638,
+        "scrollY": 1555
+    },
+    {
+        "id": 396,
+        "expanded": false,
+        "name": "アルワーフ砂漠",
+        "order": 412,
+        "parentId": 371,
+        "scrollX": 2163,
+        "scrollY": 1230.5
+    },
+    {
+        "id": 397,
+        "expanded": false,
+        "name": "アルワーフ砂漠",
+        "order": 413,
+        "parentId": 371,
+        "scrollX": 811,
+        "scrollY": 1718.5
+    },
+    {
+        "id": 398,
+        "expanded": false,
+        "name": "アルワーフ砂漠：洞窟",
+        "order": 406,
+        "parentId": 394,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 399,
+        "expanded": false,
+        "name": "アルワーフ砂漠：洞窟",
+        "order": 410,
+        "parentId": 395,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 2503.714285714286
+    },
+    {
+        "id": 400,
+        "expanded": false,
+        "name": "アルワーフ砂漠：洞窟",
+        "order": 411,
+        "parentId": 395,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1530
+    },
+    {
+        "id": 401,
+        "expanded": false,
+        "name": "アルワーフ砂漠：洞窟",
+        "order": 408,
+        "parentId": 394,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 402,
+        "expanded": false,
+        "name": "神の都アスワド：東",
+        "order": 415,
+        "parentId": 372,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 403,
+        "expanded": false,
+        "name": "神の都アスワド：西",
+        "order": 422,
+        "parentId": 372,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1057.0909090909092
+    },
+    {
+        "id": 404,
+        "expanded": true,
+        "name": "神の都アスワド：地下",
+        "order": 424,
+        "parentId": 372,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 405,
+        "expanded": true,
+        "name": "神の都アスワド：宿舎１",
+        "order": 427,
+        "parentId": 372,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 406,
+        "expanded": true,
+        "name": "神の都アスワド：宿舎２",
+        "order": 428,
+        "parentId": 372,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 407,
+        "expanded": true,
+        "name": "神の都アスワド：地下",
+        "order": 425,
+        "parentId": 404,
+        "scrollX": 1230,
+        "scrollY": 642.5
+    },
+    {
+        "id": 408,
+        "expanded": true,
+        "name": "神の都アスワド：民家",
+        "order": 416,
+        "parentId": 402,
+        "scrollX": 811,
+        "scrollY": 642.5
+    },
+    {
+        "id": 409,
+        "expanded": false,
+        "name": "神の都アスワド：民家",
+        "order": 418,
+        "parentId": 402,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 410,
+        "expanded": true,
+        "name": "神の都アスワド：酒場",
+        "order": 420,
+        "parentId": 402,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 411,
+        "expanded": true,
+        "name": "神の都アスワド：地下入口",
+        "order": 421,
+        "parentId": 402,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 412,
+        "expanded": true,
+        "name": "神の都アスワド：商店",
+        "order": 423,
+        "parentId": 403,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 413,
+        "expanded": true,
+        "name": "神の都アスワド：地下",
+        "order": 426,
+        "parentId": 404,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 414,
+        "expanded": true,
+        "name": "神の都アスワド：民家二階",
+        "order": 417,
+        "parentId": 408,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 415,
+        "expanded": true,
+        "name": "神の都アスワド：民家二階",
+        "order": 419,
+        "parentId": 409,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 416,
+        "expanded": false,
+        "name": "アスワド宮殿：内装",
+        "order": 431,
+        "parentId": 373,
+        "scrollX": 1622,
+        "scrollY": 949
+    },
+    {
+        "id": 417,
+        "expanded": true,
+        "name": "アスワド宮殿：二階",
+        "order": 432,
+        "parentId": 373,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 418,
+        "expanded": true,
+        "name": "アスワド宮殿：部屋",
+        "order": 434,
+        "parentId": 373,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 419,
+        "expanded": false,
+        "name": "アスワド宮殿：書斎",
+        "order": 436,
+        "parentId": 373,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 420,
+        "expanded": false,
+        "name": "アスワド宮殿：寝室",
+        "order": 433,
+        "parentId": 417,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 421,
+        "expanded": false,
+        "name": "アスワド宮殿：部屋",
+        "order": 435,
+        "parentId": 418,
+        "scrollX": 811,
+        "scrollY": 546.5
+    },
+    {
+        "id": 422,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 398,
+        "parentId": 370,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 423,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 399,
+        "parentId": 370,
+        "scrollX": 957,
+        "scrollY": 546.5
+    },
+    {
+        "id": 424,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 401,
+        "parentId": 370,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 425,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 402,
+        "parentId": 370,
+        "scrollX": 1216.5,
+        "scrollY": 795.75
+    },
+    {
+        "id": 426,
+        "expanded": true,
+        "name": "豊穣原盆地",
+        "order": 146,
+        "parentId": 389,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 427,
+        "expanded": false,
+        "name": "真白神社（2.00イベント）",
+        "order": 378,
+        "parentId": 366,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 428,
+        "expanded": true,
+        "name": "豊穣原盆地（イベント）",
+        "order": 379,
+        "parentId": 366,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 429,
+        "expanded": false,
+        "name": "宮殿内装（イベント）",
+        "order": 380,
+        "parentId": 366,
+        "scrollX": 1404,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 430,
+        "expanded": false,
+        "name": "門のブルジュ",
+        "order": 400,
+        "parentId": 370,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 431,
+        "expanded": true,
+        "name": "直のカット",
+        "order": 381,
+        "parentId": 366,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 432,
+        "expanded": true,
+        "name": "秋水京西部港口（イベント）",
+        "order": 382,
+        "parentId": 366,
+        "scrollX": 1228.5,
+        "scrollY": 948.75
+    },
+    {
+        "id": 433,
+        "expanded": true,
+        "name": "隠居所（イベント）",
+        "order": 383,
+        "parentId": 366,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 434,
+        "expanded": true,
+        "name": "鬨宮城天守（イベント）",
+        "order": 384,
+        "parentId": 366,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 435,
+        "expanded": false,
+        "name": "神の都アスワド：北",
+        "order": 429,
+        "parentId": 372,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 436,
+        "expanded": true,
+        "name": "アスワド宮殿：地下",
+        "order": 437,
+        "parentId": 373,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 437,
+        "expanded": false,
+        "name": "聖刻遺跡２",
+        "order": 439,
+        "parentId": 374,
+        "scrollX": 848,
+        "scrollY": 924
+    },
+    {
+        "id": 438,
+        "expanded": false,
+        "name": "聖刻遺跡３",
+        "order": 440,
+        "parentId": 374,
+        "scrollX": 848,
+        "scrollY": 924
+    },
+    {
+        "id": 439,
+        "expanded": false,
+        "name": "聖刻遺跡最奥",
+        "order": 441,
+        "parentId": 374,
+        "scrollX": 1216.5,
+        "scrollY": 924.75
+    },
+    {
+        "id": 440,
+        "expanded": false,
+        "name": "宮殿従者の部屋（イベント）",
+        "order": 385,
+        "parentId": 366,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 441,
+        "expanded": false,
+        "name": "マイヤの都市遺跡",
+        "order": 443,
+        "parentId": 375,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 2593.090909090909
+    },
+    {
+        "id": 442,
+        "expanded": false,
+        "name": "マイヤの都市遺跡",
+        "order": 444,
+        "parentId": 375,
+        "scrollX": 1962,
+        "scrollY": 907
+    },
+    {
+        "id": 443,
+        "expanded": false,
+        "name": "マイヤの都市遺跡",
+        "order": 445,
+        "parentId": 375,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 444,
+        "expanded": true,
+        "name": "マイヤの都市遺跡：地下遺跡",
+        "order": 446,
+        "parentId": 375,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 445,
+        "expanded": false,
+        "name": "マイヤの都市遺跡：地下遺跡",
+        "order": 447,
+        "parentId": 444,
+        "scrollX": 1622,
+        "scrollY": 1409
+    },
+    {
+        "id": 446,
+        "expanded": false,
+        "name": "マイヤの都市遺跡：地下遺跡",
+        "order": 448,
+        "parentId": 444,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 447,
+        "expanded": false,
+        "name": "輝きの大ブルジュ",
+        "order": 450,
+        "parentId": 376,
+        "scrollX": 1622,
+        "scrollY": 925
+    },
+    {
+        "id": 448,
+        "expanded": false,
+        "name": "輝きの大ブルジュ",
+        "order": 451,
+        "parentId": 376,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 449,
+        "expanded": false,
+        "name": "輝きの大ブルジュ",
+        "order": 452,
+        "parentId": 376,
+        "scrollX": 848,
+        "scrollY": 924
+    },
+    {
+        "id": 450,
+        "expanded": false,
+        "name": "輝きの大ブルジュ",
+        "order": 453,
+        "parentId": 376,
+        "scrollX": 1228.5,
+        "scrollY": 791.25
+    },
+    {
+        "id": 451,
+        "expanded": false,
+        "name": "輝きの大ブルジュ",
+        "order": 454,
+        "parentId": 376,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 452,
+        "expanded": false,
+        "name": "輝きの大ブルジュ：地下",
+        "order": 455,
+        "parentId": 376,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 453,
+        "expanded": false,
+        "name": "アフダル高地",
+        "order": 457,
+        "parentId": 377,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1050.5454545454545
+    },
+    {
+        "id": 454,
+        "expanded": false,
+        "name": "アフダル高地：洞窟",
+        "order": 458,
+        "parentId": 377,
+        "scrollX": 1638,
+        "scrollY": 1045
+    },
+    {
+        "id": 455,
+        "expanded": false,
+        "name": "アフダル高地",
+        "order": 459,
+        "parentId": 377,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 456,
+        "expanded": false,
+        "name": "アフダル高地",
+        "order": 460,
+        "parentId": 377,
+        "scrollX": 1786.5,
+        "scrollY": 711.75
+    },
+    {
+        "id": 457,
+        "expanded": true,
+        "name": "アフダル高地：洞窟",
+        "order": 461,
+        "parentId": 377,
+        "scrollX": 1404,
+        "scrollY": 777.4285714285713
+    },
+    {
+        "id": 458,
+        "expanded": false,
+        "name": "アフダル高地：洞窟",
+        "order": 462,
+        "parentId": 457,
+        "scrollX": 1404,
+        "scrollY": 998.5714285714286
+    },
+    {
+        "id": 459,
+        "expanded": false,
+        "name": "アフダル高地：洞窟",
+        "order": 463,
+        "parentId": 457,
+        "scrollX": 1216,
+        "scrollY": 712
+    },
+    {
+        "id": 460,
+        "expanded": false,
+        "name": "生命のブルジュ",
+        "order": 465,
+        "parentId": 378,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 461,
+        "expanded": false,
+        "name": "生命のブルジュ",
+        "order": 466,
+        "parentId": 378,
+        "scrollX": 1638,
+        "scrollY": 949
+    },
+    {
+        "id": 462,
+        "expanded": false,
+        "name": "生命のブルジュ：崖",
+        "order": 467,
+        "parentId": 378,
+        "scrollX": 1622,
+        "scrollY": 1107
+    },
+    {
+        "id": 463,
+        "expanded": false,
+        "name": "生命のブルジュ",
+        "order": 468,
+        "parentId": 378,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 464,
+        "expanded": false,
+        "name": "生命のブルジュ",
+        "order": 469,
+        "parentId": 378,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 465,
+        "expanded": false,
+        "name": "生命のブルジュ",
+        "order": 470,
+        "parentId": 378,
+        "scrollX": 811,
+        "scrollY": 640.5
+    },
+    {
+        "id": 466,
+        "expanded": false,
+        "name": "生命のブルジュ：最奥",
+        "order": 471,
+        "parentId": 378,
+        "scrollX": 2162.6666666666665,
+        "scrollY": 1230.6666666666667
+    },
+    {
+        "id": 467,
+        "expanded": false,
+        "name": "眠る砂漠",
+        "order": 473,
+        "parentId": 379,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1111.6363636363637
+    },
+    {
+        "id": 468,
+        "expanded": false,
+        "name": "眠る砂漠",
+        "order": 474,
+        "parentId": 379,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1735.6363636363637
+    },
+    {
+        "id": 469,
+        "expanded": false,
+        "name": "眠る砂漠",
+        "order": 475,
+        "parentId": 379,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 470,
+        "expanded": false,
+        "name": "眠る砂漠",
+        "order": 476,
+        "parentId": 379,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 1267.7142857142856
+    },
+    {
+        "id": 471,
+        "expanded": false,
+        "name": "眠る砂漠：洞窟",
+        "order": 477,
+        "parentId": 379,
+        "scrollX": 1622,
+        "scrollY": 1007
+    },
+    {
+        "id": 472,
+        "expanded": false,
+        "name": "オルーサの墓所",
+        "order": 479,
+        "parentId": 380,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 473,
+        "expanded": false,
+        "name": "オルーサの墓所：洞窟",
+        "order": 480,
+        "parentId": 380,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 474,
+        "expanded": false,
+        "name": "オルーサの墓所：洞窟",
+        "order": 481,
+        "parentId": 380,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1107.2727272727273
+    },
+    {
+        "id": 475,
+        "expanded": false,
+        "name": "地上の星空",
+        "order": 484,
+        "parentId": 381,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 476,
+        "expanded": false,
+        "name": "地上の星空",
+        "order": 485,
+        "parentId": 381,
+        "scrollX": 1786.909090909091,
+        "scrollY": 1148.7272727272727
+    },
+    {
+        "id": 477,
+        "expanded": false,
+        "name": "地上の星空：遺跡",
+        "order": 486,
+        "parentId": 381,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 478,
+        "expanded": false,
+        "name": "地上の星空：遺跡",
+        "order": 487,
+        "parentId": 381,
+        "scrollX": 811,
+        "scrollY": 1006.5
+    },
+    {
+        "id": 479,
+        "expanded": false,
+        "name": "地上の星空",
+        "order": 488,
+        "parentId": 381,
+        "scrollX": 811,
+        "scrollY": 1057.5
+    },
+    {
+        "id": 480,
+        "expanded": false,
+        "name": "地上の星空：遺跡",
+        "order": 489,
+        "parentId": 381,
+        "scrollX": 1013,
+        "scrollY": 1006.5
+    },
+    {
+        "id": 481,
+        "expanded": false,
+        "name": "地上の星空",
+        "order": 490,
+        "parentId": 381,
+        "scrollX": 1349,
+        "scrollY": 923.5
+    },
+    {
+        "id": 482,
+        "expanded": false,
+        "name": "地上の星空：遺跡",
+        "order": 491,
+        "parentId": 381,
+        "scrollX": 1428,
+        "scrollY": 777.5
+    },
+    {
+        "id": 483,
+        "expanded": true,
+        "name": "地上の星空：遺跡",
+        "order": 492,
+        "parentId": 381,
+        "scrollX": 811,
+        "scrollY": 888.5
+    },
+    {
+        "id": 484,
+        "expanded": false,
+        "name": "地上の星空：北入口",
+        "order": 494,
+        "parentId": 381,
+        "scrollX": 1404,
+        "scrollY": 923.1428571428571
+    },
+    {
+        "id": 485,
+        "expanded": false,
+        "name": "シャマル・ハラム",
+        "order": 496,
+        "parentId": 382,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 486,
+        "expanded": true,
+        "name": "シャマル・ハラム",
+        "order": 497,
+        "parentId": 382,
+        "scrollX": 1404,
+        "scrollY": 921.4285714285713
+    },
+    {
+        "id": 487,
+        "expanded": true,
+        "name": "オルーサの墓所：最奥",
+        "order": 482,
+        "parentId": 380,
+        "scrollX": 1769.4545454545455,
+        "scrollY": 1006.909090909091
+    },
+    {
+        "id": 488,
+        "expanded": false,
+        "name": "夜の宮殿",
+        "order": 386,
+        "parentId": 366,
+        "scrollX": 1228.5,
+        "scrollY": 948.75
+    },
+    {
+        "id": 489,
+        "expanded": false,
+        "name": "宮殿部屋",
+        "order": 387,
+        "parentId": 488,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 490,
+        "expanded": true,
+        "name": "宮殿部屋前",
+        "order": 388,
+        "parentId": 488,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 491,
+        "expanded": false,
+        "name": "昇降機",
+        "order": 498,
+        "parentId": 486,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 492,
+        "expanded": false,
+        "name": "イブティサーマ",
+        "order": 502,
+        "parentId": 383,
+        "scrollX": 1638,
+        "scrollY": 949
+    },
+    {
+        "id": 493,
+        "expanded": false,
+        "name": "イブティサーマ",
+        "order": 508,
+        "parentId": 383,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 494,
+        "expanded": true,
+        "name": "イブティサーマ",
+        "order": 509,
+        "parentId": 383,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 495,
+        "expanded": false,
+        "name": "イブティサーマ",
+        "order": 512,
+        "parentId": 383,
+        "scrollX": 2162.6666666666665,
+        "scrollY": 1230.6666666666667
+    },
+    {
+        "id": 496,
+        "expanded": false,
+        "name": "イブティサーマ：管理塔前",
+        "order": 513,
+        "parentId": 383,
+        "scrollX": 1423.5,
+        "scrollY": 924.75
+    },
+    {
+        "id": 497,
+        "expanded": false,
+        "name": "イブティサーマ",
+        "order": 514,
+        "parentId": 383,
+        "scrollX": 1216.5,
+        "scrollY": 948.75
+    },
+    {
+        "id": 498,
+        "expanded": false,
+        "name": "イブティサーマ",
+        "order": 515,
+        "parentId": 383,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 499,
+        "expanded": false,
+        "name": "イブティサーマ",
+        "order": 516,
+        "parentId": 383,
+        "scrollX": 1390.5,
+        "scrollY": 699.75
+    },
+    {
+        "id": 500,
+        "expanded": true,
+        "name": "イブティサーマ：内装",
+        "order": 503,
+        "parentId": 492,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 501,
+        "expanded": false,
+        "name": "イブティサーマ：店１",
+        "order": 504,
+        "parentId": 492,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 502,
+        "expanded": true,
+        "name": "ホテル・シュクラーン",
+        "order": 506,
+        "parentId": 492,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 503,
+        "expanded": false,
+        "name": "ホテル客室",
+        "order": 507,
+        "parentId": 502,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 504,
+        "expanded": false,
+        "name": "伝承管理塔",
+        "order": 518,
+        "parentId": 384,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 505,
+        "expanded": false,
+        "name": "伝承管理塔",
+        "order": 519,
+        "parentId": 384,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 506,
+        "expanded": false,
+        "name": "伝承管理塔",
+        "order": 520,
+        "parentId": 384,
+        "scrollX": 819,
+        "scrollY": 738.5
+    },
+    {
+        "id": 507,
+        "expanded": true,
+        "name": "輝きの大ブルジュ",
+        "order": 522,
+        "parentId": 384,
+        "scrollX": 811,
+        "scrollY": 461.5
+    },
+    {
+        "id": 508,
+        "expanded": false,
+        "name": "昇降機",
+        "order": 521,
+        "parentId": 384,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 509,
+        "expanded": false,
+        "name": "輝きの大ブルジュ",
+        "order": 523,
+        "parentId": 507,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 510,
+        "expanded": false,
+        "name": "歴史館廃墟：地下通路",
+        "order": 532,
+        "parentId": 386,
+        "scrollX": 1390.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 511,
+        "expanded": false,
+        "name": "中枢管理塔",
+        "order": 538,
+        "parentId": 387,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 512,
+        "expanded": false,
+        "name": "中枢管理塔",
+        "order": 539,
+        "parentId": 387,
+        "scrollX": 816,
+        "scrollY": 640
+    },
+    {
+        "id": 513,
+        "expanded": false,
+        "name": "中枢管理塔",
+        "order": 540,
+        "parentId": 387,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 514,
+        "expanded": false,
+        "name": "中枢管理塔",
+        "order": 541,
+        "parentId": 387,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 515,
+        "expanded": false,
+        "name": "中枢管理塔",
+        "order": 542,
+        "parentId": 387,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 516,
+        "expanded": false,
+        "name": "中枢管理塔：外観",
+        "order": 543,
+        "parentId": 387,
+        "scrollX": 1216.5,
+        "scrollY": 692.25
+    },
+    {
+        "id": 517,
+        "expanded": false,
+        "name": "中枢管理塔：最奥",
+        "order": 544,
+        "parentId": 387,
+        "scrollX": 1404,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 518,
+        "expanded": true,
+        "name": "領事館二階",
+        "order": 175,
+        "parentId": 96,
+        "scrollX": 819,
+        "scrollY": 546.5
+    },
+    {
+        "id": 519,
+        "expanded": true,
+        "name": "ラムルアラム領事館（イベント）",
+        "order": 389,
+        "parentId": 366,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 520,
+        "expanded": true,
+        "name": "夜の領事館二階（イベント）",
+        "order": 390,
+        "parentId": 519,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 521,
+        "expanded": false,
+        "name": "豊穣原盆地（エンディング）",
+        "order": 391,
+        "parentId": 366,
+        "scrollX": 1404,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 522,
+        "expanded": true,
+        "name": "豊穣原盆地（エンディング）",
+        "order": 392,
+        "parentId": 521,
+        "scrollX": 1638,
+        "scrollY": 971
+    },
+    {
+        "id": 523,
+        "expanded": false,
+        "name": "豊穣原盆地（エンディング）",
+        "order": 393,
+        "parentId": 521,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 524,
+        "expanded": false,
+        "name": "オルーサ製造所",
+        "order": 525,
+        "parentId": 385,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 948.8571428571428
+    },
+    {
+        "id": 525,
+        "expanded": false,
+        "name": "オルーサ製造所",
+        "order": 526,
+        "parentId": 385,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 526,
+        "expanded": false,
+        "name": "オルーサ製造所",
+        "order": 527,
+        "parentId": 385,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 527,
+        "expanded": true,
+        "name": "歴史館廃墟",
+        "order": 533,
+        "parentId": 386,
+        "scrollX": 1228.5,
+        "scrollY": 795.75
+    },
+    {
+        "id": 528,
+        "expanded": true,
+        "name": "歴史館廃墟：未設定エリア",
+        "order": 536,
+        "parentId": 386,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 529,
+        "expanded": true,
+        "name": "歴史館廃墟：森エリア",
+        "order": 534,
+        "parentId": 386,
+        "scrollX": 1404,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 530,
+        "expanded": true,
+        "name": "歴史館廃墟：山エリア",
+        "order": 535,
+        "parentId": 386,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 791.1428571428571
+    },
+    {
+        "id": 531,
+        "expanded": false,
+        "name": "イブティサーマ：店２",
+        "order": 505,
+        "parentId": 492,
+        "scrollX": 1216.5,
+        "scrollY": 680.25
+    },
+    {
+        "id": 532,
+        "expanded": false,
+        "name": "第三層研究施設",
+        "order": 529,
+        "parentId": 388,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 888.8571428571428
+    },
+    {
+        "id": 533,
+        "expanded": false,
+        "name": "第三層研究施設",
+        "order": 530,
+        "parentId": 388,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 534,
+        "expanded": false,
+        "name": "アルワーフ砂漠：隠しエリア",
+        "order": 407,
+        "parentId": 398,
+        "scrollX": 816,
+        "scrollY": 640
+    },
+    {
+        "id": 535,
+        "expanded": false,
+        "name": "地上の星空：祭壇",
+        "order": 493,
+        "parentId": 483,
+        "scrollX": 811,
+        "scrollY": 656.5
+    },
+    {
+        "id": 536,
+        "expanded": true,
+        "name": "日向の墓標",
+        "order": 499,
+        "parentId": 368,
+        "scrollX": 1390.2857142857142,
+        "scrollY": 792.8571428571428
+    },
+    {
+        "id": 537,
+        "expanded": true,
+        "name": "戦闘演習場",
+        "order": 510,
+        "parentId": 494,
+        "scrollX": 1216.5,
+        "scrollY": 680.25
+    },
+    {
+        "id": 538,
+        "expanded": true,
+        "name": "戦闘演習場",
+        "order": 511,
+        "parentId": 494,
+        "scrollX": 1216.5,
+        "scrollY": 813.75
+    },
+    {
+        "id": 539,
+        "expanded": true,
+        "name": "左雨家別邸 古川殿",
+        "order": 60,
+        "parentId": 318,
+        "scrollX": 832,
+        "scrollY": 700
+    },
+    {
+        "id": 540,
+        "expanded": true,
+        "name": "あばら四つ辻",
+        "order": 61,
+        "parentId": 318,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 541,
+        "expanded": true,
+        "name": "古川殿（シーン）",
+        "order": 49,
+        "parentId": 305,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 542,
+        "expanded": true,
+        "name": "あばら四つ辻",
+        "order": 62,
+        "parentId": 540,
+        "scrollX": 816,
+        "scrollY": 624
+    },
+    {
+        "id": 543,
+        "expanded": true,
+        "name": "あばら四つ辻（シーン）",
+        "order": 50,
+        "parentId": 305,
+        "scrollX": 1622,
+        "scrollY": 923
+    },
+    {
+        "id": 544,
+        "expanded": true,
+        "name": "四つ辻廃屋（シーン）",
+        "order": 51,
+        "parentId": 305,
+        "scrollX": 816,
+        "scrollY": 624
+    }
+]

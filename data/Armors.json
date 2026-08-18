@@ -1,0 +1,7366 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼刻印",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 2,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力10上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "攻撃の刻印Ⅰ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 3,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力20上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "攻撃の刻印Ⅱ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 4,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力30上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "攻撃の刻印Ⅲ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 5,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力40上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "攻撃の刻印Ⅳ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 6,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力10％上昇、会心率5％上昇",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.1
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 348,
+        "name": "攻撃の刻印Ⅴ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 7,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 8,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力10上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "防御の刻印Ⅰ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 9,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力20上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "防御の刻印Ⅱ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 10,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力30上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "防御の刻印Ⅲ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 11,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力40上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "防御の刻印Ⅳ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 12,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力10％上昇、被物理ダメージ5％軽減",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.1
+            },
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 0.95
+            }
+        ],
+        "iconIndex": 348,
+        "name": "防御の刻印Ⅴ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 13,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 14,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力10上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔攻の刻印Ⅰ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 15,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力20上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔攻の刻印Ⅱ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 16,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力30上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔攻の刻印Ⅲ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 17,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力40上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔攻の刻印Ⅳ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            40,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 18,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力10％上昇、会心ダメージ10％上昇",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "魔攻の刻印Ⅴ",
+        "note": "<BoostEX:CR, 10>\n<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 19,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 20,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力10上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔防の刻印Ⅰ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 21,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力20上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔防の刻印Ⅱ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 22,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力30上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔防の刻印Ⅲ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 23,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力40上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "魔防の刻印Ⅳ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 24,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力10％上昇、被魔法ダメージ5％軽減",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.1
+            },
+            {
+                "code": 23,
+                "dataId": 7,
+                "value": 0.95
+            }
+        ],
+        "iconIndex": 348,
+        "name": "魔防の刻印Ⅴ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 25,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 26,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ10上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "敏捷の刻印Ⅰ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 27,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ20上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "敏捷の刻印Ⅱ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 28,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ30上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "敏捷の刻印Ⅲ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 29,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ40上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "敏捷の刻印Ⅳ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            40,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 30,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ10％上昇、消費SP10％減少",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.1
+            },
+            {
+                "code": 23,
+                "dataId": 4,
+                "value": 0.9
+            }
+        ],
+        "iconIndex": 348,
+        "name": "敏捷の刻印Ⅴ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 31,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 32,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気10上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "心気の刻印Ⅰ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            10
+        ],
+        "price": 10
+    },
+    {
+        "id": 33,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気20上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "心気の刻印Ⅱ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20
+        ],
+        "price": 10
+    },
+    {
+        "id": 34,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気30上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "心気の刻印Ⅲ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            30
+        ],
+        "price": 10
+    },
+    {
+        "id": 35,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気40上昇",
+        "etypeId": 2,
+        "traits": [],
+        "iconIndex": 348,
+        "name": "心気の刻印Ⅳ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            40
+        ],
+        "price": 10
+    },
+    {
+        "id": 36,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気10％上昇、TP増加率25％上昇",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 7,
+                "value": 1.1
+            },
+            {
+                "code": 23,
+                "dataId": 5,
+                "value": 1.25
+            }
+        ],
+        "iconIndex": 348,
+        "name": "心気の刻印Ⅴ",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 37,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 38,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 39,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 40,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に炎属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "炎の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 41,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に雷属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "雷の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 42,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に氷属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "氷の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 43,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に水属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "水の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 44,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に地属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 6,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "地の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 45,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に風属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 7,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "風の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 46,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に光属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 8,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "光の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 47,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に闇属性付与",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 31,
+                "dataId": 9,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "闇の刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 48,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 49,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 50,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼技刻印",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 51,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「回復」追加",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 431,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "回復の技刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 52,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「活性」追加",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 432,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "活性の技刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 53,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「集中」追加",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 433,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "集中の技刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 54,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「治療」追加",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 434,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "治療の技刻印",
+        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 55,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 56,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 57,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 58,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 59,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 60,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼ユニーク刻印",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 61,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 62,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 63,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 64,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 65,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 66,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 67,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 68,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 69,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 70,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼ユニーク技刻印",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 71,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「黄泉縛り」追加",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 441,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "黄泉縛りの技刻印",
+        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n特殊な能力を秘めている\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 72,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「神懸かり」追加",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 442,
+                "value": 1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "欠けた四魂の技刻印",
+        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n特殊な能力を秘めている\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 73,
+        "atypeId": 2,
+        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大HP10％上昇、武器スキル「神懸かり」追加",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 442,
+                "value": 1
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 348,
+        "name": "四魂の技刻印",
+        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n特殊な能力を秘めている\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 74,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 75,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 76,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 77,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 78,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 79,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 80,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 81,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 82,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 83,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 84,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 85,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 86,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 87,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 88,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 89,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 90,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 91,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 92,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 93,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 94,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 95,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 96,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 97,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 98,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 99,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 100,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼防具",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 101,
+        "atypeId": 1,
+        "description": "旅をする者が纏う服。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "旅の服",
+        "note": "<dPlnText:旅に適した丈夫な服\n汚れに強く、そして破れにくい\n　\nこれは戦闘を想定したものではないため\n防具としての性能は皆無に等しい\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            4,
+            0,
+            4,
+            0,
+            0
+        ],
+        "price": 8
+    },
+    {
+        "id": 102,
+        "atypeId": 1,
+        "description": "冒険者のために作られた外套。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 138,
+        "name": "冒険者の外套",
+        "note": "<dPlnText:冒険者のために作られた外套\n風雨を凌ぎ、砂塵に強く\n日差しや寒気から身を守る\n　\n大きく分厚いため寝具としても使える\n宿がないときの助けとなるだろう\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 20
+    },
+    {
+        "id": 103,
+        "atypeId": 1,
+        "description": "シキノワの都で人気の土産物。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 138,
+        "name": "秋水京羽織",
+        "note": "<dPlnText:美しい羽織\n異邦人に人気の土産物\n　\n見栄えを重視した衣服ではあるものの\n装備品としての使用にも耐え得る\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            24,
+            0,
+            24,
+            0,
+            12
+        ],
+        "price": 100
+    },
+    {
+        "id": 104,
+        "atypeId": 1,
+        "description": "東国の忍びが纏う衣服。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 139,
+        "name": "忍び装束",
+        "note": "<dPlnText:東国の忍び装束\n軽さと頑丈さを併せ持つ\n　\n忍びの服の出所は不詳だが\n果ての妖狸たちは、その秘密を握るという\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 400
+    },
+    {
+        "id": 105,
+        "atypeId": 1,
+        "description": "純白の糸から織られた外套。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 138,
+        "name": "白織りの外套",
+        "note": "<dPlnText:ウパシモシリで見られる衣服\n何にも染まらぬ白の外套\n　\nその地は神の最初の褥であり\n紡がれた糸が、深雪の下に眠っている\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            60,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 106,
+        "atypeId": 1,
+        "description": "神派の戦士が纏う鎧。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 137,
+        "name": "アドシアンアーマー",
+        "note": "<dPlnText:ラムルアラムの鎧\nアスワドの戦士たちの装備品\n　\n砂漠での活動に適した作りとなっており\n熱や冷気に強く、砂に足を取られない\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            175,
+            0,
+            175,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 107,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 108,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 109,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 110,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 111,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 112,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 113,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 114,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 115,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 116,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 117,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 118,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 119,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 120,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼防具：レア",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 121,
+        "atypeId": 1,
+        "description": "異様な柄の僧衣。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.8
+            }
+        ],
+        "iconIndex": 136,
+        "name": "百々目の僧衣",
+        "note": "<NameColor:23>\n<dPlnText:数多の目玉が描かれた僧衣\n不浄の蚊帳に入る際に纏う\n　\nこれは神髄に至るための初歩である\n曰く、あれは万の目玉を持つ\n　\n四魂怪異、鵺\nその姿を知る者などいないというのに\n　\n以下の特殊効果を持つ\n・回避率5％上昇\n・被闇属性ダメージ20％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 122,
+        "atypeId": 1,
+        "description": "白刀流に属する者が着用する装備品。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 135,
+        "name": "白刀流道着",
+        "note": "<BoostEX:PH, 10>\n<NameColor:23>\n<dPlnText:剣術の流派、白刀流の道着\n飾り気がなく実戦に向く\n　\n白刀流の源流は、とある怪異にある\nその剣を目指した者が研鑽を続け\nいつしか人の技となった\n　\n以下の特殊効果を持つ\n・物理攻撃の威力10％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 123,
+        "atypeId": 1,
+        "description": "ただ守りのために紡がれた服。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 0.5
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 135,
+        "name": "衣の守り服",
+        "note": "<CS_上限TP:0,168>\n<NameColor:23>\n<dPlnText:穢れのない白い服\n纏った者と、その仲間を守る\n　\n洞の紡ぎ虫は衣服を作る道具だったが\nいつからか命を紡ぎ、それを与え\nそうすることが喜びとなった\n　\n以下の特殊効果を持つ\n・生存時、毎ターン味方全体のHP5％回復\n・攻撃力、魔攻力50％低下>",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 124,
+        "atypeId": 1,
+        "description": "奈落を歩いた僧侶の遺失物。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.8
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 136,
+        "name": "厭い除けの法衣",
+        "note": "<NameColor:23>\n<dPlnText:奈落に足を踏み入れた僧侶の法衣\n厭い根を退ける力を持つ\n　\n道悳は最後の善行に挑むべく谷を下った\nそして根源と対峙し、己の非力を悟り\nなおも諸悪を引き留めたのだ\n　\n以下の特殊効果を持つ\n・被地属性ダメージ20％軽減\n・毒無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            30,
+            0,
+            50,
+            0,
+            10
+        ],
+        "price": 2000
+    },
+    {
+        "id": 125,
+        "atypeId": 1,
+        "description": "逃亡者が身を隠すために纏った外套。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.5
+            },
+            {
+                "code": 21,
+                "dataId": 7,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 138,
+        "name": "逃亡者の外套",
+        "note": "<NameColor:23>\n<dPlnText:薄汚れた外套\n奈落の色が染みついている\n　\n一族の戦士、八人の蛇は簒奪のため\n他のすべてを犠牲とし、厭うべき力を得た\n　\nそれは、八つ頭の子\n裏切りの主犯のなれの果て\n　\n以下の特殊効果を持つ\n・素早さ50％上昇\n・心気50％低下>",
+        "params": [
+            0,
+            0,
+            0,
+            140,
+            0,
+            80,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 126,
+        "atypeId": 1,
+        "description": "四魂怪異の夕闇が纏う衣装。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 138,
+        "name": "夕闇の衣装",
+        "note": "<BoostEX:EL, 2, 20>\n<NameColor:23>\n<dPlnText:四魂怪異、夕闇の衣装\nりゆう屋の象徴でもある\n　\nいわゆる和夜魔と呼ばれる魔物の服は\nこれを参考に仕立てられている\n　\n以下の特殊効果を持つ\n・炎属性攻撃の威力20％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            100,
+            0,
+            150,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 127,
+        "atypeId": 1,
+        "description": "天上の国の民が纏う白装束。",
+        "etypeId": 3,
+        "traits": [],
+        "iconIndex": 136,
+        "name": "レタルの民の装束",
+        "note": "<BoostEX:EL, 8, 20>\n<NameColor:23>\n<dPlnText:どこまでも白い装束\n決して汚れることはない\n　\nレタルを砂漠の空にする\nそんな夢は、叶わなかった\n　\n以下の特殊効果を持つ\n・光属性攻撃の威力20％上昇>",
+        "params": [
+            0,
+            20,
+            0,
+            200,
+            0,
+            200,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 128,
+        "atypeId": 1,
+        "description": "オルーサの装甲で作られた鎧。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 1.05
+            }
+        ],
+        "iconIndex": 137,
+        "name": "オルーサの鎧",
+        "note": "<NameColor:23>\n<dPlnText:特殊な作りの鎧\n外骨格となり、装備者の力を増幅する\n　\n三人の生き残り、その内の一人\n彼は人であることを諦め\nそうして活路を見出した\n　\n以下の特殊効果を持つ\n・攻撃力、魔攻力5％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            250,
+            0,
+            250,
+            0,
+            0
+        ],
+        "price": 6000
+    },
+    {
+        "id": 129,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 130,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 131,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 132,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 133,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 134,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 135,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 136,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 137,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 138,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 139,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 140,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼防具：エピック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 141,
+        "atypeId": 1,
+        "description": "薄氷に似た衣。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.03
+            }
+        ],
+        "iconIndex": 136,
+        "name": "凍てついた薄衣",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n未練は友をも葬ったこと\n悲しい勝利だっただろう\n　\n以下の特殊効果を持つ\n・会心率3％上昇\n・即死無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            30,
+            30,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 142,
+        "atypeId": 1,
+        "description": "雪女が纏う服。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            },
+            {
+                "code": 23,
+                "dataId": 0,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "冬隠れの服",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n避けられぬ死の中で、彼女は救いでもある\n孤独に逝くよりは温かいだろう\n　\n以下の特殊効果を持つ\n・回避率10％上昇\n・単体攻撃対象率0％固定化>",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 143,
+        "atypeId": 1,
+        "description": "奈落の石で作られた鎧。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.9
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.9
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.9
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.9
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.9
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.9
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 1.2
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.9
+            }
+        ],
+        "iconIndex": 137,
+        "name": "無常石の鎧",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n無常石とは、奈落にて朽ちた龍の石\n蛇の冒涜の痕跡の一つ\n　\n以下の特殊効果を持つ\n・光以外の被属性ダメージ10％軽減\n・被光属性ダメージ20％増加>",
+        "params": [
+            0,
+            0,
+            0,
+            120,
+            0,
+            120,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 144,
+        "atypeId": 1,
+        "description": "砂漠の暗殺者に巻かれていた布。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.15
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.15
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.15
+            }
+        ],
+        "iconIndex": 136,
+        "name": "暗殺者の包帯",
+        "note": "<NameColor:31>\n<dPlnText:ヌシより得た装備品\n高い性能を宿す\n　\n虚無の刺客は屍じみた身なりを好んだ\n人でないと自覚していたのかもしれない\n　\n以下の特殊効果を持つ\n・素早さ、会心率、回避率15％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            60,
+            0,
+            60,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 145,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 146,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 147,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 148,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 149,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 150,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼防具：レジェンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 151,
+        "atypeId": 1,
+        "description": "真白神社の巫女の衣装。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 135,
+        "name": "真白巫女装束",
+        "note": "<NameColor:2>\n<dPlnText:真白神社の巫女装束\n怪異との戦にも耐え得る\n　\n小袖の色は、神社の名とは異なる黒\n白を纏うのは神のみなのだ\n　\n以下の特殊効果を持つ\n・回避率、魔法回避率10％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            100,
+            0,
+            100,
+            0,
+            0
+        ],
+        "price": 4000
+    },
+    {
+        "id": 152,
+        "atypeId": 1,
+        "description": "四魂怪異の内、三つの魂を宿す羽織。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 0.92
+            },
+            {
+                "code": 23,
+                "dataId": 7,
+                "value": 0.92
+            }
+        ],
+        "iconIndex": 138,
+        "name": "欠けた四魂の羽織",
+        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n三つの魂はいずれも主張が激しく\n一つとして調和を保つのは難しいが\nこれは、奇跡的に釣り合っている\n　\n以下の特殊効果を持つ\n・被物理魔法ダメージ8％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            150,
+            0,
+            150,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 153,
+        "atypeId": 1,
+        "description": "四魂怪異の魂を宿す羽織。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 6,
+                "value": 0.85
+            },
+            {
+                "code": 23,
+                "dataId": 7,
+                "value": 0.85
+            }
+        ],
+        "iconIndex": 138,
+        "name": "四魂の羽織",
+        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n四つの魂はいずれも主張が激しいが\nそれでもなお、調和を保つ\n何せ、皆、家族なのだ\n　\n以下の特殊効果を持つ\n・被物理魔法ダメージ15％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            400,
+            0,
+            400,
+            0,
+            0
+        ],
+        "price": 20000
+    },
+    {
+        "id": 154,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 155,
+        "atypeId": 1,
+        "description": "真白神社の巫女の衣装。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.15
+            },
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.15
+            }
+        ],
+        "iconIndex": 135,
+        "name": "真白巫女装束+1",
+        "note": "<NameColor:27>\n<dPlnText:真白神社の巫女装束\n怪異との戦にも耐え得る\n　\n小袖の色は、神社の名とは異なる黒\n白を纏うのは神のみなのだ\n　\n以下の特殊効果を持つ\n・回避率、魔法回避率15％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            220,
+            0,
+            220,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 156,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 157,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 158,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 159,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 160,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼装飾品",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 161,
+        "atypeId": 1,
+        "description": "有名な怪異である鬼を模した面。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 323,
+        "name": "鬼の面",
+        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\nこの面は、柴組のものとは異なる\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            15,
+            15,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 162,
+        "atypeId": 1,
+        "description": "有名な怪異である狸を模した面。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 323,
+        "name": "狸の面",
+        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            15,
+            15,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 163,
+        "atypeId": 1,
+        "description": "有名な怪異である狐を模した面。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 323,
+        "name": "狐の面",
+        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\n特殊な効果は持たない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            15,
+            15
+        ],
+        "price": 200
+    },
+    {
+        "id": 164,
+        "atypeId": 1,
+        "description": "有名な怪異を模したとされる面。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 323,
+        "name": "謎の面",
+        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\n特殊な効果は持たない>",
+        "params": [
+            50,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 165,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 166,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 167,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 168,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 169,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 170,
+        "atypeId": 1,
+        "description": "即死から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 338,
+        "name": "デッドガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・即死無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 171,
+        "atypeId": 1,
+        "description": "毒から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "ポイズンガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・毒無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 172,
+        "atypeId": 1,
+        "description": "困憊から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "タイアードガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・困憊無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 173,
+        "atypeId": 1,
+        "description": "暗闇から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 6,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "ブラインドガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・暗闇無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 174,
+        "atypeId": 1,
+        "description": "忘却から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "フォゲットガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・忘却無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 175,
+        "atypeId": 1,
+        "description": "混乱から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "パニックガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・混乱無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 176,
+        "atypeId": 1,
+        "description": "睡眠から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "スリープガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・睡眠無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 177,
+        "atypeId": 1,
+        "description": "麻痺から身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 10,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "パラライズガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・麻痺無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 178,
+        "atypeId": 1,
+        "description": "スタンから身を守るネックレス。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            }
+        ],
+        "iconIndex": 338,
+        "name": "ショックガード",
+        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・スタン無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 179,
+        "atypeId": 1,
+        "description": "苦難の道を行く者のための装飾品。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 9,
+                "value": 0
+            }
+        ],
+        "iconIndex": 326,
+        "name": "挑戦者の首輪",
+        "note": "<dPlnText:挑戦者のために作られた装飾品\n　\nこれには呪いが込められており\n身に着けた者の戦闘経験を否定する\n　\n弱者のままで、強者を倒す\nそういう望みもあるのだろう\n　\n以下の特殊効果を持つ\n・経験値獲得不可>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 180,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 181,
+        "atypeId": 1,
+        "description": "炎の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐炎の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被炎属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 182,
+        "atypeId": 1,
+        "description": "雷の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐雷の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被雷属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 183,
+        "atypeId": 1,
+        "description": "氷の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐氷の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被氷属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 184,
+        "atypeId": 1,
+        "description": "水の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐水の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被水属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 185,
+        "atypeId": 1,
+        "description": "地の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐地の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被地属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 186,
+        "atypeId": 1,
+        "description": "風の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐風の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被風属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 187,
+        "atypeId": 1,
+        "description": "光の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐光の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被光属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 188,
+        "atypeId": 1,
+        "description": "闇の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 337,
+        "name": "耐闇の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被闇属性ダメージ50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 189,
+        "atypeId": 1,
+        "description": "あらゆる属性の力を秘めた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.7
+            },
+            {
+                "code": 11,
+                "dataId": 3,
+                "value": 0.7
+            },
+            {
+                "code": 11,
+                "dataId": 4,
+                "value": 0.7
+            },
+            {
+                "code": 11,
+                "dataId": 5,
+                "value": 0.7
+            },
+            {
+                "code": 11,
+                "dataId": 6,
+                "value": 0.7
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 0.7
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.7
+            },
+            {
+                "code": 11,
+                "dataId": 9,
+                "value": 0.7
+            }
+        ],
+        "iconIndex": 337,
+        "name": "虹色の指輪",
+        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・波動以外の被属性ダメージ30％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 190,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 191,
+        "atypeId": 1,
+        "description": "冒険者が持つお守り。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 5,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 6,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 7,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0.5
+            },
+            {
+                "code": 13,
+                "dataId": 10,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 340,
+        "name": "冒険者のお守り",
+        "note": "<NameColor:23>\n<dPlnText:冒険者によく知られるお守り\n　\nこの装飾品の歴史は古く、遥か昔\n神話の時代より冒険者へと贈られる\n人は皆、旅立つ友の無事を祈っているのだ\n　\n以下の特殊効果を持つ\n・スタン以外の基本状態異常付与率50％軽減>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 192,
+        "atypeId": 1,
+        "description": "無病息災を祈る飾り。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 13,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 6,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 10,
+                "value": 1
+            }
+        ],
+        "iconIndex": 341,
+        "name": "護り布",
+        "note": "<NameColor:23>\n<dPlnText:素朴な布飾り\n　\n身につければ特別なご利益を得て\n多くの状態異常を無効化する\n　\n以下の特殊効果を持つ\n・スタン以外の基本状態異常無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 193,
+        "atypeId": 1,
+        "description": "戦地に身を置く者のためのベルト。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 30,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 31,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 32,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 33,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 34,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 35,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 36,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 37,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 38,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 39,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 40,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 41,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 42,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 43,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 44,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 45,
+                "value": 1
+            }
+        ],
+        "iconIndex": 336,
+        "name": "戦の帯",
+        "note": "<NameColor:23>\n<dPlnText:戦う者に相応しいベルト\n　\n能力値の低下、体勢を崩すこと\nいずれも戦地では致命的な結果を招く\n強者ほど驕らず、対策を怠らないものだ\n　\n以下の特殊効果を持つ\n・スタン無効化\n・能力値DOWN無効化\n・能力値大DOWN無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 194,
+        "atypeId": 1,
+        "description": "生命力が滾る腕輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.08
+            }
+        ],
+        "iconIndex": 336,
+        "name": "リジェネバングル",
+        "note": "<NameColor:23>\n<dPlnText:マナの力を備えた腕輪\n　\n不死の理の存在を知っても\n死とは常に恐ろしいものだ\nこの手の装備品はありがたい\n　\n以下の特殊効果を持つ\n・毎ターンHP8％回復>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 195,
+        "atypeId": 1,
+        "description": "気力が沸き立つ腕輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.08
+            }
+        ],
+        "iconIndex": 336,
+        "name": "エナジーバングル",
+        "note": "<NameColor:23>\n<dPlnText:マナの力を備えた腕輪\n　\n鍛え上げ、我がものとした魔法や技も\n気力が尽きれば意味を成さない\nこの手の装備品はありがたい\n　\n以下の特殊効果を持つ\n・毎ターンSP8％回復>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 196,
+        "atypeId": 1,
+        "description": "闘気を帯びた腕輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 9,
+                "value": 0.05
+            }
+        ],
+        "iconIndex": 144,
+        "name": "戦神の腕輪",
+        "note": "<NameColor:23>\n<dPlnText:闘気を帯びている腕輪\n　\nこの世界に戦神と呼ばれる神などおらず\nオルドワルドにもまた、いない\n神話の時代の名残だろうか\nあるいは誰も知らぬだけか\n　\n以下の特殊効果を持つ\n・毎ターンTP5増加>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 197,
+        "atypeId": 1,
+        "description": "身軽になれる魔法の靴。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.2
+            }
+        ],
+        "iconIndex": 140,
+        "name": "ドットイーター",
+        "note": "<NameColor:23>\n<dPlnText:履けば身軽になれる靴\n　\n身軽であれば、攻撃を回避できる\nそれは確かに間違いではないが\n土台となるのは、常に己の能力だろう\n　\n以下の特殊効果を持つ\n・回避率20％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 198,
+        "atypeId": 1,
+        "description": "魔力の流れを読める靴。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 4,
+                "value": 0.2
+            }
+        ],
+        "iconIndex": 140,
+        "name": "フェアリーステップ",
+        "note": "<NameColor:23>\n<dPlnText:履けば魔力の流れを読める靴\n　\n流れを読めば、魔法を回避できる\nそれは確かに間違いではないが\n土台となるのは、常に己の能力だろう\n　\n以下の特殊効果を持つ\n・魔法回避率20％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 199,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 200,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 201,
+        "atypeId": 1,
+        "description": "特別な糸で作られた指輪。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 1,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 2,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 4,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 6,
+                "value": 1.05
+            },
+            {
+                "code": 21,
+                "dataId": 7,
+                "value": 1.05
+            }
+        ],
+        "iconIndex": 337,
+        "name": "血族の糸の輪",
+        "note": "<NameColor:23>\n<dPlnText:糸を編み、指輪としたもの\n血族からの信頼の証\n　\nカンムイは、かねて忌避した一族を許し\n太平の世に向けて共存を目指した\n　\nのちの裏切りは失敗に終わり\n奈落の底、岩屋の淵へと逃げ延びた\n　\n以下の特殊効果を持つ\n・全能力値5％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 2000
+    },
+    {
+        "id": 202,
+        "atypeId": 1,
+        "description": "西の砂漠の都市で見られた冠。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 23,
+                "dataId": 4,
+                "value": 0.75
+            }
+        ],
+        "iconIndex": 323,
+        "name": "太陽を讃える冠",
+        "note": "<NameColor:23>\n<dPlnText:神派の功労者への贈り物\n神に見える資格を得る\n　\n太陽を讃えること\nそれは、神のために生きるということ\n　\n以下の特殊効果を持つ\n・消費SP25％減少>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 203,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 204,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 205,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 206,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 207,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 208,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 209,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 210,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼装飾品：エピック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 211,
+        "atypeId": 1,
+        "description": "怪異僧侶が纏う袈裟。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 3,
+                "value": 1.1
+            },
+            {
+                "code": 21,
+                "dataId": 5,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 330,
+        "name": "骸袈裟",
+        "note": "<BoostEX:EL, 9, 20>\n<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n怪異僧侶は万の目を肉に宿し\n骸を繋いだ袈裟を纏う\n　\n以下の特殊効果を持つ\n・防御力、魔防力10％上昇\n・闇属性攻撃の威力20％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 212,
+        "atypeId": 1,
+        "description": "鬼が首にかける数珠。",
+        "etypeId": 4,
+        "traits": [],
+        "iconIndex": 338,
+        "name": "鬼の数珠",
+        "note": "<自動蘇生:1>\n<蘇生HPレート:10>\n<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n鬼の数珠はただの飾りだが\n飾る鬼の力を宿すこともあるという\n　\n以下の特殊効果を持つ\n・戦闘不能時復活：\n　復活時HP10％回復、復活可能回数1>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 213,
+        "atypeId": 1,
+        "description": "沼女の核となる物質。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.1
+            }
+        ],
+        "iconIndex": 337,
+        "name": "沼の宝珠",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n沼の如く深みのある核\nそこには偽りの安堵がある\n　\n以下の特殊効果を持つ\n・最大HP10％上昇\n・忘却、睡眠無効化>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 214,
+        "atypeId": 1,
+        "description": "古い先導者の灯り。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 7,
+                "value": 2
+            }
+        ],
+        "iconIndex": 338,
+        "name": "川渡しの光石",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n川を渡るには灯りがいる\n迷えば罪が澱むだろう\n　\n以下の特殊効果を持つ\n・心気100％上昇>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 215,
+        "atypeId": 1,
+        "description": "乳母が龍にかける布。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 7,
+                "value": 0.08
+            },
+            {
+                "code": 22,
+                "dataId": 8,
+                "value": 0.08
+            }
+        ],
+        "iconIndex": 330,
+        "name": "龍守り",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n蛇の内、彼女だけは最後まで共存を誓い\nそうして龍の乳母となった\n　\n以下の特殊効果を持つ\n・毎ターンHP8％回復\n・毎ターンSP8％回復>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 216,
+        "atypeId": 1,
+        "description": "底に穴の開いた宝箱。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 21,
+                "dataId": 0,
+                "value": 1.1
+            },
+            {
+                "code": 64,
+                "dataId": 5,
+                "value": 1
+            }
+        ],
+        "iconIndex": 323,
+        "name": "秘宝の兜",
+        "note": "<NameColor:31>\n<dPlnText:ヌシより得た装備品\n高い性能を宿す\n　\nこれを被り、秘宝となる\nそうして次なる秘宝を待つ\n　\n以下の特殊効果を持つ\n・最大HP10％上昇\n・戦闘後アイテム獲得率100％上昇\n　この効果は重複しない>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 3000
+    },
+    {
+        "id": 217,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 218,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 219,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 220,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼装飾品：レジェンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 221,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 222,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 223,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 224,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 225,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 226,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 227,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 228,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 229,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 230,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼魂：レア",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 231,
+        "atypeId": 1,
+        "description": "とある魂の遺物。\n\\C[24]奥義解放：\\C[0]魂の炸裂",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 351,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "古びた魂縄",
+        "note": "<NameColor:23>\n<dPlnText:カンムイの糸で編まれた魂\n持てばその力を解放できる\n　\n魂縄に宿るのは経験そのもの\nそれを分け与え、万物に力を授けることが\nかの大怪異の神髄であった>",
+        "params": [
+            0,
+            0,
+            10,
+            10,
+            10,
+            10,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 232,
+        "atypeId": 1,
+        "description": "祠地蔵のご利益。",
+        "etypeId": 5,
+        "traits": [],
+        "iconIndex": 319,
+        "name": "ありがたい魂縄",
+        "note": "<NameColor:23>\n<dPlnText:カンムイの糸で編まれた魂\n持てばその力を解放できる\n　\nこれに技能は宿されていないが\n代わりに、あらゆる能力を高めてくれる\n　\n巫女は荒魂に寄り添い祈り続けた\nゆえにこそ、今も真白に神秘を遺す>",
+        "params": [
+            0,
+            0,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+        ],
+        "price": 500
+    },
+    {
+        "id": 233,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 234,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 235,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 236,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 237,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 238,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 239,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 240,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼魂：エピック",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 241,
+        "atypeId": 1,
+        "description": "涅塚の僧の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]胎内庇護",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 352,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "涅塚僧の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n涅塚僧は紛いの胎に守られるのだ>",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            20,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 242,
+        "atypeId": 1,
+        "description": "古都の人斬りの魂を宿したもの。\n\\C[24]奥義解放：\\C[0]剣技血飛沫",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 353,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "人斬りの魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n人斬りは血を以て血を成し、血に酔う>",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0,
+            20
+        ],
+        "price": 1000
+    },
+    {
+        "id": 243,
+        "atypeId": 1,
+        "description": "根断ち童子の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]針山の刑",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 354,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "童子の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n童子の戯れは、人知れず災いを退ける>",
+        "params": [
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            20,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 244,
+        "atypeId": 1,
+        "description": "消えない未練の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]残雪の未練",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 355,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "未練の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n未練は残雪となり、とけゆく時を待つ>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            20,
+            0,
+            0,
+            20
+        ],
+        "price": 1000
+    },
+    {
+        "id": 245,
+        "atypeId": 1,
+        "description": "沼女の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]沼の被膜",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 356,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "沼女の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n沼には沈む。刃も、術でさえも>",
+        "params": [
+            200,
+            20,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 246,
+        "atypeId": 1,
+        "description": "迷い森の雪女の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]氷の褥",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 357,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "雪女の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n氷は永遠の眠りの褥となる>",
+        "params": [
+            0,
+            20,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 247,
+        "atypeId": 1,
+        "description": "命刻山の鬼の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]鬼岩落とし",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 358,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "鬼の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n悪気はない。お気に入りの場所を守るためだ>",
+        "params": [
+            0,
+            0,
+            20,
+            20,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 248,
+        "atypeId": 1,
+        "description": "レーセ川の先導の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]夜の静寂",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 359,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "先導の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n常夜の冥府は罪なき魂を祝福する>",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            20,
+            20,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 249,
+        "atypeId": 1,
+        "description": "龍の乳母の魂を宿したもの。",
+        "etypeId": 5,
+        "traits": [],
+        "iconIndex": 319,
+        "name": "乳母の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n乳母は奥義と呼べる技を持たないためか\nこれに技能は宿されず、ただ能力のみを\n大きく高めてくれる>",
+        "params": [
+            0,
+            0,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50
+        ],
+        "price": 1000
+    },
+    {
+        "id": 250,
+        "atypeId": 1,
+        "description": "秘せる落胤の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]蛇の祈り",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 41,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 43,
+                "dataId": 360,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "落胤の魂縄",
+        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n穢れた祈り。あまりにも独りよがりだった>",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            40,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 251,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 252,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 253,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 254,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 255,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 256,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 257,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 258,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 259,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "▼魂：レジェンド",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 260,
+        "atypeId": 1,
+        "description": "四魂怪異の内、三つの魂を宿したもの。",
+        "etypeId": 5,
+        "traits": [],
+        "iconIndex": 319,
+        "name": "欠けた四魂の魂縄",
+        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n三つの魂は己の奥義の強さを説き\nそうして喧嘩になっているようだ\n　\n決着はつかず、技能は何も得られないが\n代わりに生命力を大きく高める>",
+        "params": [
+            1000,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 261,
+        "atypeId": 1,
+        "description": "四魂怪異の魂を宿したもの。",
+        "etypeId": 5,
+        "traits": [],
+        "iconIndex": 319,
+        "name": "四魂の魂縄",
+        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n四つの魂は己の奥義の強さを説き\nそうして喧嘩になっているようだ\n　\n決着はつかず、技能は何も得られないが\n代わりに生命力を大きく高める>",
+        "params": [
+            2500,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 262,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 263,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 264,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 265,
+        "atypeId": 1,
+        "description": "",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 43,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 319,
+        "name": "魂縄",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 5000
+    }
+]

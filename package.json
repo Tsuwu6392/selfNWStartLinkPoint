@@ -1,0 +1,12 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--force-color-profile=srgb --disable-devtools",
+    "window": {
+        "title": "SEQUEL thirst ver.2.02",
+        "width": 1024,
+        "height": 768,
+        "position": "center",
+        "icon": "icon/icon.png"
+    }
+}
