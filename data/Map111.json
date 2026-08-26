@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "カンムイ小径",
+    "displayName": "Divine Path",
     "encounterList": [],
     "encounterStep": 30,
     "height": 29,
@@ -4521,35 +4521,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのヌシだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、どうすべきか……"
-                            ]
+                                "It's the Boss of this area. Now, what\nshould I do..."
+                            ],
+                            "_original": "ここのヌシだ。\nさて、どうすべきか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "討伐する",
-                                    "立ち去る"
+                                    "Defeat it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "討伐する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -4974,35 +4973,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヌシはその地のマナで復活する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいると戦闘になるだろう……"
-                            ]
+                                "The Master revives using the mana of the\nEarth. If we stay here, we'll end up in\nbattle..."
+                            ],
+                            "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヌシの復活を待つ",
-                                    "立ち去る"
+                                    "Wait for the Master's revival",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ヌシの復活を待つ",
+                                "立ち去る"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "聖刻遺跡",
+    "displayName": "Sacred Inscription Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7504,15 +7504,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送剣がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は移動すべきではない。"
-                            ]
+                                "There's a teleportation sword. Now is not the\ntime to move."
+                            ],
+                            "_original": "転送剣がある。\n今は移動すべきではない。"
                         },
                         {
                             "code": 0,
@@ -8089,42 +8083,34 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで試練は終わりだ、勇士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず……頭が高いぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "跪け。"
-                            ]
+                                "The trial is over, warrior. For now...\nyou're getting ahead of yourself. Kneel."
+                            ],
+                            "_original": "これで試練は終わりだ、勇士。\nとりあえず……頭が高いぞ。\n跪け。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "従う",
-                                    "従わない"
+                                    "Obey",
+                                    "Refuse"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "従う",
+                                "従わない"
                             ]
                         },
                         {
@@ -8152,22 +8138,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よしよし、いいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我好みの従順な勇士だ。"
-                            ]
+                                "There, there, good. A properly obedient\nwarrior―just my type."
+                            ],
+                            "_original": "よしよし、いいぞ。\n我好みの従順な勇士だ。"
                         },
                         {
                             "code": 0,
@@ -8260,22 +8241,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お前に断る権利などない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "神が跪けと言ったら跪け！"
-                            ]
+                                "You have no right to refuse! If a god\ntells you to kneel, you kneel!"
+                            ],
+                            "_original": "お前に断る権利などない！\n神が跪けと言ったら跪け！"
                         },
                         {
                             "code": 0,
@@ -8295,15 +8271,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我が神。"
-                            ]
+                                "I am that god."
+                            ],
+                            "_original": "我が神。"
                         },
                         {
                             "code": 212,
@@ -8414,15 +8392,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ。"
-                            ]
+                                "Woah..."
+                            ],
+                            "_original": "おおっ。"
                         },
                         {
                             "code": 205,
@@ -8542,22 +8522,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇士の素質……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかがでしょうか。"
-                            ]
+                                "The warrior's potential... what do you\nthink?"
+                            ],
+                            "_original": "勇士の素質……\nいかがでしょうか。"
                         },
                         {
                             "code": 101,
@@ -8567,22 +8542,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、悪くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "祝福を与えてやってもいいだろう。"
-                            ]
+                                "Hmm, not bad. I suppose I can grant them\na Blessing."
+                            ],
+                            "_original": "まあ、悪くない。\n祝福を与えてやってもいいだろう。"
                         },
                         {
                             "code": 101,
@@ -8592,15 +8562,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何より。"
-                            ]
+                                "That would be ideal."
+                            ],
+                            "_original": "何より。"
                         },
                         {
                             "code": 101,
@@ -8610,22 +8582,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し準備が必要だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待つがよい。"
-                            ]
+                                "I'll need a moment to prepare. Wait\nhere."
+                            ],
+                            "_original": "少し準備が必要だ。\n待つがよい。"
                         },
                         {
                             "code": 101,
@@ -8635,22 +8602,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザ、ザフラ殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一緒にいてもいいのだろうか？"
-                            ]
+                                "Z-Zafra-sama... may I stay with you now?"
+                            ],
+                            "_original": "ザ、ザフラ殿。\nもう一緒にいてもいいのだろうか？"
                         },
                         {
                             "code": 101,
@@ -8660,22 +8622,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、むしろ一緒にいてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆様に祝福が与えられます。"
-                            ]
+                                "Yes, in fact, please do. Everyone will\nreceive a Blessing."
+                            ],
+                            "_original": "はい、むしろ一緒にいてください。\n皆様に祝福が与えられます。"
                         },
                         {
                             "code": 101,
@@ -8685,22 +8642,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に危険はなかったですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試練。"
-                            ]
+                                "The trial really wasn't dangerous at\nall, was it?"
+                            ],
+                            "_original": "本当に危険はなかったですね。\n試練。"
                         },
                         {
                             "code": 101,
@@ -8710,15 +8662,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事に終わり、ほっとしています。"
-                            ]
+                                "I'm relieved it ended safely."
+                            ],
+                            "_original": "無事に終わり、ほっとしています。"
                         },
                         {
                             "code": 101,
@@ -8728,15 +8682,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あとは待っていればいいのですよね？"
-                            ]
+                                "All we have to do is wait, right?"
+                            ],
+                            "_original": "あとは待っていればいいのですよね？"
                         },
                         {
                             "code": 101,
@@ -8746,22 +8702,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それなりに時間がかかりますので──"
-                            ]
+                                "Yes. However, it will take some time,\nso―"
+                            ],
+                            "_original": "はい。\nしかし、それなりに時間がかかりますので──"
                         },
                         {
                             "code": 101,
@@ -8771,22 +8722,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先に済ませておきたいことがあれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の内にそちらを。"
-                            ]
+                                "If there's anything you'd like to take\ncare of first, now would be the time."
+                            ],
+                            "_original": "先に済ませておきたいことがあれば、\n今の内にそちらを。"
                         },
                         {
                             "code": 101,
@@ -8796,15 +8742,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……何かが起こるかのような言い草。"
-                            ]
+                                "...That sounds like something's about to\nhappen."
+                            ],
+                            "_original": "……何かが起こるかのような言い草。"
                         },
                         {
                             "code": 101,
@@ -8814,15 +8762,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、そんなことは……"
-                            ]
+                                "No, it's nothing like that..."
+                            ],
+                            "_original": "いえ、そんなことは……"
                         },
                         {
                             "code": 101,
@@ -8832,22 +8782,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一旦、外に出てもよいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戻るときは……ああ、転送剣があるのう。"
-                            ]
+                                "Can we step outside for a bit? When we\nreturn... ah, we have the teleportation\nswords."
+                            ],
+                            "_original": "一旦、外に出てもよいのか？\n戻るときは……ああ、転送剣があるのう。"
                         },
                         {
                             "code": 101,
@@ -8857,15 +8802,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用しても構わないかい？"
-                            ]
+                                "Would it be alright to use them?"
+                            ],
+                            "_original": "使用しても構わないかい？"
                         },
                         {
                             "code": 101,
@@ -8875,22 +8822,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆様は試練を終えた勇士ですから。"
-                            ]
+                                "Yes. After all, you are all warriors who\nhave completed the trial."
+                            ],
+                            "_original": "はい。\n皆様は試練を終えた勇士ですから。"
                         },
                         {
                             "code": 221,
@@ -9403,22 +9345,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備は整った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇士よ──"
-                            ]
+                                "The preparations are complete. Warrior―"
+                            ],
+                            "_original": "準備は整った。\n勇士よ──"
                         },
                         {
                             "code": 101,
@@ -9428,22 +9365,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──勇士たちよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我はお前たちを愛そう。"
-                            ]
+                                "―Warriors. I shall love you all."
+                            ],
+                            "_original": "──勇士たちよ。\n我はお前たちを愛そう。"
                         },
                         {
                             "code": 101,
@@ -9453,15 +9385,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
+                                "Huh?"
+                            ],
+                            "_original": "え？"
                         },
                         {
                             "code": 101,
@@ -9471,22 +9405,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんです？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に。"
-                            ]
+                                "W-What? So suddenly?"
+                            ],
+                            "_original": "な、なんです？\n急に。"
                         },
                         {
                             "code": 101,
@@ -9496,22 +9425,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆様、少々お静かに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは大切な儀式です。"
-                            ]
+                                "Everyone, please be quiet for a moment…\nThis is an important ritual."
+                            ],
+                            "_original": "皆様、少々お静かに……\nこれは大切な儀式です。"
                         },
                         {
                             "code": 101,
@@ -9521,22 +9445,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "認め、謳おう。称えよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事を祈ろう！"
-                            ]
+                                "Acknowledge, sing, praise! Pray for\nsafety!"
+                            ],
+                            "_original": "認め、謳おう。称えよう。\n無事を祈ろう！"
                         },
                         {
                             "code": 101,
@@ -9546,22 +9465,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黄金の楽園、輝ける太陽！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "栄華に迫る闇を、今──"
-                            ]
+                                "Golden paradise, radiant sun! The\ndarkness that threatens prosperity―now―"
+                            ],
+                            "_original": "黄金の楽園、輝ける太陽！\n栄華に迫る闇を、今──"
                         },
                         {
                             "code": 250,
@@ -9631,15 +9545,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──む？"
-                            ]
+                                "―Hm?"
+                            ],
+                            "_original": "──む？"
                         },
                         {
                             "code": 101,
@@ -9649,22 +9565,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは、まさか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聖刻の像が……！？"
-                            ]
+                                "This is… surely not… The Sacred\nEngraving Statue is…!?"
+                            ],
+                            "_original": "これは、まさか……\n聖刻の像が……！？"
                         },
                         {
                             "code": 101,
@@ -9674,22 +9585,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我の判断に間違いなど……"
-                            ]
+                                "W-What? There could be no mistake in my\njudgment…"
+                            ],
+                            "_original": "な、なんだ？\n我の判断に間違いなど……"
                         },
                         {
                             "code": 101,
@@ -9699,15 +9605,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆様、備えてください！"
-                            ]
+                                "Everyone, prepare yourselves!"
+                            ],
+                            "_original": "皆様、備えてください！"
                         },
                         {
                             "code": 101,
@@ -9717,8 +9625,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -9783,22 +9692,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "た、倒せたか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今のは……？"
-                            ]
+                                "D-Did we defeat it? What was that just\nnow…?"
+                            ],
+                            "_original": "た、倒せたか……\n今のは……？"
                         },
                         {
                             "code": 213,
@@ -9906,22 +9810,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ザフラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どういうことだ？"
-                            ]
+                                "…Zafra. What is the meaning of this?"
+                            ],
+                            "_original": "……ザフラ。\nどういうことだ？"
                         },
                         {
                             "code": 117,
@@ -9938,15 +9837,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何らかの異常……としか言えません。"
-                            ]
+                                "I can only describe it as… some kind of anomaly."
+                            ],
+                            "_original": "何らかの異常……としか言えません。"
                         },
                         {
                             "code": 101,
@@ -9956,22 +9857,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと、何なんですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "危険はないって言ったじゃないですか！"
-                            ]
+                                "Hey, what's going on?! You said there\nwas no danger!"
+                            ],
+                            "_original": "ちょっと、何なんですか！\n危険はないって言ったじゃないですか！"
                         },
                         {
                             "code": 101,
@@ -9981,22 +9877,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なかったろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "試練そのものには。"
-                            ]
+                                "There wasn't, was there? Not in the\ntrial itself."
+                            ],
+                            "_original": "なかったろう？\n試練そのものには。"
                         },
                         {
                             "code": 101,
@@ -10006,15 +9897,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "屁理屈！　屁理屈！"
-                            ]
+                                "Sophistry! Sophistry!"
+                            ],
+                            "_original": "屁理屈！　屁理屈！"
                         },
                         {
                             "code": 101,
@@ -10024,22 +9917,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "説明を、ザフラ殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これはあなたを信じた私の友人への不義理です。"
-                            ]
+                                "Explain yourself, Zafra. This is a\nbetrayal of my friends who trusted you."
+                            ],
+                            "_original": "説明を、ザフラ殿。\nこれはあなたを信じた私の友人への不義理です。"
                         },
                         {
                             "code": 101,
@@ -10049,22 +9937,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "申し訳ございません……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当に、こんなことになるとは思わなかったのです。"
-                            ]
+                                "I'm truly sorry… I never imagined this would\nhappen."
+                            ],
+                            "_original": "申し訳ございません……\n本当に、こんなことになるとは思わなかったのです。"
                         },
                         {
                             "code": 101,
@@ -10074,22 +9957,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんか謝ってばかりじゃのう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ザフラちゃん。"
-                            ]
+                                "You're just apologizing, Zafra-chan."
+                            ],
+                            "_original": "なんか謝ってばかりじゃのう。\nザフラちゃん。"
                         },
                         {
                             "code": 101,
@@ -10099,22 +9977,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今のは何だ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "知っていることをすべて話せ。"
-                            ]
+                                "What was that? Tell us everything you\nknow."
+                            ],
+                            "_original": "今のは何だ？\n知っていることをすべて話せ。"
                         },
                         {
                             "code": 101,
@@ -10124,22 +9997,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "聖刻の像……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勇士と偽り、祝福を得ようとする者を罰する存在です。"
-                            ]
+                                "The Sacred Engraving Statue… It punishes those\nwho pretend to be warriors to obtain Blessing."
+                            ],
+                            "_original": "聖刻の像……\n勇士と偽り、祝福を得ようとする者を罰する存在です。"
                         },
                         {
                             "code": 101,
@@ -10149,22 +10017,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おやおや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N[10]さんは勇士に相応しくなかったと？"
-                            ]
+                                "Oh dear. So \\N[10]-san wasn't worthy of being\na warrior?"
+                            ],
+                            "_original": "おやおや。\n\\N[10]さんは勇士に相応しくなかったと？"
                         },
                         {
                             "code": 101,
@@ -10174,22 +10037,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あり得ません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私はともかく、我が神が認められた以上……"
-                            ]
+                                "Impossible. Regardless of me, if our god has\nacknowledged them…"
+                            ],
+                            "_original": "あり得ません。\n私はともかく、我が神が認められた以上……"
                         },
                         {
                             "code": 117,
@@ -10222,22 +10080,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうとも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我の目に狂いはない。"
-                            ]
+                                "That's right. My judgment is flawless."
+                            ],
+                            "_original": "そうとも。\n我の目に狂いはない。"
                         },
                         {
                             "code": 101,
@@ -10247,15 +10100,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だったらなんであんなことになるんですか！"
-                            ]
+                                "Then why did that happen?!"
+                            ],
+                            "_original": "だったらなんであんなことになるんですか！"
                         },
                         {
                             "code": 117,
@@ -10272,15 +10127,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きっと敵が勇士の誕生を阻んで……"
-                            ]
+                                "Perhaps the enemy is trying to prevent the birth\nof a warrior…"
+                            ],
+                            "_original": "きっと敵が勇士の誕生を阻んで……"
                         },
                         {
                             "code": 101,
@@ -10290,15 +10147,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵って、勇士として倒すべきもののことだろうか？"
-                            ]
+                                "Enemy? You mean the ones we're supposed\nto defeat as warriors?"
+                            ],
+                            "_original": "敵って、勇士として倒すべきもののことだろうか？"
                         },
                         {
                             "code": 101,
@@ -10308,15 +10167,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、ええと……"
-                            ]
+                                "Ah, um…"
+                            ],
+                            "_original": "あっ、ええと……"
                         },
                         {
                             "code": 101,
@@ -10326,22 +10187,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう……ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その通りです。"
-                            ]
+                                "Yes… That's correct."
+                            ],
+                            "_original": "そう……ですね。\nその通りです。"
                         },
                         {
                             "code": 117,
@@ -10358,22 +10214,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "闇の手先か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くだらん真似をしてくれる。"
-                            ]
+                                "A pawn of darkness, are we? How amusing of you\nto pull such a stunt."
+                            ],
+                            "_original": "闇の手先か。\nくだらん真似をしてくれる。"
                         },
                         {
                             "code": 243,
@@ -10411,22 +10262,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……悪かったな、勇士。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、あまりザフラを責めてくれるな。"
-                            ]
+                                "...My apologies, hero. But don't blame Zafra too\nharshly."
+                            ],
+                            "_original": "……悪かったな、勇士。\nしかし、あまりザフラを責めてくれるな。"
                         },
                         {
                             "code": 101,
@@ -10436,22 +10282,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほあっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あ、あなた……謝れるんですね。"
-                            ]
+                                "Wh-what?! Y-you... can actually\napologize?"
+                            ],
+                            "_original": "ほあっ。\nあ、あなた……謝れるんですね。"
                         },
                         {
                             "code": 117,
@@ -10468,15 +10309,17 @@
                                 2,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "我が神……"
-                            ]
+                                "My god..."
+                            ],
+                            "_original": "我が神……"
                         },
                         {
                             "code": 117,
@@ -10509,22 +10352,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "祝福の儀式は我の手中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すなわち、これは我の不手際だ。"
-                            ]
+                                "The blessing ritual was in my hands. In other\nwords, this was my blunder."
+                            ],
+                            "_original": "祝福の儀式は我の手中。\nすなわち、これは我の不手際だ。"
                         },
                         {
                             "code": 244,
@@ -10555,22 +10393,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかしまあ、失敗は誰にでもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "許すがよい。"
-                            ]
+                                "But well, everyone makes mistakes. You should\nforgive me."
+                            ],
+                            "_original": "しかしまあ、失敗は誰にでもある。\n許すがよい。"
                         },
                         {
                             "code": 101,
@@ -10580,15 +10413,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……謝れるけど横柄ですね。"
-                            ]
+                                "...You can apologize, but you're still\nso arrogant."
+                            ],
+                            "_original": "……謝れるけど横柄ですね。"
                         },
                         {
                             "code": 101,
@@ -10598,15 +10433,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いや、意外にも夕闇殿より……"
-                            ]
+                                "Actually, this is more humble than I\nexpected from Yuuyami-dono..."
+                            ],
+                            "_original": "いや、意外にも夕闇殿より……"
                         },
                         {
                             "code": 101,
@@ -10616,15 +10453,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん？"
-                            ]
+                                "Hm?"
+                            ],
+                            "_original": "ん？"
                         },
                         {
                             "code": 101,
@@ -10634,22 +10473,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "儀式そのものは続けられましょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここまで来て祝福を受けられぬとなると……"
-                            ]
+                                "Can we continue the ritual? If we've\ncome this far and still can't receive\nthe blessing..."
+                            ],
+                            "_original": "儀式そのものは続けられましょうか？\nここまで来て祝福を受けられぬとなると……"
                         },
                         {
                             "code": 231,
@@ -10675,22 +10509,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "安心しろ。我は神だぞ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんな石人形程度で阻める存在ではないのだ。"
-                            ]
+                                "Relax. I am a god, am I not? A mere stone statue\nisn't enough to stop me."
+                            ],
+                            "_original": "安心しろ。我は神だぞ？\nあんな石人形程度で阻める存在ではないのだ。"
                         },
                         {
                             "code": 242,
@@ -10794,22 +10623,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、終わった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前たちは今、\\C[17]アスワドの祝福\\C[0]を得た。"
-                            ]
+                                "There. It's done. You have all now received\n\\C[17]Aswad's Blessing\\C[0]."
+                            ],
+                            "_original": "よし、終わった。\nお前たちは今、\\C[17]アスワドの祝福\\C[0]を得た。"
                         },
                         {
                             "code": 117,
@@ -10826,15 +10650,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わあ～！"
-                            ]
+                                "Waaah~!"
+                            ],
+                            "_original": "わあ～！"
                         },
                         {
                             "code": 101,
@@ -10844,29 +10670,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっさりと完了しましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先ほどの仰々しい感じのことは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やらなくてよかったのですか？"
-                            ]
+                                "That was quick. Did we not need to do\nthat grand, dramatic thing from earlier?"
+                            ],
+                            "_original": "あっさりと完了しましたね。\n先ほどの仰々しい感じのことは\nやらなくてよかったのですか？"
                         },
                         {
                             "code": 117,
@@ -10899,15 +10713,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やり直すとかっこ悪いだろう。"
-                            ]
+                                "Doing it over would be embarrassing."
+                            ],
+                            "_original": "やり直すとかっこ悪いだろう。"
                         },
                         {
                             "code": 101,
@@ -10917,15 +10733,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さ、さような問題なのでしょうか。"
-                            ]
+                                "I-is that really the issue here?"
+                            ],
+                            "_original": "さ、さような問題なのでしょうか。"
                         },
                         {
                             "code": 101,
@@ -10935,22 +10753,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……まあ、なんでもいいのですが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちゃんと祝福を貰えたのであれば。"
-                            ]
+                                "...Well, I suppose it doesn't matter. As\nlong as we got the blessing."
+                            ],
+                            "_original": "……まあ、なんでもいいのですが。\nちゃんと祝福を貰えたのであれば。"
                         },
                         {
                             "code": 101,
@@ -10960,15 +10773,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実感はあるか？"
-                            ]
+                                "Do you feel it?"
+                            ],
+                            "_original": "実感はあるか？"
                         },
                         {
                             "code": 101,
@@ -10978,15 +10793,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん、別に……"
-                            ]
+                                "Hmm... Not really..."
+                            ],
+                            "_original": "うーん、別に……"
                         },
                         {
                             "code": 117,
@@ -11019,22 +10836,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今の時点で実感などあるものか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "祝福の恩恵は聖刻碑のもとで初めて得られる。"
-                            ]
+                                "You wouldn't feel it right now. The benefits of\nthe blessing only take effect at the sacred\nmonument."
+                            ],
+                            "_original": "今の時点で実感などあるものか。\n祝福の恩恵は聖刻碑のもとで初めて得られる。"
                         },
                         {
                             "code": 117,
@@ -11067,15 +10879,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "聖刻碑？"
-                            ]
+                                "Sacred monument?"
+                            ],
+                            "_original": "聖刻碑？"
                         },
                         {
                             "code": 117,
@@ -11108,22 +10922,17 @@
                                 2,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザフラ。我は疲れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あとの説明はお前に任せる。"
-                            ]
+                                "Zafra. I'm tired. You handle the rest of the\nexplanation."
+                            ],
+                            "_original": "ザフラ。我は疲れた。\nあとの説明はお前に任せる。"
                         },
                         {
                             "code": 101,
@@ -11133,29 +10942,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "承知いたしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……皆様もお疲れでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一度宮殿に戻り、休息ののちに説明いたします。"
-                            ]
+                                "Understood. ...You all must be exhausted\nas well. Let us return to the palace,\nrest, and then I will explain\neverything."
+                            ],
+                            "_original": "承知いたしました。\n……皆様もお疲れでしょう。\n一度宮殿に戻り、休息ののちに説明いたします。"
                         },
                         {
                             "code": 242,

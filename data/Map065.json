@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "真白神社",
+    "displayName": "Mashiro Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3421,22 +3421,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、\\N[10]様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょうどいいところに。"
-                            ]
+                                "Ah, \\N[10]-sama. You're just in time."
+                            ],
+                            "_original": "ああ、\\N[10]様。\nちょうどいいところに。"
                         },
                         {
                             "code": 101,
@@ -3446,22 +3441,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "前回の折、あなた様に案内し損ねた場所がありまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがこの鍛冶場です。"
-                            ]
+                                "On our last visit, there was a place I failed to\nshow you. That is this forge."
+                            ],
+                            "_original": "前回の折、あなた様に案内し損ねた場所がありまして。\nそれがこの鍛冶場です。"
                         },
                         {
                             "code": 101,
@@ -3471,22 +3461,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神社に鍛冶場など不似合いだと思うでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、むしろこここそが要。"
-                            ]
+                                "You might think a forge doesn't suit a shrine.\nHowever, this place is actually the heart of it."
+                            ],
+                            "_original": "神社に鍛冶場など不似合いだと思うでしょう。\nしかし、むしろこここそが要。"
                         },
                         {
                             "code": 101,
@@ -3496,29 +3481,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真白神社の神は剣の神でもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつてはここに刀匠を招き、神のために刀を打った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは鍛錬神事と呼ばれました──"
-                            ]
+                                "The god of Mashiro Shrine is also a god of\nswords. In the past, swordsmiths were invited\nhere to forge blades for the god. That was\ncalled the Forging Ritual――"
+                            ],
+                            "_original": "真白神社の神は剣の神でもある。\nかつてはここに刀匠を招き、神のために刀を打った。\nこれは鍛錬神事と呼ばれました──"
                         },
                         {
                             "code": 101,
@@ -3528,22 +3501,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──残念ながら、すべては過去のこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現在では見ての通り鍛冶場は使われていません。"
-                            ]
+                                "――Unfortunately, all that is in the past. As you\ncan see, the forge is no longer used."
+                            ],
+                            "_original": "──残念ながら、すべては過去のこと。\n現在では見ての通り鍛冶場は使われていません。"
                         },
                         {
                             "code": 101,
@@ -3553,29 +3521,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこで一つ提案があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞けば、あなた様は物作りに長けているようで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よければ鍛冶場をお使いください。"
-                            ]
+                                "So I have a proposal. I hear you are skilled at\ncrafting. If you'd like, please make use of this\nforge."
+                            ],
+                            "_original": "そこで一つ提案があります。\n聞けば、あなた様は物作りに長けているようで。\nよければ鍛冶場をお使いください。"
                         },
                         {
                             "code": 101,
@@ -3585,29 +3541,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここには神の力が宿っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた様の腕次第で、刀のみならず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "様々なものを作れましょう。"
-                            ]
+                                "This place is imbued with the power of the gods.\nDepending on your skill, you could make not only\nswords but also various other things."
+                            ],
+                            "_original": "ここには神の力が宿っています。\nあなた様の腕次第で、刀のみならず、\n様々なものを作れましょう。"
                         },
                         {
                             "code": 101,
@@ -3617,22 +3561,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍛冶場が賑わえば、きっと神も喜ばれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お暇なときには、ぜひ。"
-                            ]
+                                "If the forge becomes lively, I'm sure the god\nwill be pleased. Please do come by when you have\ntime."
+                            ],
+                            "_original": "鍛冶場が賑わえば、きっと神も喜ばれる。\nお暇なときには、ぜひ。"
                         },
                         {
                             "code": 221,
@@ -3696,15 +3635,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]鍛錬神事\\C[0] 達成！"
-                            ]
+                                "\\C[17]Forging Ritual\\C[0] Achieved!"
+                            ],
+                            "_original": "\\C[17]鍛錬神事\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -3733,15 +3674,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【拠点強化】\\C[0]"
-                            ]
+                                "\\C[16]【Base Upgrade】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【拠点強化】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍛冶場で合成を行えるようになりました。"
-                            ]
+                                "You can now perform synthesis at the forge."
+                            ],
+                            "_original": "鍛冶場で合成を行えるようになりました。"
                         },
                         {
                             "code": 0,
@@ -3885,20 +3828,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでいろいろなものを作れそうだ。"
-                            ]
+                                "It looks like I can make all sorts of things\nhere."
+                            ],
+                            "_original": "ここでいろいろなものを作れそうだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\I[126]鍛錬神事if(s[251])"
+                                    "\\I[126]Forge Ritualif(s[251])"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "\\I[126]鍛錬神事if(s[251])"
                             ]
                         },
                         {
@@ -4021,13 +3968,17 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "刻印製作",
-                                    "魂錬成"
+                                    "Engraving Crafting",
+                                    "Soul Alchemy"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "刻印製作",
+                                "魂錬成"
                             ]
                         },
                         {
@@ -4128,12 +4079,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "龍の種火を使うif(s[255])"
+                                    "Use Dragon Emberif(s[255])"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "龍の種火を使うif(s[255])"
                             ]
                         },
                         {
@@ -4353,12 +4307,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ち去る"
+                                    "Leave"
                                 ],
                                 0,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "立ち去る"
                             ]
                         },
                         {
@@ -4470,20 +4427,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでいろいろなものを作れそうだ。"
-                            ]
+                                "It looks like I can make all sorts of things\nhere."
+                            ],
+                            "_original": "ここでいろいろなものを作れそうだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\I[126]鍛錬神事if(s[251])"
+                                    "\\I[126]Forge Ritualif(s[251])"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "\\I[126]鍛錬神事if(s[251])"
                             ]
                         },
                         {
@@ -4606,14 +4567,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "刻印製作１",
-                                    "刻印製作２",
-                                    "魂錬成"
+                                    "Engraving Crafting 1",
+                                    "Engraving Crafting 2",
+                                    "Soul Refinement"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "刻印製作１",
+                                "刻印製作２",
+                                "魂錬成"
                             ]
                         },
                         {
@@ -4764,12 +4730,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "龍の種火を使うif(s[255])"
+                                    "Use Dragon Emberif(s[255])"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "龍の種火を使うif(s[255])"
                             ]
                         },
                         {
@@ -4989,12 +4958,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ち去る"
+                                    "Leave"
                                 ],
                                 0,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "立ち去る"
                             ]
                         },
                         {
@@ -5106,20 +5078,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでいろいろなものを作れそうだ。"
-                            ]
+                                "It looks like I can make all sorts of things\nhere."
+                            ],
+                            "_original": "ここでいろいろなものを作れそうだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\I[126]鍛錬神事if(s[251])"
+                                    "\\I[126]Forge Ritualif(s[251])"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "\\I[126]鍛錬神事if(s[251])"
                             ]
                         },
                         {
@@ -5242,15 +5218,21 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "刻印製作１",
-                                    "刻印製作２",
-                                    "刻印製作３",
-                                    "魂錬成"
+                                    "Craft Engraving 1",
+                                    "Craft Engraving 2",
+                                    "Craft Engraving 3",
+                                    "Soul Refinement"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "刻印製作１",
+                                "刻印製作２",
+                                "刻印製作３",
+                                "魂錬成"
                             ]
                         },
                         {
@@ -5451,12 +5433,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "龍の種火を使うif(s[255])"
+                                    "Use Dragon Emberif(s[255])"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "龍の種火を使うif(s[255])"
                             ]
                         },
                         {
@@ -5676,12 +5661,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ち去る"
+                                    "Leave"
                                 ],
                                 0,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "立ち去る"
                             ]
                         },
                         {
@@ -5917,8 +5905,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "古びた棚だ。"
-                            ]
+                                "An old, worn-out shelf."
+                            ],
+                            "_original": "古びた棚だ。"
                         },
                         {
                             "code": 0,
@@ -6004,8 +5993,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "古びた棚だ。"
-                            ]
+                                "An old, worn-out shelf."
+                            ],
+                            "_original": "古びた棚だ。"
                         },
                         {
                             "code": 0,
@@ -6092,15 +6082,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに置かれている意味が、きっとあるのだろう。"
-                            ]
+                                "There is alcohol. Surely it must have a reason\nfor being placed here."
+                            ],
+                            "_original": "酒がある。\nここに置かれている意味が、きっとあるのだろう。"
                         },
                         {
                             "code": 0,
@@ -6177,8 +6161,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桶の中の水は澄んでいる。"
-                            ]
+                                "The water in the bucket is clear."
+                            ],
+                            "_original": "桶の中の水は澄んでいる。"
                         },
                         {
                             "code": 0,
@@ -6326,22 +6311,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お主、聞けば物作りに長けているそうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうだ、鍛錬神事に参加する気はないか？"
-                            ]
+                                "You there, I hear you're skilled in\ncraftsmanship. How about it, are you interested\nin taking part in the Forging Ritual?"
+                            ],
+                            "_original": "お主、聞けば物作りに長けているそうだな。\nどうだ、鍛錬神事に参加する気はないか？"
                         },
                         {
                             "code": 101,
@@ -6351,8 +6331,9 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
@@ -6482,15 +6463,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうした、村雨。"
-                            ]
+                                "What's the matter, Murasame?"
+                            ],
+                            "_original": "どうした、村雨。"
                         },
                         {
                             "code": 101,
@@ -6500,22 +6483,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いい腕だ。"
-                            ]
+                                "I see... Good skill."
+                            ],
+                            "_original": "なるほど……\nいい腕だ。"
                         },
                         {
                             "code": 205,
@@ -6570,22 +6548,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "冨波、お前は不要。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この男と二人でやる。"
-                            ]
+                                "Toba, you're not needed. I'll do it with this\nman alone."
+                            ],
+                            "_original": "冨波、お前は不要。\nこの男と二人でやる。"
                         },
                         {
                             "code": 101,
@@ -6595,22 +6568,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なに？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どういうつもりだ？"
-                            ]
+                                "What? What do you mean by that?"
+                            ],
+                            "_original": "なに？\nどういうつもりだ？"
                         },
                         {
                             "code": 101,
@@ -6620,22 +6588,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それほどの才がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私すらも不要かもしれん。"
-                            ]
+                                "He has such talent. Even I may be unnecessary."
+                            ],
+                            "_original": "それほどの才がある。\n私すらも不要かもしれん。"
                         },
                         {
                             "code": 101,
@@ -6645,22 +6608,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……お主がそこまで言うか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "分かった。"
-                            ]
+                                "…If you're going to say that much, then fine."
+                            ],
+                            "_original": "……お主がそこまで言うか。\n分かった。"
                         },
                         {
                             "code": 205,
@@ -6757,22 +6715,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では、任せるとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょうどよい……儂はナズナを鍛えてくるか。"
-                            ]
+                                "Then, I'll leave it to you. Just as well... I'll\ngo train Nazuna, I suppose."
+                            ],
+                            "_original": "では、任せるとしよう。\nちょうどよい……儂はナズナを鍛えてくるか。"
                         },
                         {
                             "code": 205,
@@ -6889,15 +6842,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "手伝え。"
-                            ]
+                                "Help me."
+                            ],
+                            "_original": "手伝え。"
                         },
                         {
                             "code": 213,
@@ -6923,15 +6878,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何も言っていないのだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "断れそうにない雰囲気だ。"
-                            ]
+                                "I haven't said anything yet... but it feels like\nI can't refuse."
+                            ],
+                            "_original": "何も言っていないのだが……\n断れそうにない雰囲気だ。"
                         },
                         {
                             "code": 221,
@@ -6999,15 +6948,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]冨波の訪問\\C[0] 達成！"
-                            ]
+                                "\\C[17]Toba's Visit\\C[0] Achieved!"
+                            ],
+                            "_original": "\\C[17]冨波の訪問\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -7036,15 +6987,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント追加】\\C[0]"
-                            ]
+                                "\\C[16]【Event Add】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベント一覧に\\C[17]白刀流、修行の四\\C[0]が追加されました。"
-                            ]
+                                "\\C[17]White Sword Style, Fourth Training\\C[0] has been\nadded to the event list."
+                            ],
+                            "_original": "イベント一覧に\\C[17]白刀流、修行の四\\C[0]が追加されました。"
                         },
                         {
                             "code": 0,
@@ -7064,29 +7017,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さて、準備は万端だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし人手が足りぬな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ナズナでは厳しかろうし、ううむ……"
-                            ]
+                                "Now then, preparations are complete. But we're\nshort on hands... Nazuna would be insufficient,\nhmm..."
+                            ],
+                            "_original": "さて、準備は万端だ。\nしかし人手が足りぬな……\nナズナでは厳しかろうし、ううむ……"
                         },
                         {
                             "code": 250,
@@ -7115,22 +7056,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【情報】\\C[0]"
-                            ]
+                                "\\C[16]【Information】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【情報】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントを進行させるには、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]イベント005『鍛錬神事』\\C[0]の達成が必要です。"
-                            ]
+                                "To progress this event, completion of \\C[17]Event 005\n\"Forging Ritual\"\\C[0] is required."
+                            ],
+                            "_original": "このイベントを進行させるには、\n\\C[17]イベント005『鍛錬神事』\\C[0]の達成が必要です。"
                         },
                         {
                             "code": 0,
@@ -7363,15 +7299,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いい火だ。"
-                            ]
+                                "...Good fire."
+                            ],
+                            "_original": "……いい火だ。"
                         },
                         {
                             "code": 0,
@@ -7670,22 +7608,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これを渡そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神の素材だ。"
-                            ]
+                                "I'll give you this. It's divine material."
+                            ],
+                            "_original": "これを渡そう。\n神の素材だ。"
                         },
                         {
                             "code": 101,
@@ -7695,22 +7628,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……お前ならば打てる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるいは、剣以外をも。"
-                            ]
+                                "……You can forge it. Or perhaps even something\nother than a sword."
+                            ],
+                            "_original": "……お前ならば打てる。\nあるいは、剣以外をも。"
                         },
                         {
                             "code": 101,
@@ -7720,22 +7648,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も手を貸す。"
-                            ]
+                                "Don't worry. I'll lend a hand too."
+                            ],
+                            "_original": "安心しろ。\n私も手を貸す。"
                         },
                         {
                             "code": 101,
@@ -7752,22 +7675,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……よく分からないが、貰った素材で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "武器を作ればいいのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試してみるとしよう。"
-                            ]
+                                "……I'm not sure, but maybe I should make a weapon\nwith the material I received. Let's give it a\ntry."
+                            ],
+                            "_original": "……よく分からないが、貰った素材で\n武器を作ればいいのだろうか。\n試してみるとしよう。"
                         },
                         {
                             "code": 221,
@@ -7833,15 +7743,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]白刀流、修行の四\\C[0]が更新されました。"
-                            ]
+                                "The \\C[17]White Sword Style, Training Four\\C[0] event has\nbeen updated."
+                            ],
+                            "_original": "イベントの\\C[17]白刀流、修行の四\\C[0]が更新されました。"
                         },
                         {
                             "code": 122,
@@ -7930,22 +7842,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、打て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神の武器を。"
-                            ]
+                                "Now, forge it. The weapon of the gods."
+                            ],
+                            "_original": "さあ、打て。\n神の武器を。"
                         },
                         {
                             "code": 0,
@@ -8304,8 +8211,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "必要な武器ができた。"
-                            ]
+                                "The required weapon is ready."
+                            ],
+                            "_original": "必要な武器ができた。"
                         },
                         {
                             "code": 281,
@@ -8435,15 +8343,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……完璧だな。"
-                            ]
+                                "……Perfect."
+                            ],
+                            "_original": "……完璧だな。"
                         },
                         {
                             "code": 101,
@@ -8453,22 +8363,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだ、村雨たち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "順調か？"
-                            ]
+                                "How goes it, Murasame? Is everything on track?"
+                            ],
+                            "_original": "どうだ、村雨たち。\n順調か？"
                         },
                         {
                             "code": 205,
@@ -8582,15 +8487,17 @@
                                 0,
                                 0,
                                 2,
-                                "村雨"
-                            ]
+                                "Murasame"
+                            ],
+                            "_original": "村雨"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かめてみるがいい。"
-                            ]
+                                "See for yourself."
+                            ],
+                            "_original": "確かめてみるがいい。"
                         },
                         {
                             "code": 205,
@@ -8640,22 +8547,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見事。"
-                            ]
+                                "I see. Splendid."
+                            ],
+                            "_original": "なるほど。\n見事。"
                         },
                         {
                             "code": 205,
@@ -8741,22 +8643,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お主、\\N[10]だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この武器、しばし借り受けるぞ。"
-                            ]
+                                "You're \\N[10], aren't you? I'll borrow this weapon for\na while."
+                            ],
+                            "_original": "お主、\\N[10]だったな。\nこの武器、しばし借り受けるぞ。"
                         },
                         {
                             "code": 101,
@@ -8766,22 +8663,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Toba"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なに、案ずるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに返す。"
-                            ]
+                                "Don't worry. I'll return it soon."
+                            ],
+                            "_original": "なに、案ずるな。\nすぐに返す。"
                         },
                         {
                             "code": 221,
@@ -8865,22 +8757,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お疲れさまでした、\\N[10]様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "此度の鍛錬神事、ささやかながらも成し得ました。"
-                            ]
+                                "Good work, \\N[10]-sama. We have managed to complete\nthis training ritual, humble as it may be."
+                            ],
+                            "_original": "お疲れさまでした、\\N[10]様。\n此度の鍛錬神事、ささやかながらも成し得ました。"
                         },
                         {
                             "code": 117,
@@ -8897,22 +8784,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も疲れた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冨波殿に叩き直された。"
-                            ]
+                                "I'm exhausted too...\nToba-dono really put me through the wringer."
+                            ],
+                            "_original": "私も疲れた……\n冨波殿に叩き直された。"
                         },
                         {
                             "code": 117,
@@ -8929,22 +8811,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、この真白の武器──本来は蔵に納めるのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はあなた様が役立てるべきでしょう。"
-                            ]
+                                "Now then, this pure white weapon—normally, it would be kept in the storehouse,\nbut I believe you should be the one to put it to use now."
+                            ],
+                            "_original": "さて、この真白の武器──本来は蔵に納めるのですが、\n今はあなた様が役立てるべきでしょう。"
                         },
                         {
                             "code": 117,
@@ -8961,15 +8838,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村雨殿も私を叩いた……"
-                            ]
+                                "Murasame-dono also gave me a scolding..."
+                            ],
+                            "_original": "村雨殿も私を叩いた……"
                         },
                         {
                             "code": 221,
@@ -9034,15 +8913,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]白刀流、修行の四\\C[0] 達成！"
-                            ]
+                                "\\C[17]White Sword Style, Training Four\\C[0] Achieved!"
+                            ],
+                            "_original": "\\C[17]白刀流、修行の四\\C[0] 達成！"
                         },
                         {
                             "code": 111,
@@ -9191,22 +9072,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【スキル習得】\\C[0]"
-                            ]
+                                "\\C[16]【Skill Learned】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【スキル習得】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ナズナの\\I[83]\\C[24]修行の成果Ⅰ\\C[0]と\\I[83]\\C[24]修行の成果Ⅱ\\C[0]が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\I[83]\\C[24]白刀流皆伝\\C[0]に変化しました。"
-                            ]
+                                "Nazuna's \\I[83]\\C[24]Fruits of Training I\\C[0] and \\I[83]\\C[24]Fruits of\nTraining II\\C[0] have changed to \\I[83]\\C[24]White Sword Style\nMastery\\C[0]."
+                            ],
+                            "_original": "ナズナの\\I[83]\\C[24]修行の成果Ⅰ\\C[0]と\\I[83]\\C[24]修行の成果Ⅱ\\C[0]が\n\\I[83]\\C[24]白刀流皆伝\\C[0]に変化しました。"
                         },
                         {
                             "code": 0,

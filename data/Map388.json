@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "第三層研究施設",
+    "displayName": "Third Layer Research Facility",
     "encounterList": [],
     "encounterStep": 30,
     "height": 37,
@@ -5820,15 +5820,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここも何かしらの観光施設だろうか？"
-                            ]
+                                "Is this some kind of tourist attraction?"
+                            ],
+                            "_original": "ここも何かしらの観光施設だろうか？"
                         },
                         {
                             "code": 213,
@@ -5854,8 +5856,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
+                                "Hm?"
+                            ],
+                            "_original": "ん？"
                         },
                         {
                             "code": 205,
@@ -5987,15 +5990,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久々だな……\\C[17]第三層研究施設\\C[0]へようこそ。"
-                            ]
+                                "A guest? It's been a while...\\C[17]Welcome to the\nThird Layer Research Facility\\C[0]."
+                            ],
+                            "_original": "客か？\n久々だな……\\C[17]第三層研究施設\\C[0]へようこそ。"
                         },
                         {
                             "code": 101,
@@ -6005,22 +6002,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれって……魔物ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法使いの。"
-                            ]
+                                "That... that's a monster, right? A\nmagic-user one."
+                            ],
+                            "_original": "あれって……魔物ですよね。\n魔法使いの。"
                         },
                         {
                             "code": 101,
@@ -6030,22 +6022,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正体はオルーサだろうが。"
-                            ]
+                                "Yeah. Probably Orsa."
+                            ],
+                            "_original": "そうだな。\n正体はオルーサだろうが。"
                         },
                         {
                             "code": 205,
@@ -6207,15 +6194,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは！"
-                            ]
+                                "Hello!"
+                            ],
+                            "_original": "こんにちは！"
                         },
                         {
                             "code": 101,
@@ -6232,15 +6221,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "第三層研究施設へようこそ。"
-                            ]
+                                "Ah, hello. Welcome to the Third Layer Research\nFacility."
+                            ],
+                            "_original": "ああ、こんにちは。\n第三層研究施設へようこそ。"
                         },
                         {
                             "code": 101,
@@ -6250,22 +6233,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはもう聞きました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは？"
-                            ]
+                                "We already heard that. And you are?"
+                            ],
+                            "_original": "それはもう聞きました。\nあなたは？"
                         },
                         {
                             "code": 101,
@@ -6282,22 +6260,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここの責任者──のルーフを宿し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今も働き続けているオルーサだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オルーサについての説明は必要か？"
-                            ]
+                                "The person in charge here―I house the Roof, and\nI continue to work as Orsa. Do you need an\nexplanation about Orsa?"
+                            ],
+                            "_original": "ここの責任者──のルーフを宿し、\n今も働き続けているオルーサだ。\nオルーサについての説明は必要か？"
                         },
                         {
                             "code": 101,
@@ -6307,22 +6272,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫だ、分かっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ある程度は！"
-                            ]
+                                "It's fine, I understand. To an extent!"
+                            ],
+                            "_original": "大丈夫だ、分かっている。\nある程度は！"
                         },
                         {
                             "code": 101,
@@ -6332,15 +6292,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "名前はないのでしょうか。"
-                            ]
+                                "So you don't have a name?"
+                            ],
+                            "_original": "名前はないのでしょうか。"
                         },
                         {
                             "code": 101,
@@ -6350,22 +6312,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ファドワと呼んでくれたまえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちは……なるほど、先の勇士体験者か。"
-                            ]
+                                "Call me Fadwa. You all are... I see, the\nprevious Hero Experience participants."
+                            ],
+                            "_original": "ファドワと呼んでくれたまえ。\n君たちは……なるほど、先の勇士体験者か。"
                         },
                         {
                             "code": 101,
@@ -6375,15 +6332,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かるんじゃな。"
-                            ]
+                                "You can tell, huh."
+                            ],
+                            "_original": "分かるんじゃな。"
                         },
                         {
                             "code": 101,
@@ -6393,22 +6352,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでは内層の情報を取り扱っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "専門ではないがね。"
-                            ]
+                                "Here, we handle information about the inner\nlayers. Though it's not my specialty."
+                            ],
+                            "_original": "ここでは内層の情報を取り扱っている。\n専門ではないがね。"
                         },
                         {
                             "code": 101,
@@ -6418,22 +6372,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともあれ、客なら歓迎しよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きに見て回るといい。"
-                            ]
+                                "In any case, guests are welcome. Feel free to\nlook around."
+                            ],
+                            "_original": "ともあれ、客なら歓迎しよう。\n好きに見て回るといい。"
                         },
                         {
                             "code": 221,
@@ -6490,15 +6439,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント追加】\\C[0]"
-                            ]
+                                "\\C[16]【Event Add】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント一覧に\\C[17]第三層研究施設\\C[0]が追加されました。"
-                            ]
+                                "\\C[17]Third Layer Research Facility\\C[0] has been added to\nthe event list."
+                            ],
+                            "_original": "イベント一覧に\\C[17]第三層研究施設\\C[0]が追加されました。"
                         },
                         {
                             "code": 281,
@@ -6626,15 +6577,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奥へと進み、右側の門をくぐるといい。"
-                            ]
+                                "Go deeper in, then pass through the gate on the\nright."
+                            ],
+                            "_original": "奥へと進み、右側の門をくぐるといい。"
                         },
                         {
                             "code": 0,
@@ -6762,22 +6715,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ファドワ殿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々と見て回ってきた！"
-                            ]
+                                "Fadwa-sama! I've looked around\neverywhere!"
+                            ],
+                            "_original": "ファドワ殿！\n色々と見て回ってきた！"
                         },
                         {
                             "code": 205,
@@ -6832,22 +6780,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早かったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しめたか？"
-                            ]
+                                "That was quick. Did you enjoy yourself?"
+                            ],
+                            "_original": "早かったな。\n楽しめたか？"
                         },
                         {
                             "code": 101,
@@ -6857,22 +6800,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええと……"
-                            ]
+                                "Huh? Uh..."
+                            ],
+                            "_original": "え？\nええと……"
                         },
                         {
                             "code": 213,
@@ -6891,15 +6829,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと。"
-                            ]
+                                "Uh..."
+                            ],
+                            "_original": "ええと。"
                         },
                         {
                             "code": 101,
@@ -6909,15 +6849,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嘘をつけない性格。"
-                            ]
+                                "She can't lie to save her life."
+                            ],
+                            "_original": "嘘をつけない性格。"
                         },
                         {
                             "code": 101,
@@ -6927,22 +6869,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いまいちだったか、まあ当然だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に解説もないし──"
-                            ]
+                                "Not so much, huh? Well, that's only natural.\nThere's no guide or anything―"
+                            ],
+                            "_original": "いまいちだったか、まあ当然だな。\n特に解説もないし──"
                         },
                         {
                             "code": 101,
@@ -6952,22 +6889,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は、そもそもここは観光施設ではないのだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一般に公開されているだけの学術の残骸にすぎない。"
-                            ]
+                                "Actually, this place was never meant to be a\ntourist attraction. It's just the remnants of\nacademic work that happened to be open to the\npublic."
+                            ],
+                            "_original": "実は、そもそもここは観光施設ではないのだよ。\n一般に公開されているだけの学術の残骸にすぎない。"
                         },
                         {
                             "code": 101,
@@ -6977,15 +6909,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「研究施設」だそうですしね。"
-                            ]
+                                "\"It's a research facility,\" after all."
+                            ],
+                            "_original": "「研究施設」だそうですしね。"
                         },
                         {
                             "code": 101,
@@ -6995,22 +6929,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、ここは第三層研究施設。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "去った友への敬意と言える場所。"
-                            ]
+                                "That's right. This is the Third Layer Research\nFacility. A place that pays tribute to a lost\nfriend."
+                            ],
+                            "_original": "そう、ここは第三層研究施設。\n去った友への敬意と言える場所。"
                         },
                         {
                             "code": 242,
@@ -7027,15 +6956,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第三層……"
-                            ]
+                                "The Third Layer..."
+                            ],
+                            "_original": "第三層……"
                         },
                         {
                             "code": 101,
@@ -7045,22 +6976,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……つまり、アル・ヘルムで再現された国は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラムルアラムだけではなかったのだろうか。"
-                            ]
+                                "...So, does that mean Al-Helm didn't\njust recreate Ramul Alam? There were\nothers?"
+                            ],
+                            "_original": "……つまり、アル・ヘルムで再現された国は\nラムルアラムだけではなかったのだろうか。"
                         },
                         {
                             "code": 101,
@@ -7070,15 +6996,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
+                                "Huh?"
+                            ],
+                            "_original": "え？"
                         },
                         {
                             "code": 101,
@@ -7088,22 +7016,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうことだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正確には、そういう計画があった、だが──"
-                            ]
+                                "Exactly. Or rather, there was a plan to―"
+                            ],
+                            "_original": "そういうことだ。\n正確には、そういう計画があった、だが──"
                         },
                         {
                             "code": 101,
@@ -7113,22 +7036,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アル・ヘルムにはもう一つの層が作られる予定だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内層の更に内側に、太陽の光を遮らないような形で。"
-                            ]
+                                "Al-Helm was supposed to have another layer.\nDeeper inside the inner layer, designed so it\nwouldn't block the sunlight."
+                            ],
+                            "_original": "アル・ヘルムにはもう一つの層が作られる予定だった。\n内層の更に内側に、太陽の光を遮らないような形で。"
                         },
                         {
                             "code": 101,
@@ -7138,22 +7056,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "再現される予定だった国の名は\\C[17]レタル\\C[0]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつての隣国であり、かつ一番の友好国でもあった。"
-                            ]
+                                "The country that was meant to be recreated there\nwas \\C[17]Retal\\C[0]. It was once a neighboring country,\nand our closest ally."
+                            ],
+                            "_original": "再現される予定だった国の名は\\C[17]レタル\\C[0]。\nかつての隣国であり、かつ一番の友好国でもあった。"
                         },
                         {
                             "code": 241,
@@ -7175,22 +7088,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱり、そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにあったんだねえ。"
-                            ]
+                                "So that's where it was, huh. Makes\nsense."
+                            ],
+                            "_original": "やっぱり、そうか。\nここにあったんだねえ。"
                         },
                         {
                             "code": 101,
@@ -7200,15 +7108,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜに作るのをやめたんじゃ？"
-                            ]
+                                "Then why did they stop building it?"
+                            ],
+                            "_original": "なぜに作るのをやめたんじゃ？"
                         },
                         {
                             "code": 101,
@@ -7218,22 +7128,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間に合わなかったのだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完成する前に、ここは避難場所になってしまった。"
-                            ]
+                                "They ran out of time. Before it could be\nfinished, this place became a refuge."
+                            ],
+                            "_original": "間に合わなかったのだよ。\n完成する前に、ここは避難場所になってしまった。"
                         },
                         {
                             "code": 101,
@@ -7243,22 +7148,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作りかけの第三層は時と共に朽ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今や砂に埋もれてしまった。"
-                            ]
+                                "The unfinished Third Layer decayed over time,\nand now it's buried beneath the sand."
+                            ],
+                            "_original": "作りかけの第三層は時と共に朽ち、\n今や砂に埋もれてしまった。"
                         },
                         {
                             "code": 101,
@@ -7268,22 +7168,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内層の環境は光の属性によって保たれているのでは？"
-                            ]
+                                "Oh? Isn't the inner layer's environment\nmaintained by light attributes?"
+                            ],
+                            "_original": "おや？\n内層の環境は光の属性によって保たれているのでは？"
                         },
                         {
                             "code": 101,
@@ -7293,22 +7188,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう、詳しいようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かにその通りだ。"
-                            ]
+                                "Hmm, you're well-informed. That's correct."
+                            ],
+                            "_original": "ほう、詳しいようだな。\n確かにその通りだ。"
                         },
                         {
                             "code": 101,
@@ -7318,22 +7208,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、それは第三層には当てはまらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他でもないレタルの民の要望でね。"
-                            ]
+                                "But that doesn't apply to the Third Layer. It\nwas at the request of the people of Retal\nthemselves."
+                            ],
+                            "_original": "だが、それは第三層には当てはまらない。\n他でもないレタルの民の要望でね。"
                         },
                         {
                             "code": 101,
@@ -7343,15 +7228,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不変を嫌ったということでしょうか。"
-                            ]
+                                "So they disliked the idea of permanence?"
+                            ],
+                            "_original": "不変を嫌ったということでしょうか。"
                         },
                         {
                             "code": 101,
@@ -7361,22 +7248,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "詳しい事情は私にも分からない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ、あまりにも昔のことだ。"
-                            ]
+                                "I don't know the exact details. It was all so\nlong ago."
+                            ],
+                            "_original": "詳しい事情は私にも分からない。\n何せ、あまりにも昔のことだ。"
                         },
                         {
                             "code": 101,
@@ -7386,29 +7268,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともあれ、第三層は朽ち──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして彼らはアル・ヘルムへの避難を選ばなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "滅びゆく地上に残ったのだ。"
-                            ]
+                                "In any case, the Third Layer decayed―and they\nchose not to evacuate to Al-Helm. They stayed on\nthe dying surface."
+                            ],
+                            "_original": "ともあれ、第三層は朽ち──\nそして彼らはアル・ヘルムへの避難を選ばなかった。\n滅びゆく地上に残ったのだ。"
                         },
                         {
                             "code": 101,
@@ -7418,29 +7288,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな彼らの痕跡を少しでも守るべく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "第三層の一部を空間に投影した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが、ここだ。"
-                            ]
+                                "To preserve at least some trace of them, we\nprojected part of the Third Layer into this\nspace. That's what this place is."
+                            ],
+                            "_original": "そんな彼らの痕跡を少しでも守るべく、\n第三層の一部を空間に投影した。\nそれが、ここだ。"
                         },
                         {
                             "code": 242,
@@ -7457,22 +7315,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐らくだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レタルの民は生き延びている。"
-                            ]
+                                "Though... I think the people of Retal\nare still alive."
+                            ],
+                            "_original": "恐らくだが……\nレタルの民は生き延びている。"
                         },
                         {
                             "code": 101,
@@ -7482,15 +7335,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう？"
-                            ]
+                                "Oh?"
+                            ],
+                            "_original": "ほう？"
                         },
                         {
                             "code": 101,
@@ -7500,22 +7355,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地上にあるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく似た国が。"
-                            ]
+                                "On the surface. There's a country there\nthat looks just like it."
+                            ],
+                            "_original": "地上にあるのだ。\nよく似た国が。"
                         },
                         {
                             "code": 213,
@@ -7546,22 +7396,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朗報だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この上ない事実だ。"
-                            ]
+                                "That's wonderful news. The best possible\noutcome."
+                            ],
+                            "_original": "朗報だな。\nこの上ない事実だ。"
                         },
                         {
                             "code": 205,
@@ -7602,22 +7447,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事だったのか、そうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レタルよ……"
-                            ]
+                                "So they were safe... I see... Retal..."
+                            ],
+                            "_original": "無事だったのか、そうか……\nレタルよ……"
                         },
                         {
                             "code": 101,
@@ -7627,22 +7467,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく私も眠れるな。"
-                            ]
+                                "...Heh. Now I can finally rest."
+                            ],
+                            "_original": "……ふっ。\nようやく私も眠れるな。"
                         },
                         {
                             "code": 101,
@@ -7652,29 +7487,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最後に一つ聞きたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とある知り合いは、この外層を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レタルだと思っていたようでねえ。"
-                            ]
+                                "There's one last thing I'd like to ask.\nA certain acquaintance of mine seemed to\nthink this outer layer was Retal."
+                            ],
+                            "_original": "最後に一つ聞きたい。\nとある知り合いは、この外層を\nレタルだと思っていたようでねえ。"
                         },
                         {
                             "code": 101,
@@ -7684,22 +7507,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真実を知ると全く異なるわけだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういうことか分かるかい？"
-                            ]
+                                "The truth is quite different, though...\nDo you have any idea what that's about?"
+                            ],
+                            "_original": "真実を知ると全く異なるわけだが……\nどういうことか分かるかい？"
                         },
                         {
                             "code": 205,
@@ -7740,22 +7558,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょうど友好記念日を祝う期間に訪れたのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "第三層の投影を外層全体に広げる時期があるのだ。"
-                            ]
+                                "You must have visited during the Friendship\nAnniversary celebration. That's when we project\nthe third layer across the entire outer layer."
+                            ],
+                            "_original": "ちょうど友好記念日を祝う期間に訪れたのだろう。\n第三層の投影を外層全体に広げる時期があるのだ。"
                         },
                         {
                             "code": 101,
@@ -7765,22 +7578,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだ、そういうことか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待して損した。"
-                            ]
+                                "Ah, so that's it... What a letdown."
+                            ],
+                            "_original": "なんだ、そういうことか……\n期待して損した。"
                         },
                         {
                             "code": 101,
@@ -7790,22 +7598,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇の目的って、そのレタルっていう国に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったんです？"
-                            ]
+                                "So Yuuyami's goal was related to that\ncountry called Retal?"
+                            ],
+                            "_original": "夕闇の目的って、そのレタルっていう国に\nあったんです？"
                         },
                         {
                             "code": 101,
@@ -7815,15 +7618,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあねえ。"
-                            ]
+                                "More or less."
+                            ],
+                            "_original": "まあねえ。"
                         },
                         {
                             "code": 101,
@@ -7833,15 +7638,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "収穫はなかったようだな。"
-                            ]
+                                "Seems like it was a wasted trip."
+                            ],
+                            "_original": "収穫はなかったようだな。"
                         },
                         {
                             "code": 101,
@@ -7851,22 +7658,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや──知りたいことは知れたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は求めん。"
-                            ]
+                                "No―I learned what I wanted to know. I\nwon't ask for more."
+                            ],
+                            "_original": "いや──知りたいことは知れたよ。\nこれ以上は求めん。"
                         },
                         {
                             "code": 101,
@@ -7876,15 +7678,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんじゃ、知りたいことって。"
-                            ]
+                                "What do you mean, 'what you wanted to\nknow'?"
+                            ],
+                            "_original": "なんじゃ、知りたいことって。"
                         },
                         {
                             "code": 101,
@@ -7894,15 +7698,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるさい。"
-                            ]
+                                "Shut up."
+                            ],
+                            "_original": "うるさい。"
                         },
                         {
                             "code": 101,
@@ -7912,15 +7718,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるさくない！"
-                            ]
+                                "I'm not being loud!"
+                            ],
+                            "_original": "うるさくない！"
                         },
                         {
                             "code": 101,
@@ -7930,15 +7738,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく分からないが、得るものがあってよかった！"
-                            ]
+                                "I don't really get it, but I'm glad you\ngot something out of it!"
+                            ],
+                            "_original": "よく分からないが、得るものがあってよかった！"
                         },
                         {
                             "code": 101,
@@ -7948,22 +7758,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君たちとの会話は実りがあった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝しよう。"
-                            ]
+                                "Our conversation was fruitful. I thank you."
+                            ],
+                            "_original": "君たちとの会話は実りがあった。\n感謝しよう。"
                         },
                         {
                             "code": 101,
@@ -7973,22 +7778,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、あれを贈らなくてはな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "観光客への記念品だ。"
-                            ]
+                                "Ah, right. I must give you this. A souvenir for\nvisitors."
+                            ],
+                            "_original": "そうだ、あれを贈らなくてはな。\n観光客への記念品だ。"
                         },
                         {
                             "code": 205,
@@ -8029,22 +7829,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引き続きアル・ヘルムを楽しんでくれたまえ。"
-                            ]
+                                "Well then. Continue enjoying Al-Helm."
+                            ],
+                            "_original": "では。\n引き続きアル・ヘルムを楽しんでくれたまえ。"
                         },
                         {
                             "code": 242,
@@ -8144,15 +7939,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]真白の国\\C[0] 達成！"
-                            ]
+                                "\\C[17]Land of Purity\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]真白の国\\C[0] 達成！"
                         },
                         {
                             "code": 122,
@@ -8241,22 +8038,17 @@
                                 2,
                                 0,
                                 2,
-                                "ファドワ"
-                            ]
+                                "Fadwa"
+                            ],
+                            "_original": "ファドワ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の役目は終わった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで心置きなく眠ることができる。"
-                            ]
+                                "My duty is done. Now I can rest easy."
+                            ],
+                            "_original": "私の役目は終わった。\nこれで心置きなく眠ることができる。"
                         },
                         {
                             "code": 0,
@@ -8537,15 +8329,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごちゃごちゃしている。"
-                            ]
+                                "This is a mess."
+                            ],
+                            "_original": "ごちゃごちゃしている。"
                         },
                         {
                             "code": 0,
@@ -8756,15 +8550,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごちゃごちゃしている。"
-                            ]
+                                "This is a mess."
+                            ],
+                            "_original": "ごちゃごちゃしている。"
                         },
                         {
                             "code": 0,

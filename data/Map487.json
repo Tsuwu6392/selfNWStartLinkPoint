@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "オルーサの墓所",
+    "displayName": "Orsa's Tomb",
     "encounterList": [],
     "encounterStep": 30,
     "height": 33,
@@ -5095,15 +5095,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは、ここの要となる装置なのだろう。"
-                            ]
+                                "This must be the key device for this\nplace."
+                            ],
+                            "_original": "これは、ここの要となる装置なのだろう。"
                         },
                         {
                             "code": 0,
@@ -5171,15 +5173,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは、ここの要となる装置なのだろう。"
-                            ]
+                                "This must be the key device for this\nplace."
+                            ],
+                            "_original": "これは、ここの要となる装置なのだろう。"
                         },
                         {
                             "code": 0,
@@ -5669,15 +5673,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれは……"
-                            ]
+                                "That's…"
+                            ],
+                            "_original": "あれは……"
                         },
                         {
                             "code": 101,
@@ -5687,22 +5693,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "例の敵に違いないわい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さあ、懲らしめてやろうぞ！"
-                            ]
+                                "That must be the enemy we were after.\nCome on, let's teach them a lesson!"
+                            ],
+                            "_original": "例の敵に違いないわい。\nさあ、懲らしめてやろうぞ！"
                         },
                         {
                             "code": 0,
@@ -6082,15 +6083,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし！"
-                            ]
+                                "Got it!"
+                            ],
+                            "_original": "よし！"
                         },
                         {
                             "code": 117,
@@ -6152,15 +6155,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]北の封印者\\C[0] 達成！"
-                            ]
+                                "\\C[17]Sealer of the North\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]北の封印者\\C[0] 達成！"
                         },
                         {
                             "code": 108,
@@ -6241,15 +6246,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "イベントの\\C[17]神の敵が潜む果て\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]The End Where the Divine Enemy Lurks\\C[0]\nhas been updated."
+                            ],
+                            "_original": "イベントの\\C[17]神の敵が潜む果て\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -6445,22 +6452,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石棺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっとしておこう……"
-                            ]
+                                "It's a stone coffin. Let's leave it\nbe..."
+                            ],
+                            "_original": "石棺だ。\nそっとしておこう……"
                         },
                         {
                             "code": 0,
@@ -6530,22 +6532,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石棺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっとしておこう……"
-                            ]
+                                "It's a stone coffin. Let's leave it\nbe..."
+                            ],
+                            "_original": "石棺だ。\nそっとしておこう……"
                         },
                         {
                             "code": 0,

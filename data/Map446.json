@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "マイヤの都市遺跡",
+    "displayName": "Maya City Ruins",
     "encounterList": [
         {
             "troopId": 235,
@@ -12189,15 +12189,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かがりび！"
-                            ]
+                                "Bonfire!"
+                            ],
+                            "_original": "かがりび！"
                         },
                         {
                             "code": 0,
@@ -12274,15 +12276,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かがりび！"
-                            ]
+                                "Bonfire!"
+                            ],
+                            "_original": "かがりび！"
                         },
                         {
                             "code": 0,
@@ -12359,15 +12363,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かがりび！"
-                            ]
+                                "Bonfire!"
+                            ],
+                            "_original": "かがりび！"
                         },
                         {
                             "code": 0,
@@ -12624,35 +12630,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのヌシだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、どうすべきか……"
-                            ]
+                                "This is the boss here. Now, what should\nI do..."
+                            ],
+                            "_original": "ここのヌシだ。\nさて、どうすべきか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "討伐する",
-                                    "立ち去る"
+                                    "Defeat it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "討伐する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -12952,15 +12957,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ラムルアラムのヌシからは装備品を入手できます。"
-                            ]
+                                "You can obtain equipment from the Ramul Alam\nboss."
+                            ],
+                            "_original": "ラムルアラムのヌシからは装備品を入手できます。"
                         },
                         {
                             "code": 0,
@@ -13143,35 +13150,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヌシはその地のマナで復活する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいると戦闘になるだろう……"
-                            ]
+                                "The Master revives using the mana of the\nEarth. If we stay here, we'll end up in\nbattle…"
+                            ],
+                            "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヌシの復活を待つ",
-                                    "立ち去る"
+                                    "Wait for the Master's revival",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ヌシの復活を待つ",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -13868,22 +13874,17 @@
                                 0,
                                 0,
                                 2,
-                                "旅の蛮族"
-                            ]
+                                "Traveling Barbarian"
+                            ],
+                            "_original": "旅の蛮族"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思い付きで流砂に流されてみたら死にそうになったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "砂が鼻からも入ってきてさ。"
-                            ]
+                                "I tried letting the quicksand carry me, and I\nalmost died. Sand even got up my nose."
+                            ],
+                            "_original": "思い付きで流砂に流されてみたら死にそうになったよ。\n砂が鼻からも入ってきてさ。"
                         },
                         {
                             "code": 101,
@@ -13893,29 +13894,17 @@
                                 0,
                                 0,
                                 2,
-                                "旅の蛮族"
-                            ]
+                                "Traveling Barbarian"
+                            ],
+                            "_original": "旅の蛮族"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、おかげでなんか漁り甲斐のありそうな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "場所に来れたんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "物は試しだねえ。"
-                            ]
+                                "But hey, it got me to a place that looks like it\nmight have some good loot. Guess it was worth a\nshot."
+                            ],
+                            "_original": "でも、おかげでなんか漁り甲斐のありそうな\n場所に来れたんだよね。\n物は試しだねえ。"
                         },
                         {
                             "code": 123,
@@ -13984,29 +13973,17 @@
                                 0,
                                 0,
                                 2,
-                                "旅の蛮族"
-                            ]
+                                "Traveling Barbarian"
+                            ],
+                            "_original": "旅の蛮族"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知り合いがここを見つける前に全部"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のものにしないと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "へっへっへっへっへ。"
-                            ]
+                                "I gotta claim everything here before my\nacquaintances find this place... Heh heh heh heh\nheh."
+                            ],
+                            "_original": "知り合いがここを見つける前に全部\n私のものにしないと……\nへっへっへっへっへ。"
                         },
                         {
                             "code": 123,
@@ -14084,22 +14061,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは棺だろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触らないでおこう……"
-                            ]
+                                "Is this a coffin? I should probably not\ntouch it..."
+                            ],
+                            "_original": "これは棺だろうか？\n触らないでおこう……"
                         },
                         {
                             "code": 0,
@@ -14169,22 +14141,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは棺だろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触らないでおこう……"
-                            ]
+                                "Is this a coffin? I should probably not\ntouch it..."
+                            ],
+                            "_original": "これは棺だろうか？\n触らないでおこう……"
                         },
                         {
                             "code": 0,
@@ -14254,15 +14221,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろなものが！"
-                            ]
+                                "So many things!"
+                            ],
+                            "_original": "いろいろなものが！"
                         },
                         {
                             "code": 0,
@@ -14332,15 +14301,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろなものが！"
-                            ]
+                                "So many things!"
+                            ],
+                            "_original": "いろいろなものが！"
                         },
                         {
                             "code": 0,
@@ -14410,15 +14381,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろなものが！"
-                            ]
+                                "So many things!"
+                            ],
+                            "_original": "いろいろなものが！"
                         },
                         {
                             "code": 0,
@@ -14488,15 +14461,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろなものが！"
-                            ]
+                                "So many things!"
+                            ],
+                            "_original": "いろいろなものが！"
                         },
                         {
                             "code": 0,

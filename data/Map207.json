@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "奈落",
+    "displayName": "Abyss",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -7514,42 +7514,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先では……私とウーラ殿と杖殿、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてプリム殿と桜悳殿と存子殿に別れて戦う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……準備はいいだろうか？"
-                            ]
+                                "From here on out... Watashi, Ula-sama,\nStaff-sama, Prim-sama, Sakura Toku-sama,\nand Sonoko-sama will split up and fight\nseparately. ...Are you all ready?"
+                            ],
+                            "_original": "この先では……私とウーラ殿と杖殿、\nそしてプリム殿と桜悳殿と存子殿に別れて戦う。\n……準備はいいだろうか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いい",
-                                    "よくない"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "いい",
+                                "よくない"
                             ]
                         },
                         {
@@ -7568,15 +7560,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし……！"
-                            ]
+                                "Good...!"
+                            ],
+                            "_original": "よし……！"
                         },
                         {
                             "code": 281,
@@ -7630,15 +7624,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "万全の状態で挑もう！"
-                            ]
+                                "Let's go in at full strength!"
+                            ],
+                            "_original": "万全の状態で挑もう！"
                         },
                         {
                             "code": 205,
@@ -7905,22 +7901,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここいらで最後の作戦会議をしようぞ。"
-                            ]
+                                "Nazuna. Let's hold our final strategy\nmeeting here."
+                            ],
+                            "_original": "ナズナ。\nここいらで最後の作戦会議をしようぞ。"
                         },
                         {
                             "code": 101,
@@ -7930,15 +7921,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む。"
-                            ]
+                                "Mm."
+                            ],
+                            "_original": "む。"
                         },
                         {
                             "code": 117,
@@ -8025,15 +8018,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を話すんだ？"
-                            ]
+                                "What do you want to talk about?"
+                            ],
+                            "_original": "何を話すんだ？"
                         },
                         {
                             "code": 117,
@@ -8050,22 +8045,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八衢榕の倒し方じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "闇雲に戦ったとて、あれを討つことなどできんぞ。"
-                            ]
+                                "How to take down the Ancient Root of Calamity,\nYachimata Banyan. We won't stand a chance if we\njust charge in blindly."
+                            ],
+                            "_original": "八衢榕の倒し方じゃ。\n闇雲に戦ったとて、あれを討つことなどできんぞ。"
                         },
                         {
                             "code": 101,
@@ -8075,22 +8065,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、ここまで来てそんな重要な話するんです？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出発前に言ってほしかったんですけど。"
-                            ]
+                                "W-Wait, you're bringing this up *now*?\nYou should've told us before we left!"
+                            ],
+                            "_original": "こ、ここまで来てそんな重要な話するんです？\n出発前に言ってほしかったんですけど。"
                         },
                         {
                             "code": 101,
@@ -8100,22 +8085,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かっかっか、すまんすまん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言いそびれとったんじゃ。"
-                            ]
+                                "Kahahaha, my apologies, my apologies. I simply\nforgot to mention it."
+                            ],
+                            "_original": "かっかっか、すまんすまん。\n言いそびれとったんじゃ。"
                         },
                         {
                             "code": 101,
@@ -8125,15 +8105,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナの力で斬れるのではなかったのか？"
-                            ]
+                                "Can't Nazuna just cut it down with her\npower?"
+                            ],
+                            "_original": "ナズナの力で斬れるのではなかったのか？"
                         },
                         {
                             "code": 101,
@@ -8143,22 +8125,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは戦いの果て、とどめの話じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その前にまずは奴を弱らせなくてはならん。"
-                            ]
+                                "That'd be the finishing blow at the end of the\nfight. First, we need to weaken it."
+                            ],
+                            "_original": "それは戦いの果て、とどめの話じゃ。\nその前にまずは奴を弱らせなくてはならん。"
                         },
                         {
                             "code": 101,
@@ -8168,22 +8145,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もったいぶらずに教えてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦略を。"
-                            ]
+                                "Stop beating around the bush and tell\nus. What's the strategy?"
+                            ],
+                            "_original": "もったいぶらずに教えてください。\n戦略を。"
                         },
                         {
                             "code": 101,
@@ -8193,29 +8165,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "八衢榕は八つの主根からなる怪物じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずはこれらすべてを潰す。"
-                            ]
+                                "Right. The Yachimata Banyan has eight main\nroots. We need to destroy all of them."
+                            ],
+                            "_original": "うむ。\n八衢榕は八つの主根からなる怪物じゃ。\nまずはこれらすべてを潰す。"
                         },
                         {
                             "code": 101,
@@ -8225,22 +8185,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうして現れた本体に攻撃を続け、最後にナズナが斬る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単に言うと、こんな感じじゃ。"
-                            ]
+                                "Once they're gone, the true body will appear.\nThen we keep attacking until Nazuna delivers the\nfinal strike. In short, that's the plan."
+                            ],
+                            "_original": "そうして現れた本体に攻撃を続け、最後にナズナが斬る。\n簡単に言うと、こんな感じじゃ。"
                         },
                         {
                             "code": 117,
@@ -8257,15 +8212,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "連戦になるということだろうか？"
-                            ]
+                                "So we'll be fighting back-to-back battles?"
+                            ],
+                            "_original": "連戦になるということだろうか？"
                         },
                         {
                             "code": 101,
@@ -8275,15 +8232,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それも重要ですが、八の主根の性質こそが肝要でしょう。"
-                            ]
+                                "That's part of it, but the nature of the\neight main roots is the real key."
+                            ],
+                            "_original": "それも重要ですが、八の主根の性質こそが肝要でしょう。"
                         },
                         {
                             "code": 117,
@@ -8316,29 +8275,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴の主根を一つずつ潰すというのは悪手なんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "具体的にどうやっておるのかは分からんが──"
-                            ]
+                                "Indeed. Taking them out one by one would be a\nterrible idea. I don't know the exact mechanism,\nbut―"
+                            ],
+                            "_original": "そうじゃな。\n奴の主根を一つずつ潰すというのは悪手なんじゃ。\n具体的にどうやっておるのかは分からんが──"
                         },
                         {
                             "code": 101,
@@ -8348,29 +8295,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "主根は、一つでも残っておると他の主根を再生させる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "八つすべてを同時に……とまでは言わずとも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できるだけ手早く倒さねばならん。"
-                            ]
+                                "As long as even one main root remains, it can\nregenerate the others. We need to take down all\neight as quickly as possible… or at least as\nmany as we can at once."
+                            ],
+                            "_original": "主根は、一つでも残っておると他の主根を再生させる。\n八つすべてを同時に……とまでは言わずとも、\nできるだけ手早く倒さねばならん。"
                         },
                         {
                             "code": 117,
@@ -8403,22 +8338,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八つの敵を……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらには戦える者が六人しかいないのだが。"
-                            ]
+                                "Eight enemies… and we only have six fighters on\nour side."
+                            ],
+                            "_original": "八つの敵を……\nこちらには戦える者が六人しかいないのだが。"
                         },
                         {
                             "code": 101,
@@ -8428,15 +8358,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまん。"
-                            ]
+                                "Sorry."
+                            ],
+                            "_original": "すまん。"
                         },
                         {
                             "code": 231,
@@ -8462,22 +8394,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に責めているわけではない。"
-                            ]
+                                "A-Ah, no. I wasn't blaming you."
+                            ],
+                            "_original": "あ、いや。\n別に責めているわけではない。"
                         },
                         {
                             "code": 101,
@@ -8487,22 +8414,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この人数では面倒そうなのは確かですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンさんや直さん辺りを呼びに戻ります？"
-                            ]
+                                "With these numbers, it *will* be a\nhassle. Should we go back and call for\nTen-san or Tadashi-san?"
+                            ],
+                            "_original": "この人数では面倒そうなのは確かですね。\nテンさんや直さん辺りを呼びに戻ります？"
                         },
                         {
                             "code": 101,
@@ -8512,15 +8434,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、今から？"
-                            ]
+                                "N-Now?"
+                            ],
+                            "_original": "い、今から？"
                         },
                         {
                             "code": 101,
@@ -8530,22 +8454,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……少なくとも、手分けすべきだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "六対八では戦場が混沌となる。"
-                            ]
+                                "…At the very least, we should split up.\nSix against eight would turn the\nbattlefield into chaos."
+                            ],
+                            "_original": "……少なくとも、手分けすべきだろう。\n六対八では戦場が混沌となる。"
                         },
                         {
                             "code": 117,
@@ -8578,22 +8497,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、そもそも八つを揃えさせること自体が危険じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うまく誘導し、二つの三対四の形に持ち込む。"
-                            ]
+                                "Mm, and gathering all eight at once would be\ndangerous in itself. We'll need to lure them\ninto two groups―three against four."
+                            ],
+                            "_original": "うむ、そもそも八つを揃えさせること自体が危険じゃ。\nうまく誘導し、二つの三対四の形に持ち込む。"
                         },
                         {
                             "code": 101,
@@ -8603,22 +8517,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誘導って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できるんですか？"
-                            ]
+                                "Lure them…? Can we even do that?"
+                            ],
+                            "_original": "誘導って……\nできるんですか？"
                         },
                         {
                             "code": 231,
@@ -8644,22 +8553,17 @@
                                 7,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "できる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任せておけい。"
-                            ]
+                                "We can. Leave it to me."
+                            ],
+                            "_original": "できる。\n任せておけい。"
                         },
                         {
                             "code": 117,
@@ -8692,22 +8596,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石は存子殿だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼りになるぞ！"
-                            ]
+                                "As expected of Sonoko-dono! You're reliable!"
+                            ],
+                            "_original": "流石は存子殿だ！\n頼りになるぞ！"
                         },
                         {
                             "code": 101,
@@ -8717,22 +8616,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誘導がうまくいったとして、こちらの編成は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "如何にしましょう？"
-                            ]
+                                "Assuming the luring works, how should we\ndivide our forces?"
+                            ],
+                            "_original": "誘導がうまくいったとして、こちらの編成は\n如何にしましょう？"
                         },
                         {
                             "code": 101,
@@ -8742,29 +8636,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっと、私とプリム殿と……いや、ウーラ殿か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやいや……桜悳殿？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "杖殿……存子殿でも……"
-                            ]
+                                "Uh… me and Prim-dono… or maybe Ula-dono? No,\nwait… Sakura Toku-dono? Staff-dono… or\nSonoko-dono…?"
+                            ],
+                            "_original": "ええっと、私とプリム殿と……いや、ウーラ殿か？\nいやいや……桜悳殿？\n杖殿……存子殿でも……"
                         },
                         {
                             "code": 101,
@@ -8774,22 +8656,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が決めてもいいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "皆さんの能力は把握しているつもりです。"
-                            ]
+                                "Would you mind if I decide? I think I\nhave a good grasp of everyone's\nabilities."
+                            ],
+                            "_original": "私が決めてもいいですか？\n皆さんの能力は把握しているつもりです。"
                         },
                         {
                             "code": 101,
@@ -8799,15 +8676,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任せた。"
-                            ]
+                                "Go for it."
+                            ],
+                            "_original": "任せた。"
                         },
                         {
                             "code": 101,
@@ -8817,15 +8696,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "即答。"
-                            ]
+                                "That was fast."
+                            ],
+                            "_original": "即答。"
                         },
                         {
                             "code": 101,
@@ -8835,15 +8716,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナが決めるとおかしなことになるのは明らかだ。"
-                            ]
+                                "It's obvious Nazuna would make a mess of\nit if she decided."
+                            ],
+                            "_original": "ナズナが決めるとおかしなことになるのは明らかだ。"
                         },
                         {
                             "code": 117,
@@ -8876,15 +8759,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええっ！？"
-                            ]
+                                "Wha―?!"
+                            ],
+                            "_original": "ええっ！？"
                         },
                         {
                             "code": 101,
@@ -8894,15 +8779,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ははは……"
-                            ]
+                                "Hahaha..."
+                            ],
+                            "_original": "ははは……"
                         },
                         {
                             "code": 221,
@@ -8968,29 +8855,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "決まりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一方はナズナさん、ウーラさん、杖さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一方は桜悳さん、存子さん……そして私。"
-                            ]
+                                "It's settled. One team will be Nazuna-san,\nUla-san, and Staff-san. The other will be Sakura\nToku-san, Sonoko-san... and me."
+                            ],
+                            "_original": "決まりました。\n一方はナズナさん、ウーラさん、杖さん。\nもう一方は桜悳さん、存子さん……そして私。"
                         },
                         {
                             "code": 117,
@@ -9007,15 +8882,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういう基準で決めたんだ？"
-                            ]
+                                "What was your criteria for that?"
+                            ],
+                            "_original": "どういう基準で決めたんだ？"
                         },
                         {
                             "code": 117,
@@ -9048,15 +8925,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "適当です。"
-                            ]
+                                "I just picked at random."
+                            ],
+                            "_original": "適当です。"
                         },
                         {
                             "code": 117,
@@ -9089,15 +8968,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "適当！？"
-                            ]
+                                "At random?!"
+                            ],
+                            "_original": "適当！？"
                         },
                         {
                             "code": 101,
@@ -9107,15 +8988,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい、そういう緩い会話をする状況ではないぞ。"
-                            ]
+                                "Hey, this isn't the time for casual\nchatter."
+                            ],
+                            "_original": "おい、そういう緩い会話をする状況ではないぞ。"
                         },
                         {
                             "code": 101,
@@ -9125,15 +9008,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拙僧は、その編成で問題ないと思います。"
-                            ]
+                                "I think this arrangement is fine."
+                            ],
+                            "_original": "拙僧は、その編成で問題ないと思います。"
                         },
                         {
                             "code": 101,
@@ -9143,22 +9028,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も、まあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この場合だと支援に専念した方がいいのかな……？"
-                            ]
+                                "Me too, I guess. In this case, maybe I\nshould focus on support...?"
+                            ],
+                            "_original": "私も、まあ。\nこの場合だと支援に専念した方がいいのかな……？"
                         },
                         {
                             "code": 101,
@@ -9168,22 +9048,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂もよいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "杖ちゃんはどうじゃ？"
-                            ]
+                                "Aye, I'm fine with it. What about you,\nStaff-chan?"
+                            ],
+                            "_original": "儂もよいぞ。\n杖ちゃんはどうじゃ？"
                         },
                         {
                             "code": 101,
@@ -9193,15 +9068,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に意見はあらず。"
-                            ]
+                                "No particular objections."
+                            ],
+                            "_original": "特に意見はあらず。"
                         },
                         {
                             "code": 117,
@@ -9234,15 +9111,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では決定で。"
-                            ]
+                                "Then it's decided."
+                            ],
+                            "_original": "では決定で。"
                         },
                         {
                             "code": 117,
@@ -9275,15 +9154,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし！"
-                            ]
+                                "Alright!"
+                            ],
+                            "_original": "よし！"
                         },
                         {
                             "code": 101,
@@ -9293,22 +9174,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "八衢榕は、恐らくこのすぐ先におる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備を整えるなら今の内じゃぞ。"
-                            ]
+                                "The Ancient Root of Calamity, Yachimata\nBanyan, is likely just ahead. If you\nneed to prepare, do it now."
+                            ],
+                            "_original": "八衢榕は、恐らくこのすぐ先におる。\n準備を整えるなら今の内じゃぞ。"
                         },
                         {
                             "code": 101,
@@ -9318,15 +9194,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かった！"
-                            ]
+                                "Got it!"
+                            ],
+                            "_original": "分かった！"
                         },
                         {
                             "code": 221,
@@ -9703,15 +9581,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなところにまでお地蔵様が……"
-                            ]
+                                "There's even a Jizo statue all the way\nout here..."
+                            ],
+                            "_original": "こんなところにまでお地蔵様が……"
                         },
                         {
                             "code": 0,

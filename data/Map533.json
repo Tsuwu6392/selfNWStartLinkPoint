@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "第三層研究施設",
+    "displayName": "Third Layer Research Facility",
     "encounterList": [
         {
             "troopId": 304,
@@ -9632,35 +9632,34 @@
                                 0,
                                 0,
                                 2,
-                                "自動音声"
-                            ]
+                                "Auto Voice"
+                            ],
+                            "_original": "自動音声"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらは第三層研究施設入口へと続きます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "移動は一方通行です。利用しますか？"
-                            ]
+                                "This path leads to the entrance of the Third\nLayer Research Facility. Travel is one-way.\nWould you like to proceed?"
+                            ],
+                            "_original": "こちらは第三層研究施設入口へと続きます。\n移動は一方通行です。利用しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "します",
-                                    "しません"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "します",
+                                "しません"
                             ]
                         },
                         {
@@ -10388,15 +10387,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで行き止まりのようだ。"
-                            ]
+                                "It seems like a dead end here."
+                            ],
+                            "_original": "ここで行き止まりのようだ。"
                         },
                         {
                             "code": 101,
@@ -10406,15 +10407,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか不思議な感じの場所でしたね。"
-                            ]
+                                "That was a really strange-feeling place,\nwasn't it?"
+                            ],
+                            "_original": "なんか不思議な感じの場所でしたね。"
                         },
                         {
                             "code": 101,
@@ -10424,22 +10427,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ──実によく似ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表はシキノワに、ここはウパシモシリに。"
-                            ]
+                                "Yes―it's remarkably similar. The surface\nresembles Shikinowa, and this place\nresembles Upashimoshiri."
+                            ],
+                            "_original": "ええ──実によく似ている。\n表はシキノワに、ここはウパシモシリに。"
                         },
                         {
                             "code": 101,
@@ -10449,22 +10447,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カンムイの故郷に似た場所に、あれがいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほどねえ。"
-                            ]
+                                "A place that looks like Kamui's\nhomeland, and that thing is there. I\nsee."
+                            ],
+                            "_original": "カンムイの故郷に似た場所に、あれがいる。\nなるほどねえ。"
                         },
                         {
                             "code": 101,
@@ -10474,15 +10467,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ？"
-                            ]
+                                "That thing?"
+                            ],
+                            "_original": "あれ？"
                         },
                         {
                             "code": 101,
@@ -10492,15 +10487,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キマイラのことか？"
-                            ]
+                                "Do you mean the Chimera?"
+                            ],
+                            "_original": "キマイラのことか？"
                         },
                         {
                             "code": 101,
@@ -10510,15 +10507,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他にないだろう。"
-                            ]
+                                "What else could it be?"
+                            ],
+                            "_original": "他にないだろう。"
                         },
                         {
                             "code": 101,
@@ -10528,15 +10527,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亜命と同種、か。"
-                            ]
+                                "The same kind as Amei, huh."
+                            ],
+                            "_original": "亜命と同種、か。"
                         },
                         {
                             "code": 101,
@@ -10546,15 +10547,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうことさ。"
-                            ]
+                                "That's right."
+                            ],
+                            "_original": "そういうことさ。"
                         },
                         {
                             "code": 101,
@@ -10564,15 +10567,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まさか、ここが源流だというのかい？"
-                            ]
+                                "…Don't tell me you're saying this is the\nsource?"
+                            ],
+                            "_original": "……まさか、ここが源流だというのかい？"
                         },
                         {
                             "code": 101,
@@ -10582,15 +10587,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここというか、前の時代だ。"
-                            ]
+                                "Not just here―the previous era."
+                            ],
+                            "_original": "ここというか、前の時代だ。"
                         },
                         {
                             "code": 101,
@@ -10600,22 +10607,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……何の話をしてるんでしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの訳知り組は。"
-                            ]
+                                "…What in the world are they talking\nabout, those know-it-alls."
+                            ],
+                            "_original": "……何の話をしてるんでしょうね。\nあの訳知り組は。"
                         },
                         {
                             "code": 101,
@@ -10625,22 +10627,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その内、説明されるのではないですか。"
-                            ]
+                                "Who knows. Maybe they'll explain it to\nus eventually."
+                            ],
+                            "_original": "さあ。\nその内、説明されるのではないですか。"
                         },
                         {
                             "code": 101,
@@ -10650,22 +10647,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これであらかた見て回れたかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ファドワ殿のところに戻ろう。"
-                            ]
+                                "I think we've seen everything here.\nLet's head back to Fadwa's place."
+                            ],
+                            "_original": "これであらかた見て回れたかな。\nファドワ殿のところに戻ろう。"
                         },
                         {
                             "code": 221,
@@ -10764,15 +10756,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]第三層研究施設\\C[0] 達成！"
-                            ]
+                                "\\C[17]Third Layer Research Facility\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]第三層研究施設\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -10801,15 +10795,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント追加】\\C[0]"
-                            ]
+                                "\\C[16]【Event Add】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント一覧に\\C[17]真白の国\\C[0]が追加されました。"
-                            ]
+                                "\\C[17]Land of the Pure White\\C[0] has been added to the\nevent list."
+                            ],
+                            "_original": "イベント一覧に\\C[17]真白の国\\C[0]が追加されました。"
                         },
                         {
                             "code": 0,

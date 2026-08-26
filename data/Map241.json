@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "迷い森の深部",
+    "displayName": "Lost Forest Depths",
     "encounterList": [],
     "encounterStep": 30,
     "height": 47,
@@ -8258,35 +8258,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのヌシだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、どうすべきか……"
-                            ]
+                                "I'm the boss around here. Now, what\nshould I do..."
+                            ],
+                            "_original": "ここのヌシだ。\nさて、どうすべきか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "討伐する",
-                                    "立ち去る"
+                                    "Defeat it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "討伐する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -8720,35 +8719,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヌシはその地のマナで復活する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいると戦闘になるだろう……"
-                            ]
+                                "The Master revives using the mana of the\nEarth. If we stay here, we'll end up in\nbattle…"
+                            ],
+                            "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヌシの復活を待つ",
-                                    "立ち去る"
+                                    "Wait for the Master's revival",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ヌシの復活を待つ",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -9251,22 +9249,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凍てついている……"
-                            ]
+                                "It's a corpse. It's frozen solid..."
+                            ],
+                            "_original": "亡骸だ。\n凍てついている……"
                         },
                         {
                             "code": 0,
@@ -9336,22 +9329,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凍てついている……"
-                            ]
+                                "It's a corpse. It's frozen solid..."
+                            ],
+                            "_original": "亡骸だ。\n凍てついている……"
                         },
                         {
                             "code": 0,
@@ -9421,22 +9409,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで氷のようになってしまっている……"
-                            ]
+                                "It's a corpse... It's turned completely\nto ice..."
+                            ],
+                            "_original": "亡骸だ。\nまるで氷のようになってしまっている……"
                         },
                         {
                             "code": 0,
@@ -9506,22 +9489,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで氷のようになってしまっている……"
-                            ]
+                                "It's a corpse... It's turned completely\nto ice..."
+                            ],
+                            "_original": "亡骸だ。\nまるで氷のようになってしまっている……"
                         },
                         {
                             "code": 0,
@@ -9591,22 +9569,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで氷のようになってしまっている……"
-                            ]
+                                "It's a corpse... It's turned completely\nto ice..."
+                            ],
+                            "_original": "亡骸だ。\nまるで氷のようになってしまっている……"
                         },
                         {
                             "code": 0,
@@ -9676,22 +9649,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで氷のようになってしまっている……"
-                            ]
+                                "It's a corpse... It's turned completely\nto ice..."
+                            ],
+                            "_original": "亡骸だ。\nまるで氷のようになってしまっている……"
                         },
                         {
                             "code": 0,
@@ -10027,22 +9995,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コロソロマ殿。"
-                            ]
+                                "Huh? Lord Korosoroma."
+                            ],
+                            "_original": "あれ？\nコロソロマ殿。"
                         },
                         {
                             "code": 101,
@@ -10052,15 +10015,17 @@
                                 0,
                                 0,
                                 2,
-                                "コロソロマ"
-                            ]
+                                "Korosoroma"
+                            ],
+                            "_original": "コロソロマ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや。"
-                            ]
+                                "Oh?"
+                            ],
+                            "_original": "おや。"
                         },
                         {
                             "code": 101,
@@ -10070,15 +10035,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで何をしているんだ？"
-                            ]
+                                "What are you doing here?"
+                            ],
+                            "_original": "ここで何をしているんだ？"
                         },
                         {
                             "code": 101,
@@ -10088,22 +10055,17 @@
                                 0,
                                 0,
                                 2,
-                                "コロソロマ"
-                            ]
+                                "Korosoroma"
+                            ],
+                            "_original": "コロソロマ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで迷い込んでしまった者を追い返すために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待機しているのです。"
-                            ]
+                                "I'm stationed here to turn away anyone who\nstrays this far in."
+                            ],
+                            "_original": "ここまで迷い込んでしまった者を追い返すために\n待機しているのです。"
                         },
                         {
                             "code": 101,
@@ -10113,22 +10075,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それならば被害に遭う方も減りましょう。"
-                            ]
+                                "I see. That should reduce the number of\nvictims, then."
+                            ],
+                            "_original": "なるほど。\nそれならば被害に遭う方も減りましょう。"
                         },
                         {
                             "code": 101,
@@ -10138,15 +10095,17 @@
                                 0,
                                 0,
                                 2,
-                                "コロソロマ"
-                            ]
+                                "Korosoroma"
+                            ],
+                            "_original": "コロソロマ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。"
-                            ]
+                                "Indeed."
+                            ],
+                            "_original": "ええ。"
                         },
                         {
                             "code": 101,
@@ -10156,15 +10115,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前が襲われることはないのか？"
-                            ]
+                                "What about you? Won't you get attacked?"
+                            ],
+                            "_original": "お前が襲われることはないのか？"
                         },
                         {
                             "code": 101,
@@ -10174,22 +10135,17 @@
                                 0,
                                 0,
                                 2,
-                                "コロソロマ"
-                            ]
+                                "Korosoroma"
+                            ],
+                            "_original": "コロソロマ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ないようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それも覚悟していたのですが。"
-                            ]
+                                "…It seems I won't. I had already resigned myself\nto that possibility, though."
+                            ],
+                            "_original": "……ないようですね。\nそれも覚悟していたのですが。"
                         },
                         {
                             "code": 101,
@@ -10199,8 +10155,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -10276,22 +10233,17 @@
                                 0,
                                 0,
                                 2,
-                                "コロソロマ"
-                            ]
+                                "Korosoroma"
+                            ],
+                            "_original": "コロソロマ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が襲われることはないようなので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで待機し続けて森の平和を守ります。"
-                            ]
+                                "Since I won't be attacked, I'll stay here and\nkeep the forest's peace."
+                            ],
+                            "_original": "私が襲われることはないようなので、\nここで待機し続けて森の平和を守ります。"
                         },
                         {
                             "code": 0,

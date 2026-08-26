@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "門のブルジュ",
+    "displayName": "Gate Burj",
     "encounterList": [
         {
             "troopId": 224,
@@ -4522,22 +4522,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行き止まりだ。"
-                            ]
+                                "Oh? It's a dead end."
+                            ],
+                            "_original": "おや？\n行き止まりだ。"
                         },
                         {
                             "code": 101,
@@ -4547,22 +4542,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、待て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この構造は……"
-                            ]
+                                "No, wait. This structure..."
+                            ],
+                            "_original": "いや、待て。\nこの構造は……"
                         },
                         {
                             "code": 250,
@@ -4629,22 +4619,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石はダイア殿だ！"
-                            ]
+                                "Wow! As expected of Dia-sama!"
+                            ],
+                            "_original": "おおっ！\n流石はダイア殿だ！"
                         },
                         {
                             "code": 101,
@@ -4654,15 +4639,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺もたまには役に立たなくてはな。"
-                            ]
+                                "Even I have to be useful sometimes."
+                            ],
+                            "_original": "俺もたまには役に立たなくてはな。"
                         },
                         {
                             "code": 0,
@@ -4923,22 +4910,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か入っているみたいだ……ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この紙は……"
-                            ]
+                                "There seems to be something inside...\nHmm? This paper..."
+                            ],
+                            "_original": "何か入っているみたいだ……ん？\nこの紙は……"
                         },
                         {
                             "code": 101,
@@ -4955,15 +4937,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「次の勇士へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うまく使うといい」"
-                            ]
+                                "\"To the next warrior―use it well.\""
+                            ],
+                            "_original": "「次の勇士へ\n　うまく使うといい」"
                         },
                         {
                             "code": 101,
@@ -4973,8 +4949,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -5078,15 +5055,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「次の勇士へ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　うまく使うといい」"
-                            ]
+                                "\"To the next hero―use it well.\""
+                            ],
+                            "_original": "「次の勇士へ\n　うまく使うといい」"
                         },
                         {
                             "code": 0,

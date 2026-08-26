@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "無限回廊",
+    "displayName": "Infinite Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -5413,22 +5413,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おおっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは……"
-                            ]
+                                "...Whoa. Where is this...?"
+                            ],
+                            "_original": "……おおっ。\nここは……"
                         },
                         {
                             "code": 101,
@@ -5438,15 +5433,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わらわの影の居場所さ。"
-                            ]
+                                "This is my shadow's hideout."
+                            ],
+                            "_original": "わらわの影の居場所さ。"
                         },
                         {
                             "code": 101,
@@ -5456,15 +5453,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇の声が。"
-                            ]
+                                "That's Yuuyami's voice."
+                            ],
+                            "_original": "夕闇の声が。"
                         },
                         {
                             "code": 101,
@@ -5474,29 +5473,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無限回廊はわらわの玩具箱のようなもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこにいようが話しかけられるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわからは見えている。"
-                            ]
+                                "The Infinite Corridor is like my toy\nbox. No matter where you are, I can talk\nto you, and I can see you from here."
+                            ],
+                            "_original": "無限回廊はわらわの玩具箱のようなもの。\nどこにいようが話しかけられるし、\nわらわからは見えている。"
                         },
                         {
                             "code": 101,
@@ -5506,15 +5493,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厄介ですね。"
-                            ]
+                                "That's troublesome."
+                            ],
+                            "_original": "厄介ですね。"
                         },
                         {
                             "code": 101,
@@ -5524,15 +5513,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厄介て。"
-                            ]
+                                "Troublesome?"
+                            ],
+                            "_original": "厄介て。"
                         },
                         {
                             "code": 101,
@@ -5542,40 +5533,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お主の影はどこにおる？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "face02",
-                                6,
-                                0,
-                                2,
-                                "夕闇"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してみるがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに見つかる──"
-                            ]
+                                "Where is thy shadow?"
+                            ],
+                            "_original": "お主の影はどこにおる？"
                         },
                         {
                             "code": 101,
@@ -5585,22 +5553,37 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──ああ、転送剣には触れておけ。"
-                            ]
+                                "Try looking for it. You'll find it soon―"
+                            ],
+                            "_original": "探してみるがよい。\nすぐに見つかる──"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "face02",
+                                6,
+                                0,
+                                2,
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "他にここに立ち入る方法はないからねえ。"
-                            ]
+                                "―Ah, but keep your transfer sword on\nyou. There's no other way to get in\nhere, after all."
+                            ],
+                            "_original": "──ああ、転送剣には触れておけ。\n他にここに立ち入る方法はないからねえ。"
                         },
                         {
                             "code": 101,
@@ -5610,90 +5593,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かった！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "face01",
-                                1,
-                                0,
-                                2,
-                                "プリム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで、今更なのですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桜悳さんも来てよかったのですか？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "face01",
-                                2,
-                                0,
-                                2,
-                                "桜悳"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはあくまで夕闇さんへの訪問であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "りゆう屋は無関係と解釈しています。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "face01",
-                                0,
-                                0,
-                                2,
-                                "ナズナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助かるぞ！"
-                            ]
+                                "Got it!"
+                            ],
+                            "_original": "分かった！"
                         },
                         {
                             "code": 101,
@@ -5703,22 +5613,77 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柔軟ですね。"
-                            ]
+                                "By the way, this might be a bit late to\nask... but was it okay for Sakura Toku\nto come along?"
+                            ],
+                            "_original": "ところで、今更なのですが……\n桜悳さんも来てよかったのですか？"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "face01",
+                                2,
+                                0,
+                                2,
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふふ。"
-                            ]
+                                "Ah, yes. This is strictly a visit to\nYuuyami-sama, so I'm treating the Reason\nShop as unrelated."
+                            ],
+                            "_original": "ああ、はい。\nこれはあくまで夕闇さんへの訪問であり、\nりゆう屋は無関係と解釈しています。"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "face01",
+                                0,
+                                0,
+                                2,
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "That's a relief!"
+                            ],
+                            "_original": "助かるぞ！"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "face01",
+                                1,
+                                0,
+                                2,
+                                "Prim"
+                            ],
+                            "_original": "プリム"
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "How flexible. Heh heh."
+                            ],
+                            "_original": "柔軟ですね。\nふふふ。"
                         },
                         {
                             "code": 221,
@@ -5775,15 +5740,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]四魂写し\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Four Soul Copies\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]四魂写し\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -5812,22 +5779,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【情報】\\C[0]"
-                            ]
+                                "\\C[16]【Information】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【情報】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "秋水京、りゆう屋の入口にいる夜伽鬼に話しかけることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とある遊びを体験できます。一度試してみてもよいでしょう……"
-                            ]
+                                "In Shūsui-kyō, you can experience a certain game\nby speaking to the Yotogi Oni at the entrance of\nthe Reason Shop. It might be worth trying\nonce..."
+                            ],
+                            "_original": "秋水京、りゆう屋の入口にいる夜伽鬼に話しかけることで\nとある遊びを体験できます。一度試してみてもよいでしょう……"
                         },
                         {
                             "code": 281,
@@ -6180,22 +6142,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き止まりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰もいないようだが……"
-                            ]
+                                "It's a dead end. Doesn't seem like\nanyone's here..."
+                            ],
+                            "_original": "行き止まりだ。\n誰もいないようだが……"
                         },
                         {
                             "code": 101,
@@ -6205,22 +6162,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、やはり並々ならぬ魂がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれが夕闇さんの影……"
-                            ]
+                                "No, there's still an extraordinary soul\npresent. That shadow there... it must be\nYuuyami's."
+                            ],
+                            "_original": "いえ、やはり並々ならぬ魂がある。\nあれが夕闇さんの影……"
                         },
                         {
                             "code": 101,
@@ -6230,22 +6182,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなかいい目をしている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば、呼び起こすことはできるかい？"
-                            ]
+                                "You have quite the sharp eye. Then, can\nyou awaken it?"
+                            ],
+                            "_original": "なかなかいい目をしている。\nならば、呼び起こすことはできるかい？"
                         },
                         {
                             "code": 101,
@@ -6255,15 +6202,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ──できます。"
-                            ]
+                                "Yes―I can."
+                            ],
+                            "_original": "ええ──できます。"
                         },
                         {
                             "code": 101,
@@ -6273,15 +6222,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石は桜悳ちゃんじゃ！"
-                            ]
+                                "As expected of Sakura Toku-chan!"
+                            ],
+                            "_original": "流石は桜悳ちゃんじゃ！"
                         },
                         {
                             "code": 101,
@@ -6291,22 +6242,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし……四魂写しも魂ならば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぜ黄泉の巌の方へ行かぬ？"
-                            ]
+                                "But... if the Four Souls are souls, why\ndon't they go to the Crag of Yomi?"
+                            ],
+                            "_original": "しかし……四魂写しも魂ならば、\nなぜ黄泉の巌の方へ行かぬ？"
                         },
                         {
                             "code": 101,
@@ -6316,22 +6262,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無玄は、そもそもこれは黄泉の巌がもたらす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "問題だと言っていたが。"
-                            ]
+                                "Mugen said this was a problem caused by\nthe Crag of Yomi in the first place."
+                            ],
+                            "_original": "無玄は、そもそもこれは黄泉の巌がもたらす\n問題だと言っていたが。"
                         },
                         {
                             "code": 101,
@@ -6341,22 +6282,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆえに戻らぬのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも納得できぬ……摂理に反しておる！"
-                            ]
+                                "So that's why they don't return? I still\ncan't accept it... It defies the natural\norder!"
+                            ],
+                            "_original": "ゆえに戻らぬのか？\nどうも納得できぬ……摂理に反しておる！"
                         },
                         {
                             "code": 101,
@@ -6366,15 +6302,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐らくじゃが──"
-                            ]
+                                "Probably..."
+                            ],
+                            "_original": "恐らくじゃが──"
                         },
                         {
                             "code": 101,
@@ -6384,22 +6322,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話はすべてを確認してからじゃな。"
-                            ]
+                                "--No. We should confirm everything\nfirst."
+                            ],
+                            "_original": "──いや。\n話はすべてを確認してからじゃな。"
                         },
                         {
                             "code": 101,
@@ -6409,15 +6342,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もったいぶりますね。"
-                            ]
+                                "You're being so mysterious."
+                            ],
+                            "_original": "もったいぶりますね。"
                         },
                         {
                             "code": 101,
@@ -6427,15 +6362,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気になる！"
-                            ]
+                                "I'm curious!"
+                            ],
+                            "_original": "気になる！"
                         },
                         {
                             "code": 101,
@@ -6445,22 +6382,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、次の場所へ行こうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またのう、夕闇。"
-                            ]
+                                "Alright, let's move to the next\nlocation. See you later, Yuuyami."
+                            ],
+                            "_original": "さあ、次の場所へ行こうぞ。\nまたのう、夕闇。"
                         },
                         {
                             "code": 101,
@@ -6470,15 +6402,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二度と来るな。"
-                            ]
+                                "Don't ever come back."
+                            ],
+                            "_original": "二度と来るな。"
                         },
                         {
                             "code": 101,
@@ -6488,15 +6422,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ものすごく嫌われてますね。"
-                            ]
+                                "She really doesn't like you."
+                            ],
+                            "_original": "ものすごく嫌われてますね。"
                         },
                         {
                             "code": 213,
@@ -6515,15 +6451,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かーっかっかっか！"
-                            ]
+                                "Hahahaha!"
+                            ],
+                            "_original": "かーっかっかっか！"
                         },
                         {
                             "code": 101,
@@ -6533,15 +6471,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてものすごく堪えていません。"
-                            ]
+                                "And you're not handling it well at all."
+                            ],
+                            "_original": "そしてものすごく堪えていません。"
                         },
                         {
                             "code": 101,
@@ -6551,22 +6491,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次は魂の沼の辺りだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "具体的な場所は分からぬ。"
-                            ]
+                                "Next is around the Soul Swamp... but I\ndon't know the exact location."
+                            ],
+                            "_original": "次は魂の沼の辺りだが……\n具体的な場所は分からぬ。"
                         },
                         {
                             "code": 101,
@@ -6576,15 +6511,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]隠し岩\\C[0]だろう？"
-                            ]
+                                "\\C[17]Hidden Rock\\C[0], perhaps?"
+                            ],
+                            "_original": "\\C[17]隠し岩\\C[0]だろう？"
                         },
                         {
                             "code": 101,
@@ -6594,22 +6531,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "杖ちゃんも気づいたようじゃな。"
-                            ]
+                                "Oh ho. Staff-chan noticed too, huh?"
+                            ],
+                            "_original": "おっと。\n杖ちゃんも気づいたようじゃな。"
                         },
                         {
                             "code": 101,
@@ -6619,15 +6551,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何にだ？"
-                            ]
+                                "Noticed what?"
+                            ],
+                            "_original": "何にだ？"
                         },
                         {
                             "code": 101,
@@ -6637,8 +6571,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -6655,15 +6590,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "杖殿！"
-                            ]
+                                "Staff-dono!"
+                            ],
+                            "_original": "杖殿！"
                         },
                         {
                             "code": 101,
@@ -6673,8 +6610,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -6691,22 +6629,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行けば分かる──もとい、説明があるんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存子からな。"
-                            ]
+                                "We'll know when we get there―or rather,\nSonoko will explain it."
+                            ],
+                            "_original": "行けば分かる──もとい、説明があるんだろう。\n存子からな。"
                         },
                         {
                             "code": 101,
@@ -6716,29 +6649,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠し岩はぽんぽこ村から洞窟を通って東にある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、出発じゃ！"
-                            ]
+                                "That's right! The Hidden Rock is east of\nDrum Village, through a cave. Alright,\nlet's go!"
+                            ],
+                            "_original": "うむ！\n隠し岩はぽんぽこ村から洞窟を通って東にある。\nさあ、出発じゃ！"
                         },
                         {
                             "code": 221,
@@ -6857,15 +6778,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]四魂写し\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Four Souls\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]四魂写し\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -7124,15 +7047,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備はできているぞ、存子殿。"
-                            ]
+                                "I'm ready, Sonoko-dono."
+                            ],
+                            "_original": "準備はできているぞ、存子殿。"
                         },
                         {
                             "code": 101,
@@ -7142,22 +7067,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ならば呼ぶとしよう──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桜悳ちゃん、やってみんか？"
-                            ]
+                                "Then let's call them―Sakura Toku-chan,\ncare to give it a try?"
+                            ],
+                            "_original": "ならば呼ぶとしよう──\n桜悳ちゃん、やってみんか？"
                         },
                         {
                             "code": 101,
@@ -7167,15 +7087,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。"
-                            ]
+                                "Yes."
+                            ],
+                            "_original": "はい。"
                         },
                         {
                             "code": 101,
@@ -7185,15 +7107,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "支援は任せろ！"
-                            ]
+                                "Leave the support to me!"
+                            ],
+                            "_original": "支援は任せろ！"
                         },
                         {
                             "code": 101,
@@ -7203,15 +7127,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一緒に戦ってほしいのですが。"
-                            ]
+                                "I'd like you to fight alongside me."
+                            ],
+                            "_original": "一緒に戦ってほしいのですが。"
                         },
                         {
                             "code": 205,
@@ -7266,15 +7192,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、僭越ながら──"
-                            ]
+                                "Then, if I may be so bold―"
+                            ],
+                            "_original": "では、僭越ながら──"
                         },
                         {
                             "code": 213,
@@ -7350,15 +7278,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──来おるぞ！"
-                            ]
+                                "―Here they come!"
+                            ],
+                            "_original": "──来おるぞ！"
                         },
                         {
                             "code": 122,
@@ -7562,15 +7492,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "勝った！"
-                            ]
+                                "We won!"
+                            ],
+                            "_original": "勝った！"
                         },
                         {
                             "code": 101,
@@ -7580,15 +7512,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようやった！"
-                            ]
+                                "Well done!"
+                            ],
+                            "_original": "ようやった！"
                         },
                         {
                             "code": 117,
@@ -7605,22 +7539,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとも危険な存在であった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "離れておっても、こう……惹き付けられるというか。"
-                            ]
+                                "That was a dangerous existence. Even from a\ndistance, it... drew me in, so to speak."
+                            ],
+                            "_original": "なんとも危険な存在であった。\n離れておっても、こう……惹き付けられるというか。"
                         },
                         {
                             "code": 101,
@@ -7630,22 +7559,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふん、あんなものに負けられては興醒めだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勝って当然。"
-                            ]
+                                "Hmph, losing to something like that\nwould've ruined the mood. Victory was\nonly natural."
+                            ],
+                            "_original": "ふん、あんなものに負けられては興醒めだ。\n勝って当然。"
                         },
                         {
                             "code": 117,
@@ -7678,15 +7602,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あっ、夕闇殿。"
-                            ]
+                                "Ah, Yuuyami-dono."
+                            ],
+                            "_original": "あっ、夕闇殿。"
                         },
                         {
                             "code": 101,
@@ -7696,22 +7622,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今のお前さんとそんなに変わらんじゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "強さ。"
-                            ]
+                                "You're not all that different from how\nyou were back then, strength-wise."
+                            ],
+                            "_original": "今のお前さんとそんなに変わらんじゃろ。\n強さ。"
                         },
                         {
                             "code": 101,
@@ -7721,22 +7642,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わらわは常に成長している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……ま、老いぼれには分からんか！"
-                            ]
+                                "I am always growing. ...Well, an old hag\nlike you wouldn't understand!"
+                            ],
+                            "_original": "わらわは常に成長している。\n……ま、老いぼれには分からんか！"
                         },
                         {
                             "code": 101,
@@ -7746,15 +7662,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "同い年じゃろ……"
-                            ]
+                                "We're the same age, though..."
+                            ],
+                            "_original": "同い年じゃろ……"
                         },
                         {
                             "code": 101,
@@ -7764,22 +7682,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それより、もういいですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここは。"
-                            ]
+                                "More importantly, are we done here now?"
+                            ],
+                            "_original": "それより、もういいですよね。\nここは。"
                         },
                         {
                             "code": 101,
@@ -7789,15 +7702,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そもそも隔離されているからな。"
-                            ]
+                                "We were isolated to begin with, after\nall."
+                            ],
+                            "_original": "そもそも隔離されているからな。"
                         },
                         {
                             "code": 101,
@@ -7807,15 +7722,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "来なくてもよかったのでは。"
-                            ]
+                                "You didn't even need to come."
+                            ],
+                            "_original": "来なくてもよかったのでは。"
                         },
                         {
                             "code": 117,
@@ -7848,15 +7765,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "念のためだ、念のため。"
-                            ]
+                                "Just to be safe, just to be safe."
+                            ],
+                            "_original": "念のためだ、念のため。"
                         },
                         {
                             "code": 117,
@@ -7889,15 +7808,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうだ、念のためだ！"
-                            ]
+                                "That's right, just to be safe!"
+                            ],
+                            "_original": "そうだ、念のためだ！"
                         },
                         {
                             "code": 101,
@@ -7907,15 +7828,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はいはい、分かりました。"
-                            ]
+                                "Yes, yes, I get it."
+                            ],
+                            "_original": "はいはい、分かりました。"
                         },
                         {
                             "code": 242,
@@ -8060,15 +7983,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これですべての影を討てたな。"
-                            ]
+                                "With this, we've defeated all the\nshadows."
+                            ],
+                            "_original": "これですべての影を討てたな。"
                         },
                         {
                             "code": 101,
@@ -8078,22 +8003,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そういえば！"
-                            ]
+                                "Oh! Now that you mention it!"
+                            ],
+                            "_original": "おおっ！\nそういえば！"
                         },
                         {
                             "code": 101,
@@ -8103,15 +8023,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "気づいてなかったんですか。"
-                            ]
+                                "You didn't notice?"
+                            ],
+                            "_original": "気づいてなかったんですか。"
                         },
                         {
                             "code": 101,
@@ -8121,22 +8043,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よーし、では無玄様に報告するとしよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "黄泉の巌へ戻るぞ！"
-                            ]
+                                "Alright, let's report to Mugen-sama!\nWe're heading back to the Crag of Yomi!"
+                            ],
+                            "_original": "よーし、では無玄様に報告するとしよう！\n黄泉の巌へ戻るぞ！"
                         },
                         {
                             "code": 101,
@@ -8146,15 +8063,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "分かった！"
-                            ]
+                                "Got it!"
+                            ],
+                            "_original": "分かった！"
                         },
                         {
                             "code": 101,
@@ -8164,15 +8083,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "二人とも声が大きくて騒がしいです。"
-                            ]
+                                "The two of you are so loud and rowdy."
+                            ],
+                            "_original": "二人とも声が大きくて騒がしいです。"
                         },
                         {
                             "code": 221,
@@ -8229,15 +8150,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "イベントの\\C[17]四魂写し\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Four Souls Copy\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]四魂写し\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -8490,35 +8413,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのヌシ……四魂写しだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "挑んでみようか？"
-                            ]
+                                "The master of this place... is a\nShikigami. Should we challenge it?"
+                            ],
+                            "_original": "ここのヌシ……四魂写しだ。\n挑んでみようか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "挑む",
-                                    "立ち去る"
+                                    "Challenge",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "挑む",
+                                "立ち去る"
                             ]
                         },
                         {

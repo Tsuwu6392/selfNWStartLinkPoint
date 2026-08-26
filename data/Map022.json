@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "ナーヴィガー号",
+    "displayName": "Navigator",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -7628,29 +7628,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]、ウーラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船はシキノワの龍角海域に入った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ本島に到着するぞ。"
-                            ]
+                                "\\N[10], Uura. The ship has entered Shikinowa's\nRyukaku waters. We're about to arrive at\nthe main island."
+                            ],
+                            "_original": "\\N[10]、ウーラ。\n船はシキノワの龍角海域に入った。\nそろそろ本島に到着するぞ。"
                         },
                         {
                             "code": 232,
@@ -7749,22 +7737,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ、分かってます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なので\\N[10]を起こしてきました。"
-                            ]
+                                "Yes, I know. That's why I came to wake \\N[10]."
+                            ],
+                            "_original": "ええ、分かってます。\nなので\\N[10]を起こしてきました。"
                         },
                         {
                             "code": 231,
@@ -7790,22 +7773,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……分かりますよね、\\N[10]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この機械がダイアですよ、私たちの仲間の。"
-                            ]
+                                "...You understand, don't you, \\N[10]? This machine is\nDia―our companion."
+                            ],
+                            "_original": "……分かりますよね、\\N[10]。\nこの機械がダイアですよ、私たちの仲間の。"
                         },
                         {
                             "code": 101,
@@ -7822,15 +7800,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]ダイア\\C[0]は自分の相棒的存在だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これまで数多くの冒険を共にし、力を合わせてきた。"
-                            ]
+                                "\\C[17]Dia\\C[0] is my partner. We've gone on many adventures\ntogether and joined forces."
+                            ],
+                            "_original": "\\C[17]ダイア\\C[0]は自分の相棒的存在だ。\nこれまで数多くの冒険を共にし、力を合わせてきた。"
                         },
                         {
                             "code": 117,
@@ -7847,29 +7819,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ完全に覚醒していないように見えるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シキノワは平和な国だと言われるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも俺たちにとっては未知の場所──"
-                            ]
+                                "It seems you're not fully awakened yet. They say\nShikinowa is a peaceful country, but even so,\nit's unknown territory for us―"
+                            ],
+                            "_original": "まだ完全に覚醒していないように見えるな。\nシキノワは平和な国だと言われるが、\nそれでも俺たちにとっては未知の場所──"
                         },
                         {
                             "code": 101,
@@ -7879,35 +7839,34 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気を抜きすぎるべきではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の時代、お前のような存在は狙われやすい。"
-                            ]
+                                "We shouldn't let our guard down too much. In\nthis day and age, someone like you is easily\ntargeted."
+                            ],
+                            "_original": "気を抜きすぎるべきではない。\n今の時代、お前のような存在は狙われやすい。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "どうして狙われる？",
-                                    "よく理解している"
+                                    "Why would I be targeted?",
+                                    "I understand well."
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "どうして狙われる？",
+                                "よく理解している"
                             ]
                         },
                         {
@@ -7949,22 +7908,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっとちょっと、冗談ですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マナの供給源になるからに決まってるじゃないですか。"
-                            ]
+                                "Hold on, you're joking, right? It's obviously\nbecause you're a source of mana, isn't it?"
+                            ],
+                            "_original": "ちょっとちょっと、冗談ですよね？\nマナの供給源になるからに決まってるじゃないですか。"
                         },
                         {
                             "code": 117,
@@ -7981,22 +7935,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "改めて認識しておくのも悪くない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "当たり前になりすぎて危機感が薄れることもある。"
-                            ]
+                                "It's not a bad idea to be aware of that again.\nWhen things become too routine, your sense of\ndanger can fade."
+                            ],
+                            "_original": "改めて認識しておくのも悪くない。\n当たり前になりすぎて危機感が薄れることもある。"
                         },
                         {
                             "code": 117,
@@ -8013,22 +7962,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そういうもんですかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ、まあ……"
-                            ]
+                                "I-is that how it is? Well, then..."
+                            ],
+                            "_original": "そ、そういうもんですかね？\nじゃあ、まあ……"
                         },
                         {
                             "code": 231,
@@ -8054,29 +7998,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……マナっていうのは生命の源です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありとあらゆるものが持っていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また生きる上で必要不可欠なものです。"
-                            ]
+                                "...Mana is the source of life. All living things\npossess it, and it's an indispensable necessity\nfor life."
+                            ],
+                            "_original": "……マナっていうのは生命の源です。\nありとあらゆるものが持っていて、\nまた生きる上で必要不可欠なものです。"
                         },
                         {
                             "code": 117,
@@ -8093,29 +8025,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "生命が終わるとき、そこにはマナが残される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからこそ──これを求め、見るに堪えない争いが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "起こることもある。"
-                            ]
+                                "When life ends, mana is left behind. That's\nprecisely why―sometimes, conflicts that are hard\nto witness arise in pursuit of it."
+                            ],
+                            "_original": "生命が終わるとき、そこにはマナが残される。\nだからこそ──これを求め、見るに堪えない争いが\n起こることもある。"
                         },
                         {
                             "code": 117,
@@ -8132,22 +8052,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なので悪い輩には気をつけないといけないわけですが……"
-                            ]
+                                "Right. So we have to watch out for bad people,\nbut..."
+                            ],
+                            "_original": "そう。\nなので悪い輩には気をつけないといけないわけですが……"
                         },
                         {
                             "code": 231,
@@ -8173,22 +8088,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたのような男性は特に気をつけないといけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なぜなら、ええっと……"
-                            ]
+                                "Men like you especially need to be careful.\nBecause, um..."
+                            ],
+                            "_original": "あなたのような男性は特に気をつけないといけない。\nなぜなら、ええっと……"
                         },
                         {
                             "code": 231,
@@ -8214,22 +8124,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……その、ほら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "抽出できるので……体液から。"
-                            ]
+                                "...Well, you see. Because it can be extracted...\nfrom bodily fluids."
+                            ],
+                            "_original": "……その、ほら。\n抽出できるので……体液から。"
                         },
                         {
                             "code": 117,
@@ -8246,15 +8151,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "精液だ。"
-                            ]
+                                "Semen."
+                            ],
+                            "_original": "精液だ。"
                         },
                         {
                             "code": 117,
@@ -8271,22 +8178,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "は、はっきり言わないでくださいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっかく濁したのに！"
-                            ]
+                                "D-don't say it so directly! I went through all\nthat trouble to be vague!"
+                            ],
+                            "_original": "は、はっきり言わないでくださいよ！\nせっかく濁したのに！"
                         },
                         {
                             "code": 101,
@@ -8296,29 +8198,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "というか、もしかして私にこれを言わせたいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "知らないふりをしたんじゃないですか！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪しき者め～……！！"
-                            ]
+                                "Actually, wait―did you pretend not to know just\nto get me to say it?! You fiend~...!!"
+                            ],
+                            "_original": "というか、もしかして私にこれを言わせたいから\n知らないふりをしたんじゃないですか！？\n悪しき者め～……！！"
                         },
                         {
                             "code": 117,
@@ -8335,15 +8225,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "興奮するな。"
-                            ]
+                                "Don't get excited."
+                            ],
+                            "_original": "興奮するな。"
                         },
                         {
                             "code": 117,
@@ -8376,29 +8268,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "してません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ともかく、あなたを狙うものはたくさんいるんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気をつけてくださいよ！"
-                            ]
+                                "I'm not! Anyway, there are many who will target\nyou. So please be careful!"
+                            ],
+                            "_original": "してません！\nともかく、あなたを狙うものはたくさんいるんです。\n気をつけてくださいよ！"
                         },
                         {
                             "code": 0,
@@ -8421,15 +8301,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何よりだ。"
-                            ]
+                                "Indeed."
+                            ],
+                            "_original": "何よりだ。"
                         },
                         {
                             "code": 117,
@@ -8462,22 +8344,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたは何度も被害に遭ってますからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分が一番よく分かっているでしょう。"
-                            ]
+                                "After all, you've been victimized many times.\nYou should know that better than anyone."
+                            ],
+                            "_original": "あなたは何度も被害に遭ってますからね。\n自分が一番よく分かっているでしょう。"
                         },
                         {
                             "code": 0,
@@ -8513,22 +8390,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まあ、それはさておき。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "龍角海域に入ったんですね、この船は。"
-                            ]
+                                "……Well, settings that aside.\nSo this ship has entered the Ryukaku waters."
+                            ],
+                            "_original": "……まあ、それはさておき。\n龍角海域に入ったんですね、この船は。"
                         },
                         {
                             "code": 117,
@@ -8545,22 +8417,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、高波が龍の角に例えられる海域──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを越えれば港が見えるそうだ。"
-                            ]
+                                "Yeah, the waters where the high waves are\ncompared to dragon horns―they say the port comes\ninto view once we cross it."
+                            ],
+                            "_original": "ああ、高波が龍の角に例えられる海域──\nここを越えれば港が見えるそうだ。"
                         },
                         {
                             "code": 117,
@@ -8593,15 +8460,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転覆したり……しませんよね？"
-                            ]
+                                "It won't capsize... will it?"
+                            ],
+                            "_original": "転覆したり……しませんよね？"
                         },
                         {
                             "code": 117,
@@ -8618,22 +8487,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "名称はあくまで例えだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際にそこまで大きな波が立つことはないという。"
-                            ]
+                                "The name is just a metaphor. They say the waves\ndon't actually get that large."
+                            ],
+                            "_original": "名称はあくまで例えだ。\n実際にそこまで大きな波が立つことはないという。"
                         },
                         {
                             "code": 101,
@@ -8643,22 +8507,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに、ナーヴィガー号は戦闘にも耐えうる冒険船。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう簡単には沈むまい。"
-                            ]
+                                "Besides, the Navigator is an adventure ship\nbuilt to withstand combat. It won't sink that\neasily."
+                            ],
+                            "_original": "それに、ナーヴィガー号は戦闘にも耐えうる冒険船。\nそう簡単には沈むまい。"
                         },
                         {
                             "code": 117,
@@ -8675,22 +8534,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫大丈夫……"
-                            ]
+                                "R-right. It'll be fine, it'll be fine..."
+                            ],
+                            "_original": "で、ですよね。\n大丈夫大丈夫……"
                         },
                         {
                             "code": 117,
@@ -8707,22 +8561,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて──船の内部を探索する機会はそうないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人とも、興味があるものは今の内に調べておけ。"
-                            ]
+                                "Now then―you don't often get a chance to explore\nthe interior of the ship. Both of you, check out\nanything that interests you while you can."
+                            ],
+                            "_original": "さて──船の内部を探索する機会はそうないぞ。\n二人とも、興味があるものは今の内に調べておけ。"
                         },
                         {
                             "code": 117,
@@ -8755,22 +8604,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダイアはどうするんです？"
-                            ]
+                                "Hah. What about you, Dia?"
+                            ],
+                            "_original": "はあ。\nダイアはどうするんです？"
                         },
                         {
                             "code": 117,
@@ -8787,22 +8631,17 @@
                                 2,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺はここで待機している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "港に降り立つ準備ができたら戻ってくるといい。"
-                            ]
+                                "I'll wait here. Come back when you're ready to\ngo ashore."
+                            ],
+                            "_original": "俺はここで待機している。\n港に降り立つ準備ができたら戻ってくるといい。"
                         },
                         {
                             "code": 117,
@@ -8835,22 +8674,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ではのちほど。"
-                            ]
+                                "Got it. See you later, then."
+                            ],
+                            "_original": "分かりました。\nではのちほど。"
                         },
                         {
                             "code": 221,
@@ -8974,28 +8808,34 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで到着を待つか？"
-                            ]
+                                "Shall we wait here for our arrival?"
+                            ],
+                            "_original": "ここで到着を待つか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "待つ",
-                                    "待たない"
+                                    "Wait",
+                                    "Don't wait"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "待つ",
+                                "待たない"
                             ]
                         },
                         {
@@ -9193,22 +9033,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いよいよシキノワ上陸……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どんな国なのか、ちょっと楽しみです。"
-                            ]
+                                "We're finally landing in Shikinowa...\nI'm a little excited to see what kind of\ncountry it is."
+                            ],
+                            "_original": "いよいよシキノワ上陸……\nどんな国なのか、ちょっと楽しみです。"
                         },
                         {
                             "code": 205,
@@ -9249,22 +9084,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この船は大きな街の港に泊まるんですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確か、名前は……"
-                            ]
+                                "This ship docks at a port in a big city,\nright? If I recall, the name is..."
+                            ],
+                            "_original": "この船は大きな街の港に泊まるんですよね？\n確か、名前は……"
                         },
                         {
                             "code": 101,
@@ -9274,22 +9104,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]秋水京\\C[0]だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "シキノワの中心地として知られる都だな。"
-                            ]
+                                "\\C[17]Akimizu-kyou\\C[0]. It's known as the\nheart of Shikinowa, the capital city."
+                            ],
+                            "_original": "\\C[17]秋水京\\C[0]だ。\nシキノワの中心地として知られる都だな。"
                         },
                         {
                             "code": 101,
@@ -9299,22 +9124,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "仕事もありますけど、急ぐ必要はないですし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まずは観光しましょうね、観光！"
-                            ]
+                                "We've got work to do, but there's no\nrush... First, let's sightsee, sightsee!"
+                            ],
+                            "_original": "仕事もありますけど、急ぐ必要はないですし……\nまずは観光しましょうね、観光！"
                         },
                         {
                             "code": 213,
@@ -9408,29 +9228,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "観光か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これまでの旅では、いつも問題に巻き込まれてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今回くらいは──"
-                            ]
+                                "Sightseeing, huh. Our travels so far\nhave always dragged us into trouble.\nHopefully this time―"
+                            ],
+                            "_original": "観光か。\nこれまでの旅では、いつも問題に巻き込まれてきた。\n今回くらいは──"
                         },
                         {
                             "code": 250,
@@ -9631,22 +9439,17 @@
                                 2,
                                 0,
                                 2,
-                                "船員"
-                            ]
+                                "Sailor"
+                            ],
+                            "_original": "船員"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "気をつけろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "高波だ！"
-                            ]
+                                "Watch out! A big wave!"
+                            ],
+                            "_original": "気をつけろ！\n高波だ！"
                         },
                         {
                             "code": 241,
@@ -9762,22 +9565,17 @@
                                 2,
                                 0,
                                 2,
-                                "船員"
-                            ]
+                                "Sailor"
+                            ],
+                            "_original": "船員"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、何……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれ……！？"
-                            ]
+                                "Wha―what...? That...!?"
+                            ],
+                            "_original": "な、何……？\nあれ……！？"
                         },
                         {
                             "code": 101,
@@ -9787,15 +9585,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "──そうならないことを祈るんだがな。"
-                            ]
+                                "―I hope that won't happen."
+                            ],
+                            "_original": "──そうならないことを祈るんだがな。"
                         },
                         {
                             "code": 101,
@@ -9805,15 +9605,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なんです！？"
-                            ]
+                                "Wh-what is it!?"
+                            ],
+                            "_original": "な、なんです！？"
                         },
                         {
                             "code": 213,
@@ -9832,22 +9634,17 @@
                                 2,
                                 0,
                                 2,
-                                "船員"
-                            ]
+                                "Sailor"
+                            ],
+                            "_original": "船員"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まずい……！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんな、何かにしがみついて──"
-                            ]
+                                "This is bad...! Everyone, grab onto something―"
+                            ],
+                            "_original": "まずい……！\nみんな、何かにしがみついて──"
                         },
                         {
                             "code": 242,
@@ -9985,22 +9782,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだ少し時間がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "用事は今の内に済ませておけ。"
-                            ]
+                                "We still have some time. Take care of\nany business you need to now."
+                            ],
+                            "_original": "まだ少し時間がある。\n用事は今の内に済ませておけ。"
                         },
                         {
                             "code": 0,
@@ -10249,22 +10041,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、\\N[10]！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あそこにダイアがいますよ！"
-                            ]
+                                "Ah, \\N[10]! Dia is over there!"
+                            ],
+                            "_original": "あっ、\\N[10]！\nあそこにダイアがいますよ！"
                         },
                         {
                             "code": 204,
@@ -10300,28 +10087,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シナリオ進行のアイコンについての説明を確認しますか？"
-                            ]
+                                "Would you like to check the explanation about\nthe scenario progress icon?"
+                            ],
+                            "_original": "シナリオ進行のアイコンについての説明を確認しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "確認する",
-                                    "確認しない"
+                                    "Check",
+                                    "Don't check"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "確認する",
+                                "確認しない"
                             ]
                         },
                         {
@@ -10347,29 +10140,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シナリオ進行のために何かを調べる必要があるとき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あるいは進むべき場所があるときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その頭上に\\I[124]が表示されます。"
-                            ]
+                                "When you need to investigate something for\nscenario progress, or when there is a place to\ngo, \\I[124] will appear above that."
+                            ],
+                            "_original": "シナリオ進行のために何かを調べる必要があるとき、\nあるいは進むべき場所があるときは、\nその頭上に\\I[124]が表示されます。"
                         },
                         {
                             "code": 101,
@@ -10386,22 +10167,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "シナリオを進行させる方法が分からなくなってしまったら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その付近でこのアイコンを探してみましょう。"
-                            ]
+                                "If you're not sure how to proceed with the\nscenario, look for that icon nearby."
+                            ],
+                            "_original": "シナリオを進行させる方法が分からなくなってしまったら、\nその付近でこのアイコンを探してみましょう。"
                         },
                         {
                             "code": 0,
@@ -10471,22 +10247,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっと私たちを待ってるんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く行きましょう！"
-                            ]
+                                "She must be waiting for us. Let's hurry!"
+                            ],
+                            "_original": "きっと私たちを待ってるんです。\n早く行きましょう！"
                         },
                         {
                             "code": 123,
@@ -10799,8 +10570,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木箱が積まれている。"
-                            ]
+                                "Wooden boxes are stacked."
+                            ],
+                            "_original": "木箱が積まれている。"
                         },
                         {
                             "code": 0,
@@ -10877,8 +10649,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木箱が積まれている。"
-                            ]
+                                "Wooden boxes are stacked."
+                            ],
+                            "_original": "木箱が積まれている。"
                         },
                         {
                             "code": 0,
@@ -10955,8 +10728,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木箱が積まれている。"
-                            ]
+                                "Wooden boxes are stacked."
+                            ],
+                            "_original": "木箱が積まれている。"
                         },
                         {
                             "code": 0,
@@ -11033,15 +10807,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大砲がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使わずに済むことを祈る……"
-                            ]
+                                "There is a cannon. I hope we don't have to use\nit……"
+                            ],
+                            "_original": "大砲がある。\n使わずに済むことを祈る……"
                         },
                         {
                             "code": 0,
@@ -11118,8 +10886,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽を調べるとき、樽と口に出す仲間が自分には多くいる。"
-                            ]
+                                "When inspecting a barrel, I have many companions\nwho say \"barrel\" out loud."
+                            ],
+                            "_original": "樽を調べるとき、樽と口に出す仲間が自分には多くいる。"
                         },
                         {
                             "code": 0,
@@ -11196,8 +10965,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
+                                "It's a barrel."
+                            ],
+                            "_original": "樽だ。"
                         },
                         {
                             "code": 0,
@@ -11267,15 +11037,17 @@
                                 0,
                                 0,
                                 2,
-                                "ルイルイ"
-                            ]
+                                "Ruirui"
+                            ],
+                            "_original": "ルイルイ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわあ、船に魔物が！"
-                            ]
+                                "Wow, there's a monster on the ship!"
+                            ],
+                            "_original": "うわあ、船に魔物が！"
                         },
                         {
                             "code": 101,
@@ -11285,22 +11057,17 @@
                                 0,
                                 0,
                                 2,
-                                "ルイルイ"
-                            ]
+                                "Ruirui"
+                            ],
+                            "_original": "ルイルイ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……みたいな感じで驚いたりしないでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう見えてギルド所属の冒険者なんだから。"
-                            ]
+                                "...But don't go acting all surprised like that.\nI'm a guild-affiliated adventurer, you know."
+                            ],
+                            "_original": "……みたいな感じで驚いたりしないでね。\nこう見えてギルド所属の冒険者なんだから。"
                         },
                         {
                             "code": 123,
@@ -11369,22 +11136,17 @@
                                 0,
                                 0,
                                 2,
-                                "ルイルイ"
-                            ]
+                                "Ruirui"
+                            ],
+                            "_original": "ルイルイ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギルドに所属する蛮族って結構多いんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元々似てるしね、やってること。"
-                            ]
+                                "There are quite a few barbarians who belong to\nguilds, you know. After all, what they do is\npretty similar to begin with."
+                            ],
+                            "_original": "ギルドに所属する蛮族って結構多いんだよ。\n元々似てるしね、やってること。"
                         },
                         {
                             "code": 0,

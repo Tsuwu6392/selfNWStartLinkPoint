@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "鬨宮城",
+    "displayName": "Toki Palace",
     "encounterList": [],
     "encounterStep": 30,
     "height": 39,
@@ -8048,22 +8048,17 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[16]【イベント進行条件】\\C[0]"
-                            ]
+                                "\\C[16]【Event Progress Condition】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント進行条件】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "このイベントを進行させるには、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "戦闘メンバーに\\C[17]\\N[1]\\C[0]が必要です。"
-                            ]
+                                "To proceed with this event, you need \\C[17]\\N[1]\\C[0] in your\ncombat party."
+                            ],
+                            "_original": "このイベントを進行させるには、\n戦闘メンバーに\\C[17]\\N[1]\\C[0]が必要です。"
                         },
                         {
                             "code": 115,
@@ -8442,22 +8437,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無玄殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来たぞ。"
-                            ]
+                                "Lord Mugen. We've arrived."
+                            ],
+                            "_original": "無玄殿。\n来たぞ。"
                         },
                         {
                             "code": 101,
@@ -8467,22 +8457,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足労をかけ、すまぬな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この本丸が最も戦場として相応しいと思ったのだ。"
-                            ]
+                                "Forgive me for making you travel all\nthis way. I thought this keep would be\nthe most fitting battleground."
+                            ],
+                            "_original": "足労をかけ、すまぬな。\nこの本丸が最も戦場として相応しいと思ったのだ。"
                         },
                         {
                             "code": 101,
@@ -8492,15 +8477,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前さん、自分の肉体があったのか？"
-                            ]
+                                "Do you even have a body, you old coot?"
+                            ],
+                            "_original": "お前さん、自分の肉体があったのか？"
                         },
                         {
                             "code": 101,
@@ -8510,22 +8497,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傷んでおるが、一戦くらいならば問題になるまい。"
-                            ]
+                                "I do. I'm wounded, but a single battle\nwon't be a problem."
+                            ],
+                            "_original": "ああ。\n傷んでおるが、一戦くらいならば問題になるまい。"
                         },
                         {
                             "code": 101,
@@ -8535,8 +8517,9 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
@@ -8553,22 +8536,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、始めよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣の神と、その仲間たち。"
-                            ]
+                                "Now, let's begin. The Sword God and his\ncompanions."
+                            ],
+                            "_original": "さあ、始めよう。\n剣の神と、その仲間たち。"
                         },
                         {
                             "code": 101,
@@ -8578,22 +8556,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちも参加していいんですか？"
-                            ]
+                                "Huh? Can we join in too?"
+                            ],
+                            "_original": "え？\n私たちも参加していいんですか？"
                         },
                         {
                             "code": 101,
@@ -8603,29 +8576,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無論よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理を言っているのはこちらなのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それくらい認めねば狭量というもの。"
-                            ]
+                                "Of course. It's I who am making the\nunreasonable request. It would be petty\nnot to allow that much."
+                            ],
+                            "_original": "無論よ。\n無理を言っているのはこちらなのだ。\nそれくらい認めねば狭量というもの。"
                         },
                         {
                             "code": 101,
@@ -8635,22 +8596,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……無玄様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは対等では……"
-                            ]
+                                "…Lord Mugen. Then it wouldn't be fair…"
+                            ],
+                            "_original": "……無玄様。\nそれでは対等では……"
                         },
                         {
                             "code": 101,
@@ -8660,22 +8616,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淡雪。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮に、厭い根の軍勢が攻めてきたとしよう。"
-                            ]
+                                "Usuyuki. Suppose the enemy's main force\nwere to attack us."
+                            ],
+                            "_original": "淡雪。\n仮に、厭い根の軍勢が攻めてきたとしよう。"
                         },
                         {
                             "code": 101,
@@ -8685,22 +8636,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その時、そなたは対等ではないと諭すのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "笑わせる。"
-                            ]
+                                "Would you then lecture them about\nfairness? How absurd."
+                            ],
+                            "_original": "その時、そなたは対等ではないと諭すのか？\n笑わせる。"
                         },
                         {
                             "code": 250,
@@ -8748,22 +8694,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いかなる逆境に打ち勝ってこその鬨宮家将軍よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万事凌げねば復活する意味もなし！"
-                            ]
+                                "A general of the Toki Palace must\novercome any adversity! If you can't\nendure everything, there's no meaning in\nmy revival!"
+                            ],
+                            "_original": "いかなる逆境に打ち勝ってこその鬨宮家将軍よ！\n万事凌げねば復活する意味もなし！"
                         },
                         {
                             "code": 101,
@@ -8773,22 +8714,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いざ尋常に──勝負！"
-                            ]
+                                "Now! Let's settle this fairly―begin!"
+                            ],
+                            "_original": "さあ！\nいざ尋常に──勝負！"
                         },
                         {
                             "code": 250,
@@ -9028,15 +8964,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ここまでのようだ。"
-                            ]
+                                "…It seems this is as far as it goes."
+                            ],
+                            "_original": "……ここまでのようだ。"
                         },
                         {
                             "code": 205,
@@ -9091,8 +9029,9 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
@@ -9186,22 +9125,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "余の負けだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "強いな……ナズナたちよ。"
-                            ]
+                                "I concede. You're strong… Nazuna and the others."
+                            ],
+                            "_original": "余の負けだ。\n強いな……ナズナたちよ。"
                         },
                         {
                             "code": 117,
@@ -9218,8 +9152,9 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -9271,22 +9206,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな顔をするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誇れ。"
-                            ]
+                                "Don't look so down. Be proud."
+                            ],
+                            "_original": "そんな顔をするな。\n誇れ。"
                         },
                         {
                             "code": 231,
@@ -9312,22 +9242,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絃、淡雪。見ておったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "余は負けた──幕引きの時だ。"
-                            ]
+                                "Gen, Usuyuki. You saw it, didn't you? I\nlost―it's time to end this."
+                            ],
+                            "_original": "絃、淡雪。見ておったな。\n余は負けた──幕引きの時だ。"
                         },
                         {
                             "code": 101,
@@ -9337,8 +9262,9 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
@@ -9355,22 +9281,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "は、母上……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも……"
-                            ]
+                                "M-Mother… But…"
+                            ],
+                            "_original": "は、母上……\nでも……"
                         },
                         {
                             "code": 231,
@@ -9396,22 +9317,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "既に充分に無様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これ以上の醜態を……晒させないでくれ。"
-                            ]
+                                "I've already made a fool of myself enough.\nDon't… let me expose myself to any more\ndisgrace."
+                            ],
+                            "_original": "既に充分に無様。\nこれ以上の醜態を……晒させないでくれ。"
                         },
                         {
                             "code": 117,
@@ -9428,22 +9344,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……無玄殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは違う。"
-                            ]
+                                "…Lord Mugen. That's not true."
+                            ],
+                            "_original": "……無玄殿。\nそれは違う。"
                         },
                         {
                             "code": 117,
@@ -9476,15 +9387,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん？"
-                            ]
+                                "Hm?"
+                            ],
+                            "_original": "ん？"
                         },
                         {
                             "code": 117,
@@ -9501,22 +9414,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたという存在を皆が望んでいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死してなお、それに応えようと尽くすあなたを……"
-                            ]
+                                "Everyone wanted you to exist. Even in death,\nyou've strived to answer their hopes…"
+                            ],
+                            "_original": "あなたという存在を皆が望んでいた。\n死してなお、それに応えようと尽くすあなたを……"
                         },
                         {
                             "code": 101,
@@ -9526,22 +9434,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……責められるものなどいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは、偉大だ。"
-                            ]
+                                "…There's nothing to blame. You are… magnificent."
+                            ],
+                            "_original": "……責められるものなどいない。\nあなたは、偉大だ。"
                         },
                         {
                             "code": 117,
@@ -9574,22 +9477,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……一つ誤解がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我が後継のためにも白状せねばならぬな。"
-                            ]
+                                "…There's one misunderstanding I must clear up.\nFor the sake of my successor, I must confess."
+                            ],
+                            "_original": "……一つ誤解がある。\n我が後継のためにも白状せねばならぬな。"
                         },
                         {
                             "code": 117,
@@ -9622,15 +9520,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "え……？"
-                            ]
+                                "Huh…?"
+                            ],
+                            "_original": "え……？"
                         },
                         {
                             "code": 117,
@@ -9647,22 +9547,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黄泉の巌での淡雪の言葉……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれは正しくない。"
-                            ]
+                                "What Usuyuki said at the Crag of Yomi… That\nwasn't the truth."
+                            ],
+                            "_original": "黄泉の巌での淡雪の言葉……\nあれは正しくない。"
                         },
                         {
                             "code": 101,
@@ -9672,8 +9567,9 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
@@ -9706,22 +9602,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "余は、己の復活のために民を犠牲にした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは淡雪に説得されたから──"
-                            ]
+                                "I sacrificed the people for my own revival. It\nwasn't because Usuyuki persuaded me―"
+                            ],
+                            "_original": "余は、己の復活のために民を犠牲にした。\nそれは淡雪に説得されたから──"
                         },
                         {
                             "code": 101,
@@ -9731,29 +9622,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "──違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "民に望まれたからではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "絃の望みでもない。"
-                            ]
+                                "―No. It wasn't because the people wanted it, nor\nbecause of Gen's wishes."
+                            ],
+                            "_original": "──違う。\n民に望まれたからではない。\n絃の望みでもない。"
                         },
                         {
                             "code": 101,
@@ -9763,8 +9642,9 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
@@ -9781,29 +9661,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結局は、己が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他の誰よりも生を渇望していたのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのために、志をも曲げた。"
-                            ]
+                                "In the end… I simply desired life more than\nanyone else. For that, I even twisted my own\nconvictions."
+                            ],
+                            "_original": "結局は、己が……\n他の誰よりも生を渇望していたのだ。\nそのために、志をも曲げた。"
                         },
                         {
                             "code": 117,
@@ -9820,15 +9688,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すべて、平和のためだろう？"
-                            ]
+                                "Wasn't it all for the sake of peace?"
+                            ],
+                            "_original": "すべて、平和のためだろう？"
                         },
                         {
                             "code": 117,
@@ -9861,22 +9731,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いかにも聞こえのいい理由よな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、所詮は自己満足。"
-                            ]
+                                "A fine-sounding reason, isn't it? But in the\nend, it's just self-satisfaction."
+                            ],
+                            "_original": "いかにも聞こえのいい理由よな。\nしかし、所詮は自己満足。"
                         },
                         {
                             "code": 101,
@@ -9886,22 +9751,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんなことを……言わないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたが望まれているのは事実なのです。"
-                            ]
+                                "Please… don't say such things. The fact\nthat you are wanted is undeniable."
+                            ],
+                            "_original": "そんなことを……言わないでください。\nあなたが望まれているのは事実なのです。"
                         },
                         {
                             "code": 101,
@@ -9911,22 +9771,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "とうに死んだのも事実だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それを隠したことが、そもそも間違っていた。"
-                            ]
+                                "It's also undeniable that I've been dead for a\nlong time. Hiding that was the first mistake."
+                            ],
+                            "_original": "とうに死んだのも事実だ。\nそれを隠したことが、そもそも間違っていた。"
                         },
                         {
                             "code": 101,
@@ -9936,29 +9791,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "未練がましく朽ちかけた肉体を残し……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誰よりも死を認められなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが、余だ。"
-                            ]
+                                "I clung to my rotting flesh… and was the one who\nrefused to accept death more than anyone. That\nis me."
+                            ],
+                            "_original": "未練がましく朽ちかけた肉体を残し……\n誰よりも死を認められなかった。\nそれが、余だ。"
                         },
                         {
                             "code": 101,
@@ -9968,22 +9811,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "母上がいないと……"
-                            ]
+                                "I… without Mother…"
+                            ],
+                            "_original": "私……\n母上がいないと……"
                         },
                         {
                             "code": 231,
@@ -10009,22 +9847,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絃よ、そなたは未熟かもしれぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし誰もが初めはそうであろう。"
-                            ]
+                                "Gen, you may still be inexperienced. But\neveryone starts that way."
+                            ],
+                            "_original": "絃よ、そなたは未熟かもしれぬ。\nしかし誰もが初めはそうであろう。"
                         },
                         {
                             "code": 101,
@@ -10034,29 +9867,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そなたには淡雪がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "民がいる。鎖影衆の忍びもいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一人ではない。"
-                            ]
+                                "You have Usuyuki. You have the people. You have\nthe Chain Shadow Clan ninja. You are not alone."
+                            ],
+                            "_original": "そなたには淡雪がいる。\n民がいる。鎖影衆の忍びもいる。\n一人ではない。"
                         },
                         {
                             "code": 231,
@@ -10082,22 +9903,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして、じきに余を超えよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "未来は明るい。"
-                            ]
+                                "And soon, you will surpass me. The future is\nbright."
+                            ],
+                            "_original": "そして、じきに余を超えよう。\n未来は明るい。"
                         },
                         {
                             "code": 101,
@@ -10107,8 +9923,9 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
@@ -10148,15 +9965,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……さあ。"
-                            ]
+                                "…Now."
+                            ],
+                            "_original": "……さあ。"
                         },
                         {
                             "code": 232,
@@ -10220,22 +10039,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "余は重罪人だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "己の望みのため、多くの命を奪った。"
-                            ]
+                                "I am a criminal. I took many lives for\nmy own desires."
+                            ],
+                            "_original": "余は重罪人だ。\n己の望みのため、多くの命を奪った。"
                         },
                         {
                             "code": 101,
@@ -10245,22 +10059,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "極刑以外になかろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ナズナよ、頼まれてくれるか。"
-                            ]
+                                "The only fitting punishment is\nexecution. Nazuna, will you do it for\nme?"
+                            ],
+                            "_original": "極刑以外になかろう。\nナズナよ、頼まれてくれるか。"
                         },
                         {
                             "code": 101,
@@ -10270,15 +10079,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "え……"
-                            ]
+                                "Wha…?"
+                            ],
+                            "_original": "え……"
                         },
                         {
                             "code": 205,
@@ -10319,15 +10130,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、待って……"
-                            ]
+                                "W-Wait…"
+                            ],
+                            "_original": "ま、待って……"
                         },
                         {
                             "code": 101,
@@ -10337,22 +10150,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絃、そなたは余の誇りだ──そう思っているのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そなたに託せなかったことも余の罪。"
-                            ]
+                                "Gen, you are my pride―though I think\nthat, I couldn't entrust the future to\nyou. That, too, is my sin."
+                            ],
+                            "_original": "絃、そなたは余の誇りだ──そう思っているのに、\nそなたに託せなかったことも余の罪。"
                         },
                         {
                             "code": 101,
@@ -10362,22 +10170,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シキノワを頼む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "天征大将軍、鬨宮絃。"
-                            ]
+                                "Take the Shikino Wa. Heavenly Conquest\nGreat General, Gen of the Todoroki\nPalace."
+                            ],
+                            "_original": "シキノワを頼む。\n天征大将軍、鬨宮絃。"
                         },
                         {
                             "code": 205,
@@ -10418,15 +10221,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うう……"
-                            ]
+                                "Nnngh…"
+                            ],
+                            "_original": "うう……"
                         },
                         {
                             "code": 101,
@@ -10436,22 +10241,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "む、無玄殿……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私には……"
-                            ]
+                                "M-Mugen-sama… I…"
+                            ],
+                            "_original": "む、無玄殿……\n私には……"
                         },
                         {
                             "code": 101,
@@ -10461,22 +10261,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬ……そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "剣の神に葬られるのであれば本望であったが……"
-                            ]
+                                "Hmph… I see. If I am to be buried by the\nSword God, that would be an honor…"
+                            ],
+                            "_original": "ぬ……そうか。\n剣の神に葬られるのであれば本望であったが……"
                         },
                         {
                             "code": 101,
@@ -10486,22 +10281,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よくぞ考えれば罪人の身に余る栄誉。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "相応しからぬ。"
-                            ]
+                                "Though, upon reflection, it's far too\ngreat an honor for a sinner like me. I\ndon't deserve it."
+                            ],
+                            "_original": "よくぞ考えれば罪人の身に余る栄誉。\n相応しからぬ。"
                         },
                         {
                             "code": 101,
@@ -10511,22 +10301,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "い、いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういうわけではないのだが。"
-                            ]
+                                "N-No! That's not what I meant…"
+                            ],
+                            "_original": "い、いや。\nそういうわけではないのだが。"
                         },
                         {
                             "code": 101,
@@ -10536,15 +10321,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では、淡雪。"
-                            ]
+                                "Then, Usuyuki."
+                            ],
+                            "_original": "では、淡雪。"
                         },
                         {
                             "code": 101,
@@ -10554,15 +10341,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……執政が将軍に刃を向けるなど。"
-                            ]
+                                "…For the chancellor to raise a blade\nagainst the general…"
+                            ],
+                            "_original": "……執政が将軍に刃を向けるなど。"
                         },
                         {
                             "code": 101,
@@ -10572,15 +10361,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬう。"
-                            ]
+                                "Tsk."
+                            ],
+                            "_original": "ぬう。"
                         },
                         {
                             "code": 101,
@@ -10597,8 +10388,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "拙者に任せてもらえませぬか。"
-                            ]
+                                "Could you leave this to me?"
+                            ],
+                            "_original": "拙者に任せてもらえませぬか。"
                         },
                         {
                             "code": 221,
@@ -10939,15 +10731,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直さん。"
-                            ]
+                                "Tadashi-san."
+                            ],
+                            "_original": "直さん。"
                         },
                         {
                             "code": 205,
@@ -11385,22 +11179,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直殿……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "来ていたのか。"
-                            ]
+                                "Tadashi-sama… You were here?"
+                            ],
+                            "_original": "直殿……\n来ていたのか。"
                         },
                         {
                             "code": 101,
@@ -11410,22 +11199,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事情は知っておるし、勝負も初めから見ていた。"
-                            ]
+                                "Indeed. I knew the circumstances and\nhave been watching the fight from the\nstart."
+                            ],
+                            "_original": "うむ。\n事情は知っておるし、勝負も初めから見ていた。"
                         },
                         {
                             "code": 204,
@@ -11867,22 +11651,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "柴組隊士三年目……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "舟観砦の六巻直だな。"
-                            ]
+                                "A third-year Shiba-Gumi soldier… Rokkan\nTadashi of Shipwatch Fort, correct?"
+                            ],
+                            "_original": "柴組隊士三年目……\n舟観砦の六巻直だな。"
                         },
                         {
                             "code": 213,
@@ -11901,15 +11680,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せ、拙者のことをそこまで詳しく……"
-                            ]
+                                "Y-You know that much about me…?"
+                            ],
+                            "_original": "せ、拙者のことをそこまで詳しく……"
                         },
                         {
                             "code": 101,
@@ -11919,22 +11700,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そなたは前途有望。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "重荷にならぬか？"
-                            ]
+                                "You have a promising future. Would this\nbe too much of a burden?"
+                            ],
+                            "_original": "そなたは前途有望。\n重荷にならぬか？"
                         },
                         {
                             "code": 101,
@@ -11944,8 +11720,9 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
@@ -12115,22 +11892,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……拙者、将軍様の意志を模範とし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "正しき剣を振るいます。"
-                            ]
+                                "...I shall wield my sword in accordance\nwith the Shogun's will, as a model of\njustice."
+                            ],
+                            "_original": "……拙者、将軍様の意志を模範とし\n正しき剣を振るいます。"
                         },
                         {
                             "code": 101,
@@ -12140,22 +11912,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心強いな。"
-                            ]
+                                "I see. That's reassuring."
+                            ],
+                            "_original": "そうか。\n心強いな。"
                         },
                         {
                             "code": 205,
@@ -12216,15 +11983,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、あ……"
-                            ]
+                                "A-ah..."
+                            ],
+                            "_original": "あ、あ……"
                         },
                         {
                             "code": 101,
@@ -12234,22 +12003,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絃様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見届けましょう。"
-                            ]
+                                "Gen-sama. Let us bear witness."
+                            ],
+                            "_original": "絃様。\n見届けましょう。"
                         },
                         {
                             "code": 101,
@@ -12259,22 +12023,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "罪人、鬨宮無玄……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成敗いたす。"
-                            ]
+                                "Criminal, Tokimiya Mugen... I shall\nexecute you."
+                            ],
+                            "_original": "罪人、鬨宮無玄……\n成敗いたす。"
                         },
                         {
                             "code": 101,
@@ -12284,15 +12043,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "余の為に去りぬ魂よ──"
-                            ]
+                                "O spirits who have departed for my sake―"
+                            ],
+                            "_original": "余の為に去りぬ魂よ──"
                         },
                         {
                             "code": 101,
@@ -12302,15 +12063,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "願わくは、在るべき郷へ還らなむ。"
-                            ]
+                                "May you return to the land where you\nbelong."
+                            ],
+                            "_original": "願わくは、在るべき郷へ還らなむ。"
                         },
                         {
                             "code": 250,
@@ -12445,15 +12208,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……余の勝ちだ、剣の神よ。"
-                            ]
+                                "...The victory is mine, God of the\nSword."
+                            ],
+                            "_original": "……余の勝ちだ、剣の神よ。"
                         },
                         {
                             "code": 101,
@@ -12463,22 +12228,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せめて……この命尽きぬ限り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "平和を守ると約束しよう。"
-                            ]
+                                "At least... as long as this life lasts,\nI vow to protect the peace."
+                            ],
+                            "_original": "せめて……この命尽きぬ限り、\n平和を守ると約束しよう。"
                         },
                         {
                             "code": 117,
@@ -13522,22 +13282,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝負を引き受けてくれてありがとう、ナズナ殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ……無玄様のもとへ。"
-                            ]
+                                "Thank you for accepting the challenge,\nNazuna-dono. Now... to Lord Mugen."
+                            ],
+                            "_original": "勝負を引き受けてくれてありがとう、ナズナ殿。\nさあ……無玄様のもとへ。"
                         },
                         {
                             "code": 0,
@@ -13658,8 +13413,9 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
@@ -14118,22 +13874,17 @@
                                 0,
                                 0,
                                 2,
-                                "大田原"
-                            ]
+                                "Ootawara"
+                            ],
+                            "_original": "大田原"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おい、止まれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天守に立ち入りたくば執政様の許可を得よ！"
-                            ]
+                                "Hey, stop! If you want to enter the keep, get\npermission from the Shitō-sama!"
+                            ],
+                            "_original": "おい、止まれ！\n天守に立ち入りたくば執政様の許可を得よ！"
                         },
                         {
                             "code": 101,
@@ -14143,15 +13894,17 @@
                                 0,
                                 0,
                                 2,
-                                "小田原"
-                            ]
+                                "Odawara"
+                            ],
+                            "_original": "小田原"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出直してきてね。"
-                            ]
+                                "Come back when you have it."
+                            ],
+                            "_original": "出直してきてね。"
                         },
                         {
                             "code": 205,
@@ -14214,15 +13967,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさい！"
-                            ]
+                                "I'm sorry!"
+                            ],
+                            "_original": "ごめんなさい！"
                         },
                         {
                             "code": 205,
@@ -14519,22 +14274,17 @@
                                 0,
                                 0,
                                 2,
-                                "松尾"
-                            ]
+                                "Matsuo"
+                            ],
+                            "_original": "松尾"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無玄様の最後の戦はここで行われたらしいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん、見てみたかった。"
-                            ]
+                                "It seems Mugen-sama's final battle took place\nhere. Hmm, I wish I could've seen it."
+                            ],
+                            "_original": "無玄様の最後の戦はここで行われたらしいね。\nうーん、見てみたかった。"
                         },
                         {
                             "code": 0,
@@ -14604,22 +14354,17 @@
                                 0,
                                 0,
                                 2,
-                                "大田原"
-                            ]
+                                "Ootawara"
+                            ],
+                            "_original": "大田原"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは鬨宮城の天守！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "立ち入りたくば執政様の許可を得よ！"
-                            ]
+                                "This is the keep of Toki Palace! If you wish to\nenter, obtain Lord Shitsei's permission!"
+                            ],
+                            "_original": "ここは鬨宮城の天守！\n立ち入りたくば執政様の許可を得よ！"
                         },
                         {
                             "code": 0,
@@ -14680,22 +14425,17 @@
                                 0,
                                 0,
                                 2,
-                                "大田原"
-                            ]
+                                "Ootawara"
+                            ],
+                            "_original": "大田原"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たちは執政様の印鑑を持っているな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば通るがよい！"
-                            ]
+                                "You have the Shitsei-sama's seal, do you? Then\nyou may pass!"
+                            ],
+                            "_original": "お前たちは執政様の印鑑を持っているな。\nならば通るがよい！"
                         },
                         {
                             "code": 0,
@@ -14765,22 +14505,17 @@
                                 0,
                                 0,
                                 2,
-                                "小田原"
-                            ]
+                                "Odawara"
+                            ],
+                            "_original": "小田原"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは鬨宮城の天守だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許可がないなら入っちゃ駄目だよ。"
-                            ]
+                                "This is the keep of Toki Palace. You can't go in\nwithout permission."
+                            ],
+                            "_original": "ここは鬨宮城の天守だよ。\n許可がないなら入っちゃ駄目だよ。"
                         },
                         {
                             "code": 0,
@@ -14841,22 +14576,17 @@
                                 0,
                                 0,
                                 2,
-                                "小田原"
-                            ]
+                                "Odawara"
+                            ],
+                            "_original": "小田原"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君たち、執政様の印鑑を持っているんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なら通っていいよ。"
-                            ]
+                                "You have the Regent-sama's seal, huh. Then you\nmay pass."
+                            ],
+                            "_original": "君たち、執政様の印鑑を持っているんだね。\nなら通っていいよ。"
                         },
                         {
                             "code": 0,
@@ -14926,22 +14656,17 @@
                                 0,
                                 0,
                                 2,
-                                "柊"
-                            ]
+                                "Hiiragi"
+                            ],
+                            "_original": "柊"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや……こちらに天守の入口はありませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ。"
-                            ]
+                                "Oh my... There's no entrance to the keep here.\nHeh heh."
+                            ],
+                            "_original": "おや……こちらに天守の入口はありませんよ。\nふふふ。"
                         },
                         {
                             "code": 0,
@@ -15011,22 +14736,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり手入れされている。"
-                            ]
+                                "It's a Jizo statue. It's\nwell-maintained."
+                            ],
+                            "_original": "お地蔵様だ。\nしっかり手入れされている。"
                         },
                         {
                             "code": 0,
@@ -15096,22 +14816,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しっかり手入れされている。"
-                            ]
+                                "It's a Jizo statue. It's\nwell-maintained."
+                            ],
+                            "_original": "お地蔵様だ。\nしっかり手入れされている。"
                         },
                         {
                             "code": 0,

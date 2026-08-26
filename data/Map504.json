@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "伝承管理塔",
+    "displayName": "Heritage Management Tower",
     "encounterList": [
         {
             "troopId": 285,
@@ -4662,15 +4662,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物が……"
-                            ]
+                                "Monsters..."
+                            ],
+                            "_original": "魔物が……"
                         },
                         {
                             "code": 101,
@@ -4680,29 +4682,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "警備のためのものですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客様を攻撃することはないはずですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の状況では……"
-                            ]
+                                "They're here for security. They\nshouldn't attack customers, but in this\nsituation..."
+                            ],
+                            "_original": "警備のためのものですね。\nお客様を攻撃することはないはずですが、\n今の状況では……"
                         },
                         {
                             "code": 101,
@@ -4712,22 +4702,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ここは既に観光用としては機能していません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご注意ください。"
-                            ]
+                                "...This place is no longer functioning\nas a tourist site. Please be careful."
+                            ],
+                            "_original": "……ここは既に観光用としては機能していません。\nご注意ください。"
                         },
                         {
                             "code": 101,
@@ -4737,29 +4722,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでも私たちはオルーサに勧められて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここへ来たわけですから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦闘になってしまったら相手のせいにしましょう。"
-                            ]
+                                "Still, Orsa recommended we come here. If\nit comes to a fight, we'll just blame\nthem."
+                            ],
+                            "_original": "それでも私たちはオルーサに勧められて\nここへ来たわけですから。\n戦闘になってしまったら相手のせいにしましょう。"
                         },
                         {
                             "code": 101,
@@ -4769,15 +4742,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらの言い分など通じるものか？"
-                            ]
+                                "Do you really think they'll listen to\nour side?"
+                            ],
+                            "_original": "こちらの言い分など通じるものか？"
                         },
                         {
                             "code": 101,
@@ -4787,15 +4762,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いずれにせよ、ここを進まなくては……"
-                            ]
+                                "Either way, we have to move forward..."
+                            ],
+                            "_original": "いずれにせよ、ここを進まなくては……"
                         },
                         {
                             "code": 101,
@@ -4805,15 +4782,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしものときは、また直にごり押してもらう感じで。"
-                            ]
+                                "If things go south, we'll just have\nTadashi force our way through again."
+                            ],
+                            "_original": "もしものときは、また直にごり押してもらう感じで。"
                         },
                         {
                             "code": 101,
@@ -4823,15 +4802,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任せろ！"
-                            ]
+                                "Leave it to me!"
+                            ],
+                            "_original": "任せろ！"
                         },
                         {
                             "code": 221,
@@ -5384,22 +5365,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "機械がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動かしても反応はない……"
-                            ]
+                                "There's a machine here. It doesn't react\neven when I try to move it..."
+                            ],
+                            "_original": "機械がある。\n動かしても反応はない……"
                         },
                         {
                             "code": 0,
@@ -5488,22 +5464,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "機械がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動かしても反応はない……"
-                            ]
+                                "There's a machine here. It doesn't react\neven when I try to move it..."
+                            ],
+                            "_original": "機械がある。\n動かしても反応はない……"
                         },
                         {
                             "code": 0,
@@ -5592,22 +5563,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "機械がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動かしても反応はない……"
-                            ]
+                                "There's a machine here. It doesn't react\neven when I try to move it..."
+                            ],
+                            "_original": "機械がある。\n動かしても反応はない……"
                         },
                         {
                             "code": 0,
@@ -5696,22 +5662,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "機械がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動かしても反応はない……"
-                            ]
+                                "There's a machine here. It doesn't react\neven when I try to move it..."
+                            ],
+                            "_original": "機械がある。\n動かしても反応はない……"
                         },
                         {
                             "code": 0,
@@ -5800,22 +5761,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "機械がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動かしても反応はない……"
-                            ]
+                                "There's a machine here. It doesn't react\neven when I try to move it..."
+                            ],
+                            "_original": "機械がある。\n動かしても反応はない……"
                         },
                         {
                             "code": 0,
@@ -5904,22 +5860,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "機械がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動かしても反応はない……"
-                            ]
+                                "There's a machine here. It doesn't react\neven when I try to move it..."
+                            ],
+                            "_original": "機械がある。\n動かしても反応はない……"
                         },
                         {
                             "code": 0,

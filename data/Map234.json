@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "シュマリコタン",
+    "displayName": "Shumarikotan",
     "encounterList": [],
     "encounterStep": 30,
     "height": 33,
@@ -9243,8 +9243,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -9268,29 +9269,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナの横に立ってみたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女はこちらに気づいていないようだ。"
-                            ]
+                                "Nazuna stood beside me, but she didn't seem to\nnotice me."
+                            ],
+                            "_original": "ナズナの横に立ってみたが、\n彼女はこちらに気づいていないようだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "声をかける",
-                                    "頬をつつく",
-                                    "頭を撫でる"
+                                    "Call out to her",
+                                    "Poke her cheek",
+                                    "Pet her head"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "声をかける",
+                                "頬をつつく",
+                                "頭を撫でる"
                             ]
                         },
                         {
@@ -9325,15 +9325,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、\\N[10]殿……"
-                            ]
+                                "Ah… \\N[10]-sama…"
+                            ],
+                            "_original": "あ、\\N[10]殿……"
                         },
                         {
                             "code": 0,
@@ -9372,22 +9374,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……\\N[10]殿？"
-                            ]
+                                "W-Wait… …\\N[10]-sama?"
+                            ],
+                            "_original": "わっ。\n……\\N[10]殿？"
                         },
                         {
                             "code": 231,
@@ -9413,22 +9410,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "急につつかないでくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "びっくりしてしまう！"
-                            ]
+                                "Don't suddenly poke me like that. You'll startle\nme!"
+                            ],
+                            "_original": "急につつかないでくれ。\nびっくりしてしまう！"
                         },
                         {
                             "code": 0,
@@ -9467,22 +9459,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……\\N[10]殿？"
-                            ]
+                                "W-Wait… …\\N[10]-sama?"
+                            ],
+                            "_original": "わっ。\n……\\N[10]殿？"
                         },
                         {
                             "code": 101,
@@ -9492,8 +9479,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -9526,29 +9514,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかして慰めてくれているのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "えへへ。"
-                            ]
+                                "…Ah. Maybe you're trying to comfort me? Ehehe."
+                            ],
+                            "_original": "……ああ。\nもしかして慰めてくれているのだろうか？\nえへへ。"
                         },
                         {
                             "code": 0,
@@ -9568,8 +9544,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -9614,29 +9591,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ええと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな夜更けに。"
-                            ]
+                                "…Uh. What's wrong? It's the middle of the night."
+                            ],
+                            "_original": "……ええと。\nどうしたんだ？\nこんな夜更けに。"
                         },
                         {
                             "code": 101,
@@ -9646,22 +9611,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダイア殿も言っていたが、無理にでも休んだ方がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちは思っている以上に消耗しているはずだ。"
-                            ]
+                                "Dia-sama said it too, but you really should\nrest, even if you have to force yourself. We're\nprobably more drained than we realize."
+                            ],
+                            "_original": "ダイア殿も言っていたが、無理にでも休んだ方がいい。\n私たちは思っている以上に消耗しているはずだ。"
                         },
                         {
                             "code": 101,
@@ -9671,8 +9631,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -9705,22 +9666,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんて、人のことは言えないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もやっぱり眠れないんだ。"
-                            ]
+                                "…Not that I'm one to talk. I can't sleep either."
+                            ],
+                            "_original": "……なんて、人のことは言えないか。\n私もやっぱり眠れないんだ。"
                         },
                         {
                             "code": 101,
@@ -9730,22 +9686,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしても……不安で。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分が正しいと思っていることが本当に正しいのかどうか……"
-                            ]
+                                "I just… can't shake this anxiety. I keep\nwondering if the things I believe in are truly\nright…"
+                            ],
+                            "_original": "どうしても……不安で。\n自分が正しいと思っていることが本当に正しいのかどうか……"
                         },
                         {
                             "code": 101,
@@ -9762,15 +9713,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふと、いつかのテンの言葉を思い出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの方は怪異の脅威からあなた様を守ってくれる」──"
-                            ]
+                                "Suddenly, I recalled something Ten had said\nonce: \"That one will protect you from the threat\nof the supernatural…\""
+                            ],
+                            "_original": "ふと、いつかのテンの言葉を思い出した。\n「あの方は怪異の脅威からあなた様を守ってくれる」──"
                         },
                         {
                             "code": 101,
@@ -9787,22 +9732,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなた様もまた、あの方に忍び寄る悪意から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　守ると約束してください」。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに、そう言われた。"
-                            ]
+                                "\"And you must promise to protect them from the\nmalice that creeps up on them.\" Yes, that's what\nshe told me."
+                            ],
+                            "_original": "「あなた様もまた、あの方に忍び寄る悪意から\n　守ると約束してください」。\n確かに、そう言われた。"
                         },
                         {
                             "code": 101,
@@ -9819,15 +9751,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく見なくてはならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段はおどけたような彼女の内にある心、魂を。"
-                            ]
+                                "I need to look closer. Beneath her usual playful\ndemeanor lies her true heart and soul."
+                            ],
+                            "_original": "よく見なくてはならない。\n普段はおどけたような彼女の内にある心、魂を。"
                         },
                         {
                             "code": 231,
@@ -9853,35 +9779,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたんだ？"
-                            ]
+                                "\\N[10]-sama? What's wrong?"
+                            ],
+                            "_original": "\\N[10]殿？\nどうしたんだ？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ナズナを守ると約束する",
-                                    "どんな時も味方だと伝える"
+                                    "Promise to protect Nazuna",
+                                    "Tell her you'll always be by her side"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ナズナを守ると約束する",
+                                "どんな時も味方だと伝える"
                             ]
                         },
                         {
@@ -9900,22 +9825,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N[10]殿が私を？"
-                            ]
+                                "Huh? \\N[10]-sama wants to… comfort me?"
+                            ],
+                            "_original": "ええ？\n\\N[10]殿が私を？"
                         },
                         {
                             "code": 101,
@@ -9925,8 +9845,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -9956,15 +9877,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[10]殿……"
-                            ]
+                                "\\N[10]-sama…"
+                            ],
+                            "_original": "\\N[10]殿……"
                         },
                         {
                             "code": 0,
@@ -10000,22 +9923,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとう。"
-                            ]
+                                "…Yeah. Thank you."
+                            ],
+                            "_original": "……うん。\nありがとう。"
                         },
                         {
                             "code": 231,
@@ -10041,22 +9959,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿のおかげで、よく眠れそうな気がしてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ床に就こう。"
-                            ]
+                                "Thanks to you, \\N[10]-sama, I think I can finally\nsleep. I should get to bed now."
+                            ],
+                            "_original": "\\N[10]殿のおかげで、よく眠れそうな気がしてきた。\nそろそろ床に就こう。"
                         },
                         {
                             "code": 231,
@@ -10082,22 +9995,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿も夜更かしはよくないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日からも……私たちの旅は続くんだ！"
-                            ]
+                                "You shouldn't stay up late either, \\N[10]-sama.\nTomorrow… our journey continues!"
+                            ],
+                            "_original": "\\N[10]殿も夜更かしはよくないぞ。\n明日からも……私たちの旅は続くんだ！"
                         },
                         {
                             "code": 242,
@@ -10180,15 +10088,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやはや、仲がよくて妬けてしまいますね。"
-                            ]
+                                "Oh my, you two are so close it's almost\nenvy-inducing."
+                            ],
+                            "_original": "いやはや、仲がよくて妬けてしまいますね。"
                         },
                         {
                             "code": 213,
@@ -10332,22 +10242,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、失礼。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に盗み聞きしていたわけではないのです。"
-                            ]
+                                "Ah, my apologies. I wasn't eavesdropping, I\nassure you."
+                            ],
+                            "_original": "ああ、失礼。\n別に盗み聞きしていたわけではないのです。"
                         },
                         {
                             "code": 231,
@@ -10373,22 +10278,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらにもいろいろと事情がありまして。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し出かけていて、今戻ってきたのですよ。"
-                            ]
+                                "I had some business to attend to. I was out for\na while and just got back."
+                            ],
+                            "_original": "こちらにもいろいろと事情がありまして。\n少し出かけていて、今戻ってきたのですよ。"
                         },
                         {
                             "code": 101,
@@ -10405,15 +10305,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ずっと共に過ごし続ける内に、忘れかけていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、プリムにも不審な点があった。"
-                            ]
+                                "…After spending so much time together, I'd\nalmost forgotten. Come to think of it, there was\nsomething suspicious about Prim too."
+                            ],
+                            "_original": "……ずっと共に過ごし続ける内に、忘れかけていた。\nそういえば、プリムにも不審な点があった。"
                         },
                         {
                             "code": 101,
@@ -10430,15 +10324,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "随分と昔のことのように感じる──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ある夜、彼女は隠れて何者かと会話していたのだ。"
-                            ]
+                                "It feels like ages ago now―one night, she was\nsecretly talking to someone."
+                            ],
+                            "_original": "随分と昔のことのように感じる──\nある夜、彼女は隠れて何者かと会話していたのだ。"
                         },
                         {
                             "code": 101,
@@ -10455,15 +10343,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、そもそも出会いが不自然だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めから、彼女にはナズナと共に戦う理由がない。"
-                            ]
+                                "No, actually, our meeting itself was unnatural.\nFrom the start, she had no reason to fight\nalongside Nazuna."
+                            ],
+                            "_original": "いや、そもそも出会いが不自然だった。\n初めから、彼女にはナズナと共に戦う理由がない。"
                         },
                         {
                             "code": 101,
@@ -10480,15 +10362,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナは柄にもなく杖を疑っていたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に疑うべきなのは──"
-                            ]
+                                "Nazuna was uncharacteristically suspicious of\nthe Staff, but the one I should really be\ndoubting is―"
+                            ],
+                            "_original": "ナズナは柄にもなく杖を疑っていたが、\n本当に疑うべきなのは──"
                         },
                         {
                             "code": 101,
@@ -10498,29 +10374,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何を考えているのか、実に分かりやすいです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]さん。"
-                            ]
+                                "…Fufu. Your thoughts are so easy to read, \\N[10]-sama."
+                            ],
+                            "_original": "……ふっ。\n何を考えているのか、実に分かりやすいです。\n\\N[10]さん。"
                         },
                         {
                             "code": 241,
@@ -10558,22 +10422,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですね、そろそろ白状しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の目的を。"
-                            ]
+                                "Yes, I suppose it's time I came clean. About my\ntrue purpose."
+                            ],
+                            "_original": "そうですね、そろそろ白状しましょう。\n私の目的を。"
                         },
                         {
                             "code": 231,
@@ -10599,29 +10458,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたはギルドの冒険者通信を読んでいますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれにも書かれていますが、近頃は世界の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "至る所で目撃されているのですよ──"
-                            ]
+                                "Do you read the Adventurer's Newsletter from the\nGuild? It mentions this too―lately, there have\nbeen sightings all over the world…"
+                            ],
+                            "_original": "あなたはギルドの冒険者通信を読んでいますか？\nあれにも書かれていますが、近頃は世界の\n至る所で目撃されているのですよ──"
                         },
                         {
                             "code": 101,
@@ -10631,22 +10478,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──優秀な諜報員として知られる存在が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう、シキノワの忍者です。"
-                            ]
+                                "…of a highly skilled spy known to exist. That's\nright―the ninja of Shikino Wa."
+                            ],
+                            "_original": "──優秀な諜報員として知られる存在が。\nそう、シキノワの忍者です。"
                         },
                         {
                             "code": 231,
@@ -10672,29 +10514,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は、ミルエス軍にも紛れ込んでいましてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その正体を暴くことには成功したのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "捕縛には失敗してしまいまして。"
-                            ]
+                                "The truth is, a spy has infiltrated the Miles\nArmy. I managed to uncover their true identity,\nbut I failed to capture them."
+                            ],
+                            "_original": "実は、ミルエス軍にも紛れ込んでいましてね。\nその正体を暴くことには成功したのですが、\n捕縛には失敗してしまいまして。"
                         },
                         {
                             "code": 101,
@@ -10704,22 +10534,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを追うため、そして忍者の目的を探るために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が駆り出されたというわけです。"
-                            ]
+                                "So, I was sent to pursue them and uncover the\nninja's true intentions."
+                            ],
+                            "_original": "それを追うため、そして忍者の目的を探るために\n私が駆り出されたというわけです。"
                         },
                         {
                             "code": 101,
@@ -10729,22 +10554,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、あなた方に近づいたのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうした方が自分が目立たないと考えたからです。"
-                            ]
+                                "As for why I approached you, I thought it would\nbe easier to blend in if I stayed close to a\ngroup."
+                            ],
+                            "_original": "また、あなた方に近づいたのは\nそうした方が自分が目立たないと考えたからです。"
                         },
                         {
                             "code": 101,
@@ -10754,22 +10574,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "単独では不自然な行動も、集団に紛れればごまかしやすい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厭い根の討伐などという大きな目的があればなおのこと……"
-                            ]
+                                "Suspicious behavior is harder to notice in a\ncrowd, especially with a grand purpose like\neradicating the Blighted Roots..."
+                            ],
+                            "_original": "単独では不自然な行動も、集団に紛れればごまかしやすい。\n厭い根の討伐などという大きな目的があればなおのこと……"
                         },
                         {
                             "code": 231,
@@ -10795,29 +10610,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、それで本当にあんな戦いに参加することに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるとは思っていませんでしたが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にしては頑張りすぎましたね。"
-                            ]
+                                "Though I never expected to actually end up\nfighting in such a battle. I may have overdone\nit a bit for my own good."
+                            ],
+                            "_original": "まあ、それで本当にあんな戦いに参加することに\nなるとは思っていませんでしたが。\n私にしては頑張りすぎましたね。"
                         },
                         {
                             "code": 101,
@@ -10827,29 +10630,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともあれ忍者とは接触できましたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その主であろう将軍や執政と会うこともできた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の読みは正しかったのです。"
-                            ]
+                                "Still, I did make contact with the ninja, and I\neven met their leader―the general and the\nmagistrate. My instincts were right."
+                            ],
+                            "_original": "ともあれ忍者とは接触できましたし、\nその主であろう将軍や執政と会うこともできた。\n私の読みは正しかったのです。"
                         },
                         {
                             "code": 231,
@@ -10875,22 +10666,17 @@
                                 0,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、残念ながら相手の目的はまだ分かりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引き続き、ぜひ私の隠れ蓑となってください──"
-                            ]
+                                "Unfortunately, I still don't know their true\ngoal. Please, continue to serve as my cover..."
+                            ],
+                            "_original": "ただ、残念ながら相手の目的はまだ分かりません。\n引き続き、ぜひ私の隠れ蓑となってください──"
                         },
                         {
                             "code": 242,
@@ -11023,22 +10809,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、私ももう寝ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]さんも早めに休んだ方がいいのでは？"
-                            ]
+                                "Now, I'm going to sleep. Maybe you\nshould rest early too, \\N[10]-san?"
+                            ],
+                            "_original": "では、私ももう寝ます。\n\\N[10]さんも早めに休んだ方がいいのでは？"
                         },
                         {
                             "code": 205,
@@ -11193,15 +10974,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の話は真実なのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "辻褄は合っているように思える──"
-                            ]
+                                "Was that the whole truth? Her story seems to\ncheck out..."
+                            ],
+                            "_original": "今の話は真実なのだろうか。\n辻褄は合っているように思える──"
                         },
                         {
                             "code": 101,
@@ -11218,15 +10993,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、そもそも隠すほどの目的ではなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女はまだ……すべてを明かしてはいない。"
-                            ]
+                                "But then again, it wasn't exactly a secret worth\nhiding. She still hasn't... told us everything."
+                            ],
+                            "_original": "しかし、そもそも隠すほどの目的ではなかった。\n彼女はまだ……すべてを明かしてはいない。"
                         },
                         {
                             "code": 213,
@@ -11262,8 +11031,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,

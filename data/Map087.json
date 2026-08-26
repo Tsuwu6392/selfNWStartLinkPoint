@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "石拾い道",
+    "displayName": "Ishihiroi Path",
     "encounterList": [
         {
             "troopId": 45,
@@ -9278,15 +9278,17 @@
                                 0,
                                 0,
                                 2,
-                                "柴組隊士"
-                            ]
+                                "Shiba-Gumi Soldier"
+                            ],
+                            "_original": "柴組隊士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厭い根め、どこにいる……？"
-                            ]
+                                "You bastard, where are you...?"
+                            ],
+                            "_original": "厭い根め、どこにいる……？"
                         },
                         {
                             "code": 0,
@@ -9423,15 +9425,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「→ …… 髪洗村"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　← …… 道外れ　怪異に注意」"
-                            ]
+                                "「→ ...... Kamiarai Village\n　← ...... Off the path - Beware of occurrences」"
+                            ],
+                            "_original": "「→ …… 髪洗村\n　← …… 道外れ　怪異に注意」"
                         },
                         {
                             "code": 0,
@@ -9451,22 +9447,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "立て札の側面だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "側面だから読めないぞ！"
-                            ]
+                                "That's the side of the sign! I can't\nread it from the side!"
+                            ],
+                            "_original": "立て札の側面だ！\n側面だから読めないぞ！"
                         },
                         {
                             "code": 0,

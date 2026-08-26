@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "夜寄せ塔",
+    "displayName": "Yoyose Tower",
     "encounterList": [
         {
             "troopId": 24,
@@ -4373,22 +4373,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉があるが……開かないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕掛けで閉じられているようだ。"
-                            ]
+                                "There's a door... but it won't open.\nLooks like it's sealed by some\nmechanism."
+                            ],
+                            "_original": "扉があるが……開かないな。\n仕掛けで閉じられているようだ。"
                         },
                         {
                             "code": 0,
@@ -4449,36 +4444,36 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……昇降機か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええっと……"
-                            ]
+                                "This is... an elevator? Umm..."
+                            ],
+                            "_original": "これは……昇降機か。\nええっと……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "六階へ",
-                                    "地下へ",
-                                    "立ち去る"
+                                    "To the sixth floor",
+                                    "To the basement",
+                                    "Leave"
                                 ],
                                 2,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "六階へ",
+                                "地下へ",
+                                "立ち去る"
                             ]
                         },
                         {

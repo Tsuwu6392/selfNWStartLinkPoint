@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "ユニ・サーキット",
+    "displayName": "Uni Circuit",
     "encounterList": [
         {
             "troopId": 207,
@@ -10623,15 +10623,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「不具合発生……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユニ・サーキット隔離フォルダに保管済み」"
-                            ]
+                                "\"Error detected... Stored in the Uni Circuit\nisolation folder.\""
+                            ],
+                            "_original": "「不具合発生……\n　ユニ・サーキット隔離フォルダに保管済み」"
                         },
                         {
                             "code": 101,
@@ -10648,15 +10642,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「不具合情報：生物学的な死を誘発させる個体。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　その他の特筆事項なし」"
-                            ]
+                                "\"Error details: An individual that induces\nbiological death. No other notable features.\""
+                            ],
+                            "_original": "「不具合情報：生物学的な死を誘発させる個体。\n　その他の特筆事項なし」"
                         },
                         {
                             "code": 0,
@@ -10733,8 +10721,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隔離フォルダアクセス権限：異常」"
-                            ]
+                                "\"Isolation folder access permissions: Abnormal\""
+                            ],
+                            "_original": "「隔離フォルダアクセス権限：異常」"
                         },
                         {
                             "code": 250,
@@ -10817,8 +10806,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「アクセス権限設定修正……」"
-                            ]
+                                "\"Correcting access permissions...\""
+                            ],
+                            "_original": "「アクセス権限設定修正……」"
                         },
                         {
                             "code": 250,
@@ -10878,15 +10868,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええと。"
-                            ]
+                                "Uh..."
+                            ],
+                            "_original": "ええと。"
                         },
                         {
                             "code": 101,
@@ -10896,15 +10888,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダイア。"
-                            ]
+                                "Dia."
+                            ],
+                            "_original": "ダイア。"
                         },
                         {
                             "code": 101,
@@ -10914,22 +10908,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "俺に説明を求められても困るが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ、どこかで何かが変化したのかもしれん。"
-                            ]
+                                "Don't ask me to explain, I'm just as\nconfused... Well, maybe something\nchanged somewhere."
+                            ],
+                            "_original": "俺に説明を求められても困るが……\nまあ、どこかで何かが変化したのかもしれん。"
                         },
                         {
                             "code": 101,
@@ -10939,15 +10928,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "曖昧な情報です。"
-                            ]
+                                "That's vague information."
+                            ],
+                            "_original": "曖昧な情報です。"
                         },
                         {
                             "code": 221,
@@ -11070,28 +11061,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「隔離フォルダアクセス権限：正常"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ユニ・サーキット・ポータルに移動できます」"
-                            ]
+                                "\"Isolation folder access: Normal. You can move\nto the Uni Circuit Portal.\""
+                            ],
+                            "_original": "「隔離フォルダアクセス権限：正常\n　ユニ・サーキット・ポータルに移動できます」"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "移動する",
-                                    "移動しない"
+                                    "Move",
+                                    "Don't move"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "移動する",
+                                "移動しない"
                             ]
                         },
                         {

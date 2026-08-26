@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "石拾い道",
+    "displayName": "Ishihiroi Path",
     "encounterList": [
         {
             "troopId": 45,
@@ -6356,35 +6356,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し汚れている……"
-                            ]
+                                "It's a Jizo statue. It's a little\ndirty..."
+                            ],
+                            "_original": "お地蔵様だ。\n少し汚れている……"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "手入れする",
-                                    "立ち去る"
+                                    "Tidy it up.",
+                                    "Leave."
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "手入れする",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -6436,15 +6435,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これでよし。"
-                            ]
+                                "There, that's better."
+                            ],
+                            "_original": "これでよし。"
                         },
                         {
                             "code": 123,
@@ -6495,15 +6496,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,
@@ -6583,22 +6586,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりと手入れしたぞ！"
-                            ]
+                                "It's a Jizo statue. I've taken good care\nof it!"
+                            ],
+                            "_original": "お地蔵様だ。\nしっかりと手入れしたぞ！"
                         },
                         {
                             "code": 0,
@@ -6618,15 +6616,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Right next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,
@@ -6706,22 +6706,17 @@
                                 0,
                                 0,
                                 2,
-                                "柴組隊士"
-                            ]
+                                "Shibagumi Soldier"
+                            ],
+                            "_original": "柴組隊士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この崖を下りて西へ進むと洞窟がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厭い根はそこに入っていったらしいぞ。"
-                            ]
+                                "If you go down this cliff and head west, there's a cave.\nApparently, the Blight Root went in there."
+                            ],
+                            "_original": "この崖を下りて西へ進むと洞窟がある。\n厭い根はそこに入っていったらしいぞ。"
                         },
                         {
                             "code": 101,
@@ -6731,29 +6726,17 @@
                                 0,
                                 0,
                                 2,
-                                "柴組隊士"
-                            ]
+                                "Shibagumi Soldier"
+                            ],
+                            "_original": "柴組隊士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は行かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖いからな！"
-                            ]
+                                "...Me? I'm not going. Because I'm scared!"
+                            ],
+                            "_original": "……私？\n私は行かない。\n怖いからな！"
                         },
                         {
                             "code": 0,
@@ -6874,15 +6857,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "首無しのお地蔵様だ……"
-                            ]
+                                "It's a headless Jizo statue..."
+                            ],
+                            "_original": "首無しのお地蔵様だ……"
                         },
                         {
                             "code": 0,

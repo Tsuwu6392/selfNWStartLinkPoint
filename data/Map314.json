@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "夢幻回廊",
+    "displayName": "Dream Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 37,
@@ -5623,29 +5623,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく来たね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わっちは夢幻回廊担当の小夜。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぬしの遊び相手さ。"
-                            ]
+                                "Welcome. I'm Sayo, in charge of the Dream\nCorridor. I'll be your playmate."
+                            ],
+                            "_original": "よく来たね。\nわっちは夢幻回廊担当の小夜。\nぬしの遊び相手さ。"
                         },
                         {
                             "code": 101,
@@ -5655,29 +5643,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、まずは練習だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この程度で引っかかるようなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生きて帰れんかもしれんよ？"
-                            ]
+                                "Now, let's start with some practice. If you get\ncaught up on something this simple, you might\nnot make it back alive."
+                            ],
+                            "_original": "さて、まずは練習だ。\nこの程度で引っかかるようなら、\n生きて帰れんかもしれんよ？"
                         },
                         {
                             "code": 212,
@@ -5954,22 +5930,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "簡単だったかえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ま、この程度はこなしてもらわんとね。"
-                            ]
+                                "Was that easy for you? Well, I expect you to\nhandle at least this much."
+                            ],
+                            "_original": "簡単だったかえ？\nま、この程度はこなしてもらわんとね。"
                         },
                         {
                             "code": 0,
@@ -5989,22 +5960,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん、ここで既に引っかかるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先が心配だが……ま、頑張りな。"
-                            ]
+                                "Hmm, already struggling here? I'm worried about\nwhat comes next... but do your best."
+                            ],
+                            "_original": "うーん、ここで既に引っかかるか。\n先が心配だが……ま、頑張りな。"
                         },
                         {
                             "code": 0,
@@ -6376,22 +6342,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あーあ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "炎に触れたら大変なことになるって聞かんかったん？"
-                            ]
+                                "Oh no... Didn't you hear that touching the\nflames would be a huge problem?"
+                            ],
+                            "_original": "あーあ……\n炎に触れたら大変なことになるって聞かんかったん？"
                         },
                         {
                             "code": 101,
@@ -6401,22 +6362,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで三回目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと教育せんとねえ。"
-                            ]
+                                "This is the third time. I really need to teach\nyou a lesson."
+                            ],
+                            "_original": "これで三回目。\nちょっと教育せんとねえ。"
                         },
                         {
                             "code": 242,
@@ -6481,35 +6437,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーン『わっちの助け』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※このシーンは閲覧済みです。\\C[0]"
-                            ]
+                                "View the scene \"My Help\"? \\C[17]*This scene has\nalready been viewed.\\C[0]"
+                            ],
+                            "_original": "シーン『わっちの助け』を閲覧しますか？\n\\C[17]※このシーンは閲覧済みです。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -6612,42 +6567,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーン『わっちの助け』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※このシーンには「飲尿」表現が含まれます。\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene \"My Help\"? \\C[17]*This scene contains\n\"drinking urine\" content.\\C[0] \\C[17]*Any choice will be\nadded to the memories.\\C[0]"
+                            ],
+                            "_original": "シーン『わっちの助け』を閲覧しますか？\n\\C[17]※このシーンには「飲尿」表現が含まれます。\\C[0]\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {

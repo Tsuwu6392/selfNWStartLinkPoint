@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "全景域",
+    "displayName": "Panorama Area",
     "encounterList": [
         {
             "troopId": 180,
@@ -6181,22 +6181,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "止まってしまった。"
-                            ]
+                                "...Hm? We've stopped."
+                            ],
+                            "_original": "……ん？\n止まってしまった。"
                         },
                         {
                             "code": 101,
@@ -6206,22 +6201,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっちを見て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道が続いてる。"
-                            ]
+                                "Look over there. The path continues."
+                            ],
+                            "_original": "あっちを見て。\n道が続いてる。"
                         },
                         {
                             "code": 205,
@@ -6284,22 +6274,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当だ！"
-                            ]
+                                "Oh! You're right!"
+                            ],
+                            "_original": "おお！\n本当だ！"
                         },
                         {
                             "code": 101,
@@ -6309,22 +6294,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行きましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと祭場はもうすぐよ。"
-                            ]
+                                "Let's go. The ritual site must be just\nahead."
+                            ],
+                            "_original": "行きましょう。\nきっと祭場はもうすぐよ。"
                         },
                         {
                             "code": 221,
@@ -6381,15 +6361,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]魂の祭事\\C[0]が更新されました。"
-                            ]
+                                "The \\C[17]Soul Ritual\\C[0] event has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]魂の祭事\\C[0]が更新されました。"
                         },
                         {
                             "code": 281,

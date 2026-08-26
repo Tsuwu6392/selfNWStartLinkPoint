@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "カンムイ小径",
+    "displayName": "Kanmui Trail",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -6421,15 +6421,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、冠鎮までやってきたな。"
-                            ]
+                                "Alright, we've made it to Kanmurichin"
+                            ],
+                            "_original": "よし、冠鎮までやってきたな。"
                         },
                         {
                             "code": 117,
@@ -6446,22 +6448,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冠鎮……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地名か何かか。"
-                            ]
+                                "Kanmurichin... is that a place name or something?"
+                            ],
+                            "_original": "冠鎮……\n地名か何かか。"
                         },
                         {
                             "code": 101,
@@ -6471,22 +6468,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]冠鎮（かむりしずめ）\\C[0]……察しの通り、地名です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シキノワの中央部のことでしたよね。"
-                            ]
+                                "\\C[17]Kanmurichin\\C[0]... as you might guess, it's a\nplace name. It's the central part of\nShikinowa, right?"
+                            ],
+                            "_original": "\\C[17]冠鎮（かむりしずめ）\\C[0]……察しの通り、地名です。\nシキノワの中央部のことでしたよね。"
                         },
                         {
                             "code": 117,
@@ -6519,22 +6511,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都はもうすぐだぞ！"
-                            ]
+                                "That's right! The capital is just ahead!"
+                            ],
+                            "_original": "そうだ！\n都はもうすぐだぞ！"
                         },
                         {
                             "code": 117,
@@ -6551,22 +6538,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "記録しておこう。"
-                            ]
+                                "I see. I'll make a note of it."
+                            ],
+                            "_original": "なるほど。\n記録しておこう。"
                         },
                         {
                             "code": 101,
@@ -6576,22 +6558,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シキノワの単語は覚えづらくて困ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界標準語の雰囲気に即していないというか……"
-                            ]
+                                "The words in Shikinowa are hard to\nremember. They don't fit the vibe of the\nworld standard language, you know..."
+                            ],
+                            "_original": "シキノワの単語は覚えづらくて困ります。\n世界標準語の雰囲気に即していないというか……"
                         },
                         {
                             "code": 117,
@@ -6624,29 +6601,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大抵は古いシキノワの言葉が語源になっているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう感じてしまうのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冠鎮もカンムイが元に──"
-                            ]
+                                "It might be because most of them have their roots\nin old Shikinowa words. Even Kanmurichin was originally\nbased on Kanmui──"
+                            ],
+                            "_original": "大抵は古いシキノワの言葉が語源になっているから\nそう感じてしまうのかもしれない。\n冠鎮もカンムイが元に──"
                         },
                         {
                             "code": 117,
@@ -6663,22 +6628,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カンムイだと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古の大怪異のことを言っているのか？"
-                            ]
+                                "Kanmui?\nAre you talking about the ancient great occurrence?"
+                            ],
+                            "_original": "カンムイだと？\n古の大怪異のことを言っているのか？"
                         },
                         {
                             "code": 117,
@@ -6711,22 +6671,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ。"
-                            ]
+                                "Huh? Oh, yeah."
+                            ],
+                            "_original": "ん？\nああ。"
                         },
                         {
                             "code": 101,
@@ -6736,15 +6691,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなた、あのときの会話に参加していましたっけ？"
-                            ]
+                                "You, were you participating in that\nconversation back then?"
+                            ],
+                            "_original": "あなた、あのときの会話に参加していましたっけ？"
                         },
                         {
                             "code": 101,
@@ -6754,15 +6711,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのときの会話？"
-                            ]
+                                "That conversation?"
+                            ],
+                            "_original": "あのときの会話？"
                         },
                         {
                             "code": 117,
@@ -6779,22 +6738,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……知識は豊富なんだ、以前から。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意外にもな。"
-                            ]
+                                "...She has become quite knowledgeable.\nSurprisingly, I suppose."
+                            ],
+                            "_original": "……知識は豊富なんだ、以前から。\n意外にもな。"
                         },
                         {
                             "code": 101,
@@ -6804,15 +6758,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に意外です。"
-                            ]
+                                "That really is surprising."
+                            ],
+                            "_original": "本当に意外です。"
                         },
                         {
                             "code": 117,
@@ -6829,8 +6785,9 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -7082,22 +7039,17 @@
                                 0,
                                 0,
                                 2,
-                                "鈴野"
-                            ]
+                                "Suzuno"
+                            ],
+                            "_original": "鈴野"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、異国の方でしょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都へ向かうなら東に、雫村へ向かうなら北に進むといいですよ。"
-                            ]
+                                "Oh, are you from a foreign land? If you're\nheading to the capital, go east; if you're\nheading to Shizuku Village, go north."
+                            ],
+                            "_original": "おや、異国の方でしょうか。\n都へ向かうなら東に、雫村へ向かうなら北に進むといいですよ。"
                         },
                         {
                             "code": 0,

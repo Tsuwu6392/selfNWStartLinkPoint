@@ -1,500 +1,560 @@
 [
-    null,
-    {
-        "id": 1,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara01",
-        "classId": 1,
-        "equips": [
-            2,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "face01",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "ナズナ",
-        "nickname": "ナズナ・ハクトウ",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface01>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[35]\n"
-    },
-    {
-        "id": 2,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara02",
-        "classId": 2,
-        "equips": [
-            82,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 1,
-        "faceName": "face01",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "プリム",
-        "nickname": "プリム・アンシルラ",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface02>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[36]\n"
-    },
-    {
-        "id": 3,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara03",
-        "classId": 3,
-        "equips": [
-            122,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 2,
-        "faceName": "face01",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "桜悳",
-        "nickname": "桜悳",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface03>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[37]\n"
-    },
-    {
-        "id": 4,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara04",
-        "classId": 4,
-        "equips": [
-            42,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 3,
-        "faceName": "face01",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "ウーラ",
-        "nickname": "ウーラ・ジェラート",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface04>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[38]\n"
-    },
-    {
-        "id": 5,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara05",
-        "classId": 5,
-        "equips": [
-            44,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 4,
-        "faceName": "face01",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "杖",
-        "nickname": "壬生 杖",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface05>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[39]\n"
-    },
-    {
-        "id": 6,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara06",
-        "classId": 6,
-        "equips": [
-            163,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 5,
-        "faceName": "face01",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "存子",
-        "nickname": "隠神 存子",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface06>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[40]\n"
-    },
-    {
-        "id": 7,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara11",
-        "classId": 7,
-        "equips": [
-            16,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 3,
-        "faceName": "face02",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "淡雪",
-        "nickname": "左雨 淡雪",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface07>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[482]\n"
-    },
-    {
-        "id": 8,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara14",
-        "classId": 7,
-        "equips": [
-            194,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 6,
-        "faceName": "face02",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "夕闇",
-        "nickname": "夕闇",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface08>",
-        "profile": "\\C[16]ご利益\\C[0] \\V[483]\n"
-    },
-    {
-        "id": 9,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 10,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Player01",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "★プレイヤー",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 11,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara09_3",
-        "classId": 11,
-        "equips": [
-            85,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 1,
-        "faceName": "face03",
-        "traits": [
-            {
-                "code": 22,
-                "dataId": 7,
-                "value": 0.1
-            },
-            {
-                "code": 22,
-                "dataId": 8,
-                "value": 0.1
-            },
-            {
-                "code": 14,
-                "dataId": 1,
-                "value": 0
-            },
-            {
-                "code": 41,
-                "dataId": 3,
-                "value": 0
-            },
-            {
-                "code": 22,
-                "dataId": 2,
-                "value": 0.45
-            }
-        ],
-        "initialLevel": 99,
-        "maxLevel": 99,
-        "name": "無玄",
-        "nickname": "鬨宮 無玄",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface01>\n<道具封印スイッチ>",
-        "profile": "イベント用"
-    },
-    {
-        "id": 12,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara11",
-        "classId": 12,
-        "equips": [
-            6,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 3,
-        "faceName": "face02",
-        "traits": [
-            {
-                "code": 22,
-                "dataId": 7,
-                "value": 0.1
-            },
-            {
-                "code": 22,
-                "dataId": 8,
-                "value": 0.1
-            }
-        ],
-        "initialLevel": 99,
-        "maxLevel": 99,
-        "name": "淡雪",
-        "nickname": "左雨 淡雪",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface01>\n<道具封印スイッチ>",
-        "profile": "イベント用"
-    },
-    {
-        "id": 13,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 14,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 15,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 16,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 17,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "$Chara01",
-        "classId": 1,
-        "equips": [
-            2,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "face01",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "設定下書き",
-        "nickname": "",
-        "note": "<equipSlotEx:1 2 2 2 3 4 4>\n<stand_picture:Menuface01>\n<StateTurn166:4>\n<StateTurn177:3>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[31]\n\\C[16]マナの輝き\\C[0] \\V[32]"
-    },
-    {
-        "id": 18,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 19,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "",
-        "nickname": "",
-        "note": "",
-        "profile": ""
-    },
-    {
-        "id": 20,
-        "battlerName": "",
-        "characterIndex": 0,
-        "characterName": "",
-        "classId": 1,
-        "equips": [
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "faceIndex": 0,
-        "faceName": "",
-        "traits": [],
-        "initialLevel": 1,
-        "maxLevel": 99,
-        "name": "汎用　入力用",
-        "nickname": "",
-        "note": "",
-        "profile": ""
+  null,
+  {
+    "id": 1,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara01",
+    "classId": 1,
+    "equips": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "face01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Nazuna",
+    "nickname": "Nazuna Hakuto",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface01>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[35]",
+    "_original": {
+      "name": "ナズナ",
+      "nickname": "ナズナ・ハクトウ",
+      "profile": "\\C[16]ご利益\\C[0] \\V[35]\n"
     }
+  },
+  {
+    "id": 2,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara02",
+    "classId": 2,
+    "equips": [
+      82,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "face01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Prim",
+    "nickname": "Prim Ancilla",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface02>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[36]",
+    "_original": {
+      "name": "プリム",
+      "nickname": "プリム・アンシルラ",
+      "profile": "\\C[16]ご利益\\C[0] \\V[36]\n"
+    }
+  },
+  {
+    "id": 3,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara03",
+    "classId": 3,
+    "equips": [
+      122,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 2,
+    "faceName": "face01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Outoku",
+    "nickname": "Outoku",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface03>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[37]",
+    "_original": {
+      "name": "桜悳",
+      "nickname": "桜悳",
+      "profile": "\\C[16]ご利益\\C[0] \\V[37]\n"
+    }
+  },
+  {
+    "id": 4,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara04",
+    "classId": 4,
+    "equips": [
+      42,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "face01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Uura",
+    "nickname": "Uura Gelato",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface04>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[38]",
+    "_original": {
+      "name": "ウーラ",
+      "nickname": "ウーラ・ジェラート",
+      "profile": "\\C[16]ご利益\\C[0] \\V[38]\n"
+    }
+  },
+  {
+    "id": 5,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara05",
+    "classId": 5,
+    "equips": [
+      44,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 4,
+    "faceName": "face01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Tsue",
+    "nickname": "Mibu Tsue",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface05>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[39]",
+    "_original": {
+      "name": "杖",
+      "nickname": "壬生 杖",
+      "profile": "\\C[16]ご利益\\C[0] \\V[39]\n"
+    }
+  },
+  {
+    "id": 6,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara06",
+    "classId": 6,
+    "equips": [
+      163,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 5,
+    "faceName": "face01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Sonoko",
+    "nickname": "Kakami Sonoko",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface06>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[40]",
+    "_original": {
+      "name": "存子",
+      "nickname": "隠神 存子",
+      "profile": "\\C[16]ご利益\\C[0] \\V[40]\n"
+    }
+  },
+  {
+    "id": 7,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara11",
+    "classId": 7,
+    "equips": [
+      16,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "face02",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Awayuki",
+    "nickname": "Sayu Awayuki",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface07>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[482]",
+    "_original": {
+      "name": "淡雪",
+      "nickname": "左雨 淡雪",
+      "profile": "\\C[16]ご利益\\C[0] \\V[482]\n"
+    }
+  },
+  {
+    "id": 8,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara14",
+    "classId": 7,
+    "equips": [
+      194,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 6,
+    "faceName": "face02",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Yuuyami",
+    "nickname": "Yuuyami",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface08>",
+    "profile": "\\C[16]Blessing\\C[0] \\V[483]",
+    "_original": {
+      "name": "夕闇",
+      "nickname": "夕闇",
+      "profile": "\\C[16]ご利益\\C[0] \\V[483]\n"
+    }
+  },
+  {
+    "id": 9,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 10,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Player01",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "★Player",
+    "nickname": "",
+    "note": "",
+    "profile": "",
+    "_original": {
+      "name": "★プレイヤー"
+    }
+  },
+  {
+    "id": 11,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara09_3",
+    "classId": 11,
+    "equips": [
+      85,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 1,
+    "faceName": "face03",
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.1
+      },
+      {
+        "code": 14,
+        "dataId": 1,
+        "value": 0
+      },
+      {
+        "code": 41,
+        "dataId": 3,
+        "value": 0
+      },
+      {
+        "code": 22,
+        "dataId": 2,
+        "value": 0.45
+      }
+    ],
+    "initialLevel": 99,
+    "maxLevel": 200,
+    "name": "Mugen",
+    "nickname": "Togami Mugen",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface01>\n<道具封印スイッチ>",
+    "profile": "For event",
+    "_original": {
+      "name": "無玄",
+      "nickname": "鬨宮 無玄",
+      "profile": "イベント用"
+    }
+  },
+  {
+    "id": 12,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara11",
+    "classId": 12,
+    "equips": [
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 3,
+    "faceName": "face02",
+    "traits": [
+      {
+        "code": 22,
+        "dataId": 7,
+        "value": 0.1
+      },
+      {
+        "code": 22,
+        "dataId": 8,
+        "value": 0.1
+      }
+    ],
+    "initialLevel": 99,
+    "maxLevel": 200,
+    "name": "Awayuki",
+    "nickname": "Sayu Awayuki",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4 5>\n<stand_picture:Menuface01>\n<道具封印スイッチ>",
+    "profile": "For event",
+    "_original": {
+      "name": "淡雪",
+      "nickname": "左雨 淡雪",
+      "profile": "イベント用"
+    }
+  },
+  {
+    "id": 13,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 14,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 15,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 16,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 17,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "$Chara01",
+    "classId": 1,
+    "equips": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "face01",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "Draft Settings",
+    "nickname": "",
+    "note": "<equipSlotEx:1 2 2 2 3 4 4>\n<stand_picture:Menuface01>\n<StateTurn166:4>\n<StateTurn177:3>",
+    "profile": "\\C[16]Mana's Blessing\\C[0] \\V[31] \\C[16]Mana's Radiance\\C[0] \\V[32]",
+    "_original": {
+      "name": "設定下書き",
+      "profile": "\\C[16]マナの恩恵\\C[0] \\V[31]\n\\C[16]マナの輝き\\C[0] \\V[32]"
+    }
+  },
+  {
+    "id": 18,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 19,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "",
+    "nickname": "",
+    "note": "",
+    "profile": ""
+  },
+  {
+    "id": 20,
+    "battlerName": "",
+    "characterIndex": 0,
+    "characterName": "",
+    "classId": 1,
+    "equips": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "faceIndex": 0,
+    "faceName": "",
+    "traits": [],
+    "initialLevel": 1,
+    "maxLevel": 200,
+    "name": "General Input",
+    "nickname": "",
+    "note": "",
+    "profile": "",
+    "_original": {
+      "name": "汎用　入力用"
+    }
+  }
 ]

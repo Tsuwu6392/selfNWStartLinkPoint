@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "夜寄せ塔",
+    "displayName": "Yoyose Tower",
     "encounterList": [
         {
             "troopId": 24,
@@ -4152,15 +4152,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼ！"
-                            ]
+                                "Jar!"
+                            ],
+                            "_original": "つぼ！"
                         },
                         {
                             "code": 0,
@@ -4230,22 +4232,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉があるが……開かないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕掛けで閉じられているようだ。"
-                            ]
+                                "There's a door... but it won't open.\nLooks like it's sealed by some\nmechanism."
+                            ],
+                            "_original": "扉があるが……開かないな。\n仕掛けで閉じられているようだ。"
                         },
                         {
                             "code": 0,
@@ -4306,36 +4303,36 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……昇降機か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええっと……"
-                            ]
+                                "This is... an elevator? Umm..."
+                            ],
+                            "_original": "これは……昇降機か。\nええっと……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "二階へ",
-                                    "地下へ",
-                                    "立ち去る"
+                                    "To the second floor",
+                                    "To the basement",
+                                    "Leave"
                                 ],
                                 2,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "二階へ",
+                                "地下へ",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -5031,15 +5028,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！"
-                            ]
+                                "Oh!"
+                            ],
+                            "_original": "おおっ！"
                         },
                         {
                             "code": 101,
@@ -5049,22 +5048,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仕掛けが動きましたね、素晴らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "撫でてあげましょう。"
-                            ]
+                                "The mechanism moved, wonderful. Let's\npet it."
+                            ],
+                            "_original": "仕掛けが動きましたね、素晴らしい。\n撫でてあげましょう。"
                         },
                         {
                             "code": 101,
@@ -5074,15 +5068,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えへへ。"
-                            ]
+                                "Ehehe."
+                            ],
+                            "_original": "えへへ。"
                         },
                         {
                             "code": 101,
@@ -5092,15 +5088,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "早く行くぞ。"
-                            ]
+                                "Hurry up."
+                            ],
+                            "_original": "早く行くぞ。"
                         },
                         {
                             "code": 121,
@@ -5170,15 +5168,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう動かす必要はなさそうだ。"
-                            ]
+                                "It looks like we don't need to move it\nanymore."
+                            ],
+                            "_original": "もう動かす必要はなさそうだ。"
                         },
                         {
                             "code": 0,

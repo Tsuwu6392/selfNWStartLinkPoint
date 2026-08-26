@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "狭間塚関所",
+    "displayName": "Hazamazuka Checkpoint",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3436,22 +3436,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたたちは……？"
-                            ]
+                                "Hm? Who are you...?"
+                            ],
+                            "_original": "ん？\nあなたたちは……？"
                         },
                         {
                             "code": 205,
@@ -3500,15 +3495,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はナズナ・ハクトウ！"
-                            ]
+                                "I am Nazuna Hakutō!"
+                            ],
+                            "_original": "私はナズナ・ハクトウ！"
                         },
                         {
                             "code": 101,
@@ -3518,22 +3515,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと待ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表でのやり取りをまたやる感じですか？"
-                            ]
+                                "Wait a moment. Are we doing that whole\nsurface-level exchange again?"
+                            ],
+                            "_original": "ちょっと待ってください。\n表でのやり取りをまたやる感じですか？"
                         },
                         {
                             "code": 101,
@@ -3543,22 +3535,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しろ、俺が話す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は──"
-                            ]
+                                "Relax, I'll handle this. Actually―"
+                            ],
+                            "_original": "安心しろ、俺が話す。\n実は──"
                         },
                         {
                             "code": 281,
@@ -3677,22 +3664,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど、それでここまで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事情は分かった。"
-                            ]
+                                "I see, so that's why you've come this far... I\nunderstand the situation."
+                            ],
+                            "_original": "なるほど、それでここまで……\n事情は分かった。"
                         },
                         {
                             "code": 101,
@@ -3702,22 +3684,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は分かち谷の東側へ進むための門を開けられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休んだ後に──"
-                            ]
+                                "I can open the gate to the eastern side of\nDivided Valley. After you've rested―"
+                            ],
+                            "_original": "私は分かち谷の東側へ進むための門を開けられる。\n休んだ後に──"
                         },
                         {
                             "code": 241,
@@ -3839,15 +3816,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだ！？"
-                            ]
+                                "W-what?!"
+                            ],
+                            "_original": "な、なんだ！？"
                         },
                         {
                             "code": 101,
@@ -3857,22 +3836,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厭い根の咆哮……外から！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずい……！"
-                            ]
+                                "The Roar of the Loathsome Root... from outside?!\nThis is bad...!"
+                            ],
+                            "_original": "厭い根の咆哮……外から！？\nまずい……！"
                         },
                         {
                             "code": 205,
@@ -4095,15 +4069,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拙僧らも行きましょう！"
-                            ]
+                                "Then we must go as well!"
+                            ],
+                            "_original": "拙僧らも行きましょう！"
                         },
                         {
                             "code": 101,
@@ -4113,15 +4089,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ！"
-                            ]
+                                "Ahh!"
+                            ],
+                            "_original": "ああ！"
                         },
                         {
                             "code": 205,
@@ -4482,22 +4460,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夜行岩屋への立ち入りの制限は既に緩和されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これまでよりも忙しくなりそうだよ。"
-                            ]
+                                "The restrictions on entering Night Walking Cave\nhave already been relaxed. Things are probably\ngoing to get busier from now on."
+                            ],
+                            "_original": "夜行岩屋への立ち入りの制限は既に緩和されている。\nこれまでよりも忙しくなりそうだよ。"
                         },
                         {
                             "code": 0,
@@ -4517,22 +4490,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれ、あなたたち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "久しぶり。"
-                            ]
+                                "Oh, it's you. Long time no see."
+                            ],
+                            "_original": "あれ、あなたたち。\n久しぶり。"
                         },
                         {
                             "code": 101,
@@ -4542,15 +4510,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "五百森殿！"
-                            ]
+                                "Iomori-sama!"
+                            ],
+                            "_original": "五百森殿！"
                         },
                         {
                             "code": 111,
@@ -4569,22 +4539,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はて、まだここにいるのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "厭い根は討たれたというのに──将軍様に。"
-                            ]
+                                "Hmm, so you're still here. Even though\nthe root of evil was destroyed... by the\nGeneral."
+                            ],
+                            "_original": "はて、まだここにいるのですね。\n厭い根は討たれたというのに──将軍様に。"
                         },
                         {
                             "code": 101,
@@ -4594,15 +4559,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ちっ。"
-                            ]
+                                "Tch."
+                            ],
+                            "_original": "ちっ。"
                         },
                         {
                             "code": 0,
@@ -4622,22 +4589,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はて、まだここにいるのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "厭い根は討たれたというのに。"
-                            ]
+                                "Hmm, so you're still here. Even though\nthe root of evil was destroyed."
+                            ],
+                            "_original": "はて、まだここにいるのですね。\n厭い根は討たれたというのに。"
                         },
                         {
                             "code": 0,
@@ -4657,29 +4619,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夜行岩屋が危険なことには変わらないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに、これからは恐らく人通りも増える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "関所と隊士は今も必要なんだ。"
-                            ]
+                                "Night Walking Cave is still dangerous, after\nall. Plus, foot traffic will probably increase\nfrom now on. Checkpoints and guards are still\nnecessary."
+                            ],
+                            "_original": "夜行岩屋が危険なことには変わらないからね。\nそれに、これからは恐らく人通りも増える。\n関所と隊士は今も必要なんだ。"
                         },
                         {
                             "code": 101,
@@ -4689,15 +4639,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなた方は立派だ！"
-                            ]
+                                "You all are amazing!"
+                            ],
+                            "_original": "あなた方は立派だ！"
                         },
                         {
                             "code": 101,
@@ -4707,22 +4659,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ははは、ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう言ってもらえるとやる気も出るよ。"
-                            ]
+                                "Haha, thanks. Hearing that really motivates me."
+                            ],
+                            "_original": "ははは、ありがとう。\nそう言ってもらえるとやる気も出るよ。"
                         },
                         {
                             "code": 123,
@@ -4921,15 +4868,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼ！"
-                            ]
+                                "Ahh!"
+                            ],
+                            "_original": "つぼ！"
                         },
                         {
                             "code": 0,
@@ -4999,15 +4948,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼ！"
-                            ]
+                                "Ahh!"
+                            ],
+                            "_original": "つぼ！"
                         },
                         {
                             "code": 0,
@@ -5077,15 +5028,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たな！"
-                            ]
+                                "Ahh!"
+                            ],
+                            "_original": "たな！"
                         },
                         {
                             "code": 0,

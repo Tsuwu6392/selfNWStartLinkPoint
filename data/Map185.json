@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "鐘突き洞",
+    "displayName": "Bell-Striking Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3314,22 +3314,17 @@
                                 0,
                                 0,
                                 2,
-                                "鐘突き洞の人間"
-                            ]
+                                "Bell Cave Human"
+                            ],
+                            "_original": "鐘突き洞の人間"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ、はあ、はははあ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "謝れ、私たちに……謝れ。"
-                            ]
+                                "Haa, ha, hahaa... Apologize, to us... Apologize."
+                            ],
+                            "_original": "はあ、はあ、はははあ……\n謝れ、私たちに……謝れ。"
                         },
                         {
                             "code": 0,
@@ -3597,22 +3592,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "割れた壺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中はとても汚い……"
-                            ]
+                                "It's a broken pot. The inside is really\nfilthy..."
+                            ],
+                            "_original": "割れた壺だ。\n中はとても汚い……"
                         },
                         {
                             "code": 0,
@@ -3682,15 +3672,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸が積み上げられている……"
-                            ]
+                                "Corpses are piled up..."
+                            ],
+                            "_original": "亡骸が積み上げられている……"
                         },
                         {
                             "code": 0,

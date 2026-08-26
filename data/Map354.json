@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "笹倉霊園",
+    "displayName": "Sasakura Cemetery",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -6480,22 +6480,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "各地のヌシと同様に、赤いオブジェクトを調べれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何度でも亜命封印戦に挑むことができます。"
-                            ]
+                                "Just like the local Lords, you can challenge the\nAmei Seal Battle as many times as you want by\nexamining the red object."
+                            ],
+                            "_original": "各地のヌシと同様に、赤いオブジェクトを調べれば\n何度でも亜命封印戦に挑むことができます。"
                         },
                         {
                             "code": 101,
@@ -6512,29 +6507,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "亜命封印戦のあとはパーティ全員が全回復し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "更にTPが最大値まで増加します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "亜命が頑張ってくれました。"
-                            ]
+                                "After the Amei Seal Battle, your entire party\nwill be fully restored, and your TP will also be\nmaxed out. Amei did a great job."
+                            ],
+                            "_original": "亜命封印戦のあとはパーティ全員が全回復し、\n更にTPが最大値まで増加します。\n亜命が頑張ってくれました。"
                         },
                         {
                             "code": 122,
@@ -6722,28 +6705,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度挑戦してみようか……"
-                            ]
+                                "Should I try challenging it again..."
+                            ],
+                            "_original": "もう一度挑戦してみようか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "挑戦する",
-                                    "立ち去る"
+                                    "Try again",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "挑戦する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -7518,28 +7507,34 @@
                                 4,
                                 0,
                                 2,
-                                "亜命"
-                            ]
+                                "Amei"
+                            ],
+                            "_original": "亜命"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰る？"
-                            ]
+                                "Going home?"
+                            ],
+                            "_original": "帰る？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "帰る",
-                                    "帰らない"
+                                    "Go home",
+                                    "Don't go home"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "帰る",
+                                "帰らない"
                             ]
                         },
                         {
@@ -7558,15 +7553,17 @@
                                 4,
                                 0,
                                 2,
-                                "亜命"
-                            ]
+                                "Amei"
+                            ],
+                            "_original": "亜命"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかった。"
-                            ]
+                                "Got it."
+                            ],
+                            "_original": "わかった。"
                         },
                         {
                             "code": 281,
@@ -7662,15 +7659,17 @@
                                 4,
                                 0,
                                 2,
-                                "亜命"
-                            ]
+                                "Amei"
+                            ],
+                            "_original": "亜命"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がんばって。"
-                            ]
+                                "Do your best."
+                            ],
+                            "_original": "がんばって。"
                         },
                         {
                             "code": 0,

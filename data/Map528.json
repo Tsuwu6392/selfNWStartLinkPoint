@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "歴史館廃墟",
+    "displayName": "History Museum Ruins",
     "encounterList": [
         {
             "troopId": 310,
@@ -9765,15 +9765,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宇宙エリアへようこそ！"
-                            ]
+                                "Welcome to the Space Area!"
+                            ],
+                            "_original": "宇宙エリアへようこそ！"
                         },
                         {
                             "code": 101,
@@ -9783,22 +9785,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "補足：宇宙エリアは準備中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "台詞も未対応となっております。"
-                            ]
+                                "Note: The Space Area is currently under\npreparation. The dialogue is also not yet\nimplemented."
+                            ],
+                            "_original": "補足：宇宙エリアは準備中です。\n台詞も未対応となっております。"
                         },
                         {
                             "code": 101,
@@ -9808,22 +9805,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よって、歴史館のご案内は以上となります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございました。"
-                            ]
+                                "And with that, our tour of the History Museum\nconcludes. Thank you very much."
+                            ],
+                            "_original": "よって、歴史館のご案内は以上となります。\nありがとうございました。"
                         },
                         {
                             "code": 101,
@@ -9833,15 +9825,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ。"
-                            ]
+                                "Huh?"
+                            ],
+                            "_original": "えっ。"
                         },
                         {
                             "code": 101,
@@ -9851,29 +9845,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "歴史館は楽しめましたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アル・ヘルムからお帰りの際のアンケートでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜひ高評価をよろしくお願いいたします。"
-                            ]
+                                "Did you enjoy the History Museum? When you\nreturn from Al-Helm, please give us a high\nrating in the survey."
+                            ],
+                            "_original": "歴史館は楽しめましたか？\nアル・ヘルムからお帰りの際のアンケートでは\nぜひ高評価をよろしくお願いいたします。"
                         },
                         {
                             "code": 221,
@@ -10017,15 +9999,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだったんですかこれは……"
-                            ]
+                                "What in the world was that..."
+                            ],
+                            "_original": "なんだったんですかこれは……"
                         },
                         {
                             "code": 117,
@@ -10042,22 +10026,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから言ったろうに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "茶番だと。"
-                            ]
+                                "That's what I told you. It was a farce."
+                            ],
+                            "_original": "だから言ったろうに。\n茶番だと。"
                         },
                         {
                             "code": 117,
@@ -10074,22 +10053,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさかここまでとは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちの商会で何かやる場合の反面教師にしよう。"
-                            ]
+                                "I never expected it to be this bad... I'll use\nthis as a cautionary tale for my trade guild if\nwe ever do something like this."
+                            ],
+                            "_original": "まさかここまでとは……\nうちの商会で何かやる場合の反面教師にしよう。"
                         },
                         {
                             "code": 101,
@@ -10099,15 +10073,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お土産を貰ったぞ！"
-                            ]
+                                "I got a souvenir!"
+                            ],
+                            "_original": "お土産を貰ったぞ！"
                         },
                         {
                             "code": 101,
@@ -10117,15 +10093,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よかったですね。"
-                            ]
+                                "That's great."
+                            ],
+                            "_original": "よかったですね。"
                         },
                         {
                             "code": 101,
@@ -10135,29 +10113,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一つだけ得たものがあるとすれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に樹海エリアの魔物は確かに珍しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者ならば喜ぶかもしれん。"
-                            ]
+                                "If there's one good thing, the monsters\nin the Sea of Trees area are indeed\nrare. Adventurers might be pleased."
+                            ],
+                            "_original": "一つだけ得たものがあるとすれば、\n特に樹海エリアの魔物は確かに珍しい。\n冒険者ならば喜ぶかもしれん。"
                         },
                         {
                             "code": 117,
@@ -10190,22 +10156,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何の興味もない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわが来ることは二度とないだろう。"
-                            ]
+                                "I have no interest. I doubt I'll ever come back\nhere again."
+                            ],
+                            "_original": "何の興味もない。\nわらわが来ることは二度とないだろう。"
                         },
                         {
                             "code": 117,
@@ -10222,15 +10183,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……帰ったらラビィに教えてあげようかな。"
-                            ]
+                                "...Maybe I should tell Rabi about this when we\nget back."
+                            ],
+                            "_original": "……帰ったらラビィに教えてあげようかな。"
                         },
                         {
                             "code": 221,
@@ -10294,15 +10257,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]素晴らしき歴史館\\C[0] 達成！"
-                            ]
+                                "\\C[17]Wonderful History Museum\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]素晴らしき歴史館\\C[0] 達成！"
                         },
                         {
                             "code": 122,
@@ -11199,15 +11164,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "画面には何も映っていない。"
-                            ]
+                                "There's nothing on the screen."
+                            ],
+                            "_original": "画面には何も映っていない。"
                         },
                         {
                             "code": 0,

@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "龍の宮",
+    "displayName": "Dragon Shrine",
     "encounterList": [
         {
             "troopId": 171,
@@ -7329,15 +7329,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ……"
-                            ]
+                                "It's a corpse..."
+                            ],
+                            "_original": "亡骸だ……"
                         },
                         {
                             "code": 0,

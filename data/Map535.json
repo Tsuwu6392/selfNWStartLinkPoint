@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "地上の星空",
+    "displayName": "Earth's Starry Sky",
     "encounterList": [
         {
             "troopId": 274,
@@ -4293,21 +4293,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]真白糸\\C[0]が何かに引かれている……"
-                            ]
+                                "\\C[3]Pure White Thread\\C[0] is being pulled by\nsomething..."
+                            ],
+                            "_original": "\\C[3]真白糸\\C[0]が何かに引かれている……"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "委ねる",
-                                    "立ち去る"
+                                    "Entrust",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "委ねる",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -4499,22 +4504,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "亡骸だ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんとなく神聖な雰囲気を感じる。"
-                            ]
+                                "It's a corpse... I somehow sense a Holy\naura."
+                            ],
+                            "_original": "亡骸だ……\nなんとなく神聖な雰囲気を感じる。"
                         },
                         {
                             "code": 0,

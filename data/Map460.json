@@ -16,7 +16,7 @@
         "volume": 10
     },
     "disableDashing": false,
-    "displayName": "生命のブルジュ",
+    "displayName": "Burj of Life",
     "encounterList": [
         {
             "troopId": 255,
@@ -4527,22 +4527,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この扉は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "向こう側からでなければ開けられないみたいだ。"
-                            ]
+                                "This door... it seems like it can only\nbe opened from the other side."
+                            ],
+                            "_original": "この扉は……\n向こう側からでなければ開けられないみたいだ。"
                         },
                         {
                             "code": 0,
@@ -5529,22 +5524,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしや、ここが東のブルジュなのではないか！？"
-                            ]
+                                "...Hah. Could this be the Eastern Burj?!"
+                            ],
+                            "_original": "……はっ。\nもしや、ここが東のブルジュなのではないか！？"
                         },
                         {
                             "code": 101,
@@ -5554,15 +5544,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅。"
-                            ]
+                                "Too late."
+                            ],
+                            "_original": "遅。"
                         },
                         {
                             "code": 117,
@@ -5579,29 +5571,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "間違いないかと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "岩山に埋もれた塔、高所に突き出た入口……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞いた通りの構造。"
-                            ]
+                                "I believe it's correct. A tower buried in a\nrocky mountain, with an entrance jutting out at\na high place... It matches the description."
+                            ],
+                            "_original": "間違いないかと思います。\n岩山に埋もれた塔、高所に突き出た入口……\n聞いた通りの構造。"
                         },
                         {
                             "code": 101,
@@ -5611,22 +5591,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナを感じるねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下の方から。"
-                            ]
+                                "I can sense mana. From below."
+                            ],
+                            "_original": "マナを感じるねえ。\n下の方から。"
                         },
                         {
                             "code": 101,
@@ -5636,29 +5611,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報によると、ここの名は生命のブルジュ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、そういう場所なのか。"
-                            ]
+                                "Hmm. According to the information, this\nplace is called the Burj of Life... So\nthat's what it is."
+                            ],
+                            "_original": "ふむ。\n情報によると、ここの名は生命のブルジュ……\nつまり、そういう場所なのか。"
                         },
                         {
                             "code": 117,
@@ -5691,15 +5654,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どういう場所なのか！？"
-                            ]
+                                "What kind of place is it?!"
+                            ],
+                            "_original": "どういう場所なのか！？"
                         },
                         {
                             "code": 101,
@@ -5709,15 +5674,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "察してあげてください。"
-                            ]
+                                "Use your imagination."
+                            ],
+                            "_original": "察してあげてください。"
                         },
                         {
                             "code": 101,
@@ -5727,29 +5694,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人々が生活する上でマナは必要不可欠だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを管理するための施設なのだとすれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都から離れていることに違和感を覚えるが……"
-                            ]
+                                "Mana is indispensable for people's\nlives. If this is a facility to manage\nit, then it's strange that it's so far\nfrom the capital..."
+                            ],
+                            "_original": "人々が生活する上でマナは必要不可欠だ。\nそれを管理するための施設なのだとすれば、\n都から離れていることに違和感を覚えるが……"
                         },
                         {
                             "code": 101,
@@ -5759,15 +5714,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そもそも稼働しているようには見えぬ。"
-                            ]
+                                "It doesn't even look like it's\noperational."
+                            ],
+                            "_original": "そもそも稼働しているようには見えぬ。"
                         },
                         {
                             "code": 117,
@@ -5800,29 +5757,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "重要な施設ならば見張りもいましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は使われていないか、あるいは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思うような場所ではないのか……"
-                            ]
+                                "If it's an important facility, there should be\nguards. Either it's not in use right now, or\nthis isn't the right place..."
+                            ],
+                            "_original": "重要な施設ならば見張りもいましょう。\n今は使われていないか、あるいは\n思うような場所ではないのか……"
                         },
                         {
                             "code": 101,
@@ -5832,22 +5777,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのねえ、わらわたちは考証家かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歴史を学びに来たはずじゃあないだろう。"
-                            ]
+                                "Hey, are we archaeologists or something?\nWe didn't come here to study history."
+                            ],
+                            "_original": "あのねえ、わらわたちは考証家かい？\n歴史を学びに来たはずじゃあないだろう。"
                         },
                         {
                             "code": 101,
@@ -5857,15 +5797,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたの発言が発端なんですけど。"
-                            ]
+                                "You're the one who started this."
+                            ],
+                            "_original": "あなたの発言が発端なんですけど。"
                         },
                         {
                             "code": 101,
@@ -5875,22 +5817,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前さん、好きじゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔のことを思い出したりするの。"
-                            ]
+                                "You like reminiscing about the past,\ndon't you?"
+                            ],
+                            "_original": "お前さん、好きじゃろ？\n昔のことを思い出したりするの。"
                         },
                         {
                             "code": 101,
@@ -5900,22 +5837,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……それと今の話に何の関係がある？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと婆扱いするんじゃない。"
-                            ]
+                                "...What does that have to do with\nanything? And don't call me an old hag."
+                            ],
+                            "_original": "……それと今の話に何の関係がある？\nあと婆扱いするんじゃない。"
                         },
                         {
                             "code": 117,
@@ -5948,15 +5880,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敵を探そう！"
-                            ]
+                                "Let's look for enemies!"
+                            ],
+                            "_original": "敵を探そう！"
                         },
                         {
                             "code": 117,
@@ -5973,22 +5907,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇さんの機嫌を損ねてしまう前に……"
-                            ]
+                                "Yes. Before we upset Yuuyami-sama..."
+                            ],
+                            "_original": "ええ。\n夕闇さんの機嫌を損ねてしまう前に……"
                         },
                         {
                             "code": 221,
@@ -6052,15 +5981,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]東の封印者\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Sealer of the East\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]東の封印者\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -6128,22 +6059,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしや、ここが東のブルジュだろうか？"
-                            ]
+                                "Hmph. Could this perhaps be the Eastern\nBurju?"
+                            ],
+                            "_original": "むっ。\nもしや、ここが東のブルジュだろうか？"
                         },
                         {
                             "code": 101,
@@ -6153,22 +6079,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "っぽいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、今更来てもって感じですけど。"
-                            ]
+                                "Seems like it. Though it does feel a bit\nlate to be showing up now."
+                            ],
+                            "_original": "っぽいですね。\nまあ、今更来てもって感じですけど。"
                         },
                         {
                             "code": 101,
@@ -6178,22 +6099,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "調べてみてもいいだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "得るものがあるかもしれん。"
-                            ]
+                                "We might as well check it out. There\ncould be something useful here."
+                            ],
+                            "_original": "調べてみてもいいだろう。\n得るものがあるかもしれん。"
                         },
                         {
                             "code": 221,
@@ -6257,15 +6173,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]東の封印者\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Eastern Sealer\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]東の封印者\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,

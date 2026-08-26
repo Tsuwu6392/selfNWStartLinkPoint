@@ -16,7 +16,7 @@
         "volume": 10
     },
     "disableDashing": false,
-    "displayName": "アフダル高地",
+    "displayName": "Afdal Highlands",
     "encounterList": [
         {
             "troopId": 248,
@@ -11588,15 +11588,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひ！"
-                            ]
+                                "Eek!"
+                            ],
+                            "_original": "ひ！"
                         },
                         {
                             "code": 0,
@@ -11879,15 +11881,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "獣の亡骸だ……"
-                            ]
+                                "It's the carcass of a beast..."
+                            ],
+                            "_original": "獣の亡骸だ……"
                         },
                         {
                             "code": 0,
@@ -12245,35 +12249,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのヌシだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、どうすべきか……"
-                            ]
+                                "This is the boss here. Now, what should\nI do..."
+                            ],
+                            "_original": "ここのヌシだ。\nさて、どうすべきか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "討伐する",
-                                    "立ち去る"
+                                    "Defeat it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "討伐する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -12573,15 +12576,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ラムルアラムのヌシからは装備品を入手できます。"
-                            ]
+                                "You can obtain equipment from the Ramul Alam\nboss."
+                            ],
+                            "_original": "ラムルアラムのヌシからは装備品を入手できます。"
                         },
                         {
                             "code": 0,
@@ -12771,35 +12776,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヌシはその地のマナで復活する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいると戦闘になるだろう……"
-                            ]
+                                "The Master revives using the mana of the\nEarth. If we stay here, we'll end up in\nbattle…"
+                            ],
+                            "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヌシの復活を待つ",
-                                    "立ち去る"
+                                    "Wait for the Master's revival",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ヌシの復活を待つ",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -13229,22 +13233,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エリー殿！"
-                            ]
+                                "Woah! Ellie-sama!"
+                            ],
+                            "_original": "おおっ！\nエリー殿！"
                         },
                         {
                             "code": 205,
@@ -13299,15 +13298,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ。"
-                            ]
+                                "Ah."
+                            ],
+                            "_original": "あ。"
                         },
                         {
                             "code": 205,
@@ -13390,22 +13391,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "向こうの方を見ていたようだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か気になるものでもあるのか？"
-                            ]
+                                "You were looking off in that direction.\nDid you spot something interesting?"
+                            ],
+                            "_original": "向こうの方を見ていたようだが、\n何か気になるものでもあるのか？"
                         },
                         {
                             "code": 101,
@@ -13415,22 +13411,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと気づいたことがあってねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、君たちも見てみてよ。"
-                            ]
+                                "Well, I noticed something. Hey, you guys should\ntake a look too."
+                            ],
+                            "_original": "ちょっと気づいたことがあってねえ。\nほら、君たちも見てみてよ。"
                         },
                         {
                             "code": 205,
@@ -13572,22 +13563,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっちに都があるでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下の方……"
-                            ]
+                                "See that city over there? Below it..."
+                            ],
+                            "_original": "あっちに都があるでしょ？\n下の方……"
                         },
                         {
                             "code": 101,
@@ -13597,15 +13583,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。"
-                            ]
+                                "Ah."
+                            ],
+                            "_original": "ああ。"
                         },
                         {
                             "code": 101,
@@ -13615,22 +13603,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、その向こう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マイヤの都市遺跡があるわけだけど……"
-                            ]
+                                "And beyond that... there's the Maya City Ruins,\nright? ..."
+                            ],
+                            "_original": "で、その向こう……\nマイヤの都市遺跡があるわけだけど……"
                         },
                         {
                             "code": 101,
@@ -13640,22 +13623,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんか違和感ない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "都より上にあるように見えるっていうか。"
-                            ]
+                                "Doesn't it feel off? It looks like it's above\nthe city."
+                            ],
+                            "_original": "……なんか違和感ない？\n都より上にあるように見えるっていうか。"
                         },
                         {
                             "code": 101,
@@ -13665,15 +13643,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは、この国の構造を考えれば当然では？"
-                            ]
+                                "That's only natural, given this\ncountry's structure."
+                            ],
+                            "_original": "それは、この国の構造を考えれば当然では？"
                         },
                         {
                             "code": 205,
@@ -13714,22 +13694,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国の構造？"
-                            ]
+                                "Huh? This country's structure?"
+                            ],
+                            "_original": "え？\nこの国の構造？"
                         },
                         {
                             "code": 205,
@@ -13770,22 +13745,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、エリー殿は知らないのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラムルアラムは球体の内壁が床になっているんだ。"
-                            ]
+                                "Oh, Ellie-sama doesn't know? Ramul\nAlam's floor is the inner wall of a\nsphere."
+                            ],
+                            "_original": "おや、エリー殿は知らないのだろうか？\nラムルアラムは球体の内壁が床になっているんだ。"
                         },
                         {
                             "code": 101,
@@ -13795,22 +13765,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "球体？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "内壁？？"
-                            ]
+                                "A sphere? The inner wall??"
+                            ],
+                            "_original": "球体？\n内壁？？"
                         },
                         {
                             "code": 101,
@@ -13820,22 +13785,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何も知らんようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "説明してやれ、ウーラ。"
-                            ]
+                                "You don't know a thing, do you. Explain\nit to her, Ula."
+                            ],
+                            "_original": "何も知らんようだな。\n説明してやれ、ウーラ。"
                         },
                         {
                             "code": 101,
@@ -13845,22 +13805,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっ、私ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあいいですけど……"
-                            ]
+                                "Eeh, me? Well, fine..."
+                            ],
+                            "_original": "えっ、私ですか？\nまあいいですけど……"
                         },
                         {
                             "code": 221,
@@ -13896,22 +13851,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この国は空中に浮かぶ球体の中にあって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも特殊な重力で壁に立ってるような状態……？"
-                            ]
+                                "So this country is inside a floating sphere, and\nsome kind of special gravity lets you stand on\nthe walls...?"
+                            ],
+                            "_original": "この国は空中に浮かぶ球体の中にあって、\nしかも特殊な重力で壁に立ってるような状態……？"
                         },
                         {
                             "code": 101,
@@ -13921,22 +13871,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "都は天井に当たる部分に存在するらしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外の基準で言えば逆さだそうです。"
-                            ]
+                                "The city is apparently on the part that\nwould be the ceiling, so from an outside\nperspective, it's upside-down."
+                            ],
+                            "_original": "都は天井に当たる部分に存在するらしく、\n外の基準で言えば逆さだそうです。"
                         },
                         {
                             "code": 101,
@@ -13946,22 +13891,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぜ、全然知らなかった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というか聞いても信じられない。"
-                            ]
+                                "I-I had no idea... I wouldn't believe it even if\nI heard it."
+                            ],
+                            "_original": "ぜ、全然知らなかった……\nというか聞いても信じられない。"
                         },
                         {
                             "code": 101,
@@ -13971,15 +13911,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたがここから見た景色が証拠ですよ。"
-                            ]
+                                "The view you see from here is proof\nenough."
+                            ],
+                            "_original": "あなたがここから見た景色が証拠ですよ。"
                         },
                         {
                             "code": 101,
@@ -13989,29 +13931,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、君は球体の外から来たわけでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないのかもしれないね。"
-                            ]
+                                "Hmm. So, perhaps you didn't come from\noutside the sphere after all."
+                            ],
+                            "_original": "ふむ。\nつまり、君は球体の外から来たわけでは\nないのかもしれないね。"
                         },
                         {
                             "code": 101,
@@ -14021,15 +13951,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それも忘れておるだけかもしれんが。"
-                            ]
+                                "Or perhaps you've simply forgotten."
+                            ],
+                            "_original": "それも忘れておるだけかもしれんが。"
                         },
                         {
                             "code": 101,
@@ -14039,29 +13971,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、でも……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が外から来たんだとしたら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったいどうやって……"
-                            ]
+                                "Hmm... but if I did come from outside, how...?"
+                            ],
+                            "_original": "うーん、でも……\n私が外から来たんだとしたら、\nいったいどうやって……"
                         },
                         {
                             "code": 101,
@@ -14071,29 +13991,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……というか、うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思い出せはしないけど、私の故郷は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この国のどこかにあるような気がするよ。"
-                            ]
+                                "...Well, yeah. I can't remember, but I feel like\nmy hometown is somewhere in this country."
+                            ],
+                            "_original": "……というか、うん。\n思い出せはしないけど、私の故郷は\nこの国のどこかにあるような気がするよ。"
                         },
                         {
                             "code": 101,
@@ -14103,15 +14011,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旅の中で、そこに辿り着けることを祈っている。"
-                            ]
+                                "I hope you find it on your journey."
+                            ],
+                            "_original": "旅の中で、そこに辿り着けることを祈っている。"
                         },
                         {
                             "code": 101,
@@ -14121,29 +14031,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、また別の場所に行ってみる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次は北にしようかな。"
-                            ]
+                                "Thanks. Then I'll go somewhere else. Maybe north\nnext."
+                            ],
+                            "_original": "ありがとう。\nじゃあ、また別の場所に行ってみる。\n次は北にしようかな。"
                         },
                         {
                             "code": 101,
@@ -14153,15 +14051,17 @@
                                 0,
                                 0,
                                 2,
-                                "エリー"
-                            ]
+                                "Ellie"
+                            ],
+                            "_original": "エリー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また会えるといいね。"
-                            ]
+                                "Hope to see you again."
+                            ],
+                            "_original": "また会えるといいね。"
                         },
                         {
                             "code": 221,
@@ -14249,15 +14149,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]不思議な旅人\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Mysterious Traveler\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]不思議な旅人\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,

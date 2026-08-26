@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "真白神社",
+    "displayName": "Mashiro Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -6700,15 +6700,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "古い立て札だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か書かれているようだが、読めない。"
-                            ]
+                                "An old signboard. Something seems to be written\non it, but it's unreadable."
+                            ],
+                            "_original": "古い立て札だ。\n何か書かれているようだが、読めない。"
                         },
                         {
                             "code": 0,
@@ -6735,15 +6729,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "立て札の側面だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "虫がとまっている。"
-                            ]
+                                "The side of the signboard. A bug is resting on\nit."
+                            ],
+                            "_original": "立て札の側面だ。\n虫がとまっている。"
                         },
                         {
                             "code": 0,
@@ -6928,22 +6916,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]様、ハクトウ様、そして他の皆様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向かうべきはこの先に。"
-                            ]
+                                "\\N[10]-sama, Hakutō-sama, and everyone else.\nWe should head this way."
+                            ],
+                            "_original": "\\N[10]様、ハクトウ様、そして他の皆様。\n向かうべきはこの先に。"
                         },
                         {
                             "code": 101,
@@ -6953,15 +6936,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先って……"
-                            ]
+                                "This way...?"
+                            ],
+                            "_original": "この先って……"
                         },
                         {
                             "code": 205,
@@ -7022,15 +7007,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行き止まりだが。"
-                            ]
+                                "But it's a dead end."
+                            ],
+                            "_original": "行き止まりだが。"
                         },
                         {
                             "code": 101,
@@ -7040,15 +7027,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ていてください。"
-                            ]
+                                "Please watch."
+                            ],
+                            "_original": "見ていてください。"
                         },
                         {
                             "code": 205,
@@ -7224,22 +7213,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眠りの森よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつての道を示しなさい。"
-                            ]
+                                "Sleeping Forest. Show us the path of\nold."
+                            ],
+                            "_original": "眠りの森よ。\nかつての道を示しなさい。"
                         },
                         {
                             "code": 250,
@@ -7369,22 +7353,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠し通路！"
-                            ]
+                                "Ah! A hidden passage!"
+                            ],
+                            "_original": "あっ！\n隠し通路！"
                         },
                         {
                             "code": 101,
@@ -7394,22 +7373,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "植物が枯れた……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで時が刹那に進んだかのように。"
-                            ]
+                                "The plants have withered... As if time\nadvanced in an instant."
+                            ],
+                            "_original": "植物が枯れた……\nまるで時が刹那に進んだかのように。"
                         },
                         {
                             "code": 205,
@@ -7450,15 +7424,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石の慧眼ですね、桜悳様。"
-                            ]
+                                "As expected of your keen insight, Sakura\nToku-sama."
+                            ],
+                            "_original": "流石の慧眼ですね、桜悳様。"
                         },
                         {
                             "code": 101,
@@ -7468,15 +7444,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……テンさんは時間を操れるとでも？"
-                            ]
+                                "...So you can manipulate time, Ten-san?"
+                            ],
+                            "_original": "……テンさんは時間を操れるとでも？"
                         },
                         {
                             "code": 101,
@@ -7486,22 +7464,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは、とある祈りの余波によるもの──"
-                            ]
+                                "Not at all. This is the aftereffect of a\ncertain prayer―"
+                            ],
+                            "_original": "まさか。\nこれは、とある祈りの余波によるもの──"
                         },
                         {
                             "code": 205,
@@ -7549,22 +7522,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──さあ、参りましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣の神の剣を得るため。"
-                            ]
+                                "――Now, let's proceed. To obtain the\nSword of the God of Swords."
+                            ],
+                            "_original": "──さあ、参りましょう。\n剣の神の剣を得るため。"
                         },
                         {
                             "code": 221,
@@ -8035,29 +8003,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、\\N[10]様……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の皆様は休息を取られています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた様もそうすべきかと。"
-                            ]
+                                "Oh, \\N[10]-sama... The others are resting. You should\ndo the same."
+                            ],
+                            "_original": "おや、\\N[10]様……\n他の皆様は休息を取られています。\nあなた様もそうすべきかと。"
                         },
                         {
                             "code": 231,
@@ -8083,29 +8039,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつての神に久しく見え、いささか懐かしくなり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思いを馳せていたところです。"
-                            ]
+                                "...Me? I caught a glimpse of a former deity, and\nfelt a bit nostalgic... I was lost in thought."
+                            ],
+                            "_original": "……私ですか？\nかつての神に久しく見え、いささか懐かしくなり……\n思いを馳せていたところです。"
                         },
                         {
                             "code": 101,
@@ -8115,22 +8059,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、名も無き怪異の懐古です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうかお気になさらず。"
-                            ]
+                                "Well, just the reminiscing of a nameless\naberration. Please don't mind me."
+                            ],
+                            "_original": "まあ、名も無き怪異の懐古です。\nどうかお気になさらず。"
                         },
                         {
                             "code": 232,
@@ -8267,22 +8206,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私のことなど、お気になさらず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごゆるりとお休みください、\\N[10]様。"
-                            ]
+                                "Please don't worry about me. Please rest at your\nleisure, \\N[10]-sama."
+                            ],
+                            "_original": "私のことなど、お気になさらず。\nごゆるりとお休みください、\\N[10]様。"
                         },
                         {
                             "code": 232,
@@ -8471,22 +8405,17 @@
                                 0,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先には不思議な森があるんですってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "修行にいいかも……"
-                            ]
+                                "I hear there's a mysterious forest ahead. Might\nbe good for training..."
+                            ],
+                            "_original": "この先には不思議な森があるんですってね。\n修行にいいかも……"
                         },
                         {
                             "code": 231,
@@ -8512,29 +8441,17 @@
                                 0,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いやいや、違う違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は休む時期よ、私……修行しすぎも魂によくないって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャタク様もばっちゃんも言ってたわ。"
-                            ]
+                                "...No, no, that's not it. Now is the time to\nrest, I...both Shataku-sama and ba-chan said\nthat training too much isn't good for the soul."
+                            ],
+                            "_original": "……いやいや、違う違う。\n今は休む時期よ、私……修行しすぎも魂によくないって\nシャタク様もばっちゃんも言ってたわ。"
                         },
                         {
                             "code": 232,
@@ -8663,22 +8580,17 @@
                                 0,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナが無茶な勝負を受けたんですって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く、何をやってるんだか……"
-                            ]
+                                "I heard Nazuna took on a reckless bet? Honestly,\nwhat is she thinking..."
+                            ],
+                            "_original": "ナズナが無茶な勝負を受けたんですって？\n全く、何をやってるんだか……"
                         },
                         {
                             "code": 231,
@@ -8704,22 +8616,17 @@
                                 0,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "言っとくけど、手助けなんてしないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ勝つでしょ、あいつなら。"
-                            ]
+                                "Just so you know, I'm not helping. She'll win\nanyway, if it's her."
+                            ],
+                            "_original": "言っとくけど、手助けなんてしないからね。\nどうせ勝つでしょ、あいつなら。"
                         },
                         {
                             "code": 232,
@@ -8866,22 +8773,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Tonami"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村雨は不愛想だが、悪人ではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意外と付き合いやすいゆえ、安心するがよい。"
-                            ]
+                                "Murasame may be gruff, but he's not a bad\nperson. He's surprisingly easy to get along\nwith, so rest assured."
+                            ],
+                            "_original": "村雨は不愛想だが、悪人ではない。\n意外と付き合いやすいゆえ、安心するがよい。"
                         },
                         {
                             "code": 101,
@@ -8891,29 +8793,17 @@
                                 0,
                                 0,
                                 2,
-                                "冨波"
-                            ]
+                                "Tonami"
+                            ],
+                            "_original": "冨波"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん、儂か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "儂は修行の準備をしておるのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回も叩き直してやらねば！"
-                            ]
+                                "......Hm, me? I'm preparing for training. I'll\nhave to knock you into shape again this time!"
+                            ],
+                            "_original": "……ん、儂か？\n儂は修行の準備をしておるのだ。\n今回も叩き直してやらねば！"
                         },
                         {
                             "code": 0,

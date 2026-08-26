@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "アスワド宮殿",
+    "displayName": "Aswad Palace",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3314,22 +3314,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "開かないな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵がかかっているようだ。"
-                            ]
+                                "It won't open... It seems to be locked."
+                            ],
+                            "_original": "開かないな……\n鍵がかかっているようだ。"
                         },
                         {
                             "code": 0,
@@ -3892,8 +3887,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アスワドの星空は、ルーフの輝き」"
-                            ]
+                                "\"The starry sky of Aswad, the radiance of Roof.\""
+                            ],
+                            "_original": "「アスワドの星空は、ルーフの輝き」"
                         },
                         {
                             "code": 101,
@@ -3910,15 +3906,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは古き友の痕跡。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　敬意を表しましょう」"
-                            ]
+                                "\"It is the mark of an old friend. Let us show\nour respect.\""
+                            ],
+                            "_original": "「それは古き友の痕跡。\n　敬意を表しましょう」"
                         },
                         {
                             "code": 0,
@@ -3995,8 +3985,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「アルワーフ砂漠に隠された秘宝」"
-                            ]
+                                "\"The hidden treasure of the Alwarf Desert\""
+                            ],
+                            "_original": "「アルワーフ砂漠に隠された秘宝」"
                         },
                         {
                             "code": 101,
@@ -4013,15 +4004,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ある旅人は言った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　それは、追うべきものではなかったのだと」"
-                            ]
+                                "\"A traveler once said: it was something that\nshould never have been pursued.\""
+                            ],
+                            "_original": "「ある旅人は言った。\n　それは、追うべきものではなかったのだと」"
                         },
                         {
                             "code": 0,
@@ -4098,15 +4083,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ルーフの鳥よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　世界を明日へと導いてくれ」"
-                            ]
+                                "\"Bird of the roof. Guide the world toward\ntomorrow.\""
+                            ],
+                            "_original": "「ルーフの鳥よ。\n　世界を明日へと導いてくれ」"
                         },
                         {
                             "code": 101,
@@ -4123,15 +4102,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうか、夢を見ますように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　どうか、夢を捨てますように」"
-                            ]
+                                "\"Please, dream on. Please, let go of your\ndreams.\""
+                            ],
+                            "_original": "「どうか、夢を見ますように。\n　どうか、夢を捨てますように」"
                         },
                         {
                             "code": 0,

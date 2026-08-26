@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "りゆう屋",
+    "displayName": "Reason Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3262,15 +3262,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、見覚えがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇の部屋だ。"
-                            ]
+                                "This place... I recognize it. It's Yuuyami's\nroom."
+                            ],
+                            "_original": "ここは、見覚えがある。\n夕闇の部屋だ。"
                         },
                         {
                             "code": 205,
@@ -3449,15 +3443,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夢幻を切り抜け、ようやく来たか。"
-                            ]
+                                "You've cut through the illusions and\nfinally arrived, have you?"
+                            ],
+                            "_original": "夢幻を切り抜け、ようやく来たか。"
                         },
                         {
                             "code": 213,
@@ -3549,22 +3545,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、\\N[10]よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は── \\V[230]回、わらわの炎に触れた。"
-                            ]
+                                "Now then, \\N[10]. You've touched my flames \\V[230] times now."
+                            ],
+                            "_original": "さて、\\N[10]よ。\nお前は── \\V[230]回、わらわの炎に触れた。"
                         },
                         {
                             "code": 231,
@@ -3613,22 +3604,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……認めよう。お前は優秀だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "褒めてあげないとねえ。"
-                            ]
+                                "...I'll admit it. You're impressive. I really\nshould praise you."
+                            ],
+                            "_original": "……認めよう。お前は優秀だ。\n褒めてあげないとねえ。"
                         },
                         {
                             "code": 0,
@@ -3648,22 +3634,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全くの無傷ではないが、まあ頑張った方だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "褒めてあげないとねえ。"
-                            ]
+                                "You're not completely unscathed, but you did\nwell. I really should praise you."
+                            ],
+                            "_original": "全くの無傷ではないが、まあ頑張った方だろう。\n褒めてあげないとねえ。"
                         },
                         {
                             "code": 0,
@@ -3683,22 +3664,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の記録を参考に、わらわは回廊を調整する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしていつかは本格的に運営するつもりさ。"
-                            ]
+                                "I'll use your records to adjust the corridors.\nAnd someday, I intend to run them properly."
+                            ],
+                            "_original": "お前の記録を参考に、わらわは回廊を調整する。\nそしていつかは本格的に運営するつもりさ。"
                         },
                         {
                             "code": 231,
@@ -3724,22 +3700,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……実は、まだ男がそう珍しくなかった頃は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまに開催してたんだよ。"
-                            ]
+                                "...Truth be told, back when men weren't so rare,\nI used to hold them occasionally."
+                            ],
+                            "_original": "……実は、まだ男がそう珍しくなかった頃は\nたまに開催してたんだよ。"
                         },
                         {
                             "code": 101,
@@ -3749,29 +3720,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、あの時はまだ「夢幻」ではなかったからねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "閉鎖を余儀なくされ、りゆう屋から消えた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当の男どもは喜んでいたんだが……"
-                            ]
+                                "But back then, it wasn't the 'Dream Illusion'\nyet. I was forced to close it down and it\nvanished from the Reason Shop. The men were\nactually happy about it..."
+                            ],
+                            "_original": "だが、あの時はまだ「夢幻」ではなかったからねえ。\n閉鎖を余儀なくされ、りゆう屋から消えた。\n当の男どもは喜んでいたんだが……"
                         },
                         {
                             "code": 231,
@@ -3797,29 +3756,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それをこの度、復活させたというわけさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夢幻ゆえにマナは得られんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "新人の教育にはちょうどよい。"
-                            ]
+                                "But now, I've revived it. It may not grant Mana\nbecause it's an illusion, but it's perfect for\ntraining newcomers."
+                            ],
+                            "_original": "それをこの度、復活させたというわけさ。\n夢幻ゆえにマナは得られんが、\n新人の教育にはちょうどよい。"
                         },
                         {
                             "code": 101,
@@ -3829,22 +3776,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は試験中ゆえ腕利きに任せているけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて──"
-                            ]
+                                "For now, I'm leaving it to the experts during\nthe trial period. Now then―"
+                            ],
+                            "_original": "今は試験中ゆえ腕利きに任せているけどね。\nさて──"
                         },
                         {
                             "code": 221,
@@ -3925,22 +3867,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "此度の協力者への褒美をやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そもそも遊ぶ約束もしてたことだ。"
-                            ]
+                                "Let me give you a reward for your cooperation.\nWe did promise to play, after all."
+                            ],
+                            "_original": "此度の協力者への褒美をやろう。\nそもそも遊ぶ約束もしてたことだ。"
                         },
                         {
                             "code": 101,
@@ -3950,22 +3887,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堪能するがよい。"
-                            ]
+                                "There. Enjoy yourself."
+                            ],
+                            "_original": "ほれ。\n堪能するがよい。"
                         },
                         {
                             "code": 101,
@@ -3982,15 +3914,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇は宙に浮かび上がり、おもむろに足を差し出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう対応すればいいのか分からず呆然とする。"
-                            ]
+                                "Yuuyami floats into the air and casually extends\nher leg. I'm so confused about how to react that\nI just stand there, stunned."
+                            ],
+                            "_original": "夕闇は宙に浮かび上がり、おもむろに足を差し出した。\nどう対応すればいいのか分からず呆然とする。"
                         },
                         {
                             "code": 101,
@@ -4000,8 +3926,9 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
@@ -4034,22 +3961,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……こら。何を呆けている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわが足を向けたら、まずは感謝し頭を垂れよ。"
-                            ]
+                                "...Hey. What are you spacing out for? When I\noffer you my foot, you should first thank me and\nbow your head."
+                            ],
+                            "_original": "……こら。何を呆けている。\nわらわが足を向けたら、まずは感謝し頭を垂れよ。"
                         },
                         {
                             "code": 101,
@@ -4066,15 +3988,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうすることが褒美なのだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく分からないまま言われた通りにする。"
-                            ]
+                                "Is bowing the reward? I don't understand, but I\ndo as I'm told."
+                            ],
+                            "_original": "そうすることが褒美なのだろうか。\nよく分からないまま言われた通りにする。"
                         },
                         {
                             "code": 101,
@@ -4084,22 +4000,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全く、これだから物を知らん異邦人は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわという存在の貴さを根本的に理解していない。"
-                            ]
+                                "Honestly, this is why foreigners who know\nnothing are... You fundamentally don't\nunderstand how precious a being I am."
+                            ],
+                            "_original": "全く、これだから物を知らん異邦人は……\nわらわという存在の貴さを根本的に理解していない。"
                         },
                         {
                             "code": 101,
@@ -4109,29 +4020,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来ならば、わらわを一目見るだけでも金がかかる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マナの単位で言えば……一万は下らん。"
-                            ]
+                                "Listen well. Normally, just catching a glimpse\nof me would cost you. In terms of Mana... no\nless than ten thousand."
+                            ],
+                            "_original": "いいかい？\n本来ならば、わらわを一目見るだけでも金がかかる。\nマナの単位で言えば……一万は下らん。"
                         },
                         {
                             "code": 101,
@@ -4141,29 +4040,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな高貴すぎる存在がわざわざ招き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足を向けてやっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれほどの栄誉か考えてみるがよい。"
-                            ]
+                                "And yet, a being as noble as I am has gone out\nof her way to invite you and offer you my foot.\nThink about how much of an honor that is."
+                            ],
+                            "_original": "そんな高貴すぎる存在がわざわざ招き、\n足を向けてやっている。\nどれほどの栄誉か考えてみるがよい。"
                         },
                         {
                             "code": 250,
@@ -4232,15 +4119,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話しながらこちらの頭を踏むように蹴った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "痛くはなかった。"
-                            ]
+                                "As she speaks, she kicks my head down as if\nstepping on it. It doesn't hurt."
+                            ],
+                            "_original": "話しながらこちらの頭を踏むように蹴った。\n痛くはなかった。"
                         },
                         {
                             "code": 101,
@@ -4257,15 +4138,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……夕闇の態度は傲慢そのものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで偉そうな人物も珍しい。"
-                            ]
+                                "...Yuuyami's attitude is the height of\narrogance. It's rare to meet someone this\nhaughty."
+                            ],
+                            "_original": "……夕闇の態度は傲慢そのものだ。\nここまで偉そうな人物も珍しい。"
                         },
                         {
                             "code": 101,
@@ -4282,15 +4157,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、心の底から己の価値を認めているからだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その言葉には説得力があり、逆らうことができなかった。"
-                            ]
+                                "But perhaps it's because she truly believes in\nher own worth from the bottom of her heart. Her\nwords carry conviction, and I can't bring myself\nto defy her."
+                            ],
+                            "_original": "しかし、心の底から己の価値を認めているからだろうか。\nその言葉には説得力があり、逆らうことができなかった。"
                         },
                         {
                             "code": 101,
@@ -4300,15 +4169,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、勝手に触れようとしてくる輩よりはマシだが……"
-                            ]
+                                "Well, it's better than those who try to touch me\nwithout permission..."
+                            ],
+                            "_original": "まあ、勝手に触れようとしてくる輩よりはマシだが……"
                         },
                         {
                             "code": 231,
@@ -4334,22 +4205,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……どれ、一つ教えてやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわの力をねえ。"
-                            ]
+                                "...Alright, let me teach you something. About my\npower."
+                            ],
+                            "_original": "……どれ、一つ教えてやろう。\nわらわの力をねえ。"
                         },
                         {
                             "code": 250,
@@ -4406,15 +4272,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[27]射精しろ。\\C[0]"
-                            ]
+                                "\\C[27]Cum for me.\\C[0]"
+                            ],
+                            "_original": "\\C[27]射精しろ。\\C[0]"
                         },
                         {
                             "code": 117,
@@ -4462,22 +4330,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっはっは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く、雄という生き物は弱すぎる。"
-                            ]
+                                "Ahahaha! Honestly, males are such weak\ncreatures."
+                            ],
+                            "_original": "あっはっは！\n全く、雄という生き物は弱すぎる。"
                         },
                         {
                             "code": 101,
@@ -4494,15 +4357,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "身体の反応に理解が追い付かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の刺激もないまま、夕闇の言葉だけで達してしまった。"
-                            ]
+                                "My body reacts before my mind can catch up. With\nno stimulation at all, I climax just from\nYuuyami's words."
+                            ],
+                            "_original": "身体の反応に理解が追い付かない。\n何の刺激もないまま、夕闇の言葉だけで達してしまった。"
                         },
                         {
                             "code": 101,
@@ -4519,15 +4376,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足が震えている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶頂の快感によるものだけではない。"
-                            ]
+                                "My legs are trembling. It's not just from the\npleasure of the orgasm."
+                            ],
+                            "_original": "足が震えている。\n絶頂の快感によるものだけではない。"
                         },
                         {
                             "code": 101,
@@ -4544,15 +4395,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分かってしまったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女には、何があろうと、絶対に勝てない。"
-                            ]
+                                "I realize it now. No matter what happens, I can\nnever win against her."
+                            ],
+                            "_original": "分かってしまったのだ。\n彼女には、何があろうと、絶対に勝てない。"
                         },
                         {
                             "code": 101,
@@ -4562,22 +4407,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恐ろしいかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心するがよい、殺しはせん。"
-                            ]
+                                "Are you afraid? Relax. I won't kill you."
+                            ],
+                            "_original": "恐ろしいかい？\n安心するがよい、殺しはせん。"
                         },
                         {
                             "code": 101,
@@ -4587,22 +4427,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "初めに言ったが、これは褒美だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前を褒めたいという気持ちにも嘘はない。"
-                            ]
+                                "As I said at the beginning, this is a reward. My\ndesire to praise you isn't a lie."
+                            ],
+                            "_original": "初めに言ったが、これは褒美だ。\nお前を褒めたいという気持ちにも嘘はない。"
                         },
                         {
                             "code": 101,
@@ -4612,22 +4447,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今のはちょっとした戯れさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しかろう。"
-                            ]
+                                "That was just a little bit of fun. You enjoyed\nit, didn't you?"
+                            ],
+                            "_original": "今のはちょっとした戯れさ。\n楽しかろう。"
                         },
                         {
                             "code": 101,
@@ -4644,22 +4474,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇は笑っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "殺しはしないというのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏を返せば簡単に殺せるという意味だ。"
-                            ]
+                                "Yuuyami is smiling. Saying she won't kill you is\nthe same as saying she could kill you whenever\nshe wants."
+                            ],
+                            "_original": "夕闇は笑っている。\n殺しはしないというのは、\n裏を返せば簡単に殺せるという意味だ。"
                         },
                         {
                             "code": 101,
@@ -4676,15 +4493,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先ほどの調子で死ねと言われれば自分は死ぬのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆らえない。逆らってはいけない。"
-                            ]
+                                "If she told me to die like she did before, I\nprobably would. I can't resist. I shouldn't\nresist."
+                            ],
+                            "_original": "先ほどの調子で死ねと言われれば自分は死ぬのだろう。\n逆らえない。逆らってはいけない。"
                         },
                         {
                             "code": 101,
@@ -4694,22 +4505,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まずは聞いてみようか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]、お前はどうしてほしい？"
-                            ]
+                                "Let me ask you something, \\N[10]. What do you want\nfrom me?"
+                            ],
+                            "_original": "まずは聞いてみようか？\n\\N[10]、お前はどうしてほしい？"
                         },
                         {
                             "code": 101,
@@ -4726,15 +4532,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "難しい問いかけだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたいのか悩んでいるわけではない。"
-                            ]
+                                "It was a difficult question. Not because I was\nstruggling with what I wanted."
+                            ],
+                            "_original": "難しい問いかけだった。\nどうしたいのか悩んでいるわけではない。"
                         },
                         {
                             "code": 101,
@@ -4751,15 +4551,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どう答えれば最も無難に切り抜けられるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを考える必要があるが──"
-                            ]
+                                "But rather, I needed to think about how to\nanswer in a way that would let me get out of\nthis unharmed―"
+                            ],
+                            "_original": "どう答えれば最も無難に切り抜けられるか。\nそれを考える必要があるが──"
                         },
                         {
                             "code": 101,
@@ -4769,8 +4563,9 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
@@ -4794,22 +4589,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇には嘘も通じない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直に言うしかないのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に帰りたい、と。"
-                            ]
+                                "You can't lie to me, you know. The only answer\nis the truth. That you want to go home safely."
+                            ],
+                            "_original": "夕闇には嘘も通じない。\n正直に言うしかないのだ。\n無事に帰りたい、と。"
                         },
                         {
                             "code": 101,
@@ -4819,22 +4601,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つまり、わらわに何もしてほしくないというのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ……"
-                            ]
+                                "So, you're saying you don't want me to do\nanything to you. Hmm..."
+                            ],
+                            "_original": "つまり、わらわに何もしてほしくないというのか。\nふむ……"
                         },
                         {
                             "code": 250,
@@ -4889,29 +4666,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気に入ったぞ、\\N[10]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大抵の者は必死にわらわの機嫌を取ろうとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心にもないことを言う……"
-                            ]
+                                "I like you, \\N[10]. Most people would grovel and say\nwhatever they think I want to hear..."
+                            ],
+                            "_original": "気に入ったぞ、\\N[10]。\n大抵の者は必死にわらわの機嫌を取ろうとして\n心にもないことを言う……"
                         },
                         {
                             "code": 101,
@@ -4921,22 +4686,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけどねえ、わらわは嘘が嫌いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冷めてしまうんだよ。"
-                            ]
+                                "But I hate lies. They just leave a bad taste in\nmy mouth."
+                            ],
+                            "_original": "だけどねえ、わらわは嘘が嫌いだ。\n冷めてしまうんだよ。"
                         },
                         {
                             "code": 101,
@@ -4953,15 +4713,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇は足の動きだけで陰茎を取り出し、握った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけで再び達してしまいそうだった。"
-                            ]
+                                "Yuuyami used only her feet to pull out my penis\nand grip it. Just that was almost enough to make\nme cum again."
+                            ],
+                            "_original": "夕闇は足の動きだけで陰茎を取り出し、握った。\nそれだけで再び達してしまいそうだった。"
                         },
                         {
                             "code": 101,
@@ -4978,15 +4732,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女は全身が快楽の塊なのではないだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思ってしまうほどに、触れている部分が熱い。"
-                            ]
+                                "Her entire body must be made of pleasure itself.\nThe parts of her touching me are burning hot,\nmaking me think that."
+                            ],
+                            "_original": "彼女は全身が快楽の塊なのではないだろうか。\nそう思ってしまうほどに、触れている部分が熱い。"
                         },
                         {
                             "code": 101,
@@ -4996,29 +4744,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は、褒美というのは「わらわに会える」ことだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踏んでやったり射精させてやったのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊ぶ約束をしたからさ。"
-                            ]
+                                "Actually, the reward is getting to meet me. I\nstepped on you and made you cum because we made\na promise to play together."
+                            ],
+                            "_original": "実は、褒美というのは「わらわに会える」ことだ。\n踏んでやったり射精させてやったのは\n遊ぶ約束をしたからさ。"
                         },
                         {
                             "code": 101,
@@ -5028,22 +4764,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つまり、既にすべて終えていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あとはお前を帰すだけだった──"
-                            ]
+                                "So, it was all over already. All that was left\nwas to send you home―"
+                            ],
+                            "_original": "つまり、既にすべて終えていた。\nあとはお前を帰すだけだった──"
                         },
                         {
                             "code": 250,
@@ -5079,22 +4810,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、正直者は好きだからねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別に、他ではできない体験を味わわせてやろう……"
-                            ]
+                                "But I do like an honest one. So, as a special\ntreat, I'll let you experience something you\ncan't get anywhere else..."
+                            ],
+                            "_original": "だが、正直者は好きだからねえ。\n特別に、他ではできない体験を味わわせてやろう……"
                         },
                         {
                             "code": 250,
@@ -5160,22 +4886,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇が少し足を動かすと、精液が溢れ出た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "射精したのではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理矢理に搾り出された。"
-                            ]
+                                "Yuuyami moved her foot slightly, and semen\nspilled out. I hadn't cum. It had been forced\nout of me."
+                            ],
+                            "_original": "夕闇が少し足を動かすと、精液が溢れ出た。\n射精したのではない。\n無理矢理に搾り出された。"
                         },
                         {
                             "code": 117,
@@ -5199,15 +4912,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでも快感がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普段よりもずっと強い快感が。"
-                            ]
+                                "And yet, it still felt good. Even better than\nusual."
+                            ],
+                            "_original": "それでも快感がある。\n普段よりもずっと強い快感が。"
                         },
                         {
                             "code": 101,
@@ -5217,22 +4924,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マナの質がいいという噂は本当だったようだ。"
-                            ]
+                                "I see... The rumors about the quality of your\nmana were true."
+                            ],
+                            "_original": "なるほど……\nマナの質がいいという噂は本当だったようだ。"
                         },
                         {
                             "code": 101,
@@ -5249,22 +4951,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "問いかけへの答えを誤ったかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘をついていれば追い出され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま帰れていただろう。"
-                            ]
+                                "Maybe I gave the wrong answer to her question.\nIf I had lied, she might have let me go right\nthen and there."
+                            ],
+                            "_original": "問いかけへの答えを誤ったかもしれない。\n嘘をついていれば追い出され、\nそのまま帰れていただろう。"
                         },
                         {
                             "code": 101,
@@ -5274,22 +4963,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し試してみるか……"
-                            ]
+                                "Fufun♥ Let me test you a little more..."
+                            ],
+                            "_original": "ふふん♥\n少し試してみるか……"
                         },
                         {
                             "code": 245,
@@ -5348,15 +5032,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "足の動きが激しく、荒々しくなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既に二度達した怒張を責め立てる。"
-                            ]
+                                "Her foot movements grew more intense, more\naggressive. She tormented my already twice-spent\nerection."
+                            ],
+                            "_original": "足の動きが激しく、荒々しくなる。\n既に二度達した怒張を責め立てる。"
                         },
                         {
                             "code": 101,
@@ -5373,22 +5051,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし苦痛は微塵もなく、心地よい刺激だけがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先ほどの触れただけで達するような強さではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に、ただ心地よい。"
-                            ]
+                                "But there wasn't a hint of pain―only pleasant\nstimulation. Not as overwhelming as before, when\njust a touch could make me cum. Just...\npleasant."
+                            ],
+                            "_original": "しかし苦痛は微塵もなく、心地よい刺激だけがある。\n先ほどの触れただけで達するような強さではなく、\n本当に、ただ心地よい。"
                         },
                         {
                             "code": 101,
@@ -5398,22 +5063,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これくらいが好みなんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわにかかれば、与える快楽の大きさなど自由自在。"
-                            ]
+                                "This is more your speed, isn't it? When it comes\nto me, I can give you as much or as little\npleasure as I want."
+                            ],
+                            "_original": "これくらいが好みなんだろう？\nわらわにかかれば、与える快楽の大きさなど自由自在。"
                         },
                         {
                             "code": 101,
@@ -5423,22 +5083,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな機会は二度とないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しむがよい♥"
-                            ]
+                                "You won't get another chance like this. Enjoy it\nwhile it lasts♥"
+                            ],
+                            "_original": "こんな機会は二度とないよ。\n楽しむがよい♥"
                         },
                         {
                             "code": 101,
@@ -5455,22 +5110,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇は上機嫌だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに、足を向けただけでありがたがられる存在が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまですることなど、普通はないのだろう……"
-                            ]
+                                "Yuuyami is in a Good Mood. It's true―most people\nwouldn't go this far just for someone who's\ngrateful to be stepped on..."
+                            ],
+                            "_original": "夕闇は上機嫌だ。\n確かに、足を向けただけでありがたがられる存在が\nここまですることなど、普通はないのだろう……"
                         },
                         {
                             "code": 101,
@@ -5487,15 +5129,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう思うと感謝の気持ちがこみ上げてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐怖心も失せ、喜びが溢れてくる。"
-                            ]
+                                "Thinking about it filled me with gratitude. My\nfear melted away, replaced by joy."
+                            ],
+                            "_original": "そう思うと感謝の気持ちがこみ上げてきた。\n恐怖心も失せ、喜びが溢れてくる。"
                         },
                         {
                             "code": 101,
@@ -5505,22 +5141,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]……分かってきたみたいじゃないか。"
-                            ]
+                                "Oh? \\N[10]... It seems you're starting to understand."
+                            ],
+                            "_original": "おや。\n\\N[10]……分かってきたみたいじゃないか。"
                         },
                         {
                             "code": 101,
@@ -5530,22 +5161,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わらわを尊ぶ心……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雄にそれ以外の感情など必要ない。"
-                            ]
+                                "A heart that reveres me... A male doesn't need\nany other feelings."
+                            ],
+                            "_original": "わらわを尊ぶ心……\n雄にそれ以外の感情など必要ない。"
                         },
                         {
                             "code": 101,
@@ -5555,22 +5181,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを理解したならば、許してやってもよいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後も見え、時には遊ぶことをねえ♥"
-                            ]
+                                "If you understand that, then I might let you\noff. Come see me again sometime, and we can\nplay♥"
+                            ],
+                            "_original": "それを理解したならば、許してやってもよいぞ。\n今後も見え、時には遊ぶことをねえ♥"
                         },
                         {
                             "code": 117,
@@ -5587,15 +5208,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっくっく♥"
-                            ]
+                                "Kuhuhu♥"
+                            ],
+                            "_original": "くっくっく♥"
                         },
                         {
                             "code": 245,
@@ -5668,22 +5291,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三回目にしてはなかなかの量だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわの爪垢程度には価値があるかもしれないねえ。"
-                            ]
+                                "A fair amount for the third time. Maybe it's\nworth as much as the dirt under my nails, hmm?"
+                            ],
+                            "_original": "三回目にしてはなかなかの量だ。\nわらわの爪垢程度には価値があるかもしれないねえ。"
                         },
                         {
                             "code": 250,
@@ -5719,22 +5337,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日のことを忘れんようにね、\\N[10]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "常に、常に意識するんだ。"
-                            ]
+                                "Don't forget today, \\N[10]. Always, always keep it in\nmind."
+                            ],
+                            "_original": "今日のことを忘れんようにね、\\N[10]。\n常に、常に意識するんだ。"
                         },
                         {
                             "code": 101,
@@ -5744,22 +5357,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わらわへの感謝と、与えられた褒美。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それらに縋り、生きるがよい──"
-                            ]
+                                "Cling to your gratitude for me and the rewards\nI've given you. Live by them―"
+                            ],
+                            "_original": "わらわへの感謝と、与えられた褒美。\nそれらに縋り、生きるがよい──"
                         },
                         {
                             "code": 231,
@@ -6150,15 +5758,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは、見覚えがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇の部屋だ。"
-                            ]
+                                "This place... I recognize it. It's Yuuyami's\nroom."
+                            ],
+                            "_original": "ここは、見覚えがある。\n夕闇の部屋だ。"
                         },
                         {
                             "code": 205,
@@ -6337,15 +5939,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夢幻を切り抜け、ようやく来たか。"
-                            ]
+                                "You've cut through the illusions and\nfinally arrived, have you?"
+                            ],
+                            "_original": "夢幻を切り抜け、ようやく来たか。"
                         },
                         {
                             "code": 213,
@@ -6437,22 +6041,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、\\N[10]よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は── \\V[230]回、わらわの炎に触れた。"
-                            ]
+                                "Now then, \\N[10]. You've touched my flames \\V[230] times."
+                            ],
+                            "_original": "さて、\\N[10]よ。\nお前は── \\V[230]回、わらわの炎に触れた。"
                         },
                         {
                             "code": 111,
@@ -6489,29 +6088,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……いやいや、あのねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全くやる気がないのかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それとも小夜に惚れ込んだのか……"
-                            ]
+                                "...Hmph. Tell me, do you have no will to try at\nall? Or have you fallen for Sayo...?"
+                            ],
+                            "_original": "……いやいや、あのねえ。\n全くやる気がないのかい？\nそれとも小夜に惚れ込んだのか……"
                         },
                         {
                             "code": 0,
@@ -6547,22 +6134,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全く、目も当てられない記録だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "愚図め。"
-                            ]
+                                "Pathetic. I can't even bear to look at your\nrecord. What a fool."
+                            ],
+                            "_original": "全く、目も当てられない記録だ。\n愚図め。"
                         },
                         {
                             "code": 0,
@@ -6610,22 +6192,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ……一応説明しておこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回のことの意図をね。"
-                            ]
+                                "Haa... Well, I suppose I should explain. The\npurpose of all this."
+                            ],
+                            "_original": "はあ……一応説明しておこう。\n今回のことの意図をね。"
                         },
                         {
                             "code": 101,
@@ -6635,29 +6212,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の記録を参考に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわは回廊を調整するつもりだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後の本格的な運営のためにね。"
-                            ]
+                                "I was going to adjust the corridors based on\nyour performance. For the sake of proper\nmanagement going forward."
+                            ],
+                            "_original": "お前の記録を参考に、\nわらわは回廊を調整するつもりだった。\n今後の本格的な運営のためにね。"
                         },
                         {
                             "code": 101,
@@ -6667,22 +6232,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、こんなものは参考にならん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のろまに合わせては質が下がる。"
-                            ]
+                                "But this? Useless. Matching the pace of a slug\nwould only lower the quality."
+                            ],
+                            "_original": "だが、こんなものは参考にならん。\nのろまに合わせては質が下がる。"
                         },
                         {
                             "code": 231,
@@ -6708,22 +6268,17 @@
                                 3,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ、全く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当は特別な褒美をやるつもりだったんだが──"
-                            ]
+                                "Tsk, tsk. I was even going to give you a special\nreward..."
+                            ],
+                            "_original": "やれやれ、全く。\n本当は特別な褒美をやるつもりだったんだが──"
                         },
                         {
                             "code": 221,
@@ -6804,22 +6359,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前には、これで充分であろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嗅げ。"
-                            ]
+                                "But for you, this should be enough. Smell it."
+                            ],
+                            "_original": "お前には、これで充分であろう。\n嗅げ。"
                         },
                         {
                             "code": 101,
@@ -6836,15 +6386,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明らかに機嫌を損ねた夕闇は足を差し出し、そう言った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意味が分からず困惑するが……"
-                            ]
+                                "Yuuyami, clearly in a foul mood, extended her\nfoot and gave the order. Confused, I didn't\nunderstand at first..."
+                            ],
+                            "_original": "明らかに機嫌を損ねた夕闇は足を差し出し、そう言った。\n意味が分からず困惑するが……"
                         },
                         {
                             "code": 224,
@@ -6875,15 +6419,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大人しく命令に従うことにした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが懸命だと判断したのだ。"
-                            ]
+                                "But I decided to obey. It was the only desperate\nchoice I had."
+                            ],
+                            "_original": "大人しく命令に従うことにした。\nそれが懸命だと判断したのだ。"
                         },
                         {
                             "code": 224,
@@ -6914,15 +6452,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "湿り気のある気体が鼻から身体に入り込む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すると、見る見るうちに股間のものが硬くなる。"
-                            ]
+                                "A damp, musky scent filled my nose and seeped\ninto my body. Before I knew it, my cock had\ngrown hard."
+                            ],
+                            "_original": "湿り気のある気体が鼻から身体に入り込む。\nすると、見る見るうちに股間のものが硬くなる。"
                         },
                         {
                             "code": 101,
@@ -6932,22 +6464,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ、しょうもな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと期待してたんだけどねえ……"
-                            ]
+                                "Haa, how pathetic. I was hoping for a little\nmore..."
+                            ],
+                            "_original": "はあ、しょうもな。\nちょっと期待してたんだけどねえ……"
                         },
                         {
                             "code": 101,
@@ -6957,22 +6484,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊びもできなければ、礼儀も知らん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間かと思ったが、ただの豚か。"
-                            ]
+                                "You can't even play along, and you don't know\nthe first thing about manners. I thought you\nwere human, but you're just a pig."
+                            ],
+                            "_original": "遊びもできなければ、礼儀も知らん。\n人間かと思ったが、ただの豚か。"
                         },
                         {
                             "code": 101,
@@ -6982,22 +6504,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、豚に失礼か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は自分を何だと思っている？"
-                            ]
+                                "Or is that an insult to pigs? What do you even\nthink you are?"
+                            ],
+                            "_original": "いや、豚に失礼か？\nお前は自分を何だと思っている？"
                         },
                         {
                             "code": 101,
@@ -7014,15 +6531,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酷すぎる罵倒が続く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぜ、こんな仕打ちを受けているのだろう。"
-                            ]
+                                "The cruel insults kept coming. Why was I being\ntreated like this?"
+                            ],
+                            "_original": "酷すぎる罵倒が続く。\nなぜ、こんな仕打ちを受けているのだろう。"
                         },
                         {
                             "code": 101,
@@ -7039,15 +6550,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分は一応、客だったはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで言われるいわれはない。"
-                            ]
+                                "I was a guest, wasn't I? There was no reason for\nthis kind of treatment."
+                            ],
+                            "_original": "自分は一応、客だったはずだ。\nここまで言われるいわれはない。"
                         },
                         {
                             "code": 101,
@@ -7057,22 +6562,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はんっ、一丁前に腹を立てているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その相手の足裏のにおいを嗅ぎながら。"
-                            ]
+                                "Hmph. Look at you, daring to get angry. While\nsniffing the sole of my foot, no less."
+                            ],
+                            "_original": "はんっ、一丁前に腹を立てているようだ。\nその相手の足裏のにおいを嗅ぎながら。"
                         },
                         {
                             "code": 101,
@@ -7082,22 +6582,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気に入らないなら噛みついてみればいいさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相応の躾が怖くないならね。"
-                            ]
+                                "If it bothers you, go ahead and bite. Unless\nyou're afraid of the consequences."
+                            ],
+                            "_original": "気に入らないなら噛みついてみればいいさ。\n相応の躾が怖くないならね。"
                         },
                         {
                             "code": 101,
@@ -7114,15 +6609,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冷静になる。そんなことをしても意味がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇と争って、自分が勝てるわけがない。"
-                            ]
+                                "I forced myself to calm down. There was no point\nin doing something like that. I couldn't\npossibly win against Yuuyami."
+                            ],
+                            "_original": "冷静になる。そんなことをしても意味がない。\n夕闇と争って、自分が勝てるわけがない。"
                         },
                         {
                             "code": 101,
@@ -7139,15 +6628,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そもそも、夕闇のことは仲間だと思っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅のさなかに助けてくれた、優しい人物であるはずだ。"
-                            ]
+                                "Besides, I considered her a comrade. She'd\nhelped me during my journey. She was supposed to\nbe kind."
+                            ],
+                            "_original": "そもそも、夕闇のことは仲間だと思っている。\n旅のさなかに助けてくれた、優しい人物であるはずだ。"
                         },
                         {
                             "code": 101,
@@ -7157,22 +6640,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふん……できないのかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、そこまで愚かではないか。"
-                            ]
+                                "Hmph... Can't do it, huh? Well, at least you're\nnot that stupid."
+                            ],
+                            "_original": "ふん……できないのかい。\nま、そこまで愚かではないか。"
                         },
                         {
                             "code": 101,
@@ -7182,22 +6660,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、ともかくここまで来たんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せめてわらわを楽しませてくれ。"
-                            ]
+                                "Come now, you've made it this far. At least try\nto amuse me."
+                            ],
+                            "_original": "さあ、ともかくここまで来たんだ。\nせめてわらわを楽しませてくれ。"
                         },
                         {
                             "code": 101,
@@ -7207,22 +6680,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しろ、別に期待はしていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くだらなければ放り出す……それだけだよ。"
-                            ]
+                                "Don't worry, I'm not expecting much. If you're\nboring, I'll just toss you aside... That's all."
+                            ],
+                            "_original": "安心しろ、別に期待はしていない。\nくだらなければ放り出す……それだけだよ。"
                         },
                         {
                             "code": 101,
@@ -7239,22 +6707,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "事の発端を思い出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分は夕闇に誘われた──もとい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう強制されてここに来た。"
-                            ]
+                                "I recalled how this all started. Yuuyami had\ninvited me―or rather, forced me―to come here."
+                            ],
+                            "_original": "事の発端を思い出す。\n自分は夕闇に誘われた──もとい、\nそう強制されてここに来た。"
                         },
                         {
                             "code": 101,
@@ -7271,22 +6726,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、ここは夜魔の店。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇はそうではないが、性質は似たようなものだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな彼女が体臭を嗅がせている……"
-                            ]
+                                "And this was a demon's shop. Yuuyami wasn't one\nherself, but her nature was similar enough. And\nnow she was making me smell her body odor..."
+                            ],
+                            "_original": "そして、ここは夜魔の店。\n夕闇はそうではないが、性質は似たようなものだろう。\nそんな彼女が体臭を嗅がせている……"
                         },
                         {
                             "code": 250,
@@ -7357,8 +6799,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "となれば、答えは一つ。"
-                            ]
+                                "There was only one possible answer."
+                            ],
+                            "_original": "となれば、答えは一つ。"
                         },
                         {
                             "code": 245,
@@ -7401,15 +6844,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナを捧げればいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸い、足のにおいだけで既に達しかけている。"
-                            ]
+                                "I had to offer my mana. Fortunately, just the\nscent of her feet had me on the verge of climax\nalready."
+                            ],
+                            "_original": "マナを捧げればいい。\n幸い、足のにおいだけで既に達しかけている。"
                         },
                         {
                             "code": 232,
@@ -7454,22 +6891,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "豚以下が許可もなく自慰を始めるとは。"
-                            ]
+                                "Oh? A creature worse than a pig starts\nmasturbating without permission?"
+                            ],
+                            "_original": "ほう？\n豚以下が許可もなく自慰を始めるとは。"
                         },
                         {
                             "code": 101,
@@ -7479,22 +6911,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "生意気じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわの足の香りだけではイけないのかい？"
-                            ]
+                                "Aren't you getting a little full of yourself?\nCan't you cum just from the scent of my feet?"
+                            ],
+                            "_original": "生意気じゃないか。\nわらわの足の香りだけではイけないのかい？"
                         },
                         {
                             "code": 101,
@@ -7511,15 +6938,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇は笑みを浮かべた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "選択は正しかったようだ。"
-                            ]
+                                "Yuuyami smiled. It seemed the choice had been\nthe right one."
+                            ],
+                            "_original": "夕闇は笑みを浮かべた。\n選択は正しかったようだ。"
                         },
                         {
                             "code": 224,
@@ -7550,15 +6971,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きく息を吸い込むと雑念が消えていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ一つのことに集中できる。"
-                            ]
+                                "Taking a deep breath, all distractions faded\naway. Only one thing remained to focus on."
+                            ],
+                            "_original": "大きく息を吸い込むと雑念が消えていく。\nただ一つのことに集中できる。"
                         },
                         {
                             "code": 101,
@@ -7568,22 +6983,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうがっつくな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと慎ましく、丁寧に嗅げ。"
-                            ]
+                                "Don't be so eager… Sniff it more modestly, more\ncarefully."
+                            ],
+                            "_original": "そうがっつくな……\nもっと慎ましく、丁寧に嗅げ。"
                         },
                         {
                             "code": 101,
@@ -7593,22 +7003,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わらわの香りを大切にしろ。宝と思え。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凡人の手には届かない代物なのだから。"
-                            ]
+                                "Treat my scent with care. Treasure it. It's\nsomething no ordinary person could ever hope to\nhave."
+                            ],
+                            "_original": "わらわの香りを大切にしろ。宝と思え。\n凡人の手には届かない代物なのだから。"
                         },
                         {
                             "code": 224,
@@ -7639,15 +7044,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがたい香りが大きな刺激となる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう我慢できそうにない。"
-                            ]
+                                "The intoxicating scent was an overwhelming\nstimulus. There was no way to hold back anymore."
+                            ],
+                            "_original": "ありがたい香りが大きな刺激となる。\nもう我慢できそうにない。"
                         },
                         {
                             "code": 101,
@@ -7657,15 +7056,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ……"
-                            ]
+                                "Heh…"
+                            ],
+                            "_original": "ふふ……"
                         },
                         {
                             "code": 250,
@@ -7710,15 +7111,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほれ♥"
-                            ]
+                                "There you go♥"
+                            ],
+                            "_original": "ほれ♥"
                         },
                         {
                             "code": 101,
@@ -7735,15 +7138,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇がおもむろに前垂れをめくりあげると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこのにおいと熱気が脳まで届いた。"
-                            ]
+                                "Yuuyami slowly lifted her apron, and the scent\nand heat from beneath it rushed straight to the\nbrain."
+                            ],
+                            "_original": "夕闇がおもむろに前垂れをめくりあげると、\nそこのにおいと熱気が脳まで届いた。"
                         },
                         {
                             "code": 245,
@@ -7865,15 +7262,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ。"
-                            ]
+                                "Oh!"
+                            ],
+                            "_original": "おっ。"
                         },
                         {
                             "code": 231,
@@ -7906,22 +7305,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっぷ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっ……"
-                            ]
+                                "Whoa―! Wai―…"
+                            ],
+                            "_original": "うわっぷ！\nちょっ……"
                         },
                         {
                             "code": 232,
@@ -7964,15 +7358,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "激しい快感と共に吐き出されたそれは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇の方へ飛び散っていた。"
-                            ]
+                                "The intense pleasure forced it out, and it\nsplattered all over Yuuyami."
+                            ],
+                            "_original": "激しい快感と共に吐き出されたそれは、\n夕闇の方へ飛び散っていた。"
                         },
                         {
                             "code": 101,
@@ -7982,22 +7370,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、わらわに……ぶちまけるとは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうそう許されんこと……"
-                            ]
+                                "Y-You… you actually splattered it all over me…\nThat's… that's not something you're just allowed\nto do…"
+                            ],
+                            "_original": "わ、わらわに……ぶちまけるとは……\nそうそう許されんこと……"
                         },
                         {
                             "code": 101,
@@ -8007,22 +7390,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……高くつくぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]。"
-                            ]
+                                "…This is going to cost you. \\N[10]."
+                            ],
+                            "_original": "……高くつくぞ。\n\\N[10]。"
                         },
                         {
                             "code": 101,
@@ -8032,15 +7410,17 @@
                                 0,
                                 1,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神社に請求するからな。"
-                            ]
+                                "I'm sending the bill to the shrine."
+                            ],
+                            "_original": "神社に請求するからな。"
                         },
                         {
                             "code": 231,
@@ -8092,22 +7472,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結局、この場は丸く収まった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし……後日テンに叱られるのではないかと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が気でなかった。"
-                            ]
+                                "In the end, the situation was resolved without\nfurther incident. But… the thought of Ten\nscolding them later left them uneasy."
+                            ],
+                            "_original": "結局、この場は丸く収まった。\nしかし……後日テンに叱られるのではないかと\n気が気でなかった。"
                         },
                         {
                             "code": 108,

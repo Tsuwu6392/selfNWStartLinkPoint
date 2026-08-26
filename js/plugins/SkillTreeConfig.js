@@ -1,98 +1,91 @@
 /*:
 @target MV MZ
-@plugindesc スキルツリーコンフィグ v1.0.0
-@author うなぎおおとろ
+@plugindesc Skill Tree Config v1.0.0
+@author unagiootoro
 @url https://raw.githubusercontent.com/unagiootoro/RPGMZ/master/SkillTreeConfig.js
 
 @help
-[概要]
-スキルツリーを導入するプラグインです。
-SPを使ってスキルを習得するスキルツリーを作成することができます。
+[Overview]
+A plugin that introduces a skill tree.
+Allows you to create skill trees where skills are acquired using SP.
 
-[使用方法]
-■ スキルツリーの設定
-スキルツリーの設定は、「SkillTreeConfig.js」ファイルを編集することで行います。
-基本的な設定としては、アクターごとにスキルツリーのタイプ(剣スキルや魔法スキルなど)を設定し、
-そしてタイプごとにスキルツリーを構築します。
-スキルツリーの構築は、スキルの派生設定(ファイアⅠを取得したらファイアⅡが取得可能になるなど)によって行います。
+[Usage]
+■ Skill Tree Configuration
+Edit the "SkillTreeConfig.js" file to configure skill trees.
+Basic configuration involves setting skill tree types (such as sword skills or magic skills) for each actor,
+and then building the skill tree for each type.
+Skill trees are constructed using skill derivation settings (e.g., acquiring Fire I enables Fire II).
 
-■ SPの入手設定
-スキルの習得には、SPが必要となります。
-SPの入手方法としては
-・戦闘終了による獲得
-・レベルアップによるSP獲得
-の二通りの設定を行うことができます。
+■ SP Acquisition Settings
+SP is required to acquire skills.
+There are two ways to configure SP acquisition:
+・Acquisition at the end of battle
+・SP acquisition through leveling up
 
-・戦闘終了時に得られるSPの設定方法
-敵キャラのメモ欄に
+・How to set SP gained at the end of battle
+In the enemy character's note field, write:
 <battleEndGainSp: SP>
-の形式で記載します。
 
-・レベルアップによるSP獲得方法の設定
-コンフィグの「levelUpGainSp」によって設定を行います。
+・How to set SP acquisition through leveling up
+Configure using "levelUpGainSp" in the config.
 
-■ イベントでSPを獲得する方法
-スクリプトで
-skt_gainSp(アクターID, 獲得するSP値)
-と記載することで、該当のアクターが指定したSPを獲得することができます。
-例えば、アクターIDが1のアクターが5SPを獲得する場合、
+■ How to Gain SP in Events
+In a script, write:
+skt_gainSp(actorId, SP value)
+This allows the specified actor to gain the designated SP.
+For example, to have actor ID 1 gain 5 SP:
 skt_gainSp(1, 5);
-と記載します。
 
-■ 割り振った累計SPの取得
-skt_totalSp(アクターID, 累計SP格納先変数ID)
-と記載することで、該当のアクターが今までに割り振ったSPを指定した変数に代入することができます。
-例えば、アクターIDが1のアクターの累計SPをID2の変数に代入する場合、
+■ Getting Total Allocated SP
+Write:
+skt_totalSp(actorId, variableId for total SP)
+This assigns the total SP allocated so far by the specified actor to the designated variable.
+For example, to assign actor ID 1's total SP to variable ID 2:
 skt_totalSp(1, 2);
-と記載します。
 
-■ スキルリセット
-スクリプトで
-skt_skillReset(アクターID);
-と記載することで、一度習得したスキルをリセットすることができます。
-例えば、アクターIDが1のアクターのスキルリセットを行う場合、
+■ Skill Reset
+Write in a script:
+skt_skillReset(actorId);
+This allows you to reset previously acquired skills.
+For example, to reset skills for actor ID 1:
 skt_skillReset(1);
-と記載します。
 
-■ スキルツリータイプの有効/無効
-スクリプトで
-skt_enableType(アクターID, "タイプ名");
-と記載することで、タイプを有効にします。
+■ Enabling/Disabling Skill Tree Types
+To enable a type, write in a script:
+skt_enableType(actorId, "Type Name");
 
-無効にする場合は、
-skt_disableType(アクターID, "タイプ名")
-と記載します。
+To disable a type, write:
+skt_disableType(actorId, "Type Name")
 
-無効にしたタイプは、スキルツリーのタイプ一覧には表示されません。
+Disabled types will not appear in the skill tree type list.
 
-■ タイプの引継ぎ
-特定の条件を満たすとスキルツリーに新たなスキルが追加されるようにしたい場合、「タイプの引継ぎ」を使用します。
-例えば、タイプ「下位魔法」を「上位魔法」に変更したい場合、あらかじめ両方のタイプをコンフィグに登録した上で、
-「上位魔法」は無効化しておきます。そして、タイプの引継ぎ機能を用いて、「下位魔法」を「上位魔法」に引き継がせます。
+■ Type Migration
+If you want new skills to be added to the skill tree when certain conditions are met, use "Type Migration".
+For example, if you want to change the type "Lower Magic" to "Higher Magic", first register both types in the config,
+and disable "Higher Magic". Then, use the type migration feature to migrate "Lower Magic" to "Higher Magic".
 
-タイプの引継ぎを行う場合、スクリプトで
-skt_migrationType(アクターID, "引継ぎ元タイプ名", "引継ぎ先タイプ名", リセット有無);
-と記載します。リセット有無については、引継ぎ後、引継ぎ元のタイプのスキルツリーをリセットする場合、trueを、
-リセットしない場合、falseを指定します。
-例えば、アクターIDが1のアクターが、タイプ「下位魔法」を「上位魔法」に引き継がせ、さらにスキルリセットを行う場合、
-skt_migrationType(アクターID, "下位魔法", "上位魔法", true);
-と記載します。
+To perform type migration, write in a script:
+skt_migrationType(actorId, "Source Type Name", "Target Type Name", resetFlag);
+For the reset flag, specify true to reset the source type's skill tree after migration,
+and false to not reset it.
+For example, to migrate actor ID 1's "Lower Magic" to "Higher Magic" and perform a skill reset:
+skt_migrationType(actorId, "Lower Magic", "Higher Magic", true);
 
-■ マップからスキルツリーを読み込む
-マップからスキルツリーの各スキルの配置座標を読み込むことで、ある程度自由なレイアウトのスキルツリーを
-作成することができます。この機能によって設定可能なのはスキルの座標のみであり、スキル間の線はプラグイン側で描画します。
+■ Loading Skill Tree from Map
+You can create skill trees with a somewhat free layout by loading the placement coordinates of each skill in the skill tree from a map.
+This feature only allows you to set the coordinates of skills; the lines between skills are drawn by the plugin.
 
-・スキル座標の設定
-マップ上のイベントにて、設定を行います。
-例えば、"ファイア"というスキルがある場合、スキルを配置したい座標に空のイベントを作成し、
-イベントのメモ欄に
-ファイア
-と記載します。すると、"ファイア"とメモ欄に記載したイベントのXY座標がスキルのXY座標として使用されます。
+・Setting Skill Coordinates
+Configure on a map event.
+For example, if there is a skill called "Fire", create an empty event at the coordinates where you want to place the skill,
+and write in the event's note field:
+Fire
+The XY coordinates of the event with "Fire" written in the note field will be used as the XY coordinates of the skill.
 
-■ スクリプトからスキルツリーを起動
-スクリプトで
-skt_open(アクターID);
-と記載することで、指定したアクターのスキルツリーを起動することができます。
+■ Launching Skill Tree from Script
+Write in a script:
+skt_open(actorId);
+This allows you to launch the skill tree for the specified actor.
 */
 
 const loadSkillTreeConfig = () => {
@@ -118,32 +111,32 @@ skillTreeTypes: [
     {
         actorId: 1,
         types: [
-            ["ナズナ１", "ハクトウ剣術", "ハクトウの剣技はいかなる状況下でも役立ちます。"],
-            ["ナズナ２", "妖狐の血", "怪異としての力を発揮し、肉体を鍛えます。"],
+            ["ナズナ１", "Hakutou Swordsmanship", "Hakutou sword techniques are useful under any circumstances."],
+            ["ナズナ２", "Youko Blood", "Unleashes her power as an anomaly to strengthen her physical body."],
         ]
     },
 
     {
         actorId: 2,
         types: [
-            ["プリム１", "盤上戦略", "戦略的な大剣技で速やかに敵を処理します。"],
-            ["プリム２", "メイド防護術", "仲間を守る盾となれば攻撃をサボれます。"],
+            ["プリム１", "Boardroom Strategy", "Dispatches enemies quickly using strategic greatsword techniques."],
+            ["プリム２", "Maid Protection Arts", "By acting as a shield to protect her allies, she gets to slack off on attacking."],
         ]
     },
 
     {
         actorId: 3,
         types: [
-            ["桜悳１", "滝然山妙法", "魂術を応用すれば自然の力を借りられます。"],
-            ["桜悳２", "大猫の悟り", "悟りの道を行けば本能をも制御できます。"],
+            ["桜悳１", "Ryuuzenzan Mystic Law", "By applying soul arts, one can borrow nature's power."],
+            ["桜悳２", "Daibyou's Enlightenment", "By following the path of enlightenment, even instincts can be controlled."],
         ]
     },
 
     {
         actorId: 4,
         types: [
-            ["ウーラ１", "労働者生活", "日々の労働に感謝し、確かな技術を修めます。"],
-            ["ウーラ２", "ささやかな趣味", "機械弄りを戦闘に役立ててみます。"],
+            ["ウーラ１", "Laborer Life", "Grateful for daily labor, she masters reliable techniques."],
+            ["ウーラ２", "Modest Hobby", "She attempts to put mechanical tinkering to use in battle."],
         ]
     },
 
@@ -824,49 +817,49 @@ skillTreeDerivative: {
 levelUpGainSp: [
     {
         classId: 1,
-        default: 1,
+        default: 10,
         2: 2,
     },
 
     {
         classId: 2,
-        default: 1,
+        default: 10,
         2: 2,
     },
 
     {
         classId: 3,
-        default: 1,
+        default: 10,
         2: 2,
     },
 
     {
         classId: 4,
-        default: 1,
+        default: 10,
         2: 2,
     },
 
     {
         classId: 5,
-        default: 1,
+        default: 10,
         2: 2,
     },
 
     {
         classId: 6,
-        default: 1,
+        default: 10,
         2: 2,
     },
 
     {
         classId: 7,
-        default: 1,
+        default: 10,
         2: 2,
     },
 
     {
         classId: 8,
-        default: 1,
+        default: 10,
         2: 2,
     },
 ]

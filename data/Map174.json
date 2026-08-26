@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "墨染神社",
+    "displayName": "Sumizome Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -6980,22 +6980,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は命刻山……禁足地です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お引き取りを。"
-                            ]
+                                "Beyond here is Meikoku Mountain... It's\noff-limits. Please turn back."
+                            ],
+                            "_original": "この先は命刻山……禁足地です。\nお引き取りを。"
                         },
                         {
                             "code": 0,
@@ -7123,29 +7118,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命刻山というところに行きたいのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道を教えてもらえないか？"
-                            ]
+                                "Um... I'd like to go to Meikoku\nMountain. Could you tell me the way?"
+                            ],
+                            "_original": "あのう。\n命刻山というところに行きたいのだが、\n道を教えてもらえないか？"
                         },
                         {
                             "code": 101,
@@ -7155,22 +7138,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ、またですか……命刻山は禁足地です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お引き取りを。"
-                            ]
+                                "Sigh... again? Meikoku Mountain is off-limits.\nPlease leave."
+                            ],
+                            "_original": "はあ、またですか……命刻山は禁足地です。\nお引き取りを。"
                         },
                         {
                             "code": 101,
@@ -7180,22 +7158,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち以外にも誰か来たのですか？"
-                            ]
+                                "Again? Has someone else come besides us?"
+                            ],
+                            "_original": "また？\n私たち以外にも誰か来たのですか？"
                         },
                         {
                             "code": 101,
@@ -7205,29 +7178,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰も何も……厭い根が消えてからというもの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜行岩屋の立ち入りの制限が緩和され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連日のように柴組の隊士などが訪れています。"
-                            ]
+                                "No one in particular... Ever since the cursed\nroots vanished, the restrictions on Night\nWalking Cave have been relaxed, and soldiers\nfrom the Shibagumi have been showing up every\nday."
+                            ],
+                            "_original": "誰も何も……厭い根が消えてからというもの、\n夜行岩屋の立ち入りの制限が緩和され\n連日のように柴組の隊士などが訪れています。"
                         },
                         {
                             "code": 213,
@@ -7285,29 +7246,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……はっきり言って、うんざりです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命刻山は日出ずる聖地！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "軽い気持ちで入ってはいけないのです！"
-                            ]
+                                "...Frankly, it's exhausting! Meikoku Mountain is\na sacred place where the sun rises! You mustn't\nenter on a whim!"
+                            ],
+                            "_original": "……はっきり言って、うんざりです！\n命刻山は日出ずる聖地！\n軽い気持ちで入ってはいけないのです！"
                         },
                         {
                             "code": 213,
@@ -7365,22 +7314,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわあっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんなさい！"
-                            ]
+                                "Waaah! I'm sorry!"
+                            ],
+                            "_original": "うわあっ！\nごめんなさい！"
                         },
                         {
                             "code": 101,
@@ -7390,15 +7334,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隊士たちも追い返しているのか？"
-                            ]
+                                "Are you turning the soldiers away too?"
+                            ],
+                            "_original": "隊士たちも追い返しているのか？"
                         },
                         {
                             "code": 101,
@@ -7408,29 +7354,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ……\\!はあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禁足地だというのは、あくまで神社の決まり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "国の方針には勝てません。"
-                            ]
+                                "No... \\! well, yes. The rule about it being\noff-limits is just the shrine's policy. We can't\ngo against the country's orders."
+                            ],
+                            "_original": "いえ……\\!はあ。\n禁足地だというのは、あくまで神社の決まり。\n国の方針には勝てません。"
                         },
                         {
                             "code": 101,
@@ -7440,22 +7374,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拙僧らは軽い気持ちで来たわけではありませぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても大事な用があるのです。"
-                            ]
+                                "We did not come here on a whim. We have\na very important matter to attend to."
+                            ],
+                            "_original": "拙僧らは軽い気持ちで来たわけではありませぬ。\nとても大事な用があるのです。"
                         },
                         {
                             "code": 101,
@@ -7465,22 +7394,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、その通り。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入れてもらえんかのう。"
-                            ]
+                                "Indeed. So, might we enter?"
+                            ],
+                            "_original": "うむ、その通り。\n入れてもらえんかのう。"
                         },
                         {
                             "code": 101,
@@ -7490,22 +7414,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠神様！"
-                            ]
+                                "...Huh? Lady Inugami!"
+                            ],
+                            "_original": "……あれ？\n隠神様！"
                         },
                         {
                             "code": 101,
@@ -7515,15 +7434,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子と呼べい。"
-                            ]
+                                "Call me Sonoko."
+                            ],
+                            "_original": "存子と呼べい。"
                         },
                         {
                             "code": 101,
@@ -7533,22 +7454,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四魂怪異のご意志だったとは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く言ってくださいよ、そういうことは。"
-                            ]
+                                "It was the will of the Shikon Kaii! You\nshould've said so sooner!"
+                            ],
+                            "_original": "四魂怪異のご意志だったとは！\n早く言ってくださいよ、そういうことは。"
                         },
                         {
                             "code": 205,
@@ -7631,22 +7547,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隠神様の望みとあらば、止める道理などありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、どうぞ。"
-                            ]
+                                "If it's Lady Inugami's wish, there's no reason\nto stop you. Go ahead, please."
+                            ],
+                            "_original": "隠神様の望みとあらば、止める道理などありません。\nさあ、どうぞ。"
                         },
                         {
                             "code": 101,
@@ -7656,22 +7567,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとう！"
-                            ]
+                                "Oh! Thank you!"
+                            ],
+                            "_original": "おおっ！\nありがとう！"
                         },
                         {
                             "code": 101,
@@ -7681,15 +7587,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子と呼べい！"
-                            ]
+                                "Call me Sonoko!"
+                            ],
+                            "_original": "存子と呼べい！"
                         },
                         {
                             "code": 221,
@@ -8036,15 +7944,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おけ！"
-                            ]
+                                "Got it!"
+                            ],
+                            "_original": "おけ！"
                         },
                         {
                             "code": 0,
@@ -8436,29 +8346,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命刻山は溶岩の流れる火山です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足を踏み外せば命を落としかねません……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お気をつけて。"
-                            ]
+                                "Meikoku Mountain is a volcano with flowing lava.\nOne wrong step could cost you your life...\nPlease be careful."
+                            ],
+                            "_original": "命刻山は溶岩の流れる火山です。\n足を踏み外せば命を落としかねません……\nお気をつけて。"
                         },
                         {
                             "code": 101,
@@ -8468,22 +8366,17 @@
                                 0,
                                 0,
                                 2,
-                                "高下"
-                            ]
+                                "Takashita"
+                            ],
+                            "_original": "高下"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それと、勝手に自然物を動かしたりしないように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本来は禁足地であることを忘れないでください。"
-                            ]
+                                "Also, don't go moving natural objects around on\nyour own. Don't forget that this is technically\nforbidden ground."
+                            ],
+                            "_original": "それと、勝手に自然物を動かしたりしないように。\n本来は禁足地であることを忘れないでください。"
                         },
                         {
                             "code": 0,
@@ -8569,8 +8462,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「この先　日出ずる聖地　命刻山」"
-                            ]
+                                "\"Beyond lies the sacred land, Myokoku Mountain.\""
+                            ],
+                            "_original": "「この先　日出ずる聖地　命刻山」"
                         },
                         {
                             "code": 0,
@@ -8599,15 +8493,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "立て札の裏側だ！"
-                            ]
+                                "It's on the back of the signpost!"
+                            ],
+                            "_original": "立て札の裏側だ！"
                         },
                         {
                             "code": 0,
@@ -8627,15 +8523,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "立て札の側面だ！"
-                            ]
+                                "It's on the side of the signpost!"
+                            ],
+                            "_original": "立て札の側面だ！"
                         },
                         {
                             "code": 0,

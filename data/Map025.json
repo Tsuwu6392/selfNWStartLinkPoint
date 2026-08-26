@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "ナーヴィガー号",
+    "displayName": "Navigator",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -5017,15 +5017,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は開かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵がかかっているようだ。"
-                            ]
+                                "The door won't open. It seems to be locked."
+                            ],
+                            "_original": "扉は開かない。\n鍵がかかっているようだ。"
                         },
                         {
                             "code": 0,
@@ -5353,8 +5347,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地面が揺れている……"
-                            ]
+                                "The ground is shaking..."
+                            ],
+                            "_original": "地面が揺れている……"
                         },
                         {
                             "code": 117,
@@ -5406,35 +5401,34 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、当たり前じゃないですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちは海の上、船の中にいるんですよ。"
-                            ]
+                                "No, that's only natural. We're on the sea,\ninside a ship."
+                            ],
+                            "_original": "いや、当たり前じゃないですか。\n私たちは海の上、船の中にいるんですよ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "分かっている",
-                                    "そうだったのか"
+                                    "I know.",
+                                    "I see."
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "分かっている",
+                                "そうだったのか"
                             ]
                         },
                         {
@@ -5453,22 +5447,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫です？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうもぼんやりしているような……"
-                            ]
+                                "Are you okay? You seem kind of out of it..."
+                            ],
+                            "_original": "大丈夫です？\nどうもぼんやりしているような……"
                         },
                         {
                             "code": 0,
@@ -5491,22 +5480,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫です？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり記憶が飛んだんじゃ……"
-                            ]
+                                "Are you okay? Maybe your memory really did get\nscrambled..."
+                            ],
+                            "_original": "大丈夫です？\nやっぱり記憶が飛んだんじゃ……"
                         },
                         {
                             "code": 0,
@@ -5542,22 +5526,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一応、現状を簡単に説明しておきましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちは東方の島国\\C[17]シキノワ\\C[0]に向かう船に乗っています。"
-                            ]
+                                "Let me give you a quick rundown of the\nsituation. We're on a ship heading to the\neastern island nation of \\C[17]Shikinowa\\C[0]."
+                            ],
+                            "_original": "一応、現状を簡単に説明しておきましょうか。\n私たちは東方の島国\\C[17]シキノワ\\C[0]に向かう船に乗っています。"
                         },
                         {
                             "code": 101,
@@ -5567,22 +5546,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その理由は私の仕事のためで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたとダイアが付き添うことになったんです。"
-                            ]
+                                "The reason is for my work... and you and Dia\nended up coming along."
+                            ],
+                            "_original": "その理由は私の仕事のためで……\nあなたとダイアが付き添うことになったんです。"
                         },
                         {
                             "code": 231,
@@ -5608,22 +5582,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ダイアのことは分かりますよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いちいち説明しませんよ、どうせすぐに会いますし。"
-                            ]
+                                "...You do remember Dia, right? I'm not going to\nexplain every little thing; you'll see her soon\nenough anyway."
+                            ],
+                            "_original": "……ダイアのことは分かりますよね？\nいちいち説明しませんよ、どうせすぐに会いますし。"
                         },
                         {
                             "code": 231,
@@ -5649,29 +5618,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともかく！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはアウラム商会の商会員としての一大任務！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失敗するわけにはいかないんです！"
-                            ]
+                                "Anyway! This is a major mission for me as a\nmember of the Aurum Trading Company! I can't\nafford to fail!"
+                            ],
+                            "_original": "ともかく！\nこれはアウラム商会の商会員としての一大任務！\n失敗するわけにはいかないんです！"
                         },
                         {
                             "code": 118,
@@ -5704,30 +5661,38 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、説明はこれくらいでいいですか？"
-                            ]
+                                "So, is that enough of an explanation?"
+                            ],
+                            "_original": "さて、説明はこれくらいでいいですか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ウーラの仕事とは？",
-                                    "この船は？",
-                                    "他の仲間は？",
-                                    "もういい"
+                                    "What about Ula's work?",
+                                    "What about this ship?",
+                                    "What about the other companions?",
+                                    "That's enough."
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ウーラの仕事とは？",
+                                "この船は？",
+                                "他の仲間は？",
+                                "もういい"
                             ]
                         },
                         {
@@ -5746,29 +5711,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一言で言えば販路開拓ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "シキノワには既に商会の支部があるそうですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "運営がうまくいっていないようで……"
-                            ]
+                                "In a word, it's market development. Apparently\nthere's already a branch of the company in\nShikinowa, but it seems like it's not being run\nwell..."
+                            ],
+                            "_original": "一言で言えば販路開拓ですよ。\nシキノワには既に商会の支部があるそうですが、\n運営がうまくいっていないようで……"
                         },
                         {
                             "code": 231,
@@ -5794,22 +5747,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その理由の調査と経営の改善が私の任務です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうです、大仕事でしょう！"
-                            ]
+                                "My mission is to investigate the reasons and\nimprove operations. Quite the big job, wouldn't\nyou say!"
+                            ],
+                            "_original": "その理由の調査と経営の改善が私の任務です。\nどうです、大仕事でしょう！"
                         },
                         {
                             "code": 231,
@@ -5835,22 +5783,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……一つ引っかかるのは、なぜ私に任されたのか、ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ、ベリル氏直々の指示なので断る選択肢もないんですが。"
-                            ]
+                                "...One thing that bothers me is why they chose\nme for this. Well, since it's a direct order\nfrom Beryl himself, I didn't really have a\nchoice."
+                            ],
+                            "_original": "……一つ引っかかるのは、なぜ私に任されたのか、ですね。\nまあ、ベリル氏直々の指示なので断る選択肢もないんですが。"
                         },
                         {
                             "code": 119,
@@ -5880,22 +5823,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "冒険者ギルドのナーヴィガー号です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたのおかげで乗れることになったんですよ。"
-                            ]
+                                "This is the Navigator, an Adventurers' Guild\nship. You're the reason we got to board it, you\nknow."
+                            ],
+                            "_original": "冒険者ギルドのナーヴィガー号です。\nあなたのおかげで乗れることになったんですよ。"
                         },
                         {
                             "code": 231,
@@ -5921,29 +5859,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……「そうだっけ？」みたいな顔をしてますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほら、あなたが前の冒険で知り合った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者ギルドの偉い人の計らいで……"
-                            ]
+                                "...You've got that \"Really?\" look on your face.\nYou know, thanks to that high-ranking\nAdventurers' Guild official you met on your\nprevious adventure..."
+                            ],
+                            "_original": "……「そうだっけ？」みたいな顔をしてますね。\nほら、あなたが前の冒険で知り合った\n冒険者ギルドの偉い人の計らいで……"
                         },
                         {
                             "code": 101,
@@ -5953,29 +5879,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この話、私よりあなたの方が詳しいはずなんですけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "思い出せないなら船内の人に聞いてみると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいんじゃないですか？"
-                            ]
+                                "Honestly, you should know more about this than I\ndo. If you can't remember, why not ask someone\non board?"
+                            ],
+                            "_original": "この話、私よりあなたの方が詳しいはずなんですけど。\n思い出せないなら船内の人に聞いてみると\nいいんじゃないですか？"
                         },
                         {
                             "code": 119,
@@ -6021,29 +5935,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今のあなたにみんなの名前を出しても分かってもらえるか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "不安ですが、知ってる前提で話を進めますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいですね。"
-                            ]
+                                "I'm not sure you'd recognize any of the names\nI'm about to say in your current state, but I'll\njust go ahead assuming you know them. Alright?"
+                            ],
+                            "_original": "今のあなたにみんなの名前を出しても分かってもらえるか\n不安ですが、知ってる前提で話を進めますよ。\nいいですね。"
                         },
                         {
                             "code": 231,
@@ -6069,29 +5971,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ラビィとニクスは今、ヘイヴェンにはいません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "二人で冒険者ギルドに関する何かをしているようで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつも忙しそうにしています。"
-                            ]
+                                "Lavi and Nyx aren't in Haven right now. They're\nboth busy doing something related to the\nAdventurers' Guild, it seems."
+                            ],
+                            "_original": "ラビィとニクスは今、ヘイヴェンにはいません。\n二人で冒険者ギルドに関する何かをしているようで\nいつも忙しそうにしています。"
                         },
                         {
                             "code": 101,
@@ -6101,22 +5991,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティレマについては言うまでもないですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "で、ラビィにそっくりなあの人は別の仕事をしています。"
-                            ]
+                                "I don't need to say anything about Tillema,\nright? And that person who looks just like Lavi\nis working on something else."
+                            ],
+                            "_original": "ティレマについては言うまでもないですよね。\nで、ラビィにそっくりなあの人は別の仕事をしています。"
                         },
                         {
                             "code": 101,
@@ -6126,22 +6011,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あとはレステアですが……ついてきてもらえませんでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "曰く「シキノワはまた今度」だそうです。"
-                            ]
+                                "As for Restear... she couldn't come with us. She\nsaid, \"Shikinowa can wait for another time.\""
+                            ],
+                            "_original": "あとはレステアですが……ついてきてもらえませんでした。\n曰く「シキノワはまた今度」だそうです。"
                         },
                         {
                             "code": 119,
@@ -6187,15 +6067,17 @@
                                 0,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ええ、では甲板に急ぎましょう！"
-                            ]
+                                "Alright, let's hurry up to the deck!"
+                            ],
+                            "_original": "ええ、では甲板に急ぎましょう！"
                         },
                         {
                             "code": 0,
@@ -6263,28 +6145,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メッセージに関する操作についての説明を確認しますか？"
-                            ]
+                                "Would you like to see an explanation of message\ncontrols?"
+                            ],
+                            "_original": "メッセージに関する操作についての説明を確認しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "確認する",
-                                    "確認しない"
+                                    "Confirm",
+                                    "Don't confirm"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "確認する",
+                                "確認しない"
                             ]
                         },
                         {
@@ -6310,22 +6198,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "会話や、今まさにあるようなメッセージの表示中は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "次の操作を行えます。"
-                            ]
+                                "During conversations or message displays like\nthe one right now, you can perform the following\noperations."
+                            ],
+                            "_original": "会話や、今まさにあるようなメッセージの表示中は\n次の操作を行えます。"
                         },
                         {
                             "code": 101,
@@ -6342,29 +6225,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]・Ctrlキー：\\C[0]メッセージスキップ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[17]・Shiftキー：\\C[0]メッセージ非表示"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[17]・Ｔキー：\\C[0]メッセージ自動送り"
-                            ]
+                                "\\C[17]・Ctrl key: \\C[0]Skip messages \\C[17]・Shift key: \\C[0]Hide\nmessages \\C[17]・T key: \\C[0]Auto-advance messages"
+                            ],
+                            "_original": "\\C[17]・Ctrlキー：\\C[0]メッセージスキップ\n\\C[17]・Shiftキー：\\C[0]メッセージ非表示\n\\C[17]・Ｔキー：\\C[0]メッセージ自動送り"
                         },
                         {
                             "code": 101,
@@ -6381,22 +6252,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "移動中やメッセージ表示中などに\\C[17]Tabキー\\C[0]を入力すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メッセージのログを確認できます。"
-                            ]
+                                "While moving or during message display, you can\npress \\C[17]Tab key\\C[0] to view the message log."
+                            ],
+                            "_original": "移動中やメッセージ表示中などに\\C[17]Tabキー\\C[0]を入力すると\nメッセージのログを確認できます。"
                         },
                         {
                             "code": 0,
@@ -6557,8 +6423,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "棚だ。"
-                            ]
+                                "Shelves."
+                            ],
+                            "_original": "棚だ。"
                         },
                         {
                             "code": 0,
@@ -6635,8 +6502,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "棚だ。"
-                            ]
+                                "Shelves."
+                            ],
+                            "_original": "棚だ。"
                         },
                         {
                             "code": 0,
@@ -6713,8 +6581,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "麻袋だ。"
-                            ]
+                                "A burlap sack."
+                            ],
+                            "_original": "麻袋だ。"
                         },
                         {
                             "code": 0,
@@ -6784,29 +6653,17 @@
                                 0,
                                 0,
                                 2,
-                                "ソシー"
-                            ]
+                                "Socie"
+                            ],
+                            "_original": "ソシー"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、ベーレテリアのあんちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船はもうじきシキノワに着く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下船の準備、しときなよ。"
-                            ]
+                                "Hey, Beleteria bro. The ship will be arriving at\nShikinowa soon. Get ready to disembark, alright?"
+                            ],
+                            "_original": "よう、ベーレテリアのあんちゃん。\n船はもうじきシキノワに着く。\n下船の準備、しときなよ。"
                         },
                         {
                             "code": 0,

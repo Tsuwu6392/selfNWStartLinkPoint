@@ -49,7 +49,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼生息地不詳",
+        "name": "▼Habitat Unknown",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -60,7 +60,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼生息地不詳"
+        }
     },
     {
         "id": 2,
@@ -108,7 +111,7 @@
             }
         ],
         "gold": 0,
-        "name": "カラクリ・トレチキ",
+        "name": "Karakuri Torechiki",
         "note": "<NoBookData>",
         "params": [
             500000,
@@ -119,7 +122,10 @@
             0,
             1,
             0
-        ]
+        ],
+        "_original": {
+            "name": "カラクリ・トレチキ"
+        }
     },
     {
         "id": 3,
@@ -289,8 +295,8 @@
             }
         ],
         "gold": 40,
-        "name": "いたずらの箱",
-        "note": "<CategoryKey:生息地不詳>\n<text:罠の魔物\n生息地は知られていない\n\n宝箱に潜む少女のような魔物\n自らを露にした者に襲い掛かり\n住処の中へと引きずり込む\n\n罠の近くには犠牲者がいるものだ\nよく観察するとよい>",
+        "name": "Mischief Box",
+        "note": "<CategoryKey:生息地不詳>\n<text:Trap Monster\nHabitat unknown\n\nA monster like a girl hiding in treasure chests.\nIt attacks those who reveal themselves,\ndragging them into its lair.\n\nThere are often victims near traps,\nso observe carefully.>",
         "params": [
             7400,
             200,
@@ -300,7 +306,10 @@
             140,
             130,
             120
-        ]
+        ],
+        "_original": {
+            "name": "いたずらの箱"
+        }
     },
     {
         "id": 5,
@@ -415,8 +424,8 @@
             }
         ],
         "gold": 120,
-        "name": "デストレジャー",
-        "note": "<CategoryKey:生息地不詳>\n<text:罠の魔物\n生息地は知られていない\n\n少女と箱は別の個体である\nすなわち、この魔物は二人一組なのだ\n\n稀に逸れることがある>",
+        "name": "Destreasure",
+        "note": "<CategoryKey:生息地不詳>\n<text:Trap Monster\nHabitat unknown\n\nThe girl and the box are separate individuals.\nIn other words, this monster comes in pairs.\n\nOccasionally, one may wander off.>",
         "params": [
             32600,
             400,
@@ -426,7 +435,10 @@
             360,
             320,
             320
-        ]
+        ],
+        "_original": {
+            "name": "デストレジャー"
+        }
     },
     {
         "id": 6,
@@ -548,8 +560,8 @@
             }
         ],
         "gold": 350,
-        "name": "オーバーキル",
-        "note": "<CategoryKey:生息地不詳>\n<text:罠の魔物\n生息地は知られていない\n\n男性は、罠だと知ってもこの箱を開けてしまう\n内側にいる魔物にマナを奪われるとき\nこの上ない快楽を与えられるために>",
+        "name": "Overkill",
+        "note": "<CategoryKey:生息地不詳>\n<text:Trap Monster\nHabitat unknown\n\nMen will open this box even knowing it's a trap,\nbecause when the monster inside drains their mana,\nthey experience unparalleled pleasure.>",
         "params": [
             86660,
             600,
@@ -559,7 +571,10 @@
             450,
             488,
             420
-        ]
+        ],
+        "_original": {
+            "name": "オーバーキル"
+        }
     },
     {
         "id": 7,
@@ -796,7 +811,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼冒頭-石拾い道",
+        "name": "▼Opening - Pebble Path",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -807,7 +822,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼冒頭-石拾い道"
+        }
     },
     {
         "id": 11,
@@ -863,8 +881,8 @@
             }
         ],
         "gold": 1,
-        "name": "イサリビ",
-        "note": "<CategoryKey:舟観>\n<text:炎の魔物\n主に落命ヶ浜に生息する\n\n沖に浮かび上がる火の怪異\n東国ではありふれた存在で\n時折火花を散らし、人を驚かせる>",
+        "name": "Fishing Light",
+        "note": "<CategoryKey:舟観>\n<text:Flame Monster\nPrimarily found on Rakumei Beach.\n\nA fire apparition that rises offshore.\nCommon in the Eastern Lands,\nit occasionally emits sparks and startles people.>",
         "params": [
             120,
             0,
@@ -874,7 +892,10 @@
             16,
             16,
             18
-        ]
+        ],
+        "_original": {
+            "name": "イサリビ"
+        }
     },
     {
         "id": 12,
@@ -937,8 +958,8 @@
             }
         ],
         "gold": 3,
-        "name": "ウミボウ",
-        "note": "<CategoryKey:舟観>\n<text:蛸の魔物\n主に落命ヶ浜に生息する\n\nこともなげに浮遊する面妖な蛸\n無軌道に漂うその様から\n死後の魂に例えられる>",
+        "name": "Sea Sprite",
+        "note": "<CategoryKey:舟観>\n<text:Octopus Monster\nPrimarily found on Rakumei Beach.\n\nA bizarre octopus that floats effortlessly.\nIts aimless drifting has led it to be likened\nto a soul after death.>",
         "params": [
             260,
             0,
@@ -948,7 +969,10 @@
             14,
             20,
             20
-        ]
+        ],
+        "_original": {
+            "name": "ウミボウ"
+        }
     },
     {
         "id": 13,
@@ -1009,8 +1033,8 @@
             }
         ],
         "gold": 4,
-        "name": "スカルロープ",
-        "note": "<CategoryKey:舟観>\n<text:骨の魔物\n主に夜寄せ塔に生息する\n\n散乱した骨が連なってできた存在\n蛇のようだが、蛇の骨の魔物ではない\n\n連なる理由は分からない\n屍同士、一体感を得たのか>",
+        "name": "Skull Rope",
+        "note": "<CategoryKey:舟観>\n<text:Bone Monster\nPrimarily found in Yorose Tower.\n\nAn entity formed from scattered bones linked together.\nIt resembles a snake, but it is not a snake bone monster.\n\nThe reason for their connection is unknown.\nPerhaps the corpses gained a sense of unity.>",
         "params": [
             360,
             20,
@@ -1020,7 +1044,10 @@
             24,
             22,
             14
-        ]
+        ],
+        "_original": {
+            "name": "スカルロープ"
+        }
     },
     {
         "id": 14,
@@ -1083,8 +1110,8 @@
             }
         ],
         "gold": 5,
-        "name": "ヤミケダマ",
-        "note": "<CategoryKey:舟観>\n<text:煤の魔物\n主に夜寄せ塔に生息する\n\n小さな塵が溜まり煤となるように\n闇もまた、塊になることがある\n\n存在する場は埃っぽくなる\n鼻口を覆った方がよい>",
+        "name": "Dark Furball",
+        "note": "<CategoryKey:舟観>\n<text:Soot Monster\nPrimarily found in Yorose Tower.\n\nJust as small particles gather to form soot,\ndarkness too can sometimes coalesce into a mass.\n\nThe areas where they exist become dusty.\nIt's best to cover your nose and mouth.>",
         "params": [
             372,
             12,
@@ -1094,7 +1121,10 @@
             32,
             32,
             26
-        ]
+        ],
+        "_original": {
+            "name": "ヤミケダマ"
+        }
     },
     {
         "id": 15,
@@ -1162,8 +1192,8 @@
             }
         ],
         "gold": 10,
-        "name": "ヨルン",
-        "note": "<CategoryKey:舟観>\n<text:屍の魔物\n主に夜寄せ塔に生息する\n\n無邪気な様子の小柄な屍\nかつての不幸など忘れている\n\n普通ではない膂力が物語る\nもはや人ではないことを>",
+        "name": "Nocturne",
+        "note": "<CategoryKey:舟観>\n<text:Corpse Monster\nPrimarily found in Yorose Tower.\n\nA small corpse with an innocent demeanor,\nhaving forgotten its past misfortunes.\n\nIts unnatural strength is proof\nthat it is no longer human.>",
         "params": [
             560,
             0,
@@ -1173,7 +1203,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "ヨルン"
+        }
     },
     {
         "id": 16,
@@ -1292,8 +1325,8 @@
             }
         ],
         "gold": 0,
-        "name": "柴組隊士、六巻直",
-        "note": "<CategoryKey:boss>\n<text:鬼面柴組の隊士\n夜寄せ塔にて遭遇した\n\nひたすらに前だけを向く善良な人物\nだからこそ、衝突することもあるのだろう\n\n幾度転べど立ち上がる\nその志が、彼女を動かす>",
+        "name": "Shibagumi Soldier, Rokumaki Nao",
+        "note": "<CategoryKey:boss>\n<text:Shibagumi Soldier (Kimen)\nEncountered in Yoyose Tower.\n\nA good-natured person who only looks straight ahead.\nPerhaps that's why she sometimes comes into conflict.\n\nNo matter how many times she falls, she rises again.\nIt is that resolve that moves her.>",
         "params": [
             2400,
             20,
@@ -1303,7 +1336,10 @@
             38,
             40,
             46
-        ]
+        ],
+        "_original": {
+            "name": "柴組隊士、六巻直"
+        }
     },
     {
         "id": 17,
@@ -1432,8 +1468,8 @@
             }
         ],
         "gold": 50,
-        "name": "涅塚の僧",
-        "note": "<CategoryKey:ヌシ>\n<text:人の魔物\n落命ヶ浜にて遭遇した\n\n古い時代、星宝寺の僧侶たちに\n四魂怪異が姿を見せた\nそれは一つの真理の発見であった\n\n万の目や、千の死屍食む百の蛇\n十の胎にて一に至れり>",
+        "name": "Monk of Nezuka",
+        "note": "<CategoryKey:ヌシ>\n<text:Human Monster\nEncountered on Rakumei Beach.\n\nIn ancient times, the Four-Soul Apparition\nappeared to the monks of Star Treasure Temple.\nThat was a discovery of one truth.\n\nTen thousand eyes, a hundred serpents devouring a thousand corpses,\nthrough ten wombs, they reach one.>",
         "params": [
             4600,
             100,
@@ -1443,7 +1479,10 @@
             66,
             34,
             52
-        ]
+        ],
+        "_original": {
+            "name": "涅塚の僧"
+        }
     },
     {
         "id": 18,
@@ -1499,8 +1538,8 @@
             }
         ],
         "gold": 10,
-        "name": "ロームン",
-        "note": "<CategoryKey:舟観>\n<text:鼠の魔物\n主に旧笹倉町に生息する\n\n山岳地帯で見られる大型の鼠\n攻撃的な性質は臆病さの裏返しで\nその様は、東国の諺にもなっている>",
+        "name": "Roumon",
+        "note": "<CategoryKey:舟観>\n<text:Rat Monster\nPrimarily found in Old Sasakura Town.\n\nA large rat found in mountainous regions.\nIts aggressive nature is a cover for its timidity,\nand its behavior has become a proverb in the Eastern Lands.>",
         "params": [
             480,
             0,
@@ -1510,7 +1549,10 @@
             30,
             48,
             42
-        ]
+        ],
+        "_original": {
+            "name": "ロームン"
+        }
     },
     {
         "id": 19,
@@ -1573,8 +1615,8 @@
             }
         ],
         "gold": 16,
-        "name": "イシヅミ",
-        "note": "<CategoryKey:舟観>\n<text:石の魔物\n主に旧笹倉町に生息する\n\n自然に積み上げられた石ころ\n清廉潔白な魂が宿ると言われており\nそれを示すかのように、闇に弱い>",
+        "name": "Ishizumi",
+        "note": "<CategoryKey:舟観>\n<text:Stone Monster\nPrimarily found in Old Sasakura Town.\n\nNaturally piled-up stones.\nThey are said to harbor pure and innocent souls,\nand as if to prove it, they are weak to darkness.>",
         "params": [
             500,
             50,
@@ -1584,7 +1626,10 @@
             50,
             5,
             50
-        ]
+        ],
+        "_original": {
+            "name": "イシヅミ"
+        }
     },
     {
         "id": 20,
@@ -1647,8 +1692,8 @@
             }
         ],
         "gold": 20,
-        "name": "サクラグマ",
-        "note": "<CategoryKey:舟観>\n<text:熊の魔物\n主に旧笹倉町に生息する\n\n桜の花に似た体毛を持つ猛獣\n美しいため、油断して近づく者が多い\n\nサクラグマは分からない\nなぜ餌の方から寄ってくるのか>",
+        "name": "Sakurakuma",
+        "note": "<CategoryKey:舟観>\n<text:Bear Monster\nPrimarily found in Old Sasakura Town.\n\nA fierce beast with fur resembling cherry blossoms.\nMany let their guard down and approach it because of its beauty.\n\nSakurakuma doesn't understand\nwhy its prey comes to it of their own accord.>",
         "params": [
             790,
             0,
@@ -1658,7 +1703,10 @@
             46,
             40,
             40
-        ]
+        ],
+        "_original": {
+            "name": "サクラグマ"
+        }
     },
     {
         "id": 21,
@@ -1714,8 +1762,8 @@
             }
         ],
         "gold": 10,
-        "name": "ナムベータ",
-        "note": "<CategoryKey:舟観>\n<text:軟体の魔物\n主に旧笹倉町に生息する\n\nのんびりとした魔物\n冒険者でなくとも逃げることは容易く\n危険度は低い\n\nナムベータを率いる存在がいる>",
+        "name": "Namubeta",
+        "note": "<CategoryKey:舟観>\n<text:Soft-bodied Monster\nPrimarily found in Old Sasakura Town.\n\nA slow-paced monster.\nEven non-adventurers can easily escape it,\nand its danger level is low.\n\nHowever, there is an entity that leads the Namubeta.>",
         "params": [
             540,
             20,
@@ -1725,7 +1773,10 @@
             66,
             10,
             60
-        ]
+        ],
+        "_original": {
+            "name": "ナムベータ"
+        }
     },
     {
         "id": 22,
@@ -1795,8 +1846,8 @@
             }
         ],
         "gold": 22,
-        "name": "ナムフィマ",
-        "note": "<CategoryKey:舟観>\n<text:軟体の魔物\n主に旧笹倉町に生息する\n\nナムベータを率いる存在\nそれとは完全な上下関係にある\n\n緩慢で、逃げることは容易いはずだが\nそうしない者が後を絶たない\nぬるぬるしていて気持ちがいいのだ>",
+        "name": "Namufima",
+        "note": "<CategoryKey:舟観>\n<text:Soft-bodied Monster\nPrimarily found in Old Sasakura Town.\n\nThe entity that leads the Namubetas,\nin a strict superior-subordinate relationship with them.\n\nIt is slow, and escape should be easy,\nbut there are many who do not do so,\nbecause it feels nice and slippery.>",
         "params": [
             740,
             40,
@@ -1806,7 +1857,10 @@
             78,
             26,
             66
-        ]
+        ],
+        "_original": {
+            "name": "ナムフィマ"
+        }
     },
     {
         "id": 23,
@@ -1869,8 +1923,8 @@
             }
         ],
         "gold": 15,
-        "name": "オドロ",
-        "note": "<CategoryKey:冠鎮>\n<text:邪の魔物\n主に石拾い道に生息する\n\n東国では最もありふれた害獣\n悪しき怪異といえば、これが連想される\n\n決して分かり合えない類の敵である\n慈悲は捨て置くべきだろう>",
+        "name": "Odoro",
+        "note": "<CategoryKey:冠鎮>\n<text:An evil monster\nPrimarily inhabits Ishihiroi Path\n\nThe most common pest in the Eastern Lands\nWhen speaking of evil occurrences, this is what comes to mind\n\nA type of enemy one can never reach an understanding with\nMercy should be cast aside>",
         "params": [
             690,
             30,
@@ -1880,7 +1934,10 @@
             60,
             45,
             60
-        ]
+        ],
+        "_original": {
+            "name": "オドロ"
+        }
     },
     {
         "id": 24,
@@ -1941,8 +1998,8 @@
             }
         ],
         "gold": 15,
-        "name": "ウダラ",
-        "note": "<CategoryKey:冠鎮>\n<text:邪の魔物\n主に石拾い道に生息する\n\n東国ではオドロに次いでありふれた害獣\n悪しき怪異といえば、これも連想される\n\n無害そうな顔らしき部位に目が行くが\n大きな爪を見逃してはならない>",
+        "name": "Udara",
+        "note": "<CategoryKey:冠鎮>\n<text:An evil monster\nPrimarily inhabits Ishihiroi Path\n\nIn the Eastern Lands, it is the most common pest next to the Odoro\nWhen people speak of evil occurrences, this is one that comes to mind\n\nOne's eyes are drawn to the part that looks like a harmless face,\nbut one must not overlook its massive claws>",
         "params": [
             660,
             0,
@@ -1952,7 +2009,10 @@
             30,
             65,
             60
-        ]
+        ],
+        "_original": {
+            "name": "ウダラ"
+        }
     },
     {
         "id": 25,
@@ -2020,8 +2080,8 @@
             }
         ],
         "gold": 35,
-        "name": "ツキミミ",
-        "note": "<CategoryKey:冠鎮>\n<text:兎の魔物\n主に石拾い道に生息する\n\n大柄な兎の怪異\n好奇心旺盛で、時には人にも懐く\n\n悪戯好きとして知られる\n構ってもらいたいのだろう>",
+        "name": "Tsukimimi",
+        "note": "<CategoryKey:冠鎮>\n<text:A rabbit monster\nPrimarily inhabits Ishihiroi Path\n\nA large rabbit occurrence\nFull of curiosity, it even becomes attached to people at times\n\nKnown for being fond of mischief\nIt probably just wants attention>",
         "params": [
             1020,
             60,
@@ -2031,7 +2091,10 @@
             66,
             80,
             88
-        ]
+        ],
+        "_original": {
+            "name": "ツキミミ"
+        }
     },
     {
         "id": 26,
@@ -2167,8 +2230,8 @@
             }
         ],
         "gold": 550,
-        "name": "榕絡み",
-        "note": "<CategoryKey:boss>\n<text:八衢榕の厭い根\n石拾い道にて遭遇した\n\n憐れにも魂を喰われた柴組の隊士\n根が絡み、もはや人ではない\n\n犠牲者を苗床に厭い根は芽吹く\nたとえ家族や師であったとしても\nその首を、確実に落とさねばならない>",
+        "name": "Yougarami",
+        "note": "<CategoryKey:boss>\n<text:The Blight Root of the Yachimata Banyan\nEncountered on Ishihiroi Path\n\nA Shibagumi soldier whose soul was piteously devoured\nEntwined by roots, it is no longer human\n\nThe Blight Root sprouts using the victim as a seedbed\nEven if it was one's family member or one's master,\none must be certain to sever its head>",
         "params": [
             8800,
             100,
@@ -2178,7 +2241,10 @@
             43,
             29,
             33
-        ]
+        ],
+        "_original": {
+            "name": "榕絡み"
+        }
     },
     {
         "id": 27,
@@ -2314,8 +2380,8 @@
             }
         ],
         "gold": 100,
-        "name": "古都の人斬り",
-        "note": "<BoostEX:CR, 100>\n<CategoryKey:ヌシ>\n<text:幽霊の魔物\n秋水京にて遭遇した\n\n古くは都を騒がせた人斬りの霊\n今や廃れた白刀流の裏を修める\n\n盲いた剣士が、狂いゆく同輩を斬った\nそれでも事件は終わらなかった>",
+        "name": "Ancient Capital Manslaughter",
+        "note": "<BoostEX:CR, 100>\n<CategoryKey:ヌシ>\n<text:A ghostly monster\nEncountered in Shusuikyo\n\nThe spirit of a manslaughter who once terrorized the capital\nA practitioner of the hidden arts of the now-obsolete Hakutou Style\n\nA blinded swordsman cut down a comrade spiraling into madness\nStill, the incident did not come to an end>",
         "params": [
             6500,
             0,
@@ -2325,7 +2391,10 @@
             80,
             52,
             68
-        ]
+        ],
+        "_original": {
+            "name": "古都の人斬り"
+        }
     },
     {
         "id": 28,
@@ -2454,8 +2523,8 @@
             }
         ],
         "gold": 150,
-        "name": "根断ち童子",
-        "note": "<CategoryKey:ヌシ>\n<text:鬼の魔物\nカンムイ小径にて遭遇した\n\n地底に蔓延る根を断つ鬼\nそれが邪悪だと知るや知らずや\nただ、千切ると楽しいのだ\n\nかくして世のためとなる存在である>",
+        "name": "Nedachi-douji",
+        "note": "<CategoryKey:ヌシ>\n<text:Oni Monster\nEncountered on Kanmui Trail.\n\nAn oni that severs the roots spreading underground.\nWhether it knows they are evil or not,\nsimply tearing them apart is fun.\n\nThus, it is a being that serves the world.>",
         "params": [
             11600,
             50,
@@ -2465,7 +2534,10 @@
             60,
             92,
             90
-        ]
+        ],
+        "_original": {
+            "name": "根断ち童子"
+        }
     },
     {
         "id": 29,
@@ -2640,7 +2712,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼滝然山-囁き墓地",
+        "name": "▼Takizen Mountain - Whispering Cemetery",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -2651,7 +2723,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼滝然山-囁き墓地"
+        }
     },
     {
         "id": 32,
@@ -2714,8 +2789,8 @@
             }
         ],
         "gold": 10,
-        "name": "タマウサギ",
-        "note": "<CategoryKey:冠鎮>\n<text:兎の魔物\n主に滝然山表参道に生息する\n\n飛び跳ね、弾んで移動する魔物\n球状の身体は反発力が高く\n時には意思に反し、あらぬ方向へ進む>",
+        "name": "Tama-usagi",
+        "note": "<CategoryKey:冠鎮>\n<text:A rabbit monster\nPrimarily inhabits the Ryuuzenzan Main Approach\n\nA monster that moves by hopping and bouncing\nIts spherical body has high elasticity,\nsometimes heading in unintended directions against its will>",
         "params": [
             880,
             0,
@@ -2725,7 +2800,10 @@
             76,
             72,
             80
-        ]
+        ],
+        "_original": {
+            "name": "タマウサギ"
+        }
     },
     {
         "id": 33,
@@ -2788,8 +2866,8 @@
             }
         ],
         "gold": 18,
-        "name": "ヤマウミボウ",
-        "note": "<CategoryKey:冠鎮>\n<text:蛸の魔物\n主に滝然山表参道に生息する\n\n山にいるウミボウ\nどこか矛盾を感じる存在だが\n蛸が浮かぶ時点で、既にそうなのだ>",
+        "name": "Yamaumibou",
+        "note": "<CategoryKey:冠鎮>\n<text:An octopus monster\nPrimarily inhabits the Ryuuzenzan Main Approach\n\nAn Umibou in the mountains\nA being that feels somewhat contradictory, but\nby the time an octopus is floating, it's already that way anyway>",
         "params": [
             940,
             10,
@@ -2799,7 +2877,10 @@
             70,
             50,
             66
-        ]
+        ],
+        "_original": {
+            "name": "ヤマウミボウ"
+        }
     },
     {
         "id": 34,
@@ -2872,8 +2953,8 @@
             }
         ],
         "gold": 18,
-        "name": "ヤシャツムジ",
-        "note": "<CategoryKey:冠鎮>\n<text:風の魔物\n主に滝然山表参道に生息する\n\n風の化身と言うべき存在\nその性質は精霊に近い\n\n移動の際には姿を消す\n自然の風と同化するのだ>",
+        "name": "Yashatsumuji",
+        "note": "<CategoryKey:冠鎮>\n<text:A wind monster\nPrimarily inhabits the Ryuuzenzan Main Approach\n\nAn existence that could be called an incarnation of wind\nIts nature is close to that of a spirit\n\nIt disappears when moving\nAs it assimilates with the natural wind>",
         "params": [
             900,
             40,
@@ -2883,7 +2964,10 @@
             72,
             88,
             78
-        ]
+        ],
+        "_original": {
+            "name": "ヤシャツムジ"
+        }
     },
     {
         "id": 35,
@@ -2951,8 +3035,8 @@
             }
         ],
         "gold": 15,
-        "name": "ヒャクデ",
-        "note": "<CategoryKey:冠鎮>\n<text:百足の魔物\n主に滝然山星宝寺に生息する\n\n長い身体と多数の足を持つ虫の類\n足の内のいくつかは腕として機能し\n道具を使うこともできるようだ>",
+        "name": "Hyakude",
+        "note": "<CategoryKey:冠鎮>\n<text:A centipede monster\nPrimarily inhabits Ryuuzenzan Shouhouji\n\nA type of insect with a long body and many legs\nSome of its legs function as arms,\nand it seems to even be capable of using tools.>",
         "params": [
             950,
             0,
@@ -2962,7 +3046,10 @@
             75,
             55,
             75
-        ]
+        ],
+        "_original": {
+            "name": "ヒャクデ"
+        }
     },
     {
         "id": 36,
@@ -3025,8 +3112,8 @@
             }
         ],
         "gold": 24,
-        "name": "キメンオドシ",
-        "note": "<CategoryKey:冠鎮>\n<text:小鬼の魔物\n主に滝然山星宝寺に生息する\n\n鬼としては小さく非力な存在\nしかしそれは鬼の中での話であり\n人から見れば、充分に怪力\n\n海の外では異なる名で呼ばれるが\n近年、こちらが正しいとされた>",
+        "name": "Kimen-odoshi",
+        "note": "<CategoryKey:冠鎮>\n<text:A small ogre monster\nPrimarily inhabits Ryuuzenzan Shouhouji\n\nA small and weak existence as far as ogres go\nHowever, that is only among its own kind\nFrom a human perspective, it possesses ample brute strength\n\nIt is called by a different name overseas, but\nin recent years, this has been established as the correct one>",
         "params": [
             966,
             20,
@@ -3036,7 +3123,10 @@
             66,
             76,
             68
-        ]
+        ],
+        "_original": {
+            "name": "キメンオドシ"
+        }
     },
     {
         "id": 37,
@@ -3106,8 +3196,8 @@
             }
         ],
         "gold": 40,
-        "name": "ヌッペラ",
-        "note": "<CategoryKey:冠鎮>\n<text:謎の魔物\n主に滝然山星宝寺に生息する\n\n正体不明の塊\n柔らかな肉のように蠢くが\n触れると冷たく、そして硬い>",
+        "name": "Nuppera",
+        "note": "<CategoryKey:冠鎮>\n<text:A mysterious monster\nPrimarily inhabits Ryuuzenzan Shouhouji\n\nAn unidentified mass\nIt wriggles like soft flesh, but\nwhen touched, it is cold and hard.>",
         "params": [
             1750,
             40,
@@ -3117,7 +3207,10 @@
             40,
             120,
             30
-        ]
+        ],
+        "_original": {
+            "name": "ヌッペラ"
+        }
     },
     {
         "id": 38,
@@ -3262,8 +3355,8 @@
             }
         ],
         "gold": 900,
-        "name": "曲霊の芥、カニエンルム",
-        "note": "<CategoryKey:boss>\n<text:カンムイの子\n滝然山星宝寺にて遭遇した\n\nカンムイは人との融和を願う怪異で\n血族もまた、多くはそれに倣った\n\nしかし、魂の衝動が意志をも否定し\n憐れに歪むものもいた>",
+        "name": "Dregs of the Twisted Soul, Kanienrumu",
+        "note": "<CategoryKey:boss>\n<text:A child of Kanmui\nEncountered at Ryuuzenzan Shouhouji\n\nKanmui was an occurrence who desired harmony with humans,\nand many of its kin followed suit.\n\nHowever, there were those whose soul's impulses overrode their very will,\ncausing them to become piteously warped.>",
         "params": [
             18400,
             200,
@@ -3273,7 +3366,10 @@
             88,
             122,
             104
-        ]
+        ],
+        "_original": {
+            "name": "曲霊の芥、カニエンルム"
+        }
     },
     {
         "id": 39,
@@ -3336,8 +3432,8 @@
             }
         ],
         "gold": 25,
-        "name": "チャームフォージ",
-        "note": "<CategoryKey:冠鎮>\n<text:マナの魔物\n主にりゆう屋に生息する\n\n魔法により形を成したマナそのもの\n魔法生物の一種である\n\nこれが自然に生まれることは稀\n大抵の場合、魔法の使い手が傍にいる>",
+        "name": "Charm Forge",
+        "note": "<CategoryKey:冠鎮>\n<text:Mana Monster\nPrimarily found in Reason Shop.\n\nMana itself shaped by magic.\nIt is a type of magical creature.\n\nIt is rarely born naturally;\nin most cases, a magic user is nearby.>",
         "params": [
             980,
             50,
@@ -3347,7 +3443,10 @@
             90,
             60,
             70
-        ]
+        ],
+        "_original": {
+            "name": "チャームフォージ"
+        }
     },
     {
         "id": 40,
@@ -3434,8 +3533,8 @@
             }
         ],
         "gold": 0,
-        "name": "アルメーヌ",
-        "note": "<CategoryKey:冠鎮>\n<text:夜魔の魔物\n主にりゆう屋に生息する\n\n夜魔は雄のマナを好む\n故に男性は特に注意しなくてはならない\n\n満たされぬ夜魔は獣同然\n女性でなければ逃げるべきだろう>",
+        "name": "Almène",
+        "note": "<CategoryKey:冠鎮>\n<text:Night Demon Monster\nPrimarily found in Reason Shop.\n\nNight demons prefer male mana.\nTherefore, men must be especially cautious.\n\nAn unsatisfied night demon is like a beast;\nif you are not a woman, you should probably flee.>",
         "params": [
             2260,
             120,
@@ -3445,7 +3544,10 @@
             120,
             90,
             90
-        ]
+        ],
+        "_original": {
+            "name": "アルメーヌ"
+        }
     },
     {
         "id": 41,
@@ -3532,8 +3634,8 @@
             }
         ],
         "gold": 0,
-        "name": "ハナノオニト",
-        "note": "<CategoryKey:冠鎮>\n<text:夜魔の魔物\n主にりゆう屋に生息する\n\n夜魔の中でも上位の存在\n強大な魔力と魅了の力を持ち\nあらゆるものを虜にする\n\n矮小さは、宿す力の裏返し>",
+        "name": "Hana no Onito",
+        "note": "<CategoryKey:冠鎮>\n<text:Night Demon Monster\nPrimarily inhabits Reason Shop\n\nA superior existence among night demons.\nPossesses immense magical power and the ability to charm,\nensnaring all things.\n\nIts small stature is the flip side of the power it harbors.>",
         "params": [
             8500,
             250,
@@ -3543,7 +3645,10 @@
             140,
             120,
             120
-        ]
+        ],
+        "_original": {
+            "name": "ハナノオニト"
+        }
     },
     {
         "id": 42,
@@ -3606,8 +3711,8 @@
             }
         ],
         "gold": 22,
-        "name": "ハテンゴ",
-        "note": "<CategoryKey:冠鎮>\n<text:葉の魔物\n主に狭間塚原に生息する\n\n葉に覆われた奇妙な存在\n高速で飛び回り、同時に風を起こす\n\n飛翔の怪異、天狗の仲間とも言われるが\n似ているのは長く伸びた鼻だけだ>",
+        "name": "Hatengo",
+        "note": "<CategoryKey:冠鎮>\n<text:Leaf Monster\nPrimarily inhabits Hazama-Tsukahara\n\nA strange being covered in leaves.\nIt flies around at high speed while stirring up wind.\n\nSaid to be a flying oddity and kin to the tengu,\nbut the only thing similar is its long, extended nose.>",
         "params": [
             1410,
             30,
@@ -3617,7 +3722,10 @@
             75,
             135,
             95
-        ]
+        ],
+        "_original": {
+            "name": "ハテンゴ"
+        }
     },
     {
         "id": 43,
@@ -3685,8 +3793,8 @@
             }
         ],
         "gold": 50,
-        "name": "アカラオニ",
-        "note": "<CategoryKey:冠鎮>\n<text:鬼の魔物\n主に狭間塚原に生息する\n\n鬼は名だたる怪異であり\n海の外にまで様々な逸話が伝えられる\n\n曰く、赤は勇敢である\n敵を見れば我先にと挑むという>",
+        "name": "Akaraoni",
+        "note": "<CategoryKey:冠鎮>\n<text:Oni Monster\nPrimarily inhabits Hazama-Tsukahara\n\nOni are renowned oddities,\nwith various tales told even beyond the sea.\n\nIt is said that red ones are brave,\nrushing headlong to challenge any foe.>",
         "params": [
             3000,
             40,
@@ -3696,7 +3804,10 @@
             88,
             102,
             98
-        ]
+        ],
+        "_original": {
+            "name": "アカラオニ"
+        }
     },
     {
         "id": 44,
@@ -3759,8 +3870,8 @@
             }
         ],
         "gold": 50,
-        "name": "アオメオニ",
-        "note": "<CategoryKey:冠鎮>\n<text:鬼の魔物\n主に狭間塚原に生息する\n\n鬼は名だたる怪異であり\n海の外にまで様々な逸話が伝えられる\n\n曰く、青は臆病である\n常に赤の陰に隠れるという>",
+        "name": "Aomeoni",
+        "note": "<CategoryKey:冠鎮>\n<text:Oni Monster\nPrimarily inhabits Hazama-Tsukahara\n\nOni are renowned oddities,\nwith various tales told even beyond the sea.\n\nIt is said that blue ones are cowardly,\nalways hiding in the shadow of the red.>",
         "params": [
             3000,
             120,
@@ -3770,7 +3881,10 @@
             110,
             68,
             98
-        ]
+        ],
+        "_original": {
+            "name": "アオメオニ"
+        }
     },
     {
         "id": 45,
@@ -3840,8 +3954,8 @@
             }
         ],
         "gold": 28,
-        "name": "タタリ",
-        "note": "<CategoryKey:冠鎮>\n<text:煤の魔物\n主に囁き墓地に生息する\n\n死後の霊、あるいは悪意ある魂\nそう言い伝えられている存在\n\n実際には浮かび集まる埃の類で\n手を出さなければ、さほど害はない>",
+        "name": "Tatari",
+        "note": "<CategoryKey:冠鎮>\n<text:Soot Monster\nPrimarily inhabits Whispering Graveyard\n\nA spirit after death, or a malicious soul―\nso the legends say.\n\nIn truth, it is merely floating, gathered dust,\nand if left alone, it poses little harm.>",
         "params": [
             1590,
             60,
@@ -3851,7 +3965,10 @@
             112,
             88,
             96
-        ]
+        ],
+        "_original": {
+            "name": "タタリ"
+        }
     },
     {
         "id": 46,
@@ -3914,8 +4031,8 @@
             }
         ],
         "gold": 40,
-        "name": "マルマル",
-        "note": "<CategoryKey:冠鎮>\n<text:多足の魔物\n主に囁き墓地に生息する\n\n洞窟に現れる大型の甲殻類\nくるりと丸まり、転がって移動しながら\nその動きにより、体内に電気を蓄える>",
+        "name": "Marumaru",
+        "note": "<CategoryKey:冠鎮>\n<text:Many-Legged Monster\nPrimarily inhabits Whispering Graveyard\n\nA large crustacean appearing in caves.\nIt curls up and moves by rolling,\nand through that motion, it stores electricity in its body.>",
         "params": [
             1650,
             0,
@@ -3925,7 +4042,10 @@
             160,
             60,
             70
-        ]
+        ],
+        "_original": {
+            "name": "マルマル"
+        }
     },
     {
         "id": 47,
@@ -4061,8 +4181,8 @@
             }
         ],
         "gold": 250,
-        "name": "消えない未練",
-        "note": "<CategoryKey:ヌシ>\n<text:幽霊の魔物\n狭間塚原にて遭遇した\n\nかつての戦にて、多くの敵を葬った怪異\n鋭い冷気は血族をも巻き込んだという\n\n死後にすらも悔い、未練を残した\nその想いはカンムイに届き\n魂として目覚め、断罪を待つ>",
+        "name": "Unfading Regret",
+        "note": "<CategoryKey:ヌシ>\n<text:Ghost Monster\nEncountered at Hazama-Tsukahara\n\nAn oddity that buried many foes in a war of old.\nIts piercing cold is said to have even swept up blood relations.\n\nEven after death, it harbored regrets and attachments,\nand those feelings reached Kamuy,\nawakening it as a soul, awaiting judgment.>",
         "params": [
             20800,
             500,
@@ -4072,7 +4192,10 @@
             144,
             108,
             128
-        ]
+        ],
+        "_original": {
+            "name": "消えない未練"
+        }
     },
     {
         "id": 48,
@@ -4309,7 +4432,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼分かち谷-奈落",
+        "name": "▼ Split Valley - Abyss",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -4320,7 +4443,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼分かち谷-奈落"
+        }
     },
     {
         "id": 52,
@@ -4381,8 +4507,8 @@
             }
         ],
         "gold": 38,
-        "name": "カゲカラス",
-        "note": "<CategoryKey:夜行岩屋>\n<text:鴉の魔物\n主に分かち谷に生息する\n\n影の魔物のように黒い身体を持ち\nそうであるかのように振舞う\n\n実体の弱点を隠している\n頭がいいのだ>",
+        "name": "Shadow Crow",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Crow Monster\nPrimarily inhabits Wakachi Valley\n\nIt has a black body like a shadow monster,\nand acts as if it were one.\n\nIt conceals the weakness of its physical form.\nIt's clever.>",
         "params": [
             1500,
             0,
@@ -4392,7 +4518,10 @@
             92,
             122,
             114
-        ]
+        ],
+        "_original": {
+            "name": "カゲカラス"
+        }
     },
     {
         "id": 53,
@@ -4460,8 +4589,8 @@
             }
         ],
         "gold": 10,
-        "name": "リグラージャ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:骨の魔物\n主に分かち谷に生息する\n\n骨が連なってできたような魔物は\n骨が多くある場所にしか存在し得ない\n多くは碌でもないところだろう>",
+        "name": "Riguraja",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Bone Monster\nPrimarily inhabits Wakachi Valley\n\nA monster that seems to be made of linked bones\ncan only exist in places with many bones.\nMost likely, those are not pleasant places.>",
         "params": [
             1580,
             50,
@@ -4471,7 +4600,10 @@
             90,
             98,
             80
-        ]
+        ],
+        "_original": {
+            "name": "リグラージャ"
+        }
     },
     {
         "id": 54,
@@ -4546,8 +4678,8 @@
             }
         ],
         "gold": 32,
-        "name": "ヒトヒラ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:布の魔物\n主に分かち谷に生息する\n\nひらひらとなびく奇妙な魔物\n東国では、これの飛来は凶兆とされ\n目にした者を慌てさせる>",
+        "name": "Hitohira",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Cloth Monster\nPrimarily inhabits Wakachi Valley\n\nA strange monster that flutters in the breeze.\nIn the eastern lands, its arrival is seen as an ill omen,\nand it startles those who lay eyes on it.>",
         "params": [
             1740,
             40,
@@ -4557,7 +4689,10 @@
             122,
             118,
             118
-        ]
+        ],
+        "_original": {
+            "name": "ヒトヒラ"
+        }
     },
     {
         "id": 55,
@@ -4618,8 +4753,8 @@
             }
         ],
         "gold": 30,
-        "name": "ホタルビ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:炎の魔物\n主に魂の沼に生息する\n\n暗い場所に現れる火の怪異\n灯りとして頼りにされることもあるが\n通常、人に対し友好的ではない>",
+        "name": "Hotarubi",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Flame Monster\nPrimarily inhabits Marsh of Souls\n\nA fire oddity that appears in dark places.\nSometimes relied upon as a light source,\nbut generally it is not friendly toward humans.>",
         "params": [
             1660,
             20,
@@ -4629,7 +4764,10 @@
             122,
             116,
             122
-        ]
+        ],
+        "_original": {
+            "name": "ホタルビ"
+        }
     },
     {
         "id": 56,
@@ -4709,8 +4847,8 @@
             }
         ],
         "gold": 50,
-        "name": "コソコソ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:石の魔物\n主に魂の沼に生息する\n\n夜な夜な泣き声をあげるという石\n宿る魂の嘆きとして恐れられているが\n妖狸たちは誕生の産声と考えており\n縁起がよいと喜ぶという>",
+        "name": "Kosokoso",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Stone Monster\nPrimarily inhabits Marsh of Souls\n\nA stone said to cry out every night.\nFeared as the lament of a dwelling soul,\nbut the mystic tanuki consider it the first cry of birth,\nand rejoice, saying it is auspicious.>",
         "params": [
             2000,
             50,
@@ -4720,7 +4858,10 @@
             130,
             10,
             120
-        ]
+        ],
+        "_original": {
+            "name": "コソコソ"
+        }
     },
     {
         "id": 57,
@@ -4795,8 +4936,8 @@
             }
         ],
         "gold": 25,
-        "name": "シシヨルン",
-        "note": "<CategoryKey:夜行岩屋>\n<text:屍の魔物\n主に魂の沼に生息する\n\n小柄な屍は、決まって強い腕力を持つ\n姿に似合わず、異様なまでに\n\nどうしても構って欲しいのだろう\n引き止めたくて、力が入るのだ>",
+        "name": "Shishiyorun",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Corpse Monster\nPrimarily inhabits Marsh of Souls\n\nA small-statured corpse always possesses tremendous arm strength.\nExtraordinarily so, belying its appearance.\n\nIt must want attention so badly.\nIt tenses up, trying to hold you back.>",
         "params": [
             3480,
             0,
@@ -4806,7 +4947,10 @@
             30,
             30,
             30
-        ]
+        ],
+        "_original": {
+            "name": "シシヨルン"
+        }
     },
     {
         "id": 58,
@@ -4947,8 +5091,8 @@
             }
         ],
         "gold": 500,
-        "name": "沼女",
-        "note": "<CategoryKey:ヌシ>\n<text:液体の魔物\n魂の沼にて遭遇した\n\n東ではあまねく知られる土着の怪異\n死に誘うものとして悪名高い\n\n沼の際、歩くなかれ\n淵より招く手を取るなかれ>",
+        "name": "Swamp Woman",
+        "note": "<CategoryKey:ヌシ>\n<text:Liquid Monster\nEncountered at Marsh of Souls\n\nA widely known indigenous oddity in the East.\nInfamous as one that lures to death.\n\nDo not walk near the marsh's edge.\nDo not take the hand that beckons from the depths.>",
         "params": [
             30800,
             500,
@@ -4958,7 +5102,10 @@
             160,
             106,
             140
-        ]
+        ],
+        "_original": {
+            "name": "沼女"
+        }
     },
     {
         "id": 59,
@@ -5096,8 +5243,8 @@
             }
         ],
         "gold": 0,
-        "name": "最果ての化け狸",
-        "note": "<CategoryKey:boss>\n<text:狸の魔物\nぽんぽこ村にて遭遇した\n\n東の果て、不気味な村に現れる妖狸\n迷い子を化かし、時には都まで追い返す\n\n手荒な歓迎に悪意や敵意はない\n老婆心と、少しばかりの悪戯心である>",
+        "name": "Monster Raccoon of the Farthest End",
+        "note": "<CategoryKey:boss>\n<text:Tanuki Monster\nEncountered at Drum Village\n\nA mystic tanuki appearing in an eerie village at the eastern end.\nIt tricks lost children and sometimes even drives them back to the capital.\n\nIts rough welcome holds no malice or hostility―\njust the concern of an old woman and a bit of mischief.>",
         "params": [
             26000,
             500,
@@ -5107,7 +5254,10 @@
             160,
             138,
             166
-        ]
+        ],
+        "_original": {
+            "name": "最果ての化け狸"
+        }
     },
     {
         "id": 60,
@@ -5175,8 +5325,8 @@
             }
         ],
         "gold": 18,
-        "name": "ドロオドロ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:邪の魔物\n主に鐘突き洞に生息する\n\nありふれた害獣、オドロの類\nより強く、迷惑になっている\n\n分かり合える日など来ない\n慈悲は捨て置くべきだろう>",
+        "name": "Doro Odoro",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Evil Monster\nPrimarily inhabits Bell-Striking Cave\n\nA common pest, of the Odoro variety.\nStronger and more troublesome.\n\nA day of mutual understanding will never come.\nMercy should be cast aside.>",
         "params": [
             1840,
             60,
@@ -5186,7 +5336,10 @@
             120,
             85,
             120
-        ]
+        ],
+        "_original": {
+            "name": "ドロオドロ"
+        }
     },
     {
         "id": 61,
@@ -5252,8 +5405,8 @@
             }
         ],
         "gold": 18,
-        "name": "ダラウダラ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:邪の魔物\n主に鐘突き洞に生息する\n\nありふれた害獣、ウダラの類\nより強く、迷惑になっている\n\n無害そうな顔も、もはや憎らしい\n早々に斬り捨てた方がよい>",
+        "name": "Daraudara",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Evil Monster\nPrimarily inhabits Bell-Striking Cave\n\nA common pest, of the Udara variety.\nStronger and more troublesome.\n\nEven its harmless-looking face has become hateful.\nBetter to cut it down without delay.>",
         "params": [
             1840,
             0,
@@ -5263,7 +5416,10 @@
             90,
             145,
             120
-        ]
+        ],
+        "_original": {
+            "name": "ダラウダラ"
+        }
     },
     {
         "id": 62,
@@ -5382,8 +5538,8 @@
             }
         ],
         "gold": 0,
-        "name": "血染めの衣",
-        "note": "<CategoryKey:boss>\n<text:蛾の魔物\n鐘突き洞にて遭遇した\n\n何者かの道具であることは喜びであり\nそうして己の価値を確かめ続けた\n\nいずれ朽ち、捨てられる時が来る\nそれがただただ恐ろしく\n衣は命をも紡ぎ始めた>",
+        "name": "Blood-stained Clothing",
+        "note": "<CategoryKey:boss>\n<text:Moth Monster\nEncountered at Bell-Striking Cave\n\nBeing someone's tool was a joy,\nand so it kept confirming its own worth.\n\nEventually, the time to wither and be discarded would come.\nThat fear alone drove Clothing to begin spinning life itself.>",
         "params": [
             40000,
             500,
@@ -5393,7 +5549,10 @@
             150,
             50,
             150
-        ]
+        ],
+        "_original": {
+            "name": "血染めの衣"
+        }
     },
     {
         "id": 63,
@@ -5473,8 +5632,8 @@
             }
         ],
         "gold": 25,
-        "name": "よじれる厭い根",
-        "note": "<CategoryKey:boss>\n<text:八衢榕の厭い根\n魂の沼にて遭遇した\n\n何にも憑かず、よじれ浮かぶ厭い根\nよりよい骸の方へと進む\n\nこれに意思など存在しない\n斬る他ない。死を望まぬのであれば>",
+        "name": "Twisted Hateful Root",
+        "note": "<CategoryKey:boss>\n<text:Detested Root of Yachimoku-Garu\nEncountered at Marsh of Souls\n\nA twisted, floating detested root that possesses nothing.\nIt moves toward better corpses.\n\nNo will exists within it.\nThere is nothing to do but cut it down―if you do not wish for death.>",
         "params": [
             6600,
             120,
@@ -5484,7 +5643,10 @@
             93,
             91,
             57
-        ]
+        ],
+        "_original": {
+            "name": "よじれる厭い根"
+        }
     },
     {
         "id": 64,
@@ -5630,8 +5792,8 @@
             }
         ],
         "gold": 300,
-        "name": "榕憑き",
-        "note": "<CategoryKey:boss>\n<text:八衢榕の厭い根\n魂の沼にて遭遇した\n\n榕絡みが討たれぬままでいると\n徘徊する苗床となり、各地に種を増やす\n\nやがて手に負えない数となる\nかの戦は、そうして始まった>",
+        "name": "Banyan-Possessed",
+        "note": "<CategoryKey:boss>\n<text:Detested Root of Yachimoku-Garu\nEncountered at Marsh of Souls\n\nIf the Garu entanglement is left undefeated,\nit becomes a wandering seedbed, spreading seeds across the land.\n\nEventually they grow to an unmanageable number.\nThat war began just like that.>",
         "params": [
             28700,
             300,
@@ -5641,7 +5803,10 @@
             127,
             113,
             79
-        ]
+        ],
+        "_original": {
+            "name": "榕憑き"
+        }
     },
     {
         "id": 65,
@@ -5718,8 +5883,8 @@
             }
         ],
         "gold": 0,
-        "name": "コタマ",
-        "note": "<CategoryKey:舟観>\n<text:謎の魔物\n主に眠りの森に生息する\n\n奇妙な姿をした存在\n精霊の一種であるとも言われ\n出会った者に、ささやかな恵みをもたらすという>",
+        "name": "Kotama",
+        "note": "<CategoryKey:舟観>\n<text:Mysterious Monster\nPrimarily inhabits Forest of Slumber\n\nA being of strange appearance.\nSaid to be a kind of spirit,\nit brings small blessings to those it encounters.>",
         "params": [
             4000,
             150,
@@ -5729,7 +5894,10 @@
             150,
             150,
             150
-        ]
+        ],
+        "_original": {
+            "name": "コタマ"
+        }
     },
     {
         "id": 66,
@@ -5797,8 +5965,8 @@
             }
         ],
         "gold": 30,
-        "name": "コンパク",
-        "note": "<CategoryKey:舟観>\n<text:狐の魔物\n主に眠りの森に生息する\n\n光を帯びた神秘の狐\n獣の姿をしているが、曖昧であり\n実態は幽霊に近い>",
+        "name": "Konpaku",
+        "note": "<CategoryKey:舟観>\n<text:Fox Monster\nPrimarily inhabits Forest of Slumber\n\nA mysterious fox imbued with light.\nThough it has the form of a beast, it is vague,\nand its true nature is closer to that of a ghost.>",
         "params": [
             2200,
             100,
@@ -5808,7 +5976,10 @@
             120,
             100,
             160
-        ]
+        ],
+        "_original": {
+            "name": "コンパク"
+        }
     },
     {
         "id": 67,
@@ -5890,8 +6061,8 @@
             }
         ],
         "gold": 50,
-        "name": "タマユラ",
-        "note": "<CS_下限HP:99,174>\n<CategoryKey:舟観>\n<text:狐の魔物\n主にかつての眠りの森に生息する\n\nコンパクに混じり、時折見かける人型の狐\n幽霊のようだが実体はある\n\n争いを嫌い、攻撃を仕掛けてくることはない\nその身に危険を感じるまでは>",
+        "name": "Tamayura",
+        "note": "<CS_下限HP:99,174>\n<CategoryKey:舟観>\n<text:Fox Monster\nPrimarily inhabited the former Forest of Slumber\n\nA humanoid fox occasionally seen among the Konpaku.\nIt resembles a ghost but has a physical form.\n\nIt abhors conflict and will not attack\nuntil it feels danger to itself.>",
         "params": [
             5000,
             140,
@@ -5901,7 +6072,10 @@
             140,
             120,
             160
-        ]
+        ],
+        "_original": {
+            "name": "タマユラ"
+        }
     },
     {
         "id": 68,
@@ -6032,8 +6206,8 @@
             }
         ],
         "gold": 0,
-        "name": "陣笠の巫女、テン",
-        "note": "<MNKR_EnemyStateIconOffset:-20>\n<CategoryKey:boss>\n<text:真白神社の巫女\nかつての真白神社にて遭遇した\n\n西の僻地の襤褸神社にて、ただ独り\n何かを待つかのように巫女は佇む\n\n剣の神は必ずや舞い戻り\nかの邪悪を討ち果たすだろう\n\n願えばこそ、全霊を以て力を試す>",
+        "name": "Miko with a Camp Hat, Ten",
+        "note": "<MNKR_EnemyStateIconOffset:-20>\n<CategoryKey:boss>\n<text:Miko of Pure White Shrine\nEncountered at the former Pure White Shrine\n\nAt a shabby shrine in a remote western land, all alone,\nthe miko stands as if waiting for something.\n\nThe sword god will surely return\nand strike down that evil.\n\nBecause she wishes it, she puts her whole soul into testing her power.>",
         "params": [
             25000,
             200,
@@ -6043,7 +6217,10 @@
             146,
             172,
             180
-        ]
+        ],
+        "_original": {
+            "name": "陣笠の巫女、テン"
+        }
     },
     {
         "id": 69,
@@ -6185,8 +6362,8 @@
             }
         ],
         "gold": 0,
-        "name": "剣の妖狐、ハクトウ",
-        "note": "<CategoryKey:boss>\n<text:カンムイの双骸\nかつての真白神社にて遭遇した\n\n大怪異は、狭間塚原の乱の果て\n討つべき諸悪に刃を振るった\n\nそれは届かず、砕け散った\nそれでも遺志は受け継がれた>",
+        "name": "Sword Demon Fox, Hakutō",
+        "note": "<CategoryKey:boss>\n<text:Twin Remains of Kamuy\nEncountered at the former Pure White Shrine\n\nThe great oddity, at the end of the Hazama-Tsukahara upheaval,\nswung its blade against all evils that needed to be struck down.\n\nIt failed to reach them and shattered.\nYet its will was carried on.>",
         "params": [
             40000,
             2000,
@@ -6196,7 +6373,10 @@
             150,
             140,
             170
-        ]
+        ],
+        "_original": {
+            "name": "剣の妖狐、ハクトウ"
+        }
     },
     {
         "id": 70,
@@ -6276,8 +6456,8 @@
             }
         ],
         "gold": 30,
-        "name": "厭い根の捻じ曲がり",
-        "note": "<CategoryKey:boss>\n<text:八衢榕の厭い根\n岩屋の蓋にて遭遇した\n\n捻じ曲がっている厭い根の雑兵\n骸を求め、あらゆる生物に憑りつき\nその魂を貪る>",
+        "name": "Twisted Root of Resentment",
+        "note": "<CategoryKey:boss>\n<text:Detested Root of Yachimoku-Garu\nEncountered at the Lid of the Cave\n\nA twisted foot soldier of the detested root.\nSeeking corpses, it possesses all living beings\nand devours their souls.>",
         "params": [
             7100,
             150,
@@ -6287,7 +6467,10 @@
             99,
             113,
             59
-        ]
+        ],
+        "_original": {
+            "name": "厭い根の捻じ曲がり"
+        }
     },
     {
         "id": 71,
@@ -6407,8 +6590,8 @@
             }
         ],
         "gold": 60,
-        "name": "厭い根の獣",
-        "note": "<CategoryKey:boss>\n<text:八衢榕の厭い根\n岩屋の蓋にて遭遇した\n\n厭い根の目的は魂を喰うことではないが\nそうして力を増し、姿かたちを変えて\nより効率的に骸を生む>",
+        "name": "Beast of the Hateful Root",
+        "note": "<CategoryKey:boss>\n<text:Detested Root of Yachimoku-Garu\nEncountered at the Lid of the Cave\n\nThe detested root's purpose is not to eat souls,\nbut by doing so, it gains power, changes form,\nand produces corpses more efficiently.>",
         "params": [
             14300,
             300,
@@ -6418,7 +6601,10 @@
             129,
             89,
             71
-        ]
+        ],
+        "_original": {
+            "name": "厭い根の獣"
+        }
     },
     {
         "id": 72,
@@ -6545,8 +6731,8 @@
             }
         ],
         "gold": 100,
-        "name": "榕の主根",
-        "note": "<CategoryKey:boss>\n<text:八衢榕の厭い根\n奈落にて遭遇した\n\n根源より伸びる主根はすべてが本体であり\n一つでも残せば、他に力を分けて\nたちまちに八の状態へと戻る\n\n同時に落とせば、ようやく見える\n古の禍根、シキノワの宿痾が>",
+        "name": "Main Root of the Banyan",
+        "note": "<CategoryKey:boss>\n<text:Detested Root of Yachimoku-Garu\nEncountered in Naraka\n\nThe main root extending from the source is the entire body;\nif even one remains, it distributes power to the others\nand quickly returns to its eightfold state.\n\nOnly by bringing them all down at once can you finally see―\nthe ancient blight, the chronic affliction of Shikinowa.>",
         "params": [
             8000,
             300,
@@ -6556,7 +6742,10 @@
             125,
             85,
             75
-        ]
+        ],
+        "_original": {
+            "name": "榕の主根"
+        }
     },
     {
         "id": 73,
@@ -6737,8 +6926,8 @@
             }
         ],
         "gold": 1000,
-        "name": "古の禍根、八衢榕",
-        "note": "<反撃拡張:悪斬返し>\n<CategoryKey:boss>\n<text:厭い根の根源\n奈落にて遭遇した\n\n猛攻により姿を露わにした邪悪\n落とされた主根は再生しつつあり\nそれぞれがまるで頭のように見える\n\nかつて八人の蛇が岩屋を暴いた折\n叶えられた願いが存在をかき混ぜた\n\n八つの頭を持つ蛇は、そうして生まれた>",
+        "name": "Ancient Root of Calamity, Yachimata Banyan",
+        "note": "<反撃拡張:悪斬返し>\n<CategoryKey:boss>\n<text:Root of the Detested Root's Origin\nEncountered in Naraka\n\nThe evil that revealed itself through fierce attacks.\nThe felled main root is regenerating,\neach piece looking like a head.\n\nWhen the eight serpents once rampaged through the cave,\na granted wish stirred existence itself.\n\nThat is how the eight-headed serpent was born.>",
         "params": [
             88888,
             1000,
@@ -6748,7 +6937,10 @@
             191,
             127,
             33
-        ]
+        ],
+        "_original": {
+            "name": "古の禍根、八衢榕"
+        }
     },
     {
         "id": 74,
@@ -6985,7 +7177,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼アプノコンル-ED",
+        "name": "▼Apunokonru-ED",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -6996,7 +7188,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼アプノコンル-ED"
+        }
     },
     {
         "id": 78,
@@ -7059,8 +7254,8 @@
             }
         ],
         "gold": 66,
-        "name": "フリーズフォージ",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:マナの魔物\n主にアプノコンルに生息する\n\n魔法により形を成したマナそのもの\n魔法生物の一種である\n\nこれが自然に生まれることは稀だが\nあり得ないわけではない>",
+        "name": "Freeze Forge",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Mana Monster\nPrimarily inhabits Apunokonru\n\nMana itself given form through magic,\na kind of magical being.\n\nThough it is rare for this to occur naturally,\nit is not impossible.>",
         "params": [
             3000,
             300,
@@ -7070,7 +7265,10 @@
             168,
             120,
             120
-        ]
+        ],
+        "_original": {
+            "name": "フリーズフォージ"
+        }
     },
     {
         "id": 79,
@@ -7138,8 +7336,8 @@
             }
         ],
         "gold": 38,
-        "name": "ペンギル",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:鳥の魔物\n主にアプノコンルに生息する\n\n寒冷地にいる奇妙な鳥\n飛べない代わりに泳ぎが得意\n\n普段はのろまな様子だが\n狩りの際は氷上を滑り、高速で移動する>",
+        "name": "Pengil",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Bird Monster\nMainly inhabits Apunokonru.\n\nA strange bird found in cold regions.\nUnable to fly, but excels at swimming instead.\n\nUsually appears sluggish,\nbut during hunts it slides over the ice and moves at high speed.>",
         "params": [
             2920,
             0,
@@ -7149,7 +7347,10 @@
             120,
             152,
             146
-        ]
+        ],
+        "_original": {
+            "name": "ペンギル"
+        }
     },
     {
         "id": 80,
@@ -7219,8 +7420,8 @@
             }
         ],
         "gold": 52,
-        "name": "ウェングマ",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:熊の魔物\n主にアプノコンルに生息する\n\n白い体毛を持つ猛獣\n雪に紛れ、獲物へと忍び寄る\n\nウェングマは強いが油断はしない\n賢く、そして慎重なのだ>",
+        "name": "Wengma",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Bear Monster\nMainly inhabits Apunokonru.\n\nA fierce beast with white fur.\nBlending into the snow, it sneaks up on prey.\n\nThough strong, it never lets its guard down.\nIt is wise and cautious.>",
         "params": [
             4650,
             0,
@@ -7230,7 +7431,10 @@
             88,
             80,
             80
-        ]
+        ],
+        "_original": {
+            "name": "ウェングマ"
+        }
     },
     {
         "id": 81,
@@ -7305,8 +7509,8 @@
             }
         ],
         "gold": 78,
-        "name": "セピョン",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:兎の魔物\n主にアプノコンルに生息する\n\n雪原を遊び場とする黒い兎\nその色は、とても目立つ\n\n強さゆえに隠れないのではない\n遊び相手が、自分を見つけてくれることに\n期待しているのだ>",
+        "name": "Sephyon",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Rabbit Monster\nMainly inhabits Apunokonru.\n\nA black rabbit that treats the snowy plains as its playground.\nIts color stands out very much.\n\nIt doesn't hide because of strength;\nrather, it expects its playmates to find it.>",
         "params": [
             6000,
             120,
@@ -7316,7 +7520,10 @@
             168,
             188,
             188
-        ]
+        ],
+        "_original": {
+            "name": "セピョン"
+        }
     },
     {
         "id": 82,
@@ -7452,8 +7659,8 @@
             }
         ],
         "gold": 1000,
-        "name": "迷い森の雪女",
-        "note": "<CategoryKey:ヌシ>\n<text:雪女の魔物\n迷い森の深部にて遭遇した\n\nウパシモシリの森の深くに住む魔物\n迷い、衰弱した者を一時は助ける\n\nそれは、退廃への道\nある時は飾り立てる氷像となり\nまたある時は、強制的に妻夫になる>",
+        "name": "Forest Snow Woman",
+        "note": "<CategoryKey:ヌシ>\n<text:Snow Woman Monster\nEncountered in the depths of the Lost Forest.\n\nA monster living deep in the forest of Upashimoshiri.\nIt temporarily helps those who are lost and weakened.\n\nThat is the path to decadence.\nSometimes it becomes an ornate ice statue,\nand other times, it forcibly makes them husband and wife.>",
         "params": [
             36600,
             500,
@@ -7463,7 +7670,10 @@
             240,
             170,
             210
-        ]
+        ],
+        "_original": {
+            "name": "迷い森の雪女"
+        }
     },
     {
         "id": 83,
@@ -7536,8 +7746,8 @@
             }
         ],
         "gold": 40,
-        "name": "キュッキュクム",
-        "note": "<SE_身代わり対象限定:kkm>\n<CategoryKey:ウパシモシリ>\n<text:軟体の魔物\n主にコタンの蔵に生息する\n\nこの魔物が単独で行動することはなく\n同種の、より優れた存在を守るように取り巻く\n\n皆、仲良しである>",
+        "name": "Kyukyukum",
+        "note": "<SE_身代わり対象限定:kkm>\n<CategoryKey:ウパシモシリ>\n<text:Soft-bodied Monster\nMainly inhabits the storehouse of Kotan.\n\nThis monster never acts alone;\nit surrounds and protects a superior being of its kind.\n\nThey are all good friends.>",
         "params": [
             3920,
             60,
@@ -7547,7 +7757,10 @@
             166,
             40,
             160
-        ]
+        ],
+        "_original": {
+            "name": "キュッキュクム"
+        }
     },
     {
         "id": 84,
@@ -7629,8 +7842,8 @@
             }
         ],
         "gold": 70,
-        "name": "キュッキミア",
-        "note": "<SE_身代わり対象者:kkm>\n<CategoryKey:ウパシモシリ>\n<text:軟体の魔物\n主にコタンの蔵に生息する\n\nこの魔物にとって取り巻きは盾に過ぎず\n使い捨てで、替えがきく存在だろう\n\nとはいえ、皆、仲良しである>",
+        "name": "Kyukkimia",
+        "note": "<SE_身代わり対象者:kkm>\n<CategoryKey:ウパシモシリ>\n<text:Soft-bodied Monster\nMainly inhabits the storehouse of Kotan.\n\nFor this monster, its attendants are merely shields;\nlikely disposable and replaceable.\n\nNevertheless, they are all good friends.>",
         "params": [
             4800,
             200,
@@ -7640,7 +7853,10 @@
             180,
             76,
             180
-        ]
+        ],
+        "_original": {
+            "name": "キュッキミア"
+        }
     },
     {
         "id": 85,
@@ -7752,8 +7968,8 @@
             }
         ],
         "gold": 0,
-        "name": "居着いた迷子",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:罠の魔物\nコタンの蔵にて遭遇した\n\n罠としてよく知られている魔物\n不意に開けられてしまったために\n反射的に、そうした者を撲殺する\n\nなにか誤解があったようだ\nこの子に敵意はあまりない>",
+        "name": "Settled Lost Child",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Trap Monster\nEncountered in the storehouse of Kotan.\n\nA monster well-known as a trap.\nBecause it was opened unexpectedly,\nit reflexively bludgeons the one who did so.\n\nThere seems to be some misunderstanding.\nThis child does not have much hostility.>",
         "params": [
             16000,
             200,
@@ -7763,7 +7979,10 @@
             200,
             190,
             170
-        ]
+        ],
+        "_original": {
+            "name": "居着いた迷子"
+        }
     },
     {
         "id": 86,
@@ -7838,8 +8057,8 @@
             }
         ],
         "gold": 68,
-        "name": "ポックル",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:小人の魔物\n主にカンムイ・チャシに生息する\n\n東国の僻地に住むという小人\n星の光に共鳴し、その力を行使する\n\n友好的な者も少なくないようだが\n大抵は臆病で、姿を見せない>",
+        "name": "Pokkuru",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Dwarf Monster\nMainly inhabits Kamuy Chashi.\n\nA dwarf said to live in the remote eastern lands.\nIt resonates with starlight and wields that power.\n\nThere seem to be not a few friendly ones,\nbut most are timid and do not show themselves.>",
         "params": [
             4800,
             200,
@@ -7849,7 +8068,10 @@
             186,
             180,
             224
-        ]
+        ],
+        "_original": {
+            "name": "ポックル"
+        }
     },
     {
         "id": 87,
@@ -7912,8 +8134,8 @@
             }
         ],
         "gold": 44,
-        "name": "グレイシャルタ",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:氷の魔物\n主にカンムイ・チャシに生息する\n\n精霊に近い存在で、生息地に漂うマナが\nその地の属性を含み出現した魔物\n\nこれは氷属性を宿している>",
+        "name": "Glacialta",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Ice Monster\nMainly inhabits Kamuy Chashi.\n\nA being close to a spirit; a monster that appeared when the mana drifting in its habitat\ncontained the attributes of that land.\n\nThis one bears the Ice attribute.>",
         "params": [
             3300,
             150,
@@ -7923,7 +8145,10 @@
             170,
             166,
             176
-        ]
+        ],
+        "_original": {
+            "name": "グレイシャルタ"
+        }
     },
     {
         "id": 88,
@@ -8020,8 +8245,8 @@
             }
         ],
         "gold": 330,
-        "name": "ポルシーエン",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:蛸の魔物\n主にカンムイ・チャシに生息する\n\n強大な魔力を持つ魔物\n蛸の触手と犬の耳が特徴\n\nまともに戦えば苦戦は必至\n雷属性で攻めるとよい>",
+        "name": "Porcien",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Octopus Monster\nMainly inhabits Kamuy Chashi.\n\nA monster with immense magical power.\nIt features octopus tentacles and dog ears.\n\nFighting it head-on will inevitably result in a tough battle.\nIt is best to attack with Lightning attribute.>",
         "params": [
             28600,
             2000,
@@ -8031,7 +8256,10 @@
             292,
             112,
             266
-        ]
+        ],
+        "_original": {
+            "name": "ポルシーエン"
+        }
     },
     {
         "id": 89,
@@ -8162,8 +8390,8 @@
             }
         ],
         "gold": 1000,
-        "name": "龍の偶像",
-        "note": "<反撃拡張:闇弱点>\n<CategoryKey:boss>\n<text:石の魔物\nカンムイ・チャシにて遭遇した\n\nかつて血族が積み上げた宝殿の門番\n這わぬものを排し続けた\n\n皮肉なことに、今や手足は崩れ落ち\n蛇に似た姿となっている>",
+        "name": "Dragon Idol",
+        "note": "<反撃拡張:闇弱点>\n<CategoryKey:boss>\n<text:Stone Monster\nEncountered at Kamuy Chashi.\n\nOnce a gatekeeper of the treasure hall built by the Blood Clan.\nIt continuously repelled the Uncrawling Ones.\n\nIronically, its limbs have now crumbled away,\nand it has taken on a form resembling a snake.>",
         "params": [
             42000,
             500,
@@ -8173,7 +8401,10 @@
             480,
             160,
             320
-        ]
+        ],
+        "_original": {
+            "name": "龍の偶像"
+        }
     },
     {
         "id": 90,
@@ -8241,8 +8472,8 @@
             }
         ],
         "gold": 48,
-        "name": "ナタオーガ",
-        "note": "<反撃拡張:怒りカウンター>\n<CategoryKey:夜行岩屋>\n<text:小鬼の魔物\n主に命刻山に生息する\n\n巨大な鉈を振るう小鬼\nその膂力は尋常ならざるものであり\n敵の胴を、骨ごと断つ>",
+        "name": "Nata Ogre",
+        "note": "<反撃拡張:怒りカウンター>\n<CategoryKey:夜行岩屋>\n<text:Imp Monster\nMainly inhabits Mount Inochikoku.\n\nAn imp that wields a gigantic hatchet.\nIts physical strength is extraordinary;\nit cleaves enemy torsos in half, bones and all.>",
         "params": [
             3800,
             30,
@@ -8252,7 +8483,10 @@
             122,
             158,
             162
-        ]
+        ],
+        "_original": {
+            "name": "ナタオーガ"
+        }
     },
     {
         "id": 91,
@@ -8325,8 +8559,8 @@
             }
         ],
         "gold": 50,
-        "name": "ツジカゼ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:風の魔物\n主に命刻山に生息する\n\n悪意をなびかせる風の化身\n近づくものすべてを切り裂く\n\n刃は無差別に、仲間にも向けられる\nよって他の種族と仲が悪い>",
+        "name": "Tsujikaze",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Wind Monster\nMainly inhabits Mount Inochikoku.\n\nAn incarnation of wind that carries malice.\nIt cuts apart everything that approaches.\n\nIts blades are indiscriminate, even aimed at allies.\nTherefore, it has poor relations with other species.>",
         "params": [
             3240,
             100,
@@ -8336,7 +8570,10 @@
             166,
             186,
             174
-        ]
+        ],
+        "_original": {
+            "name": "ツジカゼ"
+        }
     },
     {
         "id": 92,
@@ -8409,8 +8646,8 @@
             }
         ],
         "gold": 0,
-        "name": "ムジナ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:狸の魔物\n主に命刻山に生息する\n\n妖狸によく似た怪異の類\n敵を化かし、そして命を奪う遊びをする\n\n決して混同してはならない\nムジナは妖狸ではない。とても心外なことだ>",
+        "name": "Mujina",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Tanuki Monster\nMainly inhabits Mount Inochikoku.\n\nA type of oddity very similar to the Mystic Tanuki.\nIt plays games of tricking enemies and then taking their lives.\n\nNever confuse them.\nMujina is not a Mystic Tanuki. That would be quite outrageous.>",
         "params": [
             5000,
             300,
@@ -8420,7 +8657,10 @@
             230,
             150,
             220
-        ]
+        ],
+        "_original": {
+            "name": "ムジナ"
+        }
     },
     {
         "id": 93,
@@ -8549,8 +8789,8 @@
             }
         ],
         "gold": 1500,
-        "name": "命刻山の鬼",
-        "note": "<反撃拡張:怒りカウンター>\n<CategoryKey:ヌシ>\n<text:鬼の魔物\n命刻山にて遭遇した\n\nかの山は日が初めに昇る地であり\n太平の黎明の標として、信仰の対象となる\n\nその頂上には、鬼がいる\n特等席で日の出を楽しんでいるのだ>",
+        "name": "Oni of Inochikoku Mountain",
+        "note": "<反撃拡張:怒りカウンター>\n<CategoryKey:ヌシ>\n<text:Oni Monster\nEncountered at Mount Inochikoku.\n\nThat mountain is the land where the sun first rises,\nand is worshipped as a symbol of the dawn of peace.\n\nOn its summit, an oni resides.\nIt enjoys the sunrise from the best seat.>",
         "params": [
             41800,
             800,
@@ -8560,7 +8800,10 @@
             266,
             158,
             258
-        ]
+        ],
+        "_original": {
+            "name": "命刻山の鬼"
+        }
     },
     {
         "id": 94,
@@ -8700,8 +8943,8 @@
             }
         ],
         "gold": 0,
-        "name": "鬼面柴組隊士",
-        "note": "<CategoryKey:boss>\n<text:鬼面柴組の隊士\n命刻山にて遭遇した\n\n鬼面で顔を覆った柴組の隊士\nそうして表情を隠し、迷いを悟らせない\nあるいは、己に対しても\n\n幾度転べど立ち上がる\nその志だけが、彼女を動かしていた>",
+        "name": "Demon-Masked Shiba-Gumi Soldier",
+        "note": "<CategoryKey:boss>\n<text:Oni-Faced Shibagumi Officer\nEncountered at Mount Inochikoku.\n\nA Shibagumi officer who covers their face with an oni mask.\nThus hiding their expression, never letting others see their hesitation.\nPerhaps even hiding it from themselves.\n\nNo matter how many times they fall, they rise again.\nIt was only that resolve that drove her.>",
         "params": [
             39500,
             150,
@@ -8711,7 +8954,10 @@
             180,
             195,
             220
-        ]
+        ],
+        "_original": {
+            "name": "鬼面柴組隊士"
+        }
     },
     {
         "id": 95,
@@ -8774,8 +9020,8 @@
             }
         ],
         "gold": 46,
-        "name": "ヨミウミボウ",
-        "note": "<CategoryKey:舟観>\n<text:蛸の魔物\n主に巡り黄泉路に生息する\n\n水底にいるウミボウ\n魂と共に、魂のように漂う\n\n特に変わったところはない\n言わばウミウミボウだろう>",
+        "name": "Yomiumibou",
+        "note": "<CategoryKey:舟観>\n<text:Octopus Monster\nMainly inhabits the Wandering Yomi Path.\n\nAn Umi-bou that dwells on the water bottom.\nIt drifts along with souls, like a soul itself.\n\nThere is nothing particularly unusual about it.\nYou might say it's an Umi-umi-bou.>",
         "params": [
             4000,
             300,
@@ -8785,7 +9031,10 @@
             180,
             140,
             170
-        ]
+        ],
+        "_original": {
+            "name": "ヨミウミボウ"
+        }
     },
     {
         "id": 96,
@@ -8860,8 +9109,8 @@
             }
         ],
         "gold": 60,
-        "name": "ヨイノリンカ",
-        "note": "<CategoryKey:舟観>\n<text:狐の魔物\n主に巡り黄泉路に生息する\n\n来世に住むと言われる魔物\n稀に境界を抜け、現世に姿を見せる\n\n燐火は黄泉路を過ぎて宵に漂う>",
+        "name": "Yoinorinka",
+        "note": "<CategoryKey:舟観>\n<text:Fox Monster\nMainly inhabits the Wandering Yomi Path.\n\nA monster said to live in the afterlife.\nRarely, it crosses the boundary and appears in the living world.\n\nWill-o'-the-wisps drift past the Yomi Path into the evening.>",
         "params": [
             3660,
             200,
@@ -8871,7 +9120,10 @@
             200,
             220,
             200
-        ]
+        ],
+        "_original": {
+            "name": "ヨイノリンカ"
+        }
     },
     {
         "id": 97,
@@ -8934,8 +9186,8 @@
             }
         ],
         "gold": 100,
-        "name": "ケナシ",
-        "note": "<CategoryKey:舟観>\n<text:謎の魔物\n主に巡り黄泉路に生息する\n\n闇の中に佇む謎めいた肉塊\n顔はないが、表情を作るかのように\n不気味に歪むことがある>",
+        "name": "Kenashi",
+        "note": "<CategoryKey:舟観>\n<text:Mysterious Monster\nMainly inhabits the Wandering Yomi Path.\n\nA mysterious lump of flesh standing in the darkness.\nIt has no face, but sometimes it twists eerily\nas if forming expressions.>",
         "params": [
             6500,
             100,
@@ -8945,7 +9197,10 @@
             100,
             200,
             60
-        ]
+        ],
+        "_original": {
+            "name": "ケナシ"
+        }
     },
     {
         "id": 98,
@@ -9105,8 +9360,8 @@
             }
         ],
         "gold": 1500,
-        "name": "レーセ川の先導",
-        "note": "<CategoryKey:ヌシ>\n<text:幽霊の魔物\n巡り黄泉路にて遭遇した\n\n海の底、魂流るるレーセ川\nそれは廃都ウェン・マーサスの冥府にあり\n澱みを遺さぬための赦しの一つである\n\n先導が連れ添う馬は夢魔に似ているが\nそうではなく、死神の類だ>",
+        "name": "Guide of the Reise River",
+        "note": "<CategoryKey:ヌシ>\n<text:Ghost Monster\nEncountered at the Wandering Yomi Path.\n\nAt the bottom of the sea, the River Rese where souls flow.\nIt is located in the underworld of the ruined city Wen-Marsas,\nand is one of the pardons to leave no sediment.\n\nThe horse that accompanies the guide resembles a succubus,\nbut it is not; it is a kind of reaper.>",
         "params": [
             44000,
             1000,
@@ -9116,7 +9371,10 @@
             306,
             224,
             340
-        ]
+        ],
+        "_original": {
+            "name": "レーセ川の先導"
+        }
     },
     {
         "id": 99,
@@ -9256,8 +9514,8 @@
             }
         ],
         "gold": 0,
-        "name": "先代将軍、鬨宮無玄",
-        "note": "<CategoryKey:boss>\n<text:先代天征大将軍\n鬨宮城にて遭遇した\n\nその存在を渇望され蘇った名将\n朽ちかけた肉体に魂を宿した\n\n全盛期には遠く及ばない\nしかし、自他のあらゆる想いが\n未だ迷う魂を奮い立たせる>",
+        "name": "Former Shogun, Tokimiya Mugen",
+        "note": "<CategoryKey:boss>\n<text:Former Heavenly Conquest Grand General\nEncountered at Toki Palace Castle.\n\nA renowned general revived by being longed for.\nHis soul is housed in a decaying body.\n\nHe is far from his prime.\nYet all the feelings of himself and others\nstill rouse his wavering soul.>",
         "params": [
             80000,
             1000,
@@ -9267,7 +9525,10 @@
             260,
             250,
             280
-        ]
+        ],
+        "_original": {
+            "name": "先代将軍、鬨宮無玄"
+        }
     },
     {
         "id": 100,
@@ -9407,8 +9668,8 @@
             }
         ],
         "gold": 0,
-        "name": "龍継ぎ、鬨宮無玄",
-        "note": "<CategoryKey:boss>\n<text:先代天征大将軍\n鬨宮城にて遭遇した\n\n継承した力を解放した無玄\n稲妻を呼び、龍の威光を轟かせる\n\n民が望む永劫の太平\n寄せられる想いを信じ、剣を振るうが\nそのために意志を曲げた己だけは\nついに信じることができなかった>",
+        "name": "Dragon Successor, Tokimiya Mugen",
+        "note": "<CategoryKey:boss>\n<text:Former Heavenly Conquest Grand General\nEncountered at Toki Palace Castle.\n\nMugen, having unleashed the inherited power,\ncalls lightning and roars with the dragon's majesty.\n\nBelieving in the eternal peace the people desire,\nand in the feelings sent to him, he wields his sword,\nbut he could never believe in himself,\nwho had bent his will for that sake.>",
         "params": [
             80000,
             1000,
@@ -9418,7 +9679,10 @@
             270,
             260,
             300
-        ]
+        ],
+        "_original": {
+            "name": "龍継ぎ、鬨宮無玄"
+        }
     },
     {
         "id": 101,
@@ -9655,7 +9919,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼クリア後",
+        "name": "▼After Clear",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -9666,7 +9930,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼クリア後"
+        }
     },
     {
         "id": 105,
@@ -9734,8 +10001,8 @@
             }
         ],
         "gold": 10,
-        "name": "ドドロ",
-        "note": "<CategoryKey:冠鎮>\n<text:邪の魔物\n主に龍の宮に生息する\n\n害獣オドロの古きもの\n厄介で、迷惑な存在\n\n善悪とは、そう簡単に論じられないが\nこれは紛れもない悪だろう>",
+        "name": "Dodoro",
+        "note": "<CategoryKey:冠鎮>\n<text:Wicked Monster\nMainly inhabits the Dragon Palace.\n\nAn ancient beast of the pest Odoro.\nA troublesome and annoying being.\n\nGood and evil cannot be judged so easily,\nbut this one is undoubtedly evil.>",
         "params": [
             6666,
             120,
@@ -9745,7 +10012,10 @@
             260,
             190,
             240
-        ]
+        ],
+        "_original": {
+            "name": "ドドロ"
+        }
     },
     {
         "id": 106,
@@ -9811,8 +10081,8 @@
             }
         ],
         "gold": 10,
-        "name": "ダダラ",
-        "note": "<CategoryKey:冠鎮>\n<text:邪の魔物\n主に龍の宮に生息する\n\n害獣ウダラの古きもの\n厄介で、迷惑な存在\n\n善悪とは、そう簡単に論じられないが\nこれは紛れもない悪だろう>",
+        "name": "Dadara",
+        "note": "<CategoryKey:冠鎮>\n<text:Wicked Monster\nMainly inhabits the Dragon Palace.\n\nAn ancient beast of the pest Udara.\nA troublesome and annoying being.\n\nGood and evil cannot be judged so easily,\nbut this one is undoubtedly evil.>",
         "params": [
             6666,
             0,
@@ -9822,7 +10092,10 @@
             200,
             295,
             240
-        ]
+        ],
+        "_original": {
+            "name": "ダダラ"
+        }
     },
     {
         "id": 107,
@@ -9890,8 +10163,8 @@
             }
         ],
         "gold": 40,
-        "name": "オニビ",
-        "note": "<CategoryKey:冠鎮>\n<text:炎の魔物\n主に龍の宮に生息する\n\n奈落より現れる火の怪異\nそれは咎人、穢れた魂を炙る炎であり\n終わりなき責め苦の一つである>",
+        "name": "Onibi",
+        "note": "<CategoryKey:冠鎮>\n<text:Flame Monster\nMainly inhabits the Dragon Palace.\n\nA fire oddity that appears from the abyss.\nIt is a flame that scorches sinners and defiled souls,\nand is one of the endless torments.>",
         "params": [
             6800,
             100,
@@ -9901,7 +10174,10 @@
             262,
             244,
             266
-        ]
+        ],
+        "_original": {
+            "name": "オニビ"
+        }
     },
     {
         "id": 108,
@@ -9964,8 +10240,8 @@
             }
         ],
         "gold": 30,
-        "name": "ウツロガラ",
-        "note": "<CategoryKey:冠鎮>\n<text:人形の魔物\n主に龍の宮に生息する\n\n鶏に似たからくりの類\n魂もなしに、なぜか動き出す\n\n身代わり\nあるいは罠かもしれない>",
+        "name": "Utsurogara",
+        "note": "<CategoryKey:冠鎮>\n<text:Doll Monster\nMainly inhabits the Dragon Palace.\n\nA type of mechanism resembling a chicken.\nWithout a soul, it inexplicably moves.\n\nIt might be a substitute,\nor perhaps a trap.>",
         "params": [
             9999,
             0,
@@ -9975,7 +10251,10 @@
             250,
             400,
             100
-        ]
+        ],
+        "_original": {
+            "name": "ウツロガラ"
+        }
     },
     {
         "id": 109,
@@ -10116,8 +10395,8 @@
             }
         ],
         "gold": 2000,
-        "name": "龍の乳母",
-        "note": "<CategoryKey:ヌシ>\n<text:蛇の魔物\n龍の宮にて遭遇した\n\n血族なき宮殿にある厭い根らしきもの\n種を増やそうとする気配はない\n\n蛇の裏切りののち、なおも共存を誓ったが\n榕の出現が、その存在を歪めてしまった>",
+        "name": "Dragon's Wet Nurse",
+        "note": "<CategoryKey:ヌシ>\n<text:Snake Monster\nEncountered at the Dragon Palace.\n\nSomething resembling a loathsome root in the palace devoid of the Blood Clan.\nThere is no sign of it trying to increase its kind.\n\nAfter the snake's betrayal, they still vowed to coexist,\nbut the appearance of the Banyan twisted its existence.>",
         "params": [
             108000,
             2000,
@@ -10127,7 +10406,10 @@
             300,
             220,
             280
-        ]
+        ],
+        "_original": {
+            "name": "龍の乳母"
+        }
     },
     {
         "id": 110,
@@ -10204,8 +10486,8 @@
             }
         ],
         "gold": 0,
-        "name": "マレコタマ",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:謎の魔物\n主に全景域に生息する\n\n奇妙な姿をした存在\n精霊の一種であると言われるが\nそう説明できる根拠はない>",
+        "name": "Marekotama",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Mysterious Monster\nMainly inhabits the entire area.\n\nA being with a strange appearance.\nIt is said to be a kind of spirit,\nbut there is no basis for that explanation.>",
         "params": [
             10000,
             300,
@@ -10215,7 +10497,10 @@
             300,
             300,
             300
-        ]
+        ],
+        "_original": {
+            "name": "マレコタマ"
+        }
     },
     {
         "id": 111,
@@ -10388,8 +10673,8 @@
             }
         ],
         "gold": 1000,
-        "name": "不和の幼生",
-        "note": "<CategoryKey:boss>\n<text:シキノワの大怪異\n全景域にて遭遇した\n\n次なる龍の到達を待つ魂\nカンムイと成る日を待っている\n\n他種との共存、他種の支配\nどちらが正しいかなど誰にも分からない\nゆえにこそ、カンムイは生まれるのだろう>",
+        "name": "Discord Larva",
+        "note": "<CategoryKey:boss>\n<text:Great Oddity of Shikinowa\nEncountered in the entire area.\n\nA soul awaiting the arrival of the next dragon.\nIt waits for the day it becomes Kamuy.\n\nCoexistence with other species, domination of other species,\nno one knows which is correct.\nThat is precisely why Kamuy is born, perhaps.>",
         "params": [
             250000,
             5000,
@@ -10399,7 +10684,10 @@
             500,
             300,
             500
-        ]
+        ],
+        "_original": {
+            "name": "不和の幼生"
+        }
     },
     {
         "id": 112,
@@ -10502,7 +10790,7 @@
             }
         ],
         "gold": 1000,
-        "name": "不和の幼生",
+        "name": "Discord Larva",
         "note": "<NoBookData>",
         "params": [
             500000,
@@ -10513,7 +10801,10 @@
             500,
             500,
             500
-        ]
+        ],
+        "_original": {
+            "name": "不和の幼生"
+        }
     },
     {
         "id": 113,
@@ -10581,8 +10872,8 @@
             }
         ],
         "gold": 48,
-        "name": "キョウコツ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:骨の魔物\n主に蛇の村に生息する\n\n様々な怪談にて語られる怪異\nそのいずれもが死に関わるもので\n相対すれば、それが正しいことが分かる>",
+        "name": "Kyokotsu",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Bone Monster\nMainly inhabits the Snake Village.\n\nAn oddity spoken of in various ghost stories.\nAll of them are related to death,\nand when you face it, you will understand that is true.>",
         "params": [
             8000,
             100,
@@ -10592,7 +10883,10 @@
             260,
             270,
             190
-        ]
+        ],
+        "_original": {
+            "name": "キョウコツ"
+        }
     },
     {
         "id": 114,
@@ -10672,8 +10966,8 @@
             }
         ],
         "gold": 80,
-        "name": "ムジョウセキ",
-        "note": "<CategoryKey:夜行岩屋>\n<text:石の魔物\n主に蛇の村に生息する\n\n闇に朽ちた石の寄せ集め\nかつては光をたたえていたが\n今や知るべくもない>",
+        "name": "Mujouseki",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Stone Monster\nPrimarily inhabits the Serpent Village.\n\nA collection of stones decayed in darkness.\nOnce it held light within,\nbut now there is no way of knowing.>",
         "params": [
             9200,
             100,
@@ -10683,7 +10977,10 @@
             310,
             10,
             310
-        ]
+        ],
+        "_original": {
+            "name": "ムジョウセキ"
+        }
     },
     {
         "id": 115,
@@ -10770,8 +11067,8 @@
             }
         ],
         "gold": 120,
-        "name": "コウコン",
-        "note": "<CS_下限HP:99,174>\n<CategoryKey:夜行岩屋>\n<text:狐の魔物\n主に蛇の村に生息する\n\n穢れた地にて見かける霊狐\n訪れた者を、じっと見つめる\n\n何もしないのは敵意がないからではない\nただ、憐れんでいるのだ>",
+        "name": "Koukon",
+        "note": "<CS_下限HP:99,174>\n<CategoryKey:夜行岩屋>\n<text:Fox Monster\nPrimarily inhabits the Serpent Village.\n\nA spirit fox seen in defiled lands.\nIt stares silently at those who visit.\n\nIt does nothing not because it lacks hostility,\nbut simply because it pities them.>",
         "params": [
             18900,
             320,
@@ -10781,7 +11078,10 @@
             280,
             280,
             300
-        ]
+        ],
+        "_original": {
+            "name": "コウコン"
+        }
     },
     {
         "id": 116,
@@ -10878,8 +11178,8 @@
             }
         ],
         "gold": 800,
-        "name": "モナクシール",
-        "note": "<CategoryKey:夜行岩屋>\n<text:星の魔物\n主に蛇の村に生息する\n\n遥か空の上、闇より落ちた謎の存在\n星の死と共に滲み出すというが\nその正体は誰にも分からない>",
+        "name": "Monakushiru",
+        "note": "<CategoryKey:夜行岩屋>\n<text:Star Monster\nPrimarily inhabits the Serpent Village.\n\nA mysterious being that fell from the darkness high above the sky.\nIt is said to seep out with the death of a star,\nbut no one knows its true nature.>",
         "params": [
             77700,
             7000,
@@ -10889,7 +11189,10 @@
             334,
             128,
             544
-        ]
+        ],
+        "_original": {
+            "name": "モナクシール"
+        }
     },
     {
         "id": 117,
@@ -11067,8 +11370,8 @@
             }
         ],
         "gold": 2000,
-        "name": "秘せる落胤",
-        "note": "<CategoryKey:ヌシ>\n<text:石の魔物\n蛇の村にて遭遇した\n\n奈落にある龍の偶像\nこれもまた、セセクの民の作であり\n足袋蛇たちへの贈り物である\n\n裏切りを経て、地の底で朽ちたが\n糸を手繰り寄せ、廃村を守っている>",
+        "name": "Secret Illegitimate Child",
+        "note": "<CategoryKey:ヌシ>\n<text:Stone Monster\nEncountered in the Serpent Village.\n\nA dragon effigy in the abyss.\nThis too was made by the Seseku people,\nas a gift to the Tabi snakes.\n\nAfter betrayal, it rotted at the bottom of the earth,\nbut drawing threads together, it still guards the abandoned village.>",
         "params": [
             150000,
             2000,
@@ -11078,7 +11381,10 @@
             420,
             300,
             220
-        ]
+        ],
+        "_original": {
+            "name": "秘せる落胤"
+        }
     },
     {
         "id": 118,
@@ -11223,8 +11529,8 @@
             }
         ],
         "gold": 800,
-        "name": "封じの僧",
-        "note": "<CategoryKey:boss>\n<text:人の魔物\n奈落にて遭遇した\n\nかつて命への贖罪の果てに谷を下り\nそこで真の禍根を見た僧侶\n\n敵に対し、あまりにも無力であった\n穢れながらも僅かな命を封じのみに費やし\nただ、来る英雄を待っている\n\nそうして長い時間が経ち\nもはや正気も失せていた>",
+        "name": "Sealing Monk",
+        "note": "<CategoryKey:boss>\n<text:Human Monster\nEncountered in the Abyss.\n\nA monk who, at the end of his atonement for past lives, descended into the valley\nand there witnessed the true root of calamity.\n\nHe was far too powerless against the enemy.\nDefiled, he spent himself solely on sealing a meager life,\nand simply awaited the coming hero.\n\nThus, a long time passed,\nand by now even his sanity had faded.>",
         "params": [
             165000,
             1500,
@@ -11234,7 +11540,10 @@
             440,
             230,
             420
-        ]
+        ],
+        "_original": {
+            "name": "封じの僧"
+        }
     },
     {
         "id": 119,
@@ -11381,8 +11690,8 @@
             }
         ],
         "gold": 0,
-        "name": "這わぬもの",
-        "note": "<CategoryKey:boss>\n<text:蛇の魔物\n蛇の村にて遭遇した\n\n奈落の底の、とある村にいるもの\n淵に隠れ、何かを呟き続け\n己を見つけた者を斬り捨てる\n\n人格などとうに失っており\nあるいは命すらも既に尽きている\nただ憎しみと悲しみ、そして悔悟が\n魂の死を許さないのだろう>",
+        "name": "Uncrawling One",
+        "note": "<CategoryKey:boss>\n<text:Snake Monster\nEncountered in the Serpent Village.\n\nA being in a village at the bottom of the abyss.\nIt hides in the deep, muttering something endlessly,\nand cuts down anyone who finds it.\n\nIts personality is long gone;\nperhaps even its life has already expired.\nOnly hatred, sorrow, and remorse\nrefuse to allow its soul to die.>",
         "params": [
             344000,
             1500,
@@ -11392,7 +11701,10 @@
             520,
             460,
             360
-        ]
+        ],
+        "_original": {
+            "name": "這わぬもの"
+        }
     },
     {
         "id": 120,
@@ -11556,8 +11868,8 @@
             }
         ],
         "gold": 4000,
-        "name": "絡繰百王、柴童子",
-        "note": "<CategoryKey:ヌシ>\n<text:四魂怪異\n無縁堂にて遭遇した\n\nカンムイより分かたれた魂の一つ\n城ほどもある大鬼として語られ\n百王柴鬼の名を馳せる\n\n巨躯の正体はからくりの武装\n趣味が高じて、度を越したのだ>",
+        "name": "Karakuri Hyakuō, Shiba Dōji",
+        "note": "<CategoryKey:ヌシ>\n<text:Four-Soul Aberration\nEncountered at the Muen Hall.\n\nOne of the souls divided from Kamui.\nIt is spoken of as a great oni the size of a castle,\nand bears the name Hyakuo Saiki.\n\nThe giant form is actually armed puppet mechanisms;\nits hobby escalated to an extreme.>",
         "params": [
             220000,
             4000,
@@ -11567,7 +11879,10 @@
             480,
             250,
             440
-        ]
+        ],
+        "_original": {
+            "name": "絡繰百王、柴童子"
+        }
     },
     {
         "id": 121,
@@ -11738,8 +12053,8 @@
             }
         ],
         "gold": 4000,
-        "name": "艶尾の辻の夕闇",
-        "note": "<反撃拡張:魅了体質>\n<CategoryKey:ヌシ>\n<text:四魂怪異\n無限回廊にて遭遇した\n\nカンムイより分かたれた魂の一つ\n夜伽鬼を束ねる妖狐として語られ\n五尾夕闇の名を馳せる\n\n現代にて、最も知られるカンムイの子で\n都に店を構え、人の世を愉しんでいる>",
+        "name": "Yuuyami of the Crossroads of the Lustrous Tail",
+        "note": "<反撃拡張:魅了体質>\n<CategoryKey:ヌシ>\n<text:Four-Soul Aberration\nEncountered in the Endless Corridor.\n\nOne of the souls divided from Kamui.\nIt is spoken of as a spirit fox that commands the Yotogi Oni,\nand bears the name Gobi Yuuyami.\n\nIn modern times, it is the most well-known child of Kamui;\nit runs a shop in the capital and enjoys the human world.>",
         "params": [
             180000,
             4000,
@@ -11749,7 +12064,10 @@
             460,
             440,
             440
-        ]
+        ],
+        "_original": {
+            "name": "艶尾の辻の夕闇"
+        }
     },
     {
         "id": 122,
@@ -11920,8 +12238,8 @@
             }
         ],
         "gold": 4000,
-        "name": "八八神通、隠神語り",
-        "note": "<CategoryKey:ヌシ>\n<text:四魂怪異\n隠し岩にて遭遇した\n\nカンムイより分かたれた魂の一つ\n化け狸の長、夜行の先導として語られ\n妖狸隠神の名を馳せる\n\n東の里では守り神として扱われており\n同時に、一生涯の友でもある>",
+        "name": "Kakushigami Katari of the Eighty-Eight Divine Powers",
+        "note": "<CategoryKey:ヌシ>\n<text:Four-Soul Aberration\nEncountered at the Hidden Rock.\n\nOne of the souls divided from Kamui.\nIt is spoken of as the leader of the bake-danuki, the guide of night journeys,\nand bears the name Youki Inugami.\n\nIn the eastern village, it is treated as a guardian deity,\nand at the same time, a lifelong friend.>",
         "params": [
             200000,
             4000,
@@ -11931,7 +12249,10 @@
             450,
             310,
             480
-        ]
+        ],
+        "_original": {
+            "name": "八八神通、隠神語り"
+        }
     },
     {
         "id": 123,
@@ -12046,7 +12367,7 @@
             }
         ],
         "gold": 0,
-        "name": "狸の化かし",
+        "name": "Tanuki's Bewitchment",
         "note": "<NoBookData>",
         "params": [
             100000,
@@ -12057,7 +12378,10 @@
             400,
             200,
             400
-        ]
+        ],
+        "_original": {
+            "name": "狸の化かし"
+        }
     },
     {
         "id": 124,
@@ -12348,7 +12672,7 @@
             }
         ],
         "gold": 0,
-        "name": "冨波式石人形",
+        "name": "Tonami-style Stone Doll",
         "note": "<NoBookData>",
         "params": [
             50000,
@@ -12359,7 +12683,10 @@
             0,
             1,
             0
-        ]
+        ],
+        "_original": {
+            "name": "冨波式石人形"
+        }
     },
     {
         "id": 129,
@@ -12412,8 +12739,8 @@
             }
         ],
         "gold": 50,
-        "name": "ソウルメモリー",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:マナの魔物\n主に鵺の胎道に生息する\n\n魂を漂うマナの残滓\n自律し、魔法を放つこともある\n\n記憶の名残だろうか>",
+        "name": "Soul Memory",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Mana Monster\nPrimarily inhabits the Womb Passage of the Nue.\n\nResidual mana drifting through souls.\nIt sometimes acts autonomously and releases magic.\n\nPerhaps it is a vestige of memory.>",
         "params": [
             6500,
             300,
@@ -12423,7 +12750,10 @@
             280,
             260,
             260
-        ]
+        ],
+        "_original": {
+            "name": "ソウルメモリー"
+        }
     },
     {
         "id": 130,
@@ -12484,8 +12814,8 @@
             }
         ],
         "gold": 30,
-        "name": "ロアロームン",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:鼠の魔物\n主に笹倉霊園に生息する\n\nロームンの亜種。とても凶暴\n戦いではひっかくことしかできないが\nその動きに無駄はなく、素早い>",
+        "name": "Roaromon",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Rat Monster\nPrimarily inhabits the Sasakura Cemetery.\n\nA subspecies of Romun. Extremely ferocious.\nIn battle it can only scratch,\nbut its movements are efficient and swift.>",
         "params": [
             7200,
             0,
@@ -12495,7 +12825,10 @@
             242,
             266,
             220
-        ]
+        ],
+        "_original": {
+            "name": "ロアロームン"
+        }
     },
     {
         "id": 131,
@@ -12640,8 +12973,8 @@
             }
         ],
         "gold": 500,
-        "name": "狒々妖頭",
-        "note": "<CategoryKey:boss>\n<text:鵺の肉体の一部\n笹倉霊園にて遭遇した\n\nかつて亜命が残したもの\nこれは、頭である\n\n旧鬼面隊、初代柴組隊長\n穂武良行春により討たれた>",
+        "name": "Hihi Demon Head",
+        "note": "<CategoryKey:boss>\n<text:Part of the Nue's Body\nEncountered at the Sasakura Cemetery.\n\nA remnant left by Amei long ago.\nThis is the head.\n\nIt was vanquished by the former Onimen Squad's first Shiba-gumi captain,\nHobura Yukiharu.>",
         "params": [
             140000,
             1000,
@@ -12651,7 +12984,10 @@
             340,
             280,
             320
-        ]
+        ],
+        "_original": {
+            "name": "狒々妖頭"
+        }
     },
     {
         "id": 132,
@@ -12712,8 +13048,8 @@
             }
         ],
         "gold": 40,
-        "name": "クロクロウ",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:鴉の魔物\n主に夜光地に生息する\n\n闇に溶ける漆黒の羽毛を持つ\n真夜中ではまともに視認できないが\n幸いなことに、夜は寝ている>",
+        "name": "Kurokurou",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Crow Monster\nPrimarily inhabits the Nightglow Ground.\n\nIt has jet-black feathers that melt into the darkness.\nAt midnight, it is all but invisible,\nbut fortunately, it sleeps at night.>",
         "params": [
             7400,
             0,
@@ -12723,7 +13059,10 @@
             192,
             280,
             264
-        ]
+        ],
+        "_original": {
+            "name": "クロクロウ"
+        }
     },
     {
         "id": 133,
@@ -12801,8 +13140,8 @@
             }
         ],
         "gold": 90,
-        "name": "トバリ",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:梟の魔物\n主に夜光地に生息する\n\n東方の島国シキノワの忍者\n覆ったものを透明にする羽毛を持ち\n自身だけでなく、獲物をも隠す>",
+        "name": "Tobari",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Owl Monster\nPrimarily inhabits the Nightglow Ground.\n\nA shinobi from the eastern island nation of Shikinowa.\nIt has feathers that make whatever they cover transparent,\nand can hide not only itself but also its prey.>",
         "params": [
             11800,
             400,
@@ -12812,7 +13151,10 @@
             200,
             330,
             310
-        ]
+        ],
+        "_original": {
+            "name": "トバリ"
+        }
     },
     {
         "id": 134,
@@ -12950,8 +13292,8 @@
             }
         ],
         "gold": 500,
-        "name": "影百足",
-        "note": "<CategoryKey:boss>\n<text:鵺の肉体の一部\n夜光地にて遭遇した\n\nかつて亜命が残したもの\nこれは、尾である\n\n鎖影衆頭目\n大天狗により討たれた>",
+        "name": "Shadow Centipede",
+        "note": "<CategoryKey:boss>\n<text:Part of the Nue's Body\nEncountered at the Nightglow Ground.\n\nA remnant left by Amei long ago.\nThis is the tail.\n\nIt was vanquished by the head of the Kusakage-shu,\nthe Great Tengu.>",
         "params": [
             120000,
             1000,
@@ -12961,7 +13303,10 @@
             420,
             500,
             300
-        ]
+        ],
+        "_original": {
+            "name": "影百足"
+        }
     },
     {
         "id": 135,
@@ -13019,8 +13364,8 @@
             }
         ],
         "gold": 100,
-        "name": "ストレージ",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:謎の魔物\n主にユニ・サーキットに生息する\n\n全知の海に漂う箱\n記録媒体であり、権限を持つ者には\n知識を提供するという>",
+        "name": "Storage",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Mysterious Monster\nPrimarily inhabits the Uni Circuit.\n\nA box drifting in the sea of omniscience.\nIt is a recording medium, and is said to provide knowledge\nto those with authority.>",
         "params": [
             8000,
             400,
@@ -13030,7 +13375,10 @@
             300,
             200,
             300
-        ]
+        ],
+        "_original": {
+            "name": "ストレージ"
+        }
     },
     {
         "id": 136,
@@ -13173,8 +13521,8 @@
             }
         ],
         "gold": 500,
-        "name": "死屍食む獣",
-        "note": "<CategoryKey:boss>\n<text:鵺の肉体の一部\nユニ・サーキットにて遭遇した\n\nかつて亜命が残したもの\nこれは、四肢である\n\n何者かに討たれたはずだが\nそれが誰かは分からない>",
+        "name": "Corpse-Eating Beast",
+        "note": "<CategoryKey:boss>\n<text:Part of the Nue's Body\nEncountered at the Uni Circuit.\n\nA remnant left by Amei long ago.\nThis is the limbs.\n\nIt should have been defeated by someone,\nbut who that was is unknown.>",
         "params": [
             180000,
             1000,
@@ -13184,7 +13532,10 @@
             380,
             360,
             380
-        ]
+        ],
+        "_original": {
+            "name": "死屍食む獣"
+        }
     },
     {
         "id": 137,
@@ -13276,8 +13627,8 @@
             }
         ],
         "gold": 450,
-        "name": "シャルヴィース",
-        "note": "<CategoryKey:ウパシモシリ>\n<text:天上からの伝令\n主にガラスの町に生息する\n\n世界の様子を見守る存在\n天使と呼ばれる種族で、魔物ではない\n\n彼女らは天上の町にいる\n通常、地上に降り立つことはない>",
+        "name": "Sharviisu",
+        "note": "<CategoryKey:ウパシモシリ>\n<text:Heavenly Messenger\nPrimarily inhabits the Glass Town.\n\nBeings that watch over the state of the world.\nThey are a race called angels, not monsters.\n\nThey reside in the heavenly town above.\nNormally, they never descend to the ground.>",
         "params": [
             66000,
             2000,
@@ -13287,7 +13638,10 @@
             360,
             300,
             360
-        ]
+        ],
+        "_original": {
+            "name": "シャルヴィース"
+        }
     },
     {
         "id": 138,
@@ -13432,8 +13786,8 @@
             }
         ],
         "gold": 500,
-        "name": "万目如何",
-        "note": "<CategoryKey:boss>\n<text:鵺の肉体の一部\nガラスの町にて遭遇した\n\nかつて亜命が残したもの\nこれは、胴である\n\n虚の時代の観測者\n銀の天使ケセファルにより討たれた>",
+        "name": "Manme Ikan",
+        "note": "<CategoryKey:boss>\n<text:Part of the Nue's Body\nEncountered at the Glass Town.\n\nA remnant left by Amei long ago.\nThis is the torso.\n\nIt was vanquished by the observer of the Void Era,\nthe Silver Angel Kesepher.>",
         "params": [
             166000,
             1000,
@@ -13443,7 +13797,10 @@
             420,
             200,
             400
-        ]
+        ],
+        "_original": {
+            "name": "万目如何"
+        }
     },
     {
         "id": 139,
@@ -13628,8 +13985,8 @@
             }
         ],
         "gold": 1000,
-        "name": "不詳の怪異、鵺",
-        "note": "<CategoryKey:boss>\n<text:四魂怪異\n鵺の胎道にて遭遇した\n\nカンムイより分かたれた魂の一つ\n正体不明であることだけが語られ\nその名すら、誰も知らない\n\nただ独り、旅をしていた\nあまりにも長い旅を>",
+        "name": "Unknown Mystery, Nue",
+        "note": "<CategoryKey:boss>\n<text:Four-Soul Aberration\nEncountered in the Womb Passage of the Nue.\n\nOne of the souls divided from Kamui.\nOnly its unknown nature is spoken of;\neven its name is known to no one.\n\nIt journeyed all alone,\non a journey far too long.>",
         "params": [
             200000,
             4000,
@@ -13639,7 +13996,10 @@
             420,
             380,
             440
-        ]
+        ],
+        "_original": {
+            "name": "不詳の怪異、鵺"
+        }
     },
     {
         "id": 140,
@@ -13752,7 +14112,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼高難易度",
+        "name": "▼High Difficulty",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -13763,7 +14123,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼高難易度"
+        }
     },
     {
         "id": 142,
@@ -13828,7 +14191,7 @@
             }
         ],
         "gold": 0,
-        "name": "はぐれオドロ",
+        "name": "Stray Odoro",
         "note": "<NoBookData>",
         "params": [
             20000,
@@ -13839,7 +14202,10 @@
             250,
             200,
             250
-        ]
+        ],
+        "_original": {
+            "name": "はぐれオドロ"
+        }
     },
     {
         "id": 143,
@@ -13911,7 +14277,7 @@
             }
         ],
         "gold": 0,
-        "name": "オドロドロ",
+        "name": "Odorodoro",
         "note": "<NoBookData>",
         "params": [
             200000,
@@ -13922,7 +14288,10 @@
             350,
             300,
             300
-        ]
+        ],
+        "_original": {
+            "name": "オドロドロ"
+        }
     },
     {
         "id": 144,
@@ -14072,7 +14441,7 @@
             }
         ],
         "gold": 0,
-        "name": "狒々妖頭",
+        "name": "Hihi Demon Head",
         "note": "<NoBookData>",
         "params": [
             800000,
@@ -14083,7 +14452,10 @@
             600,
             480,
             600
-        ]
+        ],
+        "_original": {
+            "name": "狒々妖頭"
+        }
     },
     {
         "id": 145,
@@ -14257,7 +14629,7 @@
             }
         ],
         "gold": 0,
-        "name": "影百足",
+        "name": "Shadow Centipede",
         "note": "<NoBookData>",
         "params": [
             800000,
@@ -14268,7 +14640,10 @@
             800,
             900,
             750
-        ]
+        ],
+        "_original": {
+            "name": "影百足"
+        }
     },
     {
         "id": 146,
@@ -14444,7 +14819,7 @@
             }
         ],
         "gold": 0,
-        "name": "死屍食む獣",
+        "name": "Corpse-Eating Beast",
         "note": "<NoBookData>\n<EnemyHP:1000000>",
         "params": [
             1,
@@ -14455,7 +14830,10 @@
             700,
             580,
             800
-        ]
+        ],
+        "_original": {
+            "name": "死屍食む獣"
+        }
     },
     {
         "id": 147,
@@ -14518,7 +14896,7 @@
             }
         ],
         "gold": 0,
-        "name": "憐れなる餌食",
+        "name": "Pitiful Prey",
         "note": "<NoBookData>",
         "params": [
             60000,
@@ -14529,7 +14907,10 @@
             0,
             1,
             0
-        ]
+        ],
+        "_original": {
+            "name": "憐れなる餌食"
+        }
     },
     {
         "id": 148,
@@ -14705,7 +15086,7 @@
             }
         ],
         "gold": 0,
-        "name": "万目如何",
+        "name": "Myriad Eyes",
         "note": "<NoBookData>\n<EnemyHP:1200000>\n<EnemyAtk:1000>",
         "params": [
             1,
@@ -14716,7 +15097,10 @@
             980,
             400,
             800
-        ]
+        ],
+        "_original": {
+            "name": "万目如何"
+        }
     },
     {
         "id": 149,
@@ -14876,7 +15260,7 @@
             }
         ],
         "gold": 0,
-        "name": "不詳の怪異、鵺",
+        "name": "Unknown Monster, Nue",
         "note": "<NoBookData>\n<EnemyHP:1200000>\n<EnemyAtk:1400>\n<EnemyMat:1400>\n<EnemyDef:1200>\n<EnemyMdf:1200>\n<EnemyAgi:1000>",
         "params": [
             1,
@@ -14887,7 +15271,10 @@
             0,
             0,
             900
-        ]
+        ],
+        "_original": {
+            "name": "不詳の怪異、鵺"
+        }
     },
     {
         "id": 150,
@@ -15088,7 +15475,7 @@
             }
         ],
         "gold": 0,
-        "name": "全知の獣",
+        "name": "Omniscient Beast",
         "note": "<NoBookData>\n<EnemyHP:1800000>\n<EnemyAtk:1800>\n<EnemyMat:1800>\n<EnemyDef:1000>\n<EnemyMdf:1000>",
         "params": [
             1,
@@ -15099,7 +15486,10 @@
             0,
             800,
             900
-        ]
+        ],
+        "_original": {
+            "name": "全知の獣"
+        }
     },
     {
         "id": 151,
@@ -15162,7 +15552,7 @@
             }
         ],
         "gold": 0,
-        "name": "剣客データ",
+        "name": "Swordsman Data",
         "note": "<NoBookData>\n<EnemyAtk:2000>",
         "params": [
             100000,
@@ -15173,7 +15563,10 @@
             0,
             1,
             0
-        ]
+        ],
+        "_original": {
+            "name": "剣客データ"
+        }
     },
     {
         "id": 152,
@@ -15236,7 +15629,7 @@
             }
         ],
         "gold": 0,
-        "name": "僧侶データ",
+        "name": "Monk Data",
         "note": "<NoBookData>\n<EnemyAtk:2000>",
         "params": [
             100000,
@@ -15247,7 +15640,10 @@
             0,
             1,
             0
-        ]
+        ],
+        "_original": {
+            "name": "僧侶データ"
+        }
     },
     {
         "id": 153,
@@ -15484,7 +15880,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼ラムルアラム",
+        "name": "▼Ramul Alam",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -15495,7 +15891,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼ラムルアラム"
+        }
     },
     {
         "id": 157,
@@ -15556,8 +15955,8 @@
             }
         ],
         "gold": 144,
-        "name": "モノロックス",
-        "note": "<CategoryKey:ラムルアラム>\n<text:一角獣の魔物\n主にアルワーフ砂漠に生息する\n\n長く鋭い角を持つ大型の獣\nその角に貫けぬものはないと言われる\n\n決して過言ではない\n突進を盾や鎧で受けてはならない>",
+        "name": "Monorocks",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Unicorn Monster\nPrimarily inhabits the Al-Warf Desert.\n\nA large beast with a long, sharp horn.\nIt is said there is nothing its horn cannot pierce.\n\nThat is no exaggeration.\nYou must not take its charge on a shield or armor.>",
         "params": [
             45500,
             0,
@@ -15567,7 +15966,10 @@
             280,
             860,
             640
-        ]
+        ],
+        "_original": {
+            "name": "モノロックス"
+        }
     },
     {
         "id": 158,
@@ -15635,8 +16037,8 @@
             }
         ],
         "gold": 168,
-        "name": "デザートメロリン",
-        "note": "<CategoryKey:ラムルアラム>\n<text:犬の魔物\n主にアルワーフ砂漠に生息する\n\n砂漠にいる犬の魔物\n彷徨う旅人を導くように動くが\n本人も、あまりよく分かっておらず\n共に行くのは危険\n\n騙すつもりはない\nいいことをしたと思っている>",
+        "name": "Desert Melorin",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Dog Monster\nPrimarily inhabits the Al-Warf Desert.\n\nA canine monster in the desert.\nIt moves as if guiding wandering travelers,\nbut even it doesn't quite understand itself,\nso going together is dangerous.\n\nIt doesn't mean to deceive;\nit just thinks it's doing a good deed.>",
         "params": [
             46000,
             0,
@@ -15646,7 +16048,10 @@
             500,
             940,
             780
-        ]
+        ],
+        "_original": {
+            "name": "デザートメロリン"
+        }
     },
     {
         "id": 159,
@@ -15721,8 +16126,8 @@
             }
         ],
         "gold": 136,
-        "name": "デスタス",
-        "note": "<CategoryKey:ラムルアラム>\n<text:サボテンの魔物\n主にアルワーフ砂漠に生息する\n\n赤褐色のサボテン\n植物ではなく、砂嵐に紛れながら\n密やかに死の魔法を唱える>",
+        "name": "Destas",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Cactus Monster\nPrimarily inhabits the Al-Warf Desert.\n\nA reddish-brown cactus.\nIt is not a plant; while blending into sandstorms,\nit secretly casts death magic.>",
         "params": [
             48800,
             100,
@@ -15732,7 +16137,10 @@
             660,
             300,
             680
-        ]
+        ],
+        "_original": {
+            "name": "デスタス"
+        }
     },
     {
         "id": 160,
@@ -15814,8 +16222,8 @@
             }
         ],
         "gold": 188,
-        "name": "カクトガール",
-        "note": "<CategoryKey:ラムルアラム>\n<text:サボテンの魔物\n主にアルワーフ砂漠に生息する\n\n赤褐色のサボテン少女\nじっとするのは、大人しいからではなく\n反撃の力をためているのだ>",
+        "name": "Cactus Girl",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Cactus Monster\nPrimarily inhabits the Al-Warf Desert.\n\nA reddish-brown cactus girl.\nShe stays still not because she's docile,\nbut because she's storing power for a counterattack.>",
         "params": [
             50000,
             0,
@@ -15825,7 +16233,10 @@
             680,
             380,
             700
-        ]
+        ],
+        "_original": {
+            "name": "カクトガール"
+        }
     },
     {
         "id": 161,
@@ -15961,8 +16372,8 @@
             }
         ],
         "gold": 4000,
-        "name": "砂漠の秘宝",
-        "note": "<EnemyAtk:1200>\n<EnemyAgi:1200>\n<CategoryKey:ヌシ>\n<text:罠の魔物\nアルワーフ砂漠にて遭遇した\n\n砂漠に隠された秘宝\nそれを追う者が、最後に目にするもの\n\n秘宝とは、ここに辿り着いたあなただ\nさあ、共に次なる秘宝を待とう>",
+        "name": "Desert Treasure",
+        "note": "<EnemyAtk:1200>\n<EnemyAgi:1200>\n<CategoryKey:ヌシ>\n<text:Trap Monster\nEncountered in the Al-Warf Desert.\n\nA hidden treasure in the desert.\nWhat those who pursue it see last.\n\nThe treasure is you, who have arrived here.\nNow, let us await the next treasure together.>",
         "params": [
             600000,
             4000,
@@ -15972,7 +16383,10 @@
             840,
             999,
             790
-        ]
+        ],
+        "_original": {
+            "name": "砂漠の秘宝"
+        }
     },
     {
         "id": 162,
@@ -16040,8 +16454,8 @@
             }
         ],
         "gold": 80,
-        "name": "スピンディスク",
-        "note": "<CategoryKey:ラムルアラム>\n<text:機械の魔物\n主に門のブルジュに生息する\n\n浮遊する円盤状の機械\n生息地を規則的に飛び回る\n\n外側に伸びる刃が仕込まれており\n思いの外、原始的な攻撃をする>",
+        "name": "Spin Disc",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Machine Monster\nPrimarily inhabits the Gate of Burj.\n\nA floating disc-shaped machine.\nIt flies around its habitat in regular patterns.\n\nBlades extend outward from it,\nand its attacks are surprisingly primitive.>",
         "params": [
             13200,
             300,
@@ -16051,7 +16465,10 @@
             260,
             390,
             250
-        ]
+        ],
+        "_original": {
+            "name": "スピンディスク"
+        }
     },
     {
         "id": 163,
@@ -16119,8 +16536,8 @@
             }
         ],
         "gold": 100,
-        "name": "オルーサ・マス",
-        "note": "<CategoryKey:ラムルアラム>\n<text:球体のオルーサ兵\n主に門のブルジュに生息する\n\n魂を動力とする機械人形\nただじっと何かを待つように佇み\n危険な存在を発見すると排除を始める>",
+        "name": "Orsa Mas",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Orsa Soldier (Sphere Type)\nPrimarily inhabits the Gate of Burj.\n\nA mechanical doll powered by souls.\nIt stands still as if waiting for something,\nand begins elimination upon detecting a dangerous presence.>",
         "params": [
             20500,
             50,
@@ -16130,7 +16547,10 @@
             340,
             330,
             260
-        ]
+        ],
+        "_original": {
+            "name": "オルーサ・マス"
+        }
     },
     {
         "id": 164,
@@ -16275,8 +16695,8 @@
             }
         ],
         "gold": 2000,
-        "name": "門の封印者",
-        "note": "<反撃拡張:水エラー>\n<CategoryKey:boss>\n<text:球体のオルーサ兵\n門のブルジュにて遭遇した\n\nブルジュにて待ち受ける封印者の一人\n太陽を覆う闇を守るもの\n\n現代では、唯一の旧型\nとても頑丈だったのだ>",
+        "name": "Gate Sealer",
+        "note": "<反撃拡張:水エラー>\n<CategoryKey:boss>\n<text:Orsa Soldier (Sphere Type)\nEncountered at the Gate of Burj.\n\nOne of the sealers lying in wait at Burj.\nOne who guards the darkness that covers the sun.\n\nIn the modern era, the only old model.\nIt was extremely sturdy.>",
         "params": [
             200000,
             200,
@@ -16286,7 +16706,10 @@
             340,
             350,
             360
-        ]
+        ],
+        "_original": {
+            "name": "門の封印者"
+        }
     },
     {
         "id": 165,
@@ -16438,8 +16861,8 @@
             }
         ],
         "gold": 2000,
-        "name": "聖刻の像",
-        "note": "<CategoryKey:boss>\n<text:石の魔物\n聖刻遺跡にて遭遇した\n\n勇士を偽る者を罰する存在\n光の属性を蓄え、それを放つ\n\nこれが現れた例は過去にない\n神を欺くなど、そもそも不可能なのだ>",
+        "name": "Sacred Engraving Statue",
+        "note": "<CategoryKey:boss>\n<text:Stone Monster\nEncountered at the Sacred Engraving Ruins.\n\nA being that punishes those who impersonate warriors.\nIt stores light-attributed energy and unleashes it.\n\nThere is no precedent of this appearing.\nAfter all, deceiving the gods is itself impossible.>",
         "params": [
             220000,
             1000,
@@ -16449,7 +16872,10 @@
             400,
             250,
             350
-        ]
+        ],
+        "_original": {
+            "name": "聖刻の像"
+        }
     },
     {
         "id": 166,
@@ -16517,8 +16943,8 @@
             }
         ],
         "gold": 82,
-        "name": "コルルカ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:小人の魔物\n主にマイヤの都市遺跡に生息する\n\n蛮族と呼ばれる魔物の一種\n手先が器用で腕力も知能も優れる\n才能を生かし、物作りに勤しむ者が多い\n\n性欲が強い>",
+        "name": "Koruruka",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Dwarf Monster\nPrimarily inhabits the Maya City Ruins.\n\nA type of monster called a barbarian tribe.\nThey are dexterous, strong, and intelligent.\nMany put their talents to use in crafting.\n\nThey have strong sexual desires.>",
         "params": [
             14600,
             0,
@@ -16528,7 +16954,10 @@
             300,
             440,
             380
-        ]
+        ],
+        "_original": {
+            "name": "コルルカ"
+        }
     },
     {
         "id": 167,
@@ -16591,8 +17020,8 @@
             }
         ],
         "gold": 70,
-        "name": "サボテンバーレ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:サボテンの魔物\n主にマイヤの都市遺跡に生息する\n\n縦に長いサボテン\nじっと動かず、無害なふりをするが\nその大きさこそが威圧的だ>",
+        "name": "Cactus Barrel",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Cactus Monster\nMainly inhabits Maya's City Ruins.\n\nA tall, elongated cactus.\nIt stays still and pretends to be harmless,\nbut its sheer size is intimidating.>",
         "params": [
             17200,
             0,
@@ -16602,7 +17031,10 @@
             250,
             180,
             280
-        ]
+        ],
+        "_original": {
+            "name": "サボテンバーレ"
+        }
     },
     {
         "id": 168,
@@ -16672,8 +17104,8 @@
             }
         ],
         "gold": 98,
-        "name": "サボテフル",
-        "note": "<CategoryKey:ラムルアラム>\n<text:サボテンの魔物\n主にマイヤの都市遺跡に生息する\n\n少女のようなサボテン\n普段は植物のようにじっとしているが\n時折、陽気に踊り始める>",
+        "name": "Cactus Fruit",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Cactus Monster\nMainly inhabits Maya's City Ruins.\n\nA cactus resembling a young girl.\nUsually it stays still like a plant,\nbut occasionally it begins to dance cheerfully.>",
         "params": [
             20000,
             0,
@@ -16683,7 +17115,10 @@
             316,
             220,
             300
-        ]
+        ],
+        "_original": {
+            "name": "サボテフル"
+        }
     },
     {
         "id": 169,
@@ -16827,8 +17262,8 @@
             }
         ],
         "gold": 2500,
-        "name": "虚無派の暗殺者",
-        "note": "<CategoryKey:ヌシ>\n<text:砂漠に潜む刺客\nマイヤの都市遺跡にて遭遇した\n\n虚無派と呼ばれる砂漠の民\n人間性を欠き、もはや魔物と化した\n\nこの者たちも神を賛美しているが\nそのやり方が異なる者を認められない>",
+        "name": "Void Sect Assassin",
+        "note": "<CategoryKey:ヌシ>\n<text:Assassin Lurking in the Desert\nEncountered at Maya's City Ruins.\n\nA desert people called the Void Faction.\nThey lack humanity and have turned into monsters.\n\nThey too praise the gods,\nbut cannot accept those who do it differently.>",
         "params": [
             238000,
             500,
@@ -16838,7 +17273,10 @@
             380,
             540,
             400
-        ]
+        ],
+        "_original": {
+            "name": "虚無派の暗殺者"
+        }
     },
     {
         "id": 170,
@@ -16909,8 +17347,8 @@
             }
         ],
         "gold": 90,
-        "name": "デッドブロック",
-        "note": "<CategoryKey:ラムルアラム>\n<text:瓦礫の魔物\n主に輝きの大ブルジュに生息する\n\n瓦礫の魔物とされているが\n実際は、影に似た黒い染みのような存在\n身を隠すために瓦礫を纏うという\n\n逆に目立っている>",
+        "name": "Dead Block",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Debris Monster\nMainly inhabits the Great Burj of Radiance.\n\nIt's considered a debris monster,\nbut in reality it's a black stain-like entity resembling a shadow.\nIt supposedly wraps itself in debris to hide,\nbut it actually stands out.>",
         "params": [
             18400,
             0,
@@ -16920,7 +17358,10 @@
             242,
             120,
             326
-        ]
+        ],
+        "_original": {
+            "name": "デッドブロック"
+        }
     },
     {
         "id": 171,
@@ -17000,8 +17441,8 @@
             }
         ],
         "gold": 160,
-        "name": "ムーミャ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:屍の魔物\n主に輝きの大ブルジュに生息する\n\n長い包帯に巻かれた屍\n生を感じると棺より目覚め\n死を与えようとする\n\nこう見えて、寂しがり\n一緒に死んでほしいのだ>",
+        "name": "Mumya",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Corpse Monster\nMainly inhabits the Great Burj of Radiance.\n\nA corpse wrapped in long bandages.\nWhen it senses life, it awakens from its coffin\nand tries to bring death.\n\nDespite appearances, it's lonely,\nand wants you to die together with it.>",
         "params": [
             36600,
             0,
@@ -17011,7 +17452,10 @@
             380,
             320,
             340
-        ]
+        ],
+        "_original": {
+            "name": "ムーミャ"
+        }
     },
     {
         "id": 172,
@@ -17156,8 +17600,8 @@
             }
         ],
         "gold": 2000,
-        "name": "輝きの封印者",
-        "note": "<CategoryKey:boss>\n<text:神の敵の配下\n輝きの大ブルジュにて遭遇した\n\nブルジュにて待ち受ける封印者の一人\n太陽を覆う闇を守るもの\n\n猛禽頭は、太陽の子\nかつては輝きを守っていた>",
+        "name": "Sealer of Radiance",
+        "note": "<CategoryKey:boss>\n<text:Servant of the Enemy of God\nEncountered at the Great Burj of Radiance.\n\nOne of the sealers awaiting in the Burj.\nA guardian of the darkness that covers the sun.\n\nThe raptor-headed one is a child of the sun;\nonce it protected the radiance.>",
         "params": [
             266000,
             1000,
@@ -17167,7 +17611,10 @@
             520,
             440,
             500
-        ]
+        ],
+        "_original": {
+            "name": "輝きの封印者"
+        }
     },
     {
         "id": 173,
@@ -17228,8 +17675,8 @@
             }
         ],
         "gold": 90,
-        "name": "ボルダピオン",
-        "note": "<CategoryKey:ラムルアラム>\n<text:蠍の魔物\n主にアフダル高地に生息する\n\n開閉できる甲殻を持つ\nその内側は広く、小柄な者ならば乗り込めるほど\n\n残念ながら、快適な空間ではない\n毒漬けの食料が蓄えられているのだ>",
+        "name": "Boldapion",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Scorpion Monster\nMainly inhabits the Afdal Highlands.\n\nIt has a carapace that can open and close.\nIts interior is spacious enough for a small person to climb inside.\n\nUnfortunately, it's not a comfortable space;\npoison-soaked food is stored there.>",
         "params": [
             22600,
             0,
@@ -17239,7 +17686,10 @@
             220,
             250,
             320
-        ]
+        ],
+        "_original": {
+            "name": "ボルダピオン"
+        }
     },
     {
         "id": 174,
@@ -17302,8 +17752,8 @@
             }
         ],
         "gold": 96,
-        "name": "ハンマーバード",
-        "note": "<CategoryKey:ラムルアラム>\n<text:鳥の魔物\n主にアフダル高地に生息する\n\n冠羽に鈍器を括り付けた奇妙な鳥\nそれを振り回し敵を撃滅する\n\n人に対し、異様に好戦的\n何か恨みがあるのかもしれない>",
+        "name": "Hammer Bird",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Bird Monster\nMainly inhabits the Afdal Highlands.\n\nA strange bird with a bludgeon tied to its crest.\nIt swings it around to smash enemies.\n\nIt's unusually hostile toward humans.\nMaybe it holds a grudge.>",
         "params": [
             21000,
             0,
@@ -17313,7 +17763,10 @@
             220,
             480,
             208
-        ]
+        ],
+        "_original": {
+            "name": "ハンマーバード"
+        }
     },
     {
         "id": 175,
@@ -17376,8 +17829,8 @@
             }
         ],
         "gold": 104,
-        "name": "オルニシア",
-        "note": "<CategoryKey:ラムルアラム>\n<text:鳥の魔物\n主にアフダル高地に生息する\n\n雌だけが存在する種族\nつがいとなる他の種族の雄を探し続ける\n特に人間は相性がいいという>",
+        "name": "Ornithia",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Bird Monster\nMainly inhabits the Afdal Highlands.\n\nA species consisting only of females.\nThey constantly seek males of other species to mate with.\nHumans are said to be especially compatible.>",
         "params": [
             22800,
             200,
@@ -17387,7 +17840,10 @@
             368,
             460,
             340
-        ]
+        ],
+        "_original": {
+            "name": "オルニシア"
+        }
     },
     {
         "id": 176,
@@ -17521,8 +17977,8 @@
             }
         ],
         "gold": 2500,
-        "name": "ルーフの回収者",
-        "note": "<CategoryKey:ヌシ>\n<text:蚊の魔物\nアフダル高地にて遭遇した\n\n特別な装置で寄る辺なきルーフを集め\n管理する場所へと運ぶ働き者\n\n血を吸うことはないようだ\n蚊呼ばわりすると、かなり機嫌が悪くなる>",
+        "name": "Ruf's Collector",
+        "note": "<CategoryKey:ヌシ>\n<text:Mosquito Monster\nEncountered at the Afdal Highlands.\n\nA hard worker that uses a special device to gather wandering Rooves\nand transports them to a managed location.\n\nIt doesn't seem to suck blood.\nIf you call it a mosquito, it gets quite upset.>",
         "params": [
             280000,
             1000,
@@ -17532,7 +17988,10 @@
             500,
             610,
             420
-        ]
+        ],
+        "_original": {
+            "name": "ルーフの回収者"
+        }
     },
     {
         "id": 177,
@@ -17600,8 +18059,8 @@
             }
         ],
         "gold": 110,
-        "name": "ブルーモア",
-        "note": "<CategoryKey:ラムルアラム>\n<text:植物の魔物\n主に生命のブルジュに生息する\n\n亡骸を苗床に育つ忌まわしい花\n死を象徴する不吉な存在として厭われるが\n実際は、死より芽吹く誕生の象徴である>",
+        "name": "Bluemore",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Plant Monster\nMainly inhabits the Burj of Life.\n\nA loathsome flower that grows from corpses as its seedbed.\nIt is reviled as an unlucky being symbolizing death,\nbut in reality it is a symbol of birth, sprouting from death.>",
         "params": [
             23000,
             300,
@@ -17611,7 +18070,10 @@
             410,
             260,
             400
-        ]
+        ],
+        "_original": {
+            "name": "ブルーモア"
+        }
     },
     {
         "id": 178,
@@ -17708,8 +18170,8 @@
             }
         ],
         "gold": 1111,
-        "name": "ベルルキマイラ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:混成獣の魔物\n主に生命のブルジュに生息する\n\n高度な魔力と知能を持つ魔物\nそのいずれも、人の身では理解できない\n\n極めて稀な、自然に生まれた魔法生物であり\n様々な研究の対象となっているが\n価値ある成果を得た例はない>",
+        "name": "Berukimaira",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Hybrid Beast Monster\nMainly inhabits the Burj of Life.\n\nA monster with high magical power and intelligence,\nneither of which can be understood by human means.\n\nIt is an extremely rare, naturally born magical creature,\nand has been the subject of various studies,\nbut no one has ever obtained any valuable results.>",
         "params": [
             161200,
             2000,
@@ -17719,7 +18181,10 @@
             592,
             280,
             460
-        ]
+        ],
+        "_original": {
+            "name": "ベルルキマイラ"
+        }
     },
     {
         "id": 179,
@@ -17864,8 +18329,8 @@
             }
         ],
         "gold": 2000,
-        "name": "生命の封印者",
-        "note": "<CategoryKey:boss>\n<text:神の敵の配下\n生命のブルジュにて遭遇した\n\nブルジュにて待ち受ける封印者の一人\n太陽を覆う闇を守るもの\n\n猛獣頭は、ルーフの織り手\nかつては生命を守っていた>",
+        "name": "Sealer of Life",
+        "note": "<CategoryKey:boss>\n<text:Servant of the Enemy of God\nEncountered at the Burj of Life.\n\nOne of the sealers awaiting in the Burj.\nA guardian of the darkness that covers the sun.\n\nThe beast-headed one is a weaver of Loof;\nonce it protected life.>",
         "params": [
             400000,
             1000,
@@ -17875,7 +18340,10 @@
             440,
             460,
             530
-        ]
+        ],
+        "_original": {
+            "name": "生命の封印者"
+        }
     },
     {
         "id": 180,
@@ -17943,8 +18411,8 @@
             }
         ],
         "gold": 126,
-        "name": "クリーバーズ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:ハイエナの魔物\n主に眠る砂漠に生息する\n\n乾燥地帯を徘徊する獣\n死肉を漁り、骨までも砕き\nその破片を武器にする>",
+        "name": "Cleavers",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Hyena Monster\nMainly inhabits the Sleeping Desert.\n\nA beast that roams arid regions.\nIt scavenges carrion, crushes even bones,\nand uses the fragments as weapons.>",
         "params": [
             28200,
             0,
@@ -17954,7 +18422,10 @@
             422,
             582,
             414
-        ]
+        ],
+        "_original": {
+            "name": "クリーバーズ"
+        }
     },
     {
         "id": 181,
@@ -18024,8 +18495,8 @@
             }
         ],
         "gold": 120,
-        "name": "オフィオファガス",
-        "note": "<CategoryKey:ラムルアラム>\n<text:蛇の魔物\n主に眠る砂漠に生息する\n\n猛毒を持つ巨大な蛇\n液体としてそれを浴びせかけ\n魔法で追い打ちをかける\n\n禍々しい警戒色は蛇なりの慈悲>",
+        "name": "Ophiophagus",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Serpent Monster\nMainly inhabits the Sleeping Desert.\n\nA giant serpent with deadly venom.\nIt showers it in liquid form,\nthen follows up with magic.\n\nIts ominous warning colors are the serpent's own form of mercy.>",
         "params": [
             26400,
             200,
@@ -18035,7 +18506,10 @@
             440,
             388,
             420
-        ]
+        ],
+        "_original": {
+            "name": "オフィオファガス"
+        }
     },
     {
         "id": 182,
@@ -18117,8 +18591,8 @@
             }
         ],
         "gold": 999,
-        "name": "グーラ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:屍の魔物\n主に眠る砂漠に生息する\n\n雷を浴び、活性化した屍\nそれなりの知能と強大な魔力を持つ\n\nグーラは人の肉を喰う\n彼女にとって、冒険者とは食糧だ>",
+        "name": "Gula",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Corpse Monster\nMainly inhabits the Sleeping Desert.\n\nA corpse activated by exposure to lightning.\nIt has considerable intelligence and immense magical power.\n\nGula eats human flesh.\nTo her, adventurers are food.>",
         "params": [
             148000,
             800,
@@ -18128,7 +18602,10 @@
             498,
             316,
             466
-        ]
+        ],
+        "_original": {
+            "name": "グーラ"
+        }
     },
     {
         "id": 183,
@@ -18268,8 +18745,8 @@
             }
         ],
         "gold": 2500,
-        "name": "マナに飢えたもの",
-        "note": "<CategoryKey:ヌシ>\n<text:人型の魔物\n眠る砂漠にて遭遇した\n\nマナを求めて砂漠を彷徨う正体不明の存在\n\n不気味なほどに静かで緩慢だが\n飢え、獲物を発見した時\nその凶暴性が露わになる>",
+        "name": "Mana-starved One",
+        "note": "<CategoryKey:ヌシ>\n<text:Humanoid Monster\nEncountered in the Sleeping Desert.\n\nAn unidentified being that wanders the desert seeking mana.\n\nIt is eerily quiet and slow,\nbut when hungry and discovering prey,\nits ferocity becomes apparent.>",
         "params": [
             440000,
             0,
@@ -18279,7 +18756,10 @@
             520,
             100,
             600
-        ]
+        ],
+        "_original": {
+            "name": "マナに飢えたもの"
+        }
     },
     {
         "id": 184,
@@ -18342,8 +18822,8 @@
             }
         ],
         "gold": 60,
-        "name": "ローグマゴット",
-        "note": "<CategoryKey:ラムルアラム>\n<text:蛆の魔物\n主にオルーサの墓所に生息する\n\n蠅の魔物の幼虫\n死肉が豊富な場所に現れ、繁殖する\n\n密集して活動し、一つの肉に集る\nその様を嫌悪する冒険者は多い>",
+        "name": "Rogue Maggot",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Maggot Monster\nMainly inhabits Orsa's Tomb.\n\nThe larva of the Fly Monster.\nIt appears and breeds in places rich in carrion.\n\nIt swarms together and gathers on a single piece of meat.\nMany adventurers find this sight repulsive.>",
         "params": [
             24660,
             0,
@@ -18353,7 +18833,10 @@
             400,
             220,
             400
-        ]
+        ],
+        "_original": {
+            "name": "ローグマゴット"
+        }
     },
     {
         "id": 185,
@@ -18443,8 +18926,8 @@
             }
         ],
         "gold": 144,
-        "name": "フライダ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:蠅の魔物\n主にオルーサの墓所に生息する\n\n蛆の魔物の成虫\n高い魔力を蓄え、風の魔法を放つ\n\n蠅は幼虫のために腐肉を集め、柱を作る\n子育てに必要な尊い活動だが\n他者から見れば異様である>",
+        "name": "Flyda",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Fly Monster\nMainly inhabits Orsa's Tomb.\n\nThe adult of the Maggot Monster.\nIt stores high magic power and casts wind magic.\n\nFlies gather carrion for their larvae and build pillars out of it.\nIt's a noble activity necessary for raising young,\nbut to outsiders, it looks bizarre.>",
         "params": [
             40480,
             120,
@@ -18454,7 +18937,10 @@
             470,
             620,
             422
-        ]
+        ],
+        "_original": {
+            "name": "フライダ"
+        }
     },
     {
         "id": 186,
@@ -18592,8 +19078,8 @@
             }
         ],
         "gold": 2000,
-        "name": "墓所の封印者",
-        "note": "<CategoryKey:boss>\n<text:神の敵の配下\nオルーサの墓所にて遭遇した\n\nブルジュにて待ち受ける封印者の一人\n太陽を覆う闇を守るもの\n\n狼頭は、永遠の眠りの番人\nかつては死者の安寧を守っていた>",
+        "name": "Sealer of the Tomb",
+        "note": "<CategoryKey:boss>\n<text:Servant of the Enemy of God\nEncountered at Orsa's Tomb.\n\nOne of the sealers awaiting in the Burj.\nA guardian of the darkness that covers the sun.\n\nThe wolf-headed one is the warden of eternal sleep;\nonce it protected the peace of the dead.>",
         "params": [
             419000,
             1000,
@@ -18603,7 +19089,10 @@
             600,
             580,
             600
-        ]
+        ],
+        "_original": {
+            "name": "墓所の封印者"
+        }
     },
     {
         "id": 187,
@@ -18678,8 +19167,8 @@
             }
         ],
         "gold": 122,
-        "name": "ルージェンニ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:小人の魔物\n主に地上の星空に生息する\n\n東国の小人の祖先\n古い時代を生きた精霊の類\n\nレタルと呼ばれた真白の国では\n真白の大樹が佇んでいた>",
+        "name": "Rugenni",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Dwarf Monster\nMainly inhabits the Starfield on Earth.\n\nThe ancestor of the Eastern dwarves.\nA type of spirit that lived in ancient times.\n\nIn the pure white country called Retal,\nstood the Great Pure White Tree.>",
         "params": [
             31400,
             200,
@@ -18689,7 +19178,10 @@
             520,
             550,
             510
-        ]
+        ],
+        "_original": {
+            "name": "ルージェンニ"
+        }
     },
     {
         "id": 188,
@@ -18769,8 +19261,8 @@
             }
         ],
         "gold": 90,
-        "name": "サーシャハ",
-        "note": "<CategoryKey:ラムルアラム>\n<text:狐の魔物\n主に地上の星空に生息する\n\n東国の霊狐の祖先\n古い時代を生きた精霊の類\n\nレタルと呼ばれた真白の国には\n魂を見通す民がいた>",
+        "name": "Sashaha",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Fox Monster\nMainly inhabits the Starfield on Earth.\n\nThe ancestor of the Eastern spirit foxes.\nA type of spirit that lived in ancient times.\n\nIn the pure white country called Retal,\nthere were people who could see through souls.>",
         "params": [
             28660,
             200,
@@ -18780,7 +19272,10 @@
             520,
             500,
             500
-        ]
+        ],
+        "_original": {
+            "name": "サーシャハ"
+        }
     },
     {
         "id": 189,
@@ -18867,8 +19362,8 @@
             }
         ],
         "gold": 180,
-        "name": "サーラウファ",
-        "note": "<CS_下限HP:99,174>\n<CategoryKey:ラムルアラム>\n<text:狐の魔物\n主に地上の星空に生息する\n\n東国の霊狐の祖先\n古い時代を生きた精霊の類\n\nレタルと呼ばれた真白の国\n四季の和は、そこにあった>",
+        "name": "Saraafa",
+        "note": "<CS_下限HP:99,174>\n<CategoryKey:ラムルアラム>\n<text:Fox Monster\nMainly inhabits the Starfield on Earth.\n\nThe ancestor of the Eastern spirit foxes.\nA type of spirit that lived in ancient times.\n\nIn the pure white country called Retal,\nthe harmony of the four seasons resided there.>",
         "params": [
             59000,
             400,
@@ -18878,7 +19373,10 @@
             580,
             600,
             466
-        ]
+        ],
+        "_original": {
+            "name": "サーラウファ"
+        }
     },
     {
         "id": 190,
@@ -18946,8 +19444,8 @@
             }
         ],
         "gold": 150,
-        "name": "テトラデバイス",
-        "note": "<CategoryKey:ラムルアラム>\n<text:機械の魔物\n主にシャマル・ハラムに生息する\n\n守衛として利用される機械\n何かを守るために存在しており\nそれを失った場合、新たな対象を自ら探す>",
+        "name": "Tetra Device",
+        "note": "<CategoryKey:ラムルアラム>\n<text:Machine Monster\nMainly inhabits Shamal Haram.\n\nA machine used as a guard.\nIt exists to protect something,\nand if that something is lost, it seeks a new target on its own.>",
         "params": [
             32000,
             0,
@@ -18957,7 +19455,10 @@
             550,
             550,
             550
-        ]
+        ],
+        "_original": {
+            "name": "テトラデバイス"
+        }
     },
     {
         "id": 191,
@@ -19102,8 +19603,8 @@
             }
         ],
         "gold": 0,
-        "name": "アル・ヘルムの残響",
-        "note": "<CategoryKey:boss>\n<text:アスワドの神の敵\nシャマル・ハラムにて遭遇した\n\n勇士の旅の果てにあるもの\nそれとは別の何か\n\nかつて、そこには確かに敵がいたが\n今ではこのような残響だけが木霊する>",
+        "name": "Al-Helm's Echo",
+        "note": "<CategoryKey:boss>\n<text:Enemy of God of Aswad\nEncountered at Shamal Haram.\n\nWhat lies at the end of a brave warrior's journey,\nand something else apart from that.\n\nOnce, there was indeed an enemy there,\nbut now only echoes like these linger.>",
         "params": [
             540000,
             5000,
@@ -19113,7 +19614,10 @@
             660,
             610,
             600
-        ]
+        ],
+        "_original": {
+            "name": "アル・ヘルムの残響"
+        }
     },
     {
         "id": 192,
@@ -19273,7 +19777,7 @@
             }
         ],
         "gold": 0,
-        "name": "夢を見た鳥",
+        "name": "Bird That Dreamed",
         "note": "<NoBookData>\n<EnemyHP:5000000>\n<EnemyAtk:10000>\n<EnemyMat:10000>\n<EnemyDef:5000>\n<EnemyMdf:4000>\n<EnemyAgi:4000>\n<EnemyLuk:5000>",
         "params": [
             1,
@@ -19284,7 +19788,10 @@
             0,
             0,
             0
-        ]
+        ],
+        "_original": {
+            "name": "夢を見た鳥"
+        }
     },
     {
         "id": 193,
@@ -19458,7 +19965,7 @@
             }
         ],
         "gold": 0,
-        "name": "夢を捨てた鳥",
+        "name": "Bird That Abandoned Dreams",
         "note": "<NoBookData>\n<EnemyHP:5000000>\n<EnemyAtk:8000>\n<EnemyMat:8000>\n<EnemyDef:4000>\n<EnemyMdf:5000>\n<EnemyAgi:10000>\n<EnemyLuk:5000>",
         "params": [
             1,
@@ -19469,7 +19976,10 @@
             0,
             0,
             0
-        ]
+        ],
+        "_original": {
+            "name": "夢を捨てた鳥"
+        }
     },
     {
         "id": 194,
@@ -19644,7 +20154,7 @@
             }
         ],
         "gold": 0,
-        "name": "▼アル・ヘルム",
+        "name": "▼ Al-Helm",
         "note": "<NoBookData>",
         "params": [
             100,
@@ -19655,7 +20165,10 @@
             10,
             10,
             10
-        ]
+        ],
+        "_original": {
+            "name": "▼アル・ヘルム"
+        }
     },
     {
         "id": 197,
@@ -19723,8 +20236,8 @@
             }
         ],
         "gold": 125,
-        "name": "オルダーパピー",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:機械の魔物\n主に伝承管理塔に生息する\n\nとても古い機械生命体\nその昔、警備用に役立てられた\n\nまるで子犬のようだが\n手懐けようとは思わないこと>",
+        "name": "Order Puppy",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Machine Monster\nMainly inhabits the Legend Management Tower.\n\nA very old mechanical lifeform.\nIn days long past, it was used for security.\n\nIt looks like a puppy,\nbut you should not try to tame it.>",
         "params": [
             34000,
             0,
@@ -19734,7 +20247,10 @@
             500,
             560,
             500
-        ]
+        ],
+        "_original": {
+            "name": "オルダーパピー"
+        }
     },
     {
         "id": 198,
@@ -19809,8 +20325,8 @@
             }
         ],
         "gold": 200,
-        "name": "オルダードッグ",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:機械の魔物\n主に伝承管理塔に生息する\n\nとても古い大型の機械生命体\nその昔、警備用に大いに役立てられた\n\n言うまでもないことだが\n手懐けようとは思わないこと>",
+        "name": "Order Dog",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Machine Monster\nMainly inhabits the Legend Management Tower.\n\nA very old large mechanical lifeform.\nIn days long past, it served greatly for security.\n\nNeedless to say,\nyou should not try to tame it.>",
         "params": [
             60000,
             0,
@@ -19820,7 +20336,10 @@
             550,
             650,
             550
-        ]
+        ],
+        "_original": {
+            "name": "オルダードッグ"
+        }
     },
     {
         "id": 199,
@@ -19888,8 +20407,8 @@
             }
         ],
         "gold": 20,
-        "name": "宿敵",
-        "note": "<EnemyAgi:1200>\n<CategoryKey:アル・ヘルム>\n<text:虫の魔物\n主にイブティサーマに生息する\n\n人類の宿敵\n説明は不要だろう>",
+        "name": "Nemesis",
+        "note": "<EnemyAgi:1200>\n<CategoryKey:アル・ヘルム>\n<text:Insect Monster\nMainly inhabits Ibtisama.\n\nThe sworn enemy of mankind.\nNo explanation needed.>",
         "params": [
             46600,
             10,
@@ -19899,7 +20418,10 @@
             100,
             999,
             600
-        ]
+        ],
+        "_original": {
+            "name": "宿敵"
+        }
     },
     {
         "id": 200,
@@ -19967,8 +20489,8 @@
             }
         ],
         "gold": 160,
-        "name": "ノラ・メロリン",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:犬の魔物\n主にイブティサーマに生息する\n\nアル・ヘルムの街にいる犬の魔物\n極彩色の光に翻弄されながらも\n好き勝手に駆け回り、騒ぎ、遊び\n適当に小便をひっかける>",
+        "name": "Nora Merorin",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Dog Monster\nMainly inhabits Ibtisama.\n\nA dog monster found in the town of Al-Helm.\nThough toyed with by the iridescent light,\nit runs around as it pleases, makes noise, plays,\nand casually sprays urine here and there.>",
         "params": [
             36000,
             0,
@@ -19978,7 +20500,10 @@
             440,
             660,
             300
-        ]
+        ],
+        "_original": {
+            "name": "ノラ・メロリン"
+        }
     },
     {
         "id": 201,
@@ -20055,8 +20580,8 @@
             }
         ],
         "gold": 250,
-        "name": "ココトト",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:迷子の魔物\n主にイブティサーマに生息する\n\n罠の魔物として知られる存在の中身\n宝箱を失い、自らの足で当てもなく彷徨う\n\n機嫌を損ねなければ敵対することはないが\nいざそうなると、執拗に追われ続ける\n逃走は難しい。倒すしかないだろう>",
+        "name": "Kokototo",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Lost Child Monster\nMainly inhabits Ibtisama.\n\nThe true form of the being known as the Trap Monster.\nHaving lost its treasure chest, it wanders aimlessly on its own feet.\n\nIt won't attack unless you anger it,\nbut once that happens, it will pursue you relentlessly.\nEscape is difficult. You'll have no choice but to defeat it.>",
         "params": [
             122200,
             100,
@@ -20066,7 +20591,10 @@
             500,
             220,
             660
-        ]
+        ],
+        "_original": {
+            "name": "ココトト"
+        }
     },
     {
         "id": 202,
@@ -20207,8 +20735,8 @@
             }
         ],
         "gold": 3000,
-        "name": "古き時代の宿敵",
-        "note": "<EnemyAgi:1400>\n<CategoryKey:ヌシ>\n<text:虫の魔物\nイブティサーマにて遭遇した\n\n宿敵は、いつの時代にも存在し\nいつの時代であろうと宿敵である\n\nあるいは伝承の見本と言える>",
+        "name": "Nemesis of the Ancient Age",
+        "note": "<EnemyAgi:1400>\n<CategoryKey:ヌシ>\n<text:Insect Monster\nEncountered in Ibtisama.\n\nThe eternal enemy exists in every age,\nand is the eternal enemy in every age.\n\nOr perhaps, it could be called a specimen of tradition.>",
         "params": [
             480000,
             200,
@@ -20218,7 +20746,10 @@
             600,
             999,
             900
-        ]
+        ],
+        "_original": {
+            "name": "古き時代の宿敵"
+        }
     },
     {
         "id": 203,
@@ -20286,8 +20817,8 @@
             }
         ],
         "gold": 140,
-        "name": "アークディスク",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:機械の魔物\n主にオルーサ製造所に生息する\n\n浮遊する円盤状の機械\n滞空しながら索敵し、周囲を監視する\n\n回転しながらの突撃は極めて鋭く\n人の手足を切断するほど>",
+        "name": "Arc Disk",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Mechanical Monster\nMainly inhabits the Orsa Factory.\n\nA floating disc-shaped machine.\nIt hovers while searching for enemies and monitors its surroundings.\n\nIts spinning charge is extremely sharp,\ncapable of severing a person's limbs.>",
         "params": [
             37500,
             300,
@@ -20297,7 +20828,10 @@
             480,
             710,
             560
-        ]
+        ],
+        "_original": {
+            "name": "アークディスク"
+        }
     },
     {
         "id": 204,
@@ -20365,8 +20899,8 @@
             }
         ],
         "gold": 200,
-        "name": "ルーフレス",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:球体のオルーサ\n主にオルーサ製造所に生息する\n\n動力を失っているオルーサ\nなおも動く原因はよく分からないが\nとかく魔物とは、そうして誕生する>",
+        "name": "Rufeless",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Spherical Orsa\nMainly inhabits the Orsa Factory.\n\nAn Orsa that has lost its power.\nThe reason it still moves is unclear,\nbut that is how monsters are born.>",
         "params": [
             38000,
             50,
@@ -20376,7 +20910,10 @@
             580,
             590,
             560
-        ]
+        ],
+        "_original": {
+            "name": "ルーフレス"
+        }
     },
     {
         "id": 205,
@@ -20514,8 +21051,8 @@
             }
         ],
         "gold": 3000,
-        "name": "オルーサ・イムラク",
-        "note": "<CategoryKey:boss>\n<text:石の魔物\nオルーサ製造所にて遭遇した\n\nアル・ヘルムでは最大のオルーサ\n労働や防衛のためではなく\n特別な目的を持って作られる\n\n駆動には多くのルーフを必要とし\n特に生成時は周囲に影響を及ぼす>",
+        "name": "Orsa Imrak",
+        "note": "<CategoryKey:boss>\n<text:Stone Monster\nEncountered at the Orsa Factory.\n\nThe largest Orsa in Al-Helm.\nIt was not made for labor or defense,\nbut for a special purpose.\n\nIt requires a great deal of Roof to drive it,\nand especially during generation, it affects its surroundings.>",
         "params": [
             500000,
             2000,
@@ -20525,7 +21062,10 @@
             620,
             350,
             450
-        ]
+        ],
+        "_original": {
+            "name": "オルーサ・イムラク"
+        }
     },
     {
         "id": 206,
@@ -20595,8 +21135,8 @@
             }
         ],
         "gold": 1,
-        "name": "コタマモドキ",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:謎の魔物\n主に第三層研究施設に生息する\n\nまるでコタマに見える魔物\n実態は、なにか迷惑な存在であり\n勝って得られるものも少ない>",
+        "name": "Kotama Modoki",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Mysterious Monster\nMainly inhabits the Third Layer Research Facility.\n\nA monster that looks just like Kotama.\nIn reality, it is something troublesome,\nand there is little to gain from defeating it.>",
         "params": [
             34000,
             500,
@@ -20606,7 +21146,10 @@
             560,
             560,
             560
-        ]
+        ],
+        "_original": {
+            "name": "コタマモドキ"
+        }
     },
     {
         "id": 207,
@@ -20674,8 +21217,8 @@
             }
         ],
         "gold": 220,
-        "name": "レタルウサギ",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:兎の魔物\n主に第三層研究施設に生息する\n\n真白の国で暮らしていた兎の怪異\n何か動くものを見つけたら\nひとまずついていく習性を持つ\n\n夜は、静か\n月を見るのに忙しいのだ>",
+        "name": "Retaru Usagi",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Rabbit Monster\nMainly inhabits the Third Layer Research Facility.\n\nA rabbit anomaly that lived in the White Country.\nIt has a habit of following whatever moves,\nat least for a while.\n\nThe night is quiet.\nIt is busy looking at the moon.>",
         "params": [
             62000,
             120,
@@ -20685,7 +21228,10 @@
             580,
             700,
             720
-        ]
+        ],
+        "_original": {
+            "name": "レタルウサギ"
+        }
     },
     {
         "id": 208,
@@ -20789,8 +21335,8 @@
             }
         ],
         "gold": 1500,
-        "name": "アニマキマイラ",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:混成獣の魔物\n主に第三層研究施設に生息する\n\n魂を操るというキマイラ\nそうして概念的な繋がりを築き\n全なる知識を一にする\n\nレタルでは神の如き存在とされ\nその神技を礎とした>",
+        "name": "Anima Chimera",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Hybrid Beast Monster\nMainly inhabits the Third Layer Research Facility.\n\nA chimera that manipulates souls.\nIn doing so, it builds conceptual connections\nand unifies all knowledge into one.\n\nIn Retal, it was regarded as a godlike being,\nand its divine arts served as the foundation.>",
         "params": [
             224400,
             2000,
@@ -20800,7 +21346,10 @@
             740,
             320,
             600
-        ]
+        ],
+        "_original": {
+            "name": "アニマキマイラ"
+        }
     },
     {
         "id": 209,
@@ -20868,8 +21417,8 @@
             }
         ],
         "gold": 220,
-        "name": "オクタデバイス",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:機械の魔物\n主に歴史館廃墟に生息する\n\n定められた場所を守る機械\n不審者を発見すると追跡を初め\n搭載した兵器により破壊を試みる>",
+        "name": "Octa Device",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Mechanical Monster\nMainly inhabits the Museum Ruins.\n\nA machine that guards a set place.\nWhen it detects a suspicious person, it begins pursuit\nand attempts to destroy them with its mounted weapons.>",
         "params": [
             40000,
             0,
@@ -20879,7 +21428,10 @@
             625,
             665,
             625
-        ]
+        ],
+        "_original": {
+            "name": "オクタデバイス"
+        }
     },
     {
         "id": 210,
@@ -21026,8 +21578,8 @@
             }
         ],
         "gold": 0,
-        "name": "エクスパルド",
-        "note": "<EnemyAgi:2400>\n<CategoryKey:アル・ヘルム>\n<text:影の魔物\n主に歴史館廃墟に生息する\n\n猫のような姿をした影の魔物\n逃走するということが最大の特徴で\n仕留めるのは、なかなか難しい\n\n神話の時代にはよく見られた\n今は、うんざりしてしまったのかもしれない>",
+        "name": "Expaldo",
+        "note": "<EnemyAgi:2400>\n<CategoryKey:アル・ヘルム>\n<text:Shadow Monster\nMainly inhabits the Museum Ruins.\n\nA shadow monster shaped like a cat.\nIts greatest trait is that it flees,\nmaking it quite difficult to take down.\n\nIt was commonly seen in the age of myth.\nPerhaps now it has grown tired of it all.>",
         "params": [
             300,
             0,
@@ -21037,7 +21589,10 @@
             999,
             999,
             999
-        ]
+        ],
+        "_original": {
+            "name": "エクスパルド"
+        }
     },
     {
         "id": 211,
@@ -21134,8 +21689,8 @@
             }
         ],
         "gold": 4000,
-        "name": "ベルメリア",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:竜の魔物\n主に歴史館廃墟に生息する\n\n竜は比類なき種族として知られるが\n竜人もまたそうである\n\nそして、時には凌駕する者がいる>",
+        "name": "Belmeria",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Dragon Monster\nMainly inhabits the Museum Ruins.\n\nDragons are known as an unparalleled race,\nbut dragonkin are the same.\n\nAnd sometimes, there are those who surpass them.>",
         "params": [
             240000,
             600,
@@ -21145,7 +21700,10 @@
             790,
             840,
             800
-        ]
+        ],
+        "_original": {
+            "name": "ベルメリア"
+        }
     },
     {
         "id": 212,
@@ -21213,8 +21771,8 @@
             }
         ],
         "gold": 250,
-        "name": "オルーサ・イスタ",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:球体のオルーサ兵\n主に中枢管理塔に生息する\n\nアル・ヘルムを守る機械人形\nルーフの遺志により今なお動き続け\n滅びの尖兵を排除する>",
+        "name": "Orsa Ista",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Spherical Orsa Soldier\nMainly inhabits the Central Control Tower.\n\nA mechanical doll that protects Al-Helm.\nIt continues to move even now by the will of Roof,\neliminating the vanguards of destruction.>",
         "params": [
             48000,
             100,
@@ -21224,7 +21782,10 @@
             640,
             740,
             660
-        ]
+        ],
+        "_original": {
+            "name": "オルーサ・イスタ"
+        }
     },
     {
         "id": 213,
@@ -21306,8 +21867,8 @@
             }
         ],
         "gold": 500,
-        "name": "オルーサ・ゼロ",
-        "note": "<CategoryKey:アル・ヘルム>\n<text:球体のオルーサ兵\n主に中枢管理塔に生息する\n\nアル・ヘルムを守る機械人形\n\n彼らは誤認しているわけではなく\n故障しているわけでもない\n\nただ、悟ってしまった>",
+        "name": "Orsa Zero",
+        "note": "<CategoryKey:アル・ヘルム>\n<text:Spherical Orsa Soldier\nMainly inhabits the Central Control Tower.\n\nA mechanical doll that protects Al-Helm.\n\nThey are not mistaken,\nnor are they broken.\n\nThey have simply realized.>",
         "params": [
             120000,
             100,
@@ -21317,7 +21878,10 @@
             740,
             900,
             660
-        ]
+        ],
+        "_original": {
+            "name": "オルーサ・ゼロ"
+        }
     },
     {
         "id": 214,
@@ -21462,8 +22026,8 @@
             }
         ],
         "gold": 0,
-        "name": "伝承の遺志",
-        "note": "<CategoryKey:boss>\n<text:アスワドの民の魂\n中枢管理塔にて遭遇した\n\nその思いはただ一つ、神の伝承\n\n太陽を讃え、未来のために殉じたが\n今や喪失への恐怖に涙している\n\nかつての勇士の面影があるのは\n民の希望の象徴だったためだろう>",
+        "name": "Legacy Will",
+        "note": "<CategoryKey:boss>\n<text:Souls of the Asuad People\nEncountered at the Central Control Tower.\n\nTheir only thought is the divine tradition.\n\nThey praised the sun and martyred themselves for the future,\nbut now they weep in fear of loss.\n\nThe reason they bear the likeness of the warriors of old\nis likely because they were symbols of the people's hope.>",
         "params": [
             700000,
             5000,
@@ -21473,7 +22037,10 @@
             880,
             880,
             900
-        ]
+        ],
+        "_original": {
+            "name": "伝承の遺志"
+        }
     },
     {
         "id": 215,
@@ -21529,7 +22096,7 @@
             }
         ],
         "gold": 0,
-        "name": "シミュレーター",
+        "name": "Simulator",
         "note": "<NoBookData>\n<EnemyHP:10000000>",
         "params": [
             1,
@@ -21540,7 +22107,10 @@
             0,
             1,
             0
-        ]
+        ],
+        "_original": {
+            "name": "シミュレーター"
+        }
     },
     {
         "id": 216,

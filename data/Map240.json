@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "コタンの蔵",
+    "displayName": "Kotan Storehouse",
     "encounterList": [
         {
             "troopId": 134,
@@ -7178,22 +7178,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凍てついている……"
-                            ]
+                                "It's a corpse. It's frozen solid..."
+                            ],
+                            "_original": "亡骸だ。\n凍てついている……"
                         },
                         {
                             "code": 0,

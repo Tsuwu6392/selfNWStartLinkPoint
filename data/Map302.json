@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "蛇の村",
+    "displayName": "Snake Village",
     "encounterList": [
         {
             "troopId": 186,
@@ -3821,15 +3821,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "汚い壺だ。"
-                            ]
+                                "What a filthy jar."
+                            ],
+                            "_original": "汚い壺だ。"
                         },
                         {
                             "code": 0,
@@ -3899,29 +3901,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロの箱だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自然と劣化したのではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人為的に壊されたように見える。"
-                            ]
+                                "The box is in tatters. It doesn't look\nlike it wore out naturally―it was\ndeliberately destroyed."
+                            ],
+                            "_original": "ボロボロの箱だ。\n自然と劣化したのではなく、\n人為的に壊されたように見える。"
                         },
                         {
                             "code": 0,
@@ -3991,22 +3981,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "棚だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には何もない。"
-                            ]
+                                "It's a shelf. There's nothing inside."
+                            ],
+                            "_original": "棚だ。\n中には何もない。"
                         },
                         {
                             "code": 0,

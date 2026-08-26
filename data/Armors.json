@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼刻印",
+        "name": "▼Seal",
         "note": "",
         "params": [
             0,
@@ -25,17 +25,20 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼刻印"
+        }
     },
     {
         "id": 2,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力10上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Attack +10",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Attack Seal I",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -46,17 +49,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "攻撃の刻印Ⅰ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力10上昇"
+        }
     },
     {
         "id": 3,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力20上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Attack +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Attack Seal II",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -67,17 +74,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "攻撃の刻印Ⅱ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力20上昇"
+        }
     },
     {
         "id": 4,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力30上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Attack +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Attack Seal III",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -88,17 +99,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "攻撃の刻印Ⅲ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力30上昇"
+        }
     },
     {
         "id": 5,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力40上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Attack +40",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅳ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Attack Seal IV",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -109,12 +124,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "攻撃の刻印Ⅳ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力40上昇"
+        }
     },
     {
         "id": 6,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力10％上昇、会心率5％上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Attack +10%, Critical Rate +5%",
         "etypeId": 2,
         "traits": [
             {
@@ -129,8 +148,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅴ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Attack Seal V",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -141,7 +160,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "攻撃の刻印Ⅴ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力10％上昇、会心率5％上昇"
+        }
     },
     {
         "id": 7,
@@ -173,12 +196,12 @@
     {
         "id": 8,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力10上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Defense +10",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Defense Seal I",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -189,17 +212,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "防御の刻印Ⅰ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力10上昇"
+        }
     },
     {
         "id": 9,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力20上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Defense +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Defense Seal II",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -210,17 +237,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "防御の刻印Ⅱ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力20上昇"
+        }
     },
     {
         "id": 10,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力30上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Defense +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Defense Seal III",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -231,17 +262,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "防御の刻印Ⅲ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力30上昇"
+        }
     },
     {
         "id": 11,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力40上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Defense +40",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅳ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Defense Seal IV",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -252,12 +287,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "防御の刻印Ⅳ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力40上昇"
+        }
     },
     {
         "id": 12,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力10％上昇、被物理ダメージ5％軽減",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Defense +10%, Physical Damage Taken -5%",
         "etypeId": 2,
         "traits": [
             {
@@ -272,8 +311,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅴ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Defense Seal V",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -284,7 +323,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "防御の刻印Ⅴ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力10％上昇、被物理ダメージ5％軽減"
+        }
     },
     {
         "id": 13,
@@ -316,12 +359,12 @@
     {
         "id": 14,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力10上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Attack +10",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Attack Seal I",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -332,17 +375,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔攻の刻印Ⅰ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力10上昇"
+        }
     },
     {
         "id": 15,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力20上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Attack +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Attack Seal II",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -353,17 +400,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔攻の刻印Ⅱ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力20上昇"
+        }
     },
     {
         "id": 16,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力30上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Attack +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Attack Seal III",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -374,17 +425,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔攻の刻印Ⅲ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力30上昇"
+        }
     },
     {
         "id": 17,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力40上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Attack +40",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅳ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Attack Seal IV",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -395,12 +450,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔攻の刻印Ⅳ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力40上昇"
+        }
     },
     {
         "id": 18,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力10％上昇、会心ダメージ10％上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Attack +10%, Critical Damage +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -410,8 +469,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅴ",
-        "note": "<BoostEX:CR, 10>\n<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Attack Seal V",
+        "note": "<BoostEX:CR, 10>\n<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -422,7 +481,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔攻の刻印Ⅴ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力10％上昇、会心ダメージ10％上昇"
+        }
     },
     {
         "id": 19,
@@ -454,12 +517,12 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力10上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Defense +10",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Defense Seal I",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -470,17 +533,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔防の刻印Ⅰ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力10上昇"
+        }
     },
     {
         "id": 21,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力20上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Defense +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Defense Seal II",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -491,17 +558,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔防の刻印Ⅱ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力20上昇"
+        }
     },
     {
         "id": 22,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力30上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Defense +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Defense Seal III",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -512,17 +583,21 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔防の刻印Ⅲ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力30上昇"
+        }
     },
     {
         "id": 23,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力40上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Defense +40",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅳ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Defense Seal IV",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -533,12 +608,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔防の刻印Ⅳ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力40上昇"
+        }
     },
     {
         "id": 24,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力10％上昇、被魔法ダメージ5％軽減",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Magic Defense +10%, Magical Damage Taken -5%",
         "etypeId": 2,
         "traits": [
             {
@@ -553,8 +632,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅴ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Magic Defense Seal V",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -565,7 +644,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "魔防の刻印Ⅴ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力10％上昇、被魔法ダメージ5％軽減"
+        }
     },
     {
         "id": 25,
@@ -597,12 +680,12 @@
     {
         "id": 26,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ10上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Agility +10",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Agility Seal I",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -613,17 +696,21 @@
             10,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "敏捷の刻印Ⅰ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ10上昇"
+        }
     },
     {
         "id": 27,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ20上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Agility +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Agility Seal II",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -634,17 +721,21 @@
             20,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "敏捷の刻印Ⅱ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ20上昇"
+        }
     },
     {
         "id": 28,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ30上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Agility +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Agility Seal III",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -655,17 +746,21 @@
             30,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "敏捷の刻印Ⅲ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ30上昇"
+        }
     },
     {
         "id": 29,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ40上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Agility +40",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅳ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Agility Seal IV",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -676,12 +771,16 @@
             40,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "敏捷の刻印Ⅳ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ40上昇"
+        }
     },
     {
         "id": 30,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ10％上昇、消費SP10％減少",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Agility +10%, SP Consumption -10%",
         "etypeId": 2,
         "traits": [
             {
@@ -696,8 +795,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅴ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Agility Seal V",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -708,7 +807,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "敏捷の刻印Ⅴ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ10％上昇、消費SP10％減少"
+        }
     },
     {
         "id": 31,
@@ -740,12 +843,12 @@
     {
         "id": 32,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気10上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Spirit +10",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Spirit Seal I",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -756,17 +859,21 @@
             0,
             10
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "心気の刻印Ⅰ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気10上昇"
+        }
     },
     {
         "id": 33,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気20上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Spirit +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Spirit Seal II",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -777,17 +884,21 @@
             0,
             20
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "心気の刻印Ⅱ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気20上昇"
+        }
     },
     {
         "id": 34,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気30上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Spirit +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Spirit Seal III",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -798,17 +909,21 @@
             0,
             30
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "心気の刻印Ⅲ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気30上昇"
+        }
     },
     {
         "id": 35,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気40上昇",
+        "description": "A seal for weapons. \\C[24]Seal Effect: \\C[0]Spirit +40",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅳ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Spirit Seal IV",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -819,12 +934,16 @@
             0,
             40
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "心気の刻印Ⅳ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気40上昇"
+        }
     },
     {
         "id": 36,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気10％上昇、TP増加率25％上昇",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Increases Spirit by 10% and TP gain\nrate by 25%.",
         "etypeId": 2,
         "traits": [
             {
@@ -839,8 +958,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅴ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Spirit V",
+        "note": "<dPlnText:An engraving that enhances weapon performance Devised by\nfairies and popularized in the Valley Kingdom It is said\nthat engravings with exactly the same power repel each other\nTherefore, you cannot equip the same engraving.>",
         "params": [
             0,
             0,
@@ -851,7 +970,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "心気の刻印Ⅴ",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気10％上昇、TP増加率25％上昇"
+        }
     },
     {
         "id": 37,
@@ -937,7 +1060,7 @@
     {
         "id": 40,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に炎属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Fire attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -947,8 +1070,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "炎の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Fire",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -959,12 +1082,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "炎の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に炎属性付与"
+        }
     },
     {
         "id": 41,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に雷属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Lightning attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -974,8 +1101,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "雷の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Thunder",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -986,12 +1113,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "雷の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に雷属性付与"
+        }
     },
     {
         "id": 42,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に氷属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Ice attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -1001,8 +1132,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "氷の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Ice",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1013,12 +1144,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "氷の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に氷属性付与"
+        }
     },
     {
         "id": 43,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に水属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Water attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -1028,8 +1163,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "水の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Water",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1040,12 +1175,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "水の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に水属性付与"
+        }
     },
     {
         "id": 44,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に地属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Earth attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -1055,8 +1194,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "地の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Earth",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1067,12 +1206,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "地の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に地属性付与"
+        }
     },
     {
         "id": 45,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に風属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Wind attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -1082,8 +1225,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "風の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Wind",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1094,12 +1237,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "風の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に風属性付与"
+        }
     },
     {
         "id": 46,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に光属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Light attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -1109,8 +1256,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "光の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Light",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1121,12 +1268,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "光の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に光属性付与"
+        }
     },
     {
         "id": 47,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に闇属性付与",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds Dark attribute to attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -1136,8 +1287,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "闇の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Seal of Dark",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1148,7 +1299,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "闇の刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に闇属性付与"
+        }
     },
     {
         "id": 48,
@@ -1217,7 +1372,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼技刻印",
+        "name": "▼Skill Seals",
         "note": "",
         "params": [
             0,
@@ -1229,12 +1384,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼技刻印"
+        }
     },
     {
         "id": 51,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「回復」追加",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds weapon skill \"Recovery\".",
         "etypeId": 2,
         "traits": [
             {
@@ -1249,8 +1407,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "回復の技刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Recovery Skill Seal",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1261,12 +1419,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "回復の技刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「回復」追加"
+        }
     },
     {
         "id": 52,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「活性」追加",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds weapon skill \"Energize\".",
         "etypeId": 2,
         "traits": [
             {
@@ -1281,8 +1443,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "活性の技刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Vitality Skill Seal",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1293,12 +1455,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "活性の技刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「活性」追加"
+        }
     },
     {
         "id": 53,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「集中」追加",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds weapon skill \"Focus\".",
         "etypeId": 2,
         "traits": [
             {
@@ -1313,8 +1479,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "集中の技刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Focus Skill Seal",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1325,12 +1491,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "集中の技刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「集中」追加"
+        }
     },
     {
         "id": 54,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「治療」追加",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds weapon skill \"Cure\".",
         "etypeId": 2,
         "traits": [
             {
@@ -1345,8 +1515,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "治療の技刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Healing Skill Seal",
+        "note": "<dPlnText:A mark that enhances weapon performance. Devised by fairies\nand spread throughout the Valley Nation. It is said that\nmarks with exactly the same power repel each other. Thus,\nyou cannot equip the same mark twice.>",
         "params": [
             0,
             0,
@@ -1357,7 +1527,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "治療の技刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「治療」追加"
+        }
     },
     {
         "id": 55,
@@ -1507,7 +1681,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼ユニーク刻印",
+        "name": "▼Unique Seals",
         "note": "",
         "params": [
             0,
@@ -1519,7 +1693,10 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼ユニーク刻印"
+        }
     },
     {
         "id": 61,
@@ -1777,7 +1954,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼ユニーク技刻印",
+        "name": "▼Unique Skill Seals",
         "note": "",
         "params": [
             0,
@@ -1789,12 +1966,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼ユニーク技刻印"
+        }
     },
     {
         "id": 71,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「黄泉縛り」追加",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds weapon skill \"Yomi Binding\".",
         "etypeId": 2,
         "traits": [
             {
@@ -1809,8 +1989,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "黄泉縛りの技刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n特殊な能力を秘めている\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Underworld Binding Skill Seal",
+        "note": "<NameColor:2>\n<dPlnText:A mark that enhances weapon performance. It holds a special\nability. It is said that marks with exactly the same power\nrepel each other. Thus, you cannot equip the same mark\ntwice.>",
         "params": [
             0,
             0,
@@ -1821,12 +2001,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "黄泉縛りの技刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「黄泉縛り」追加"
+        }
     },
     {
         "id": 72,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「神懸かり」追加",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds weapon skill \"Divine Possession\".",
         "etypeId": 2,
         "traits": [
             {
@@ -1841,8 +2025,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "欠けた四魂の技刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n特殊な能力を秘めている\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Broken Four Souls Skill Seal",
+        "note": "<NameColor:2>\n<dPlnText:A mark that enhances weapon performance. It holds a special\nability. It is said that marks with exactly the same power\nrepel each other. Thus, you cannot equip the same mark\ntwice.>",
         "params": [
             0,
             0,
@@ -1853,12 +2037,16 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "欠けた四魂の技刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]武器スキル「神懸かり」追加"
+        }
     },
     {
         "id": 73,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大HP10％上昇、武器スキル「神懸かり」追加",
+        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Increases Max HP by 10% and adds\nweapon skill \"Divine Possession\".",
         "etypeId": 2,
         "traits": [
             {
@@ -1878,8 +2066,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "四魂の技刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n特殊な能力を秘めている\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Four Souls Skill Seal",
+        "note": "<NameColor:2>\n<dPlnText:A mark that enhances weapon performance. It holds a special\nability. It is said that marks with exactly the same power\nrepel each other. Thus, you cannot equip the same mark\ntwice.>",
         "params": [
             0,
             0,
@@ -1890,7 +2078,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "四魂の技刻印",
+            "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大HP10％上昇、武器スキル「神懸かり」追加"
+        }
     },
     {
         "id": 74,
@@ -2607,7 +2799,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼防具",
+        "name": "▼Armor",
         "note": "",
         "params": [
             0,
@@ -2619,17 +2811,20 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼防具"
+        }
     },
     {
         "id": 101,
         "atypeId": 1,
-        "description": "旅をする者が纏う服。",
+        "description": "Clothing worn by travelers.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 135,
-        "name": "旅の服",
-        "note": "<dPlnText:旅に適した丈夫な服\n汚れに強く、そして破れにくい\n　\nこれは戦闘を想定したものではないため\n防具としての性能は皆無に等しい\n　\n特殊な効果は持たない>",
+        "name": "Traveler's Clothes",
+        "note": "<dPlnText:Sturdy clothing suited for travel. Resistant to stains and\nhard to tear. Since it is not designed for combat, its\nperformance as armor is practically nonexistent. It has no\nspecial effects.>",
         "params": [
             0,
             0,
@@ -2640,17 +2835,21 @@
             0,
             0
         ],
-        "price": 8
+        "price": 8,
+        "_original": {
+            "name": "旅の服",
+            "description": "旅をする者が纏う服。"
+        }
     },
     {
         "id": 102,
         "atypeId": 1,
-        "description": "冒険者のために作られた外套。",
+        "description": "A cloak made for adventurers.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 138,
-        "name": "冒険者の外套",
-        "note": "<dPlnText:冒険者のために作られた外套\n風雨を凌ぎ、砂塵に強く\n日差しや寒気から身を守る\n　\n大きく分厚いため寝具としても使える\n宿がないときの助けとなるだろう\n　\n特殊な効果は持たない>",
+        "name": "Adventurer's Cloak",
+        "note": "<dPlnText:A cloak made for adventurers. It shields against wind and rain, resists\ndust, and protects the wearer from sunlight and cold. It is large and thick\nenough to be used as bedding, so it will come in handy when you have no\ninn. It has no special effects.>",
         "params": [
             0,
             0,
@@ -2661,17 +2860,21 @@
             0,
             0
         ],
-        "price": 20
+        "price": 20,
+        "_original": {
+            "name": "冒険者の外套",
+            "description": "冒険者のために作られた外套。"
+        }
     },
     {
         "id": 103,
         "atypeId": 1,
-        "description": "シキノワの都で人気の土産物。",
+        "description": "A popular souvenir in the capital of Shikinowa.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 138,
-        "name": "秋水京羽織",
-        "note": "<dPlnText:美しい羽織\n異邦人に人気の土産物\n　\n見栄えを重視した衣服ではあるものの\n装備品としての使用にも耐え得る\n　\n特殊な効果は持たない>",
+        "name": "Autumn Water Haori",
+        "note": "<dPlnText:A beautiful haori. A popular souvenir among foreigners.\nAlthough it is a garment made with emphasis on appearance,\nit can still withstand use as equipment. It has no special\neffects.>",
         "params": [
             0,
             0,
@@ -2682,17 +2885,21 @@
             0,
             12
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "秋水京羽織",
+            "description": "シキノワの都で人気の土産物。"
+        }
     },
     {
         "id": 104,
         "atypeId": 1,
-        "description": "東国の忍びが纏う衣服。",
+        "description": "Garments worn by shinobi of the eastern lands.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 139,
-        "name": "忍び装束",
-        "note": "<dPlnText:東国の忍び装束\n軽さと頑丈さを併せ持つ\n　\n忍びの服の出所は不詳だが\n果ての妖狸たちは、その秘密を握るという\n　\n特殊な効果は持たない>",
+        "name": "Ninja Garb",
+        "note": "<dPlnText:Eastern ninja garb. Combining lightness with durability. The\norigin of the ninja attire is unknown, but it is said that\nthe mystic tanuki of the End hold its secrets. It has no\nspecial effects.>",
         "params": [
             0,
             0,
@@ -2703,17 +2910,21 @@
             0,
             0
         ],
-        "price": 400
+        "price": 400,
+        "_original": {
+            "name": "忍び装束",
+            "description": "東国の忍びが纏う衣服。"
+        }
     },
     {
         "id": 105,
         "atypeId": 1,
-        "description": "純白の糸から織られた外套。",
+        "description": "A cloak woven from pure white thread.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 138,
-        "name": "白織りの外套",
-        "note": "<dPlnText:ウパシモシリで見られる衣服\n何にも染まらぬ白の外套\n　\nその地は神の最初の褥であり\n紡がれた糸が、深雪の下に眠っている\n　\n特殊な効果は持たない>",
+        "name": "White Weave Cloak",
+        "note": "<dPlnText:Garments seen in Upashimoshiri. A white cloak unstained by\nanything. That land is the first resting place of the gods,\nand the spun threads sleep beneath the deep snow. It has no\nspecial effects.>",
         "params": [
             0,
             0,
@@ -2724,17 +2935,21 @@
             0,
             0
         ],
-        "price": 800
+        "price": 800,
+        "_original": {
+            "name": "白織りの外套",
+            "description": "純白の糸から織られた外套。"
+        }
     },
     {
         "id": 106,
         "atypeId": 1,
-        "description": "神派の戦士が纏う鎧。",
+        "description": "Armor worn by warriors of the Divine Faction.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 137,
-        "name": "アドシアンアーマー",
-        "note": "<dPlnText:ラムルアラムの鎧\nアスワドの戦士たちの装備品\n　\n砂漠での活動に適した作りとなっており\n熱や冷気に強く、砂に足を取られない\n　\n特殊な効果は持たない>",
+        "name": "Adthian Armor",
+        "note": "<dPlnText:Armor from Lamrul Aram. Equipment of the Aswad Warriors. It\nis crafted for activity in the desert, resistant to heat and\ncold, and prevents your feet from sinking into the sand. It\nhas no special effects.>",
         "params": [
             0,
             0,
@@ -2745,7 +2960,11 @@
             0,
             0
         ],
-        "price": 2000
+        "price": 2000,
+        "_original": {
+            "name": "アドシアンアーマー",
+            "description": "神派の戦士が纏う鎧。"
+        }
     },
     {
         "id": 107,
@@ -3111,7 +3330,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼防具：レア",
+        "name": "▼Armor: Rare",
         "note": "",
         "params": [
             0,
@@ -3123,12 +3342,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼防具：レア"
+        }
     },
     {
         "id": 121,
         "atypeId": 1,
-        "description": "異様な柄の僧衣。",
+        "description": "A monk's robe with an unusual pattern.",
         "etypeId": 3,
         "traits": [
             {
@@ -3143,8 +3365,8 @@
             }
         ],
         "iconIndex": 136,
-        "name": "百々目の僧衣",
-        "note": "<NameColor:23>\n<dPlnText:数多の目玉が描かれた僧衣\n不浄の蚊帳に入る際に纏う\n　\nこれは神髄に至るための初歩である\n曰く、あれは万の目玉を持つ\n　\n四魂怪異、鵺\nその姿を知る者などいないというのに\n　\n以下の特殊効果を持つ\n・回避率5％上昇\n・被闇属性ダメージ20％軽減>",
+        "name": "Monk Robe of a Hundred Eyes",
+        "note": "<NameColor:23>\n<dPlnText:Monk robes adorned with countless eyes. Worn when entering the defiled\nmosquito net. This is the first step toward attaining the essence. It is\nsaid that it has ten thousand eyes. The four-soul anomaly, Nue ― and yet,\nno one knows its true form. The following special effects are granted:\n・Evasion +5% ・Reduces Earth-attribute damage taken by 20%.>",
         "params": [
             0,
             0,
@@ -3155,17 +3377,21 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "百々目の僧衣",
+            "description": "異様な柄の僧衣。"
+        }
     },
     {
         "id": 122,
         "atypeId": 1,
-        "description": "白刀流に属する者が着用する装備品。",
+        "description": "Equipment worn by those practicing Hakutou Style.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 135,
-        "name": "白刀流道着",
-        "note": "<BoostEX:PH, 10>\n<NameColor:23>\n<dPlnText:剣術の流派、白刀流の道着\n飾り気がなく実戦に向く\n　\n白刀流の源流は、とある怪異にある\nその剣を目指した者が研鑽を続け\nいつしか人の技となった\n　\n以下の特殊効果を持つ\n・物理攻撃の威力10％上昇>",
+        "name": "Hakutou Style Do-gi",
+        "note": "<BoostEX:PH, 10>\n<NameColor:23>\n<dPlnText:A do-gi of the Hakutou swordsmanship style\nIt is plain and suited for actual combat\n　\nThe origins of the Hakutou Style lie with a certain occurrence\nThose who aimed for that blade continued their diligent study\nUntil eventually it became a technique of humans\n　\nPossesses the following special effects\n・Physical attack power +10%>",
         "params": [
             0,
             0,
@@ -3176,12 +3402,16 @@
             10,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "白刀流道着",
+            "description": "白刀流に属する者が着用する装備品。"
+        }
     },
     {
         "id": 123,
         "atypeId": 1,
-        "description": "ただ守りのために紡がれた服。",
+        "description": "Garments woven solely for protection.",
         "etypeId": 3,
         "traits": [
             {
@@ -3196,8 +3426,8 @@
             }
         ],
         "iconIndex": 135,
-        "name": "衣の守り服",
-        "note": "<CS_上限TP:0,168>\n<NameColor:23>\n<dPlnText:穢れのない白い服\n纏った者と、その仲間を守る\n　\n洞の紡ぎ虫は衣服を作る道具だったが\nいつからか命を紡ぎ、それを与え\nそうすることが喜びとなった\n　\n以下の特殊効果を持つ\n・生存時、毎ターン味方全体のHP5％回復\n・攻撃力、魔攻力50％低下>",
+        "name": "Clothing's Protective Garment",
+        "note": "<CS_上限TP:0,168>\n<NameColor:23>\n<dPlnText:Pure white garments without defilement. They protect the wearer and their\nallies. The spinning worms of the cave were once tools for making clothes,\nbut at some point they began to spin life and bestow it, and that became\ntheir joy. The following special effects are granted: ・While the wearer is\nalive, restores 5% of all allies' HP each turn. ・Attack and Magic Attack\n-50%.>",
         "params": [
             0,
             0,
@@ -3208,12 +3438,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "衣の守り服",
+            "description": "ただ守りのために紡がれた服。"
+        }
     },
     {
         "id": 124,
         "atypeId": 1,
-        "description": "奈落を歩いた僧侶の遺失物。",
+        "description": "A lost item of a monk who walked the Abyss.",
         "etypeId": 3,
         "traits": [
             {
@@ -3228,8 +3462,8 @@
             }
         ],
         "iconIndex": 136,
-        "name": "厭い除けの法衣",
-        "note": "<NameColor:23>\n<dPlnText:奈落に足を踏み入れた僧侶の法衣\n厭い根を退ける力を持つ\n　\n道悳は最後の善行に挑むべく谷を下った\nそして根源と対峙し、己の非力を悟り\nなおも諸悪を引き留めたのだ\n　\n以下の特殊効果を持つ\n・被地属性ダメージ20％軽減\n・毒無効化>",
+        "name": "Warding Robe",
+        "note": "<NameColor:23>\n<dPlnText:Ritual robes worn by a monk who stepped into the abyss. Possesses the power\nto repel the roots of aversion. Dōtoku descended into the valley to\nchallenge his final good deed. He confronted the origin, realized his own\npowerlessness, and yet continued to hold back all evils. The following\nspecial effects are granted: ・Reduces Earth-attribute damage taken by 20%.\n・Nullifies Poison.>",
         "params": [
             0,
             0,
@@ -3240,12 +3474,16 @@
             0,
             10
         ],
-        "price": 2000
+        "price": 2000,
+        "_original": {
+            "name": "厭い除けの法衣",
+            "description": "奈落を歩いた僧侶の遺失物。"
+        }
     },
     {
         "id": 125,
         "atypeId": 1,
-        "description": "逃亡者が身を隠すために纏った外套。",
+        "description": "A cloak worn by a fugitive to hide themselves.",
         "etypeId": 3,
         "traits": [
             {
@@ -3260,8 +3498,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "逃亡者の外套",
-        "note": "<NameColor:23>\n<dPlnText:薄汚れた外套\n奈落の色が染みついている\n　\n一族の戦士、八人の蛇は簒奪のため\n他のすべてを犠牲とし、厭うべき力を得た\n　\nそれは、八つ頭の子\n裏切りの主犯のなれの果て\n　\n以下の特殊効果を持つ\n・素早さ50％上昇\n・心気50％低下>",
+        "name": "Fugitive's Cloak",
+        "note": "<NameColor:23>\n<dPlnText:A grimy cloak. Stained with the colors of the abyss. The eight serpents,\nwarriors of the clan, for the sake of usurpation, sacrificed all else and\nobtained an abhorrent power. That is the child of eight heads, the end\nresult of the mastermind behind the betrayal. The following special effects\nare granted: ・Agility +50%. ・Spirit -50%.>",
         "params": [
             0,
             0,
@@ -3272,17 +3510,21 @@
             0,
             0
         ],
-        "price": 3000
+        "price": 3000,
+        "_original": {
+            "name": "逃亡者の外套",
+            "description": "逃亡者が身を隠すために纏った外套。"
+        }
     },
     {
         "id": 126,
         "atypeId": 1,
-        "description": "四魂怪異の夕闇が纏う衣装。",
+        "description": "The attire worn by Yuuyami of the Four-Soul Weird.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 138,
-        "name": "夕闇の衣装",
-        "note": "<BoostEX:EL, 2, 20>\n<NameColor:23>\n<dPlnText:四魂怪異、夕闇の衣装\nりゆう屋の象徴でもある\n　\nいわゆる和夜魔と呼ばれる魔物の服は\nこれを参考に仕立てられている\n　\n以下の特殊効果を持つ\n・炎属性攻撃の威力20％上昇>",
+        "name": "Yuuyami's Outfit",
+        "note": "<BoostEX:EL, 2, 20>\n<NameColor:23>\n<dPlnText:The costume of the four-soul anomaly, Yūyami. It is also a symbol of the\nRyūya shop. The clothes of the so-called Waya demons are tailored with this\nas a reference. The following special effects are granted: ・Fire-attribute\nattack power +20%.>",
         "params": [
             0,
             0,
@@ -3293,17 +3535,21 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "夕闇の衣装",
+            "description": "四魂怪異の夕闇が纏う衣装。"
+        }
     },
     {
         "id": 127,
         "atypeId": 1,
-        "description": "天上の国の民が纏う白装束。",
+        "description": "White vestments worn by the people of the celestial realm.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 136,
-        "name": "レタルの民の装束",
-        "note": "<BoostEX:EL, 8, 20>\n<NameColor:23>\n<dPlnText:どこまでも白い装束\n決して汚れることはない\n　\nレタルを砂漠の空にする\nそんな夢は、叶わなかった\n　\n以下の特殊効果を持つ\n・光属性攻撃の威力20％上昇>",
+        "name": "Retal People's Attire",
+        "note": "<BoostEX:EL, 8, 20>\n<NameColor:23>\n<dPlnText:Snow-white attire that never gets stained. Making Retaru the\nsky of the desert ― that dream never came true. The\nfollowing special effects are granted: ・Light-attribute\nattack power +20%.>",
         "params": [
             0,
             20,
@@ -3314,12 +3560,16 @@
             0,
             0
         ],
-        "price": 5000
+        "price": 5000,
+        "_original": {
+            "name": "レタルの民の装束",
+            "description": "天上の国の民が纏う白装束。"
+        }
     },
     {
         "id": 128,
         "atypeId": 1,
-        "description": "オルーサの装甲で作られた鎧。",
+        "description": "Armor made from Orsa's plating.",
         "etypeId": 3,
         "traits": [
             {
@@ -3334,8 +3584,8 @@
             }
         ],
         "iconIndex": 137,
-        "name": "オルーサの鎧",
-        "note": "<NameColor:23>\n<dPlnText:特殊な作りの鎧\n外骨格となり、装備者の力を増幅する\n　\n三人の生き残り、その内の一人\n彼は人であることを諦め\nそうして活路を見出した\n　\n以下の特殊効果を持つ\n・攻撃力、魔攻力5％上昇>",
+        "name": "Orsa's Armor",
+        "note": "<NameColor:23>\n<dPlnText:Specially crafted armor. It acts as an exoskeleton and amplifies the\nwearer's power. One of the three survivors ― he gave up being human, and in\ndoing so, found a way to survive. The following special effects are\ngranted: ・Attack and Magic Attack +5%.>",
         "params": [
             0,
             0,
@@ -3346,7 +3596,11 @@
             0,
             0
         ],
-        "price": 6000
+        "price": 6000,
+        "_original": {
+            "name": "オルーサの鎧",
+            "description": "オルーサの装甲で作られた鎧。"
+        }
     },
     {
         "id": 129,
@@ -3658,7 +3912,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼防具：エピック",
+        "name": "▼Armor: Epic",
         "note": "",
         "params": [
             0,
@@ -3670,12 +3924,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼防具：エピック"
+        }
     },
     {
         "id": 141,
         "atypeId": 1,
-        "description": "薄氷に似た衣。",
+        "description": "Garments resembling thin ice.",
         "etypeId": 3,
         "traits": [
             {
@@ -3690,8 +3947,8 @@
             }
         ],
         "iconIndex": 136,
-        "name": "凍てついた薄衣",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n未練は友をも葬ったこと\n悲しい勝利だっただろう\n　\n以下の特殊効果を持つ\n・会心率3％上昇\n・即死無効化>",
+        "name": "Frozen Light Robe",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of that power.\nIts regret was that it also buried its friend. What a sorrowful victory\nthat must have been. The following special effects are granted: ・Critical\nrate +3%. ・Nullifies Instant Death.>",
         "params": [
             0,
             0,
@@ -3702,12 +3959,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "凍てついた薄衣",
+            "description": "薄氷に似た衣。"
+        }
     },
     {
         "id": 142,
         "atypeId": 1,
-        "description": "雪女が纏う服。",
+        "description": "Clothes worn by a Snow Woman.",
         "etypeId": 3,
         "traits": [
             {
@@ -3722,8 +3983,8 @@
             }
         ],
         "iconIndex": 135,
-        "name": "冬隠れの服",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n避けられぬ死の中で、彼女は救いでもある\n孤独に逝くよりは温かいだろう\n　\n以下の特殊効果を持つ\n・回避率10％上昇\n・単体攻撃対象率0％固定化>",
+        "name": "Winter Hiding Clothes",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the master. Inherits a fragment of that power. In\nthe inevitable death, she is also salvation. Better to go warm than to go\nalone. Has the following special effects: ・Evasion +10% ・Single-target\nattack target rate fixed at 0%>",
         "params": [
             0,
             0,
@@ -3734,12 +3995,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "冬隠れの服",
+            "description": "雪女が纏う服。"
+        }
     },
     {
         "id": 143,
         "atypeId": 1,
-        "description": "奈落の石で作られた鎧。",
+        "description": "Armor made from Abyssal stone.",
         "etypeId": 3,
         "traits": [
             {
@@ -3784,8 +4049,8 @@
             }
         ],
         "iconIndex": 137,
-        "name": "無常石の鎧",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n無常石とは、奈落にて朽ちた龍の石\n蛇の冒涜の痕跡の一つ\n　\n以下の特殊効果を持つ\n・光以外の被属性ダメージ10％軽減\n・被光属性ダメージ20％増加>",
+        "name": "Impermanence Stone Armor",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the master. Inherits a fragment of that power. The\nImpermanence Stone is the stone of a dragon that rotted in the Abyss. One\nof the traces of the serpent's desecration. Has the following special\neffects: ・Non-light elemental damage taken -10% ・Light elemental damage\ntaken +20%>",
         "params": [
             0,
             0,
@@ -3796,12 +4061,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "無常石の鎧",
+            "description": "奈落の石で作られた鎧。"
+        }
     },
     {
         "id": 144,
         "atypeId": 1,
-        "description": "砂漠の暗殺者に巻かれていた布。",
+        "description": "Cloth that was wrapped around a desert assassin.",
         "etypeId": 3,
         "traits": [
             {
@@ -3821,8 +4090,8 @@
             }
         ],
         "iconIndex": 136,
-        "name": "暗殺者の包帯",
-        "note": "<NameColor:31>\n<dPlnText:ヌシより得た装備品\n高い性能を宿す\n　\n虚無の刺客は屍じみた身なりを好んだ\n人でないと自覚していたのかもしれない\n　\n以下の特殊効果を持つ\n・素早さ、会心率、回避率15％上昇>",
+        "name": "Assassin's Bandage",
+        "note": "<NameColor:31>\n<dPlnText:Equipment obtained from the master. Boasts high performance. The assassin\nof the void favored corpse-like attire. Perhaps they were aware that they\nwere no longer human. Has the following special effects: ・Agility, critical\nrate, and evasion +15%>",
         "params": [
             0,
             0,
@@ -3833,7 +4102,11 @@
             0,
             0
         ],
-        "price": 3000
+        "price": 3000,
+        "_original": {
+            "name": "暗殺者の包帯",
+            "description": "砂漠の暗殺者に巻かれていた布。"
+        }
     },
     {
         "id": 145,
@@ -3983,7 +4256,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼防具：レジェンド",
+        "name": "▼Armor: Legend",
         "note": "",
         "params": [
             0,
@@ -3995,12 +4268,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼防具：レジェンド"
+        }
     },
     {
         "id": 151,
         "atypeId": 1,
-        "description": "真白神社の巫女の衣装。",
+        "description": "The attire of a miko at Mashiro Shrine.",
         "etypeId": 3,
         "traits": [
             {
@@ -4015,8 +4291,8 @@
             }
         ],
         "iconIndex": 135,
-        "name": "真白巫女装束",
-        "note": "<NameColor:2>\n<dPlnText:真白神社の巫女装束\n怪異との戦にも耐え得る\n　\n小袖の色は、神社の名とは異なる黒\n白を纏うのは神のみなのだ\n　\n以下の特殊効果を持つ\n・回避率、魔法回避率10％上昇>",
+        "name": "Pure White Miko Attire",
+        "note": "<NameColor:2>\n<dPlnText:The shrine maiden attire of Mashiro Shrine. Durable enough to withstand\nbattles against aberrations. The color of the kimono sleeves is black,\nunlike the shrine's name. Only the gods wear white. Has the following\nspecial effects: ・Evasion and magic evasion +10%>",
         "params": [
             0,
             0,
@@ -4027,12 +4303,16 @@
             0,
             0
         ],
-        "price": 4000
+        "price": 4000,
+        "_original": {
+            "name": "真白巫女装束",
+            "description": "真白神社の巫女の衣装。"
+        }
     },
     {
         "id": 152,
         "atypeId": 1,
-        "description": "四魂怪異の内、三つの魂を宿す羽織。",
+        "description": "A haori that houses three of the Four-Soul Weird's souls.",
         "etypeId": 3,
         "traits": [
             {
@@ -4047,8 +4327,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "欠けた四魂の羽織",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n三つの魂はいずれも主張が激しく\n一つとして調和を保つのは難しいが\nこれは、奇跡的に釣り合っている\n　\n以下の特殊効果を持つ\n・被物理魔法ダメージ8％軽減>",
+        "name": "Chipped Four Souls Haori",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Aberration. Inherits a fragment of that\npower. All three souls are fiercely assertive, and maintaining harmony\namong them is difficult, but this one miraculously keeps balance. Has the\nfollowing special effects: ・Physical and magic damage taken -8%>",
         "params": [
             0,
             0,
@@ -4059,12 +4339,16 @@
             0,
             0
         ],
-        "price": 5000
+        "price": 5000,
+        "_original": {
+            "name": "欠けた四魂の羽織",
+            "description": "四魂怪異の内、三つの魂を宿す羽織。"
+        }
     },
     {
         "id": 153,
         "atypeId": 1,
-        "description": "四魂怪異の魂を宿す羽織。",
+        "description": "A haori that houses the Four-Soul Weird's soul.",
         "etypeId": 3,
         "traits": [
             {
@@ -4079,8 +4363,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "四魂の羽織",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n四つの魂はいずれも主張が激しいが\nそれでもなお、調和を保つ\n何せ、皆、家族なのだ\n　\n以下の特殊効果を持つ\n・被物理魔法ダメージ15％軽減>",
+        "name": "Four Souls Haori",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Aberration. Inherits a fragment of that\npower. The four souls are all fiercely assertive, yet they still maintain\nharmony. After all, they are family. Has the following special effects:\n・Physical and magic damage taken -15%>",
         "params": [
             0,
             0,
@@ -4091,7 +4375,11 @@
             0,
             0
         ],
-        "price": 20000
+        "price": 20000,
+        "_original": {
+            "name": "四魂の羽織",
+            "description": "四魂怪異の魂を宿す羽織。"
+        }
     },
     {
         "id": 154,
@@ -4123,7 +4411,7 @@
     {
         "id": 155,
         "atypeId": 1,
-        "description": "真白神社の巫女の衣装。",
+        "description": "The attire of a miko at Mashiro Shrine.",
         "etypeId": 3,
         "traits": [
             {
@@ -4138,8 +4426,8 @@
             }
         ],
         "iconIndex": 135,
-        "name": "真白巫女装束+1",
-        "note": "<NameColor:27>\n<dPlnText:真白神社の巫女装束\n怪異との戦にも耐え得る\n　\n小袖の色は、神社の名とは異なる黒\n白を纏うのは神のみなのだ\n　\n以下の特殊効果を持つ\n・回避率、魔法回避率15％上昇>",
+        "name": "Pure White Miko Attire +1",
+        "note": "<NameColor:27>\n<dPlnText:The shrine maiden attire of Mashiro Shrine. Durable enough to withstand\nbattles against aberrations. The color of the kimono sleeves is black,\nunlike the shrine's name. Only the gods wear white. Has the following\nspecial effects: ・Evasion and magic evasion +15%>",
         "params": [
             0,
             0,
@@ -4150,7 +4438,11 @@
             0,
             0
         ],
-        "price": 10000
+        "price": 10000,
+        "_original": {
+            "name": "真白巫女装束+1",
+            "description": "真白神社の巫女の衣装。"
+        }
     },
     {
         "id": 156,
@@ -4273,7 +4565,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼装飾品",
+        "name": "▼Accessories",
         "note": "",
         "params": [
             0,
@@ -4285,17 +4577,20 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼装飾品"
+        }
     },
     {
         "id": 161,
         "atypeId": 1,
-        "description": "有名な怪異である鬼を模した面。",
+        "description": "A mask modeled after the famous weird, the Oni.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 323,
-        "name": "鬼の面",
-        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\nこの面は、柴組のものとは異なる\n　\n特殊な効果は持たない>",
+        "name": "Oni Mask",
+        "note": "<dPlnText:A decorative piece worn over the face. A craft from an\nisland nation in the East. Sold as a souvenir, but also a\npractical item useful in battle. This mask is different from\nthe ones of the Shiba group. Has no special effects.>",
         "params": [
             0,
             0,
@@ -4306,17 +4601,21 @@
             0,
             0
         ],
-        "price": 200
+        "price": 200,
+        "_original": {
+            "name": "鬼の面",
+            "description": "有名な怪異である鬼を模した面。"
+        }
     },
     {
         "id": 162,
         "atypeId": 1,
-        "description": "有名な怪異である狸を模した面。",
+        "description": "A mask modeled after the famous weird, the Tanuki.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 323,
-        "name": "狸の面",
-        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\n特殊な効果は持たない>",
+        "name": "Tanuki Mask",
+        "note": "<dPlnText:A decorative piece worn over the face. A craft from an\nisland nation in the East. Sold as a souvenir, but also a\npractical item useful in battle. Has no special effects.>",
         "params": [
             0,
             0,
@@ -4327,17 +4626,21 @@
             0,
             0
         ],
-        "price": 200
+        "price": 200,
+        "_original": {
+            "name": "狸の面",
+            "description": "有名な怪異である狸を模した面。"
+        }
     },
     {
         "id": 163,
         "atypeId": 1,
-        "description": "有名な怪異である狐を模した面。",
+        "description": "A mask modeled after the famous weird, the Fox.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 323,
-        "name": "狐の面",
-        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\n特殊な効果は持たない>",
+        "name": "Fox Mask",
+        "note": "<dPlnText:A decorative piece worn over the face. A craft from an\nisland nation in the East. Sold as a souvenir, but also a\npractical item useful in battle. Has no special effects.>",
         "params": [
             0,
             0,
@@ -4348,17 +4651,21 @@
             15,
             15
         ],
-        "price": 200
+        "price": 200,
+        "_original": {
+            "name": "狐の面",
+            "description": "有名な怪異である狐を模した面。"
+        }
     },
     {
         "id": 164,
         "atypeId": 1,
-        "description": "有名な怪異を模したとされる面。",
+        "description": "A mask said to be modeled after a famous weird.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 323,
-        "name": "謎の面",
-        "note": "<dPlnText:顔に被る装飾品\n東方の島国の工芸品\n　\n土産物として売られているが\n戦いにも役立つ実用的な品\n　\n特殊な効果は持たない>",
+        "name": "Mysterious Mask",
+        "note": "<dPlnText:A decorative piece worn over the face. A craft from an\nisland nation in the East. Sold as a souvenir, but also a\npractical item useful in battle. Has no special effects.>",
         "params": [
             50,
             5,
@@ -4369,7 +4676,11 @@
             0,
             0
         ],
-        "price": 200
+        "price": 200,
+        "_original": {
+            "name": "謎の面",
+            "description": "有名な怪異を模したとされる面。"
+        }
     },
     {
         "id": 165,
@@ -4509,7 +4820,7 @@
     {
         "id": 170,
         "atypeId": 1,
-        "description": "即死から身を守るネックレス。",
+        "description": "A necklace that protects against instant death.",
         "etypeId": 4,
         "traits": [
             {
@@ -4519,8 +4830,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "デッドガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・即死無効化>",
+        "name": "Death Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Instant death nullified>",
         "params": [
             0,
             0,
@@ -4531,12 +4842,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "デッドガード",
+            "description": "即死から身を守るネックレス。"
+        }
     },
     {
         "id": 171,
         "atypeId": 1,
-        "description": "毒から身を守るネックレス。",
+        "description": "A necklace that protects against poison.",
         "etypeId": 4,
         "traits": [
             {
@@ -4546,8 +4861,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "ポイズンガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・毒無効化>",
+        "name": "Poison Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Poison nullified>",
         "params": [
             0,
             0,
@@ -4558,12 +4873,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "ポイズンガード",
+            "description": "毒から身を守るネックレス。"
+        }
     },
     {
         "id": 172,
         "atypeId": 1,
-        "description": "困憊から身を守るネックレス。",
+        "description": "A necklace that protects against exhaustion.",
         "etypeId": 4,
         "traits": [
             {
@@ -4573,8 +4892,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "タイアードガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・困憊無効化>",
+        "name": "Tired Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Exhaustion nullified>",
         "params": [
             0,
             0,
@@ -4585,12 +4904,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "タイアードガード",
+            "description": "困憊から身を守るネックレス。"
+        }
     },
     {
         "id": 173,
         "atypeId": 1,
-        "description": "暗闇から身を守るネックレス。",
+        "description": "A necklace that protects against darkness.",
         "etypeId": 4,
         "traits": [
             {
@@ -4600,8 +4923,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "ブラインドガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・暗闇無効化>",
+        "name": "Blind Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Blindness nullified>",
         "params": [
             0,
             0,
@@ -4612,12 +4935,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "ブラインドガード",
+            "description": "暗闇から身を守るネックレス。"
+        }
     },
     {
         "id": 174,
         "atypeId": 1,
-        "description": "忘却から身を守るネックレス。",
+        "description": "A necklace that protects against forgetfulness.",
         "etypeId": 4,
         "traits": [
             {
@@ -4627,8 +4954,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "フォゲットガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・忘却無効化>",
+        "name": "Forget Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Amnesia nullified>",
         "params": [
             0,
             0,
@@ -4639,12 +4966,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "フォゲットガード",
+            "description": "忘却から身を守るネックレス。"
+        }
     },
     {
         "id": 175,
         "atypeId": 1,
-        "description": "混乱から身を守るネックレス。",
+        "description": "A necklace that protects against confusion.",
         "etypeId": 4,
         "traits": [
             {
@@ -4654,8 +4985,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "パニックガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・混乱無効化>",
+        "name": "Panic Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Confusion nullified>",
         "params": [
             0,
             0,
@@ -4666,12 +4997,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "パニックガード",
+            "description": "混乱から身を守るネックレス。"
+        }
     },
     {
         "id": 176,
         "atypeId": 1,
-        "description": "睡眠から身を守るネックレス。",
+        "description": "A necklace that protects against sleep.",
         "etypeId": 4,
         "traits": [
             {
@@ -4681,8 +5016,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "スリープガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・睡眠無効化>",
+        "name": "Sleep Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Sleep nullified>",
         "params": [
             0,
             0,
@@ -4693,12 +5028,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "スリープガード",
+            "description": "睡眠から身を守るネックレス。"
+        }
     },
     {
         "id": 177,
         "atypeId": 1,
-        "description": "麻痺から身を守るネックレス。",
+        "description": "A necklace that protects against paralysis.",
         "etypeId": 4,
         "traits": [
             {
@@ -4708,8 +5047,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "パラライズガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・麻痺無効化>",
+        "name": "Paralyze Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Paralysis nullified>",
         "params": [
             0,
             0,
@@ -4720,12 +5059,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "パラライズガード",
+            "description": "麻痺から身を守るネックレス。"
+        }
     },
     {
         "id": 178,
         "atypeId": 1,
-        "description": "スタンから身を守るネックレス。",
+        "description": "A necklace that protects against Stun.",
         "etypeId": 4,
         "traits": [
             {
@@ -4735,8 +5078,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "ショックガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\n以下の特殊効果を持つ\n・スタン無効化>",
+        "name": "Shock Guard",
+        "note": "<dPlnText:An accessory that prevents status ailments. Physical abnormalities in\nbattle are called status ailments. They are one of the most common causes\nof death for adventurers, so it is essential to take precautions\nbeforehand. Has the following special effects: ・Stun nullified>",
         "params": [
             0,
             0,
@@ -4747,12 +5090,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "ショックガード",
+            "description": "スタンから身を守るネックレス。"
+        }
     },
     {
         "id": 179,
         "atypeId": 1,
-        "description": "苦難の道を行く者のための装飾品。",
+        "description": "An accessory for those who walk the path of hardship.",
         "etypeId": 4,
         "traits": [
             {
@@ -4762,8 +5109,8 @@
             }
         ],
         "iconIndex": 326,
-        "name": "挑戦者の首輪",
-        "note": "<dPlnText:挑戦者のために作られた装飾品\n　\nこれには呪いが込められており\n身に着けた者の戦闘経験を否定する\n　\n弱者のままで、強者を倒す\nそういう望みもあるのだろう\n　\n以下の特殊効果を持つ\n・経験値獲得不可>",
+        "name": "Challenger's Collar",
+        "note": "<dPlnText:An accessory made for challengers. It bears a curse, denying\nthe wearer's combat experience. To remain weak and yet\ndefeat the strong― perhaps that is someone's wish. Has the\nfollowing special effects: ・No experience points gained>",
         "params": [
             0,
             0,
@@ -4774,7 +5121,11 @@
             0,
             0
         ],
-        "price": 10
+        "price": 10,
+        "_original": {
+            "name": "挑戦者の首輪",
+            "description": "苦難の道を行く者のための装飾品。"
+        }
     },
     {
         "id": 180,
@@ -4806,7 +5157,7 @@
     {
         "id": 181,
         "atypeId": 1,
-        "description": "炎の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Fire.",
         "etypeId": 4,
         "traits": [
             {
@@ -4816,8 +5167,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐炎の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被炎属性ダメージ50％軽減>",
+        "name": "Ring of Fire Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Fire damage taken -50%>",
         "params": [
             0,
             0,
@@ -4828,12 +5179,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐炎の指輪",
+            "description": "炎の力を秘めた指輪。"
+        }
     },
     {
         "id": 182,
         "atypeId": 1,
-        "description": "雷の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Thunder.",
         "etypeId": 4,
         "traits": [
             {
@@ -4843,8 +5198,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐雷の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被雷属性ダメージ50％軽減>",
+        "name": "Ring of Lightning Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Thunder damage taken -50%>",
         "params": [
             0,
             0,
@@ -4855,12 +5210,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐雷の指輪",
+            "description": "雷の力を秘めた指輪。"
+        }
     },
     {
         "id": 183,
         "atypeId": 1,
-        "description": "氷の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Ice.",
         "etypeId": 4,
         "traits": [
             {
@@ -4870,8 +5229,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐氷の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被氷属性ダメージ50％軽減>",
+        "name": "Ring of Ice Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Ice damage taken -50%>",
         "params": [
             0,
             0,
@@ -4882,12 +5241,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐氷の指輪",
+            "description": "氷の力を秘めた指輪。"
+        }
     },
     {
         "id": 184,
         "atypeId": 1,
-        "description": "水の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Water.",
         "etypeId": 4,
         "traits": [
             {
@@ -4897,8 +5260,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐水の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被水属性ダメージ50％軽減>",
+        "name": "Ring of Water Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Water damage taken -50%>",
         "params": [
             0,
             0,
@@ -4909,12 +5272,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐水の指輪",
+            "description": "水の力を秘めた指輪。"
+        }
     },
     {
         "id": 185,
         "atypeId": 1,
-        "description": "地の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Earth.",
         "etypeId": 4,
         "traits": [
             {
@@ -4924,8 +5291,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐地の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被地属性ダメージ50％軽減>",
+        "name": "Ring of Earth Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Earth damage taken -50%>",
         "params": [
             0,
             0,
@@ -4936,12 +5303,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐地の指輪",
+            "description": "地の力を秘めた指輪。"
+        }
     },
     {
         "id": 186,
         "atypeId": 1,
-        "description": "風の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Wind.",
         "etypeId": 4,
         "traits": [
             {
@@ -4951,8 +5322,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐風の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被風属性ダメージ50％軽減>",
+        "name": "Ring of Wind Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Wind damage taken -50%>",
         "params": [
             0,
             0,
@@ -4963,12 +5334,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐風の指輪",
+            "description": "風の力を秘めた指輪。"
+        }
     },
     {
         "id": 187,
         "atypeId": 1,
-        "description": "光の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Light.",
         "etypeId": 4,
         "traits": [
             {
@@ -4978,8 +5353,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐光の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被光属性ダメージ50％軽減>",
+        "name": "Ring of Light Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Light damage taken -50%>",
         "params": [
             0,
             0,
@@ -4990,12 +5365,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐光の指輪",
+            "description": "光の力を秘めた指輪。"
+        }
     },
     {
         "id": 188,
         "atypeId": 1,
-        "description": "闇の力を秘めた指輪。",
+        "description": "A ring imbued with the power of Darkness.",
         "etypeId": 4,
         "traits": [
             {
@@ -5005,8 +5384,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "耐闇の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・被闇属性ダメージ50％軽減>",
+        "name": "Ring of Dark Resistance",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Dark damage taken -50%>",
         "params": [
             0,
             0,
@@ -5017,12 +5396,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "耐闇の指輪",
+            "description": "闇の力を秘めた指輪。"
+        }
     },
     {
         "id": 189,
         "atypeId": 1,
-        "description": "あらゆる属性の力を秘めた指輪。",
+        "description": "A ring imbued with the power of all elements.",
         "etypeId": 4,
         "traits": [
             {
@@ -5067,8 +5450,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "虹色の指輪",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\n以下の特殊効果を持つ\n・波動以外の被属性ダメージ30％軽減>",
+        "name": "Rainbow Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring imbued with elemental power. It is a treasure born of\nnature. Imitation has been sought since the age of myth, but\nit was never achieved by human hands. Has the following\nspecial effects: ・Non-wave elemental damage taken -30%>",
         "params": [
             0,
             0,
@@ -5079,7 +5462,11 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "虹色の指輪",
+            "description": "あらゆる属性の力を秘めた指輪。"
+        }
     },
     {
         "id": 190,
@@ -5111,7 +5498,7 @@
     {
         "id": 191,
         "atypeId": 1,
-        "description": "冒険者が持つお守り。",
+        "description": "An amulet carried by adventurers.",
         "etypeId": 4,
         "traits": [
             {
@@ -5156,8 +5543,8 @@
             }
         ],
         "iconIndex": 340,
-        "name": "冒険者のお守り",
-        "note": "<NameColor:23>\n<dPlnText:冒険者によく知られるお守り\n　\nこの装飾品の歴史は古く、遥か昔\n神話の時代より冒険者へと贈られる\n人は皆、旅立つ友の無事を祈っているのだ\n　\n以下の特殊効果を持つ\n・スタン以外の基本状態異常付与率50％軽減>",
+        "name": "Adventurer's Charm",
+        "note": "<NameColor:23>\n<dPlnText:A charm well-known to adventurers. This accessory has a long history; from\nages past, it has been gifted to adventurers since the mythical era.\nEveryone prays for the safety of their friends who set out on journeys. Has\nthe following special effect: ・Reduces the rate of basic status ailments\n(excluding Stun) by 50%.>",
         "params": [
             0,
             0,
@@ -5168,12 +5555,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "冒険者のお守り",
+            "description": "冒険者が持つお守り。"
+        }
     },
     {
         "id": 192,
         "atypeId": 1,
-        "description": "無病息災を祈る飾り。",
+        "description": "An ornament for praying for good health and safety.",
         "etypeId": 4,
         "traits": [
             {
@@ -5218,8 +5609,8 @@
             }
         ],
         "iconIndex": 341,
-        "name": "護り布",
-        "note": "<NameColor:23>\n<dPlnText:素朴な布飾り\n　\n身につければ特別なご利益を得て\n多くの状態異常を無効化する\n　\n以下の特殊効果を持つ\n・スタン以外の基本状態異常無効化>",
+        "name": "Protection Cloth",
+        "note": "<NameColor:23>\n<dPlnText:A simple cloth ornament. When equipped, it grants a special\nblessing, nullifying many status ailments. Has the following\nspecial effect: ・Nullifies basic status ailments (excluding\nStun).>",
         "params": [
             0,
             0,
@@ -5230,12 +5621,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "護り布",
+            "description": "無病息災を祈る飾り。"
+        }
     },
     {
         "id": 193,
         "atypeId": 1,
-        "description": "戦地に身を置く者のためのベルト。",
+        "description": "A belt for those who stand on the battlefield.",
         "etypeId": 4,
         "traits": [
             {
@@ -5325,8 +5720,8 @@
             }
         ],
         "iconIndex": 336,
-        "name": "戦の帯",
-        "note": "<NameColor:23>\n<dPlnText:戦う者に相応しいベルト\n　\n能力値の低下、体勢を崩すこと\nいずれも戦地では致命的な結果を招く\n強者ほど驕らず、対策を怠らないものだ\n　\n以下の特殊効果を持つ\n・スタン無効化\n・能力値DOWN無効化\n・能力値大DOWN無効化>",
+        "name": "War Belt",
+        "note": "<NameColor:23>\n<dPlnText:A belt suited for those who fight. Lowered stats and losing your balance\nboth lead to fatal consequences on the battlefield. The stronger one is,\nthe less they grow arrogant, and they never neglect countermeasures. Has\nthe following special effects: ・Nullifies Stun ・Nullifies Stat DOWN\n・Nullifies Major Stat DOWN>",
         "params": [
             0,
             0,
@@ -5337,12 +5732,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "戦の帯",
+            "description": "戦地に身を置く者のためのベルト。"
+        }
     },
     {
         "id": 194,
         "atypeId": 1,
-        "description": "生命力が滾る腕輪。",
+        "description": "A bracelet that surges with vitality.",
         "etypeId": 4,
         "traits": [
             {
@@ -5352,8 +5751,8 @@
             }
         ],
         "iconIndex": 336,
-        "name": "リジェネバングル",
-        "note": "<NameColor:23>\n<dPlnText:マナの力を備えた腕輪\n　\n不死の理の存在を知っても\n死とは常に恐ろしいものだ\nこの手の装備品はありがたい\n　\n以下の特殊効果を持つ\n・毎ターンHP8％回復>",
+        "name": "Regen Bangle",
+        "note": "<NameColor:23>\n<dPlnText:A bracelet imbued with mana power. Even knowing of the\nprinciple of immortality, death is always something to fear.\nThis kind of equipment is a blessing. Has the following\nspecial effect: ・Recovers 8% HP each turn.>",
         "params": [
             0,
             0,
@@ -5364,12 +5763,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "リジェネバングル",
+            "description": "生命力が滾る腕輪。"
+        }
     },
     {
         "id": 195,
         "atypeId": 1,
-        "description": "気力が沸き立つ腕輪。",
+        "description": "A bracelet that brims with spirit energy.",
         "etypeId": 4,
         "traits": [
             {
@@ -5379,8 +5782,8 @@
             }
         ],
         "iconIndex": 336,
-        "name": "エナジーバングル",
-        "note": "<NameColor:23>\n<dPlnText:マナの力を備えた腕輪\n　\n鍛え上げ、我がものとした魔法や技も\n気力が尽きれば意味を成さない\nこの手の装備品はありがたい\n　\n以下の特殊効果を持つ\n・毎ターンSP8％回復>",
+        "name": "Energy Bangle",
+        "note": "<NameColor:23>\n<dPlnText:A bracelet imbued with mana power. Even the spells and\ntechniques you've honed and made your own are meaningless if\nyour energy runs out. This kind of equipment is a blessing.\nHas the following special effect: ・Recovers 8% SP each turn.>",
         "params": [
             0,
             0,
@@ -5391,12 +5794,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "エナジーバングル",
+            "description": "気力が沸き立つ腕輪。"
+        }
     },
     {
         "id": 196,
         "atypeId": 1,
-        "description": "闘気を帯びた腕輪。",
+        "description": "A bracelet imbued with battle aura.",
         "etypeId": 4,
         "traits": [
             {
@@ -5406,8 +5813,8 @@
             }
         ],
         "iconIndex": 144,
-        "name": "戦神の腕輪",
-        "note": "<NameColor:23>\n<dPlnText:闘気を帯びている腕輪\n　\nこの世界に戦神と呼ばれる神などおらず\nオルドワルドにもまた、いない\n神話の時代の名残だろうか\nあるいは誰も知らぬだけか\n　\n以下の特殊効果を持つ\n・毎ターンTP5増加>",
+        "name": "War God's Bracelet",
+        "note": "<NameColor:23>\n<dPlnText:A bracelet that carries fighting spirit. In this world, there is no god\ncalled the God of War, nor is there one in Oldwald, either. Perhaps it's a\nremnant of the mythical age, or maybe no one knows of it. Has the following\nspecial effect: ・Increases TP by 5 each turn.>",
         "params": [
             0,
             0,
@@ -5418,12 +5825,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "戦神の腕輪",
+            "description": "闘気を帯びた腕輪。"
+        }
     },
     {
         "id": 197,
         "atypeId": 1,
-        "description": "身軽になれる魔法の靴。",
+        "description": "Magical boots that make you lighter.",
         "etypeId": 4,
         "traits": [
             {
@@ -5433,8 +5844,8 @@
             }
         ],
         "iconIndex": 140,
-        "name": "ドットイーター",
-        "note": "<NameColor:23>\n<dPlnText:履けば身軽になれる靴\n　\n身軽であれば、攻撃を回避できる\nそれは確かに間違いではないが\n土台となるのは、常に己の能力だろう\n　\n以下の特殊効果を持つ\n・回避率20％上昇>",
+        "name": "Dot Eater",
+        "note": "<NameColor:23>\n<dPlnText:Shoes that make you nimble when worn. Being nimble allows\nyou to evade attacks. That is certainly not wrong, but the\nfoundation is always your own ability. Has the following\nspecial effect: ・Increases Evasion by 20%.>",
         "params": [
             0,
             0,
@@ -5445,12 +5856,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "ドットイーター",
+            "description": "身軽になれる魔法の靴。"
+        }
     },
     {
         "id": 198,
         "atypeId": 1,
-        "description": "魔力の流れを読める靴。",
+        "description": "Boots that allow you to read the flow of magical power.",
         "etypeId": 4,
         "traits": [
             {
@@ -5460,8 +5875,8 @@
             }
         ],
         "iconIndex": 140,
-        "name": "フェアリーステップ",
-        "note": "<NameColor:23>\n<dPlnText:履けば魔力の流れを読める靴\n　\n流れを読めば、魔法を回避できる\nそれは確かに間違いではないが\n土台となるのは、常に己の能力だろう\n　\n以下の特殊効果を持つ\n・魔法回避率20％上昇>",
+        "name": "Fairy Step",
+        "note": "<NameColor:23>\n<dPlnText:Shoes that let you read the flow of mana when worn. Reading the flow allows\nyou to evade magic. That is certainly not wrong, but the foundation is\nalways your own ability. Has the following special effect: ・Increases Magic\nEvasion by 20%.>",
         "params": [
             0,
             0,
@@ -5472,7 +5887,11 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "フェアリーステップ",
+            "description": "魔力の流れを読める靴。"
+        }
     },
     {
         "id": 199,
@@ -5531,7 +5950,7 @@
     {
         "id": 201,
         "atypeId": 1,
-        "description": "特別な糸で作られた指輪。",
+        "description": "A ring made from special thread.",
         "etypeId": 4,
         "traits": [
             {
@@ -5576,8 +5995,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "血族の糸の輪",
-        "note": "<NameColor:23>\n<dPlnText:糸を編み、指輪としたもの\n血族からの信頼の証\n　\nカンムイは、かねて忌避した一族を許し\n太平の世に向けて共存を目指した\n　\nのちの裏切りは失敗に終わり\n奈落の底、岩屋の淵へと逃げ延びた\n　\n以下の特殊効果を持つ\n・全能力値5％上昇>",
+        "name": "Bloodline Thread Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring woven from thread, a proof of trust from the bloodline. Kamuy once\nforgave the clan they had long shunned, and aimed for coexistence toward an\nera of peace. The later betrayal ended in failure, and they escaped to the\nbottom of the abyss, to the edge of a rocky cave. Has the following special\neffect: ・Increases all stats by 5%.>",
         "params": [
             0,
             0,
@@ -5588,12 +6007,16 @@
             0,
             0
         ],
-        "price": 2000
+        "price": 2000,
+        "_original": {
+            "name": "血族の糸の輪",
+            "description": "特別な糸で作られた指輪。"
+        }
     },
     {
         "id": 202,
         "atypeId": 1,
-        "description": "西の砂漠の都市で見られた冠。",
+        "description": "A crown found in the western desert city.",
         "etypeId": 4,
         "traits": [
             {
@@ -5603,8 +6026,8 @@
             }
         ],
         "iconIndex": 323,
-        "name": "太陽を讃える冠",
-        "note": "<NameColor:23>\n<dPlnText:神派の功労者への贈り物\n神に見える資格を得る\n　\n太陽を讃えること\nそれは、神のために生きるということ\n　\n以下の特殊効果を持つ\n・消費SP25％減少>",
+        "name": "Sun-Praising Crown",
+        "note": "<NameColor:23>\n<dPlnText:A gift for meritorious servants of the divine faction. You\ngain the qualification to be seen as a god. To praise the\nsun is to live for the gods. Has the following special\neffect: ・Reduces SP consumption by 25%.>",
         "params": [
             0,
             0,
@@ -5615,7 +6038,11 @@
             0,
             0
         ],
-        "price": 3000
+        "price": 3000,
+        "_original": {
+            "name": "太陽を讃える冠",
+            "description": "西の砂漠の都市で見られた冠。"
+        }
     },
     {
         "id": 203,
@@ -5819,7 +6246,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼装飾品：エピック",
+        "name": "▼Accessory: Epic",
         "note": "",
         "params": [
             0,
@@ -5831,12 +6258,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼装飾品：エピック"
+        }
     },
     {
         "id": 211,
         "atypeId": 1,
-        "description": "怪異僧侶が纏う袈裟。",
+        "description": "The robe worn by a strange monk.",
         "etypeId": 4,
         "traits": [
             {
@@ -5851,8 +6281,8 @@
             }
         ],
         "iconIndex": 330,
-        "name": "骸袈裟",
-        "note": "<BoostEX:EL, 9, 20>\n<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n怪異僧侶は万の目を肉に宿し\n骸を繋いだ袈裟を纏う\n　\n以下の特殊効果を持つ\n・防御力、魔防力10％上昇\n・闇属性攻撃の威力20％上昇>",
+        "name": "Skeleton Robe",
+        "note": "<BoostEX:EL, 9, 20>\n<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of that power.\nThe monstrous monk harbors ten thousand eyes in their flesh, and wears a\nkasaya stitched from corpses. Has the following special effects: ・Increases\nDefense and Magic Defense by 10% ・Increases the power of Dark-attribute\nattacks by 20%.>",
         "params": [
             0,
             0,
@@ -5863,17 +6293,21 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "骸袈裟",
+            "description": "怪異僧侶が纏う袈裟。"
+        }
     },
     {
         "id": 212,
         "atypeId": 1,
-        "description": "鬼が首にかける数珠。",
+        "description": "Beads worn by an Oni around its neck.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 338,
-        "name": "鬼の数珠",
-        "note": "<自動蘇生:1>\n<蘇生HPレート:10>\n<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n鬼の数珠はただの飾りだが\n飾る鬼の力を宿すこともあるという\n　\n以下の特殊効果を持つ\n・戦闘不能時復活：\n　復活時HP10％回復、復活可能回数1>",
+        "name": "Oni's Beads",
+        "note": "<自動蘇生:1>\n<蘇生HPレート:10>\n<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of that power.\nThe Oni's rosary is merely an ornament, but it is said that it can\nsometimes harbor the power of the Oni who adorns it. Has the following\nspecial effect: ・Revive upon incapacitation: Recovers 10% HP upon revival,\nwith 1 revival available.>",
         "params": [
             0,
             0,
@@ -5884,12 +6318,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "鬼の数珠",
+            "description": "鬼が首にかける数珠。"
+        }
     },
     {
         "id": 213,
         "atypeId": 1,
-        "description": "沼女の核となる物質。",
+        "description": "The core material of a Swamp Woman.",
         "etypeId": 4,
         "traits": [
             {
@@ -5909,8 +6347,8 @@
             }
         ],
         "iconIndex": 337,
-        "name": "沼の宝珠",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n沼の如く深みのある核\nそこには偽りの安堵がある\n　\n以下の特殊効果を持つ\n・最大HP10％上昇\n・忘却、睡眠無効化>",
+        "name": "Swamp Orb",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. A core as deep as a swamp, where there is a\nfalse sense of relief. Has the following special effects:\n・Increases Max HP by 10% ・Nullifies Forgetting and Sleep.>",
         "params": [
             0,
             0,
@@ -5921,12 +6359,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "沼の宝珠",
+            "description": "沼女の核となる物質。"
+        }
     },
     {
         "id": 214,
         "atypeId": 1,
-        "description": "古い先導者の灯り。",
+        "description": "An old guide's light.",
         "etypeId": 4,
         "traits": [
             {
@@ -5936,8 +6378,8 @@
             }
         ],
         "iconIndex": 338,
-        "name": "川渡しの光石",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n川を渡るには灯りがいる\n迷えば罪が澱むだろう\n　\n以下の特殊効果を持つ\n・心気100％上昇>",
+        "name": "River-Crossing Light Stone",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. To cross the river, one needs a light. If you\nlose your way, sin will accumulate. Has the following\nspecial effect: ・Increases Mind by 100%.>",
         "params": [
             0,
             0,
@@ -5948,12 +6390,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "川渡しの光石",
+            "description": "古い先導者の灯り。"
+        }
     },
     {
         "id": 215,
         "atypeId": 1,
-        "description": "乳母が龍にかける布。",
+        "description": "The cloth a wet nurse drapes over a dragon.",
         "etypeId": 4,
         "traits": [
             {
@@ -5968,8 +6414,8 @@
             }
         ],
         "iconIndex": 330,
-        "name": "龍守り",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n蛇の内、彼女だけは最後まで共存を誓い\nそうして龍の乳母となった\n　\n以下の特殊効果を持つ\n・毎ターンHP8％回復\n・毎ターンSP8％回復>",
+        "name": "Dragon Guard",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of that power.\nAmong the serpents, she alone swore coexistence to the very end, and thus\nbecame the dragon's wet nurse. Has the following special effects: ・Recovers\n8% HP each turn ・Recovers 8% SP each turn>",
         "params": [
             0,
             0,
@@ -5980,12 +6426,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "龍守り",
+            "description": "乳母が龍にかける布。"
+        }
     },
     {
         "id": 216,
         "atypeId": 1,
-        "description": "底に穴の開いた宝箱。",
+        "description": "A treasure chest with a hole in the bottom.",
         "etypeId": 4,
         "traits": [
             {
@@ -6000,8 +6450,8 @@
             }
         ],
         "iconIndex": 323,
-        "name": "秘宝の兜",
-        "note": "<NameColor:31>\n<dPlnText:ヌシより得た装備品\n高い性能を宿す\n　\nこれを被り、秘宝となる\nそうして次なる秘宝を待つ\n　\n以下の特殊効果を持つ\n・最大HP10％上昇\n・戦闘後アイテム獲得率100％上昇\n　この効果は重複しない>",
+        "name": "Treasure Helm",
+        "note": "<NameColor:31>\n<dPlnText:Equipment obtained from the Master. It harbors high performance. Don this\nto become a hidden treasure, and await the next treasure. Has the following\nspecial effects: ・Increases Max HP by 10% ・Increases item acquisition rate\nafter battle by 100% This effect does not stack.>",
         "params": [
             0,
             0,
@@ -6012,7 +6462,11 @@
             0,
             0
         ],
-        "price": 3000
+        "price": 3000,
+        "_original": {
+            "name": "秘宝の兜",
+            "description": "底に穴の開いた宝箱。"
+        }
     },
     {
         "id": 217,
@@ -6108,7 +6562,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼装飾品：レジェンド",
+        "name": "▼Accessory: Legend",
         "note": "",
         "params": [
             0,
@@ -6120,7 +6574,10 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼装飾品：レジェンド"
+        }
     },
     {
         "id": 221,
@@ -6378,7 +6835,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼魂：レア",
+        "name": "▼Soul: Rare",
         "note": "",
         "params": [
             0,
@@ -6390,12 +6847,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼魂：レア"
+        }
     },
     {
         "id": 231,
         "atypeId": 1,
-        "description": "とある魂の遺物。\n\\C[24]奥義解放：\\C[0]魂の炸裂",
+        "description": "A relic of a certain soul. \\C[24]Secret Art Release: \\C[0]Soul Burst",
         "etypeId": 5,
         "traits": [
             {
@@ -6410,8 +6870,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "古びた魂縄",
-        "note": "<NameColor:23>\n<dPlnText:カンムイの糸で編まれた魂\n持てばその力を解放できる\n　\n魂縄に宿るのは経験そのもの\nそれを分け与え、万物に力を授けることが\nかの大怪異の神髄であった>",
+        "name": "Old Soul Rope",
+        "note": "<NameColor:23>\n<dPlnText:A soul woven from Kamuy's thread. When held, you can release\nits power. What dwells in the soul rope is experience\nitself; to share it and grant power to all things was the\nessence of that great aberration.>",
         "params": [
             0,
             0,
@@ -6422,17 +6882,21 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "古びた魂縄",
+            "description": "とある魂の遺物。\n\\C[24]奥義解放：\\C[0]魂の炸裂"
+        }
     },
     {
         "id": 232,
         "atypeId": 1,
-        "description": "祠地蔵のご利益。",
+        "description": "The blessing of a shrine Jizo.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 319,
-        "name": "ありがたい魂縄",
-        "note": "<NameColor:23>\n<dPlnText:カンムイの糸で編まれた魂\n持てばその力を解放できる\n　\nこれに技能は宿されていないが\n代わりに、あらゆる能力を高めてくれる\n　\n巫女は荒魂に寄り添い祈り続けた\nゆえにこそ、今も真白に神秘を遺す>",
+        "name": "Blessed Soul Rope",
+        "note": "<NameColor:23>\n<dPlnText:A soul woven from Kamuy's thread. When held, you can release its power.\nThough no skill is harbored within it, instead, it enhances all your\nabilities. The Miko stayed close to the wild soul and continued to pray;\nthat is why even now, it leaves its mystery in pure white.>",
         "params": [
             0,
             0,
@@ -6443,7 +6907,11 @@
             15,
             15
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "ありがたい魂縄",
+            "description": "祠地蔵のご利益。"
+        }
     },
     {
         "id": 233,
@@ -6647,7 +7115,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼魂：エピック",
+        "name": "▼Soul: Epic",
         "note": "",
         "params": [
             0,
@@ -6659,12 +7127,15 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼魂：エピック"
+        }
     },
     {
         "id": 241,
         "atypeId": 1,
-        "description": "涅塚の僧の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]胎内庇護",
+        "description": "One that houses the soul of the Nezuka Monk. \\C[24]Secret Art Release: \\C[0]Womb Protection",
         "etypeId": 5,
         "traits": [
             {
@@ -6679,8 +7150,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "涅塚僧の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n涅塚僧は紛いの胎に守られるのだ>",
+        "name": "Soul Rope of the Nizuka Monk",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. The Nezuka monk is protected by a\nfalse womb.>",
         "params": [
             0,
             0,
@@ -6691,12 +7162,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "涅塚僧の魂縄",
+            "description": "涅塚の僧の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]胎内庇護"
+        }
     },
     {
         "id": 242,
         "atypeId": 1,
-        "description": "古都の人斬りの魂を宿したもの。\n\\C[24]奥義解放：\\C[0]剣技血飛沫",
+        "description": "One that houses the soul of the Slayer of the Ancient Capital. \\C[24]Secret Art\nRelease: \\C[0]Sword Technique Blood Splatter",
         "etypeId": 5,
         "traits": [
             {
@@ -6711,8 +7186,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "人斬りの魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n人斬りは血を以て血を成し、血に酔う>",
+        "name": "Soul Rope of the Manslayer",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. The killer makes blood with blood,\nand is drunk on blood.>",
         "params": [
             0,
             0,
@@ -6723,12 +7198,16 @@
             0,
             20
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "人斬りの魂縄",
+            "description": "古都の人斬りの魂を宿したもの。\n\\C[24]奥義解放：\\C[0]剣技血飛沫"
+        }
     },
     {
         "id": 243,
         "atypeId": 1,
-        "description": "根断ち童子の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]針山の刑",
+        "description": "One that houses the soul of the Root-Cutting Child. \\C[24]Secret Art Release: \\C[0]Needle\nMountain Punishment",
         "etypeId": 5,
         "traits": [
             {
@@ -6743,8 +7222,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "童子の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n童子の戯れは、人知れず災いを退ける>",
+        "name": "Soul Rope of the Child",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. The child's play secretly wards off\ncalamity.>",
         "params": [
             0,
             0,
@@ -6755,12 +7234,16 @@
             20,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "童子の魂縄",
+            "description": "根断ち童子の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]針山の刑"
+        }
     },
     {
         "id": 244,
         "atypeId": 1,
-        "description": "消えない未練の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]残雪の未練",
+        "description": "One that houses the soul of Unfading Regret. \\C[24]Secret Art Release: \\C[0]Regret of the\nRemaining Snow",
         "etypeId": 5,
         "traits": [
             {
@@ -6775,8 +7258,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "未練の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n未練は残雪となり、とけゆく時を待つ>",
+        "name": "Soul Rope of Regret",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. Regret turns into remaining snow,\nwaiting for the time to melt.>",
         "params": [
             0,
             0,
@@ -6787,12 +7270,16 @@
             0,
             20
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "未練の魂縄",
+            "description": "消えない未練の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]残雪の未練"
+        }
     },
     {
         "id": 245,
         "atypeId": 1,
-        "description": "沼女の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]沼の被膜",
+        "description": "One that houses the soul of the Swamp Woman. \\C[24]Secret Art Release: \\C[0]Swamp Membrane",
         "etypeId": 5,
         "traits": [
             {
@@ -6807,8 +7294,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "沼女の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n沼には沈む。刃も、術でさえも>",
+        "name": "Soul Rope of the Swamp Woman",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. Everything sinks in the\nswamp―blades and even techniques.>",
         "params": [
             200,
             20,
@@ -6819,12 +7306,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "沼女の魂縄",
+            "description": "沼女の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]沼の被膜"
+        }
     },
     {
         "id": 246,
         "atypeId": 1,
-        "description": "迷い森の雪女の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]氷の褥",
+        "description": "One that houses the soul of the Forest Snow Woman. \\C[24]Secret Art Release: \\C[0]Ice Bed",
         "etypeId": 5,
         "traits": [
             {
@@ -6839,8 +7330,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "雪女の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n氷は永遠の眠りの褥となる>",
+        "name": "Soul Rope of the Snow Woman",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. Ice becomes the bedding of eternal\nslumber.>",
         "params": [
             0,
             20,
@@ -6851,12 +7342,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "雪女の魂縄",
+            "description": "迷い森の雪女の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]氷の褥"
+        }
     },
     {
         "id": 247,
         "atypeId": 1,
-        "description": "命刻山の鬼の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]鬼岩落とし",
+        "description": "One that houses the soul of the Oni of Mount Inochikiza. \\C[24]Secret Art Release: \\C[0]Oni\nRock Drop",
         "etypeId": 5,
         "traits": [
             {
@@ -6871,8 +7366,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "鬼の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n悪気はない。お気に入りの場所を守るためだ>",
+        "name": "Soul Rope of the Oni",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. No ill intent. It's to protect a\nfavorite place.>",
         "params": [
             0,
             0,
@@ -6883,12 +7378,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "鬼の魂縄",
+            "description": "命刻山の鬼の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]鬼岩落とし"
+        }
     },
     {
         "id": 248,
         "atypeId": 1,
-        "description": "レーセ川の先導の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]夜の静寂",
+        "description": "One that houses the soul of the Guide of the Reese River. \\C[24]Secret Art Release:\n\\C[0]Night's Silence",
         "etypeId": 5,
         "traits": [
             {
@@ -6903,8 +7402,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "先導の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n常夜の冥府は罪なき魂を祝福する>",
+        "name": "Soul Rope of the Guide",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. The eternal underworld blesses\nsinless souls.>",
         "params": [
             0,
             0,
@@ -6915,17 +7414,21 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "先導の魂縄",
+            "description": "レーセ川の先導の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]夜の静寂"
+        }
     },
     {
         "id": 249,
         "atypeId": 1,
-        "description": "龍の乳母の魂を宿したもの。",
+        "description": "One that houses the soul of the Dragon's Wet Nurse.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 319,
-        "name": "乳母の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n乳母は奥義と呼べる技を持たないためか\nこれに技能は宿されず、ただ能力のみを\n大きく高めてくれる>",
+        "name": "Soul Rope of the Wet Nurse",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. Perhaps because the wet nurse has no technique\nthat can be called an ultimate art, no skill is harbored in\nthis; instead, it greatly enhances only your abilities.>",
         "params": [
             0,
             0,
@@ -6936,12 +7439,16 @@
             50,
             50
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "乳母の魂縄",
+            "description": "龍の乳母の魂を宿したもの。"
+        }
     },
     {
         "id": 250,
         "atypeId": 1,
-        "description": "秘せる落胤の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]蛇の祈り",
+        "description": "One that houses the soul of the Hidden Bastard. \\C[24]Secret Art Release: \\C[0]Snake's\nPrayer",
         "etypeId": 5,
         "traits": [
             {
@@ -6956,8 +7463,8 @@
             }
         ],
         "iconIndex": 319,
-        "name": "落胤の魂縄",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n神の糸により、ヌシの技を奥義とする\n穢れた祈り。あまりにも独りよがりだった>",
+        "name": "Soul Rope of the Illegitimate Child",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of\nthat power. By the divine thread, the Master's technique\nbecomes an ultimate art. A defiled prayer. It was far too\nself-righteous.>",
         "params": [
             0,
             0,
@@ -6968,7 +7475,11 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "落胤の魂縄",
+            "description": "秘せる落胤の魂を宿したもの。\n\\C[24]奥義解放：\\C[0]蛇の祈り"
+        }
     },
     {
         "id": 251,
@@ -7199,7 +7710,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼魂：レジェンド",
+        "name": "▼Soul: Legend",
         "note": "",
         "params": [
             0,
@@ -7211,17 +7722,20 @@
             0,
             0
         ],
-        "price": 0
+        "price": 0,
+        "_original": {
+            "name": "▼魂：レジェンド"
+        }
     },
     {
         "id": 260,
         "atypeId": 1,
-        "description": "四魂怪異の内、三つの魂を宿したもの。",
+        "description": "One that houses three of the souls of the Four-Soul Aberration.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 319,
-        "name": "欠けた四魂の魂縄",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n三つの魂は己の奥義の強さを説き\nそうして喧嘩になっているようだ\n　\n決着はつかず、技能は何も得られないが\n代わりに生命力を大きく高める>",
+        "name": "Soul Rope of the Flawed Four Souls",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nthat power. The three souls argue about the strength of their own ultimate\narts, and it seems they have gotten into a fight. No conclusion is reached,\nand no skill is gained, but instead, it greatly enhances your vitality.>",
         "params": [
             1000,
             0,
@@ -7232,17 +7746,21 @@
             0,
             0
         ],
-        "price": 5000
+        "price": 5000,
+        "_original": {
+            "name": "欠けた四魂の魂縄",
+            "description": "四魂怪異の内、三つの魂を宿したもの。"
+        }
     },
     {
         "id": 261,
         "atypeId": 1,
-        "description": "四魂怪異の魂を宿したもの。",
+        "description": "One that houses the soul of the Four-Soul Aberration.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 319,
-        "name": "四魂の魂縄",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n四つの魂は己の奥義の強さを説き\nそうして喧嘩になっているようだ\n　\n決着はつかず、技能は何も得られないが\n代わりに生命力を大きく高める>",
+        "name": "Soul Rope of the Four Souls",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nthat power. The four souls argue about the strength of their own ultimate\narts, and it seems they have gotten into a fight. No conclusion is reached,\nand no skill is gained, but instead, it greatly enhances your vitality.>",
         "params": [
             2500,
             0,
@@ -7253,7 +7771,11 @@
             0,
             0
         ],
-        "price": 10000
+        "price": 10000,
+        "_original": {
+            "name": "四魂の魂縄",
+            "description": "四魂怪異の魂を宿したもの。"
+        }
     },
     {
         "id": 262,
@@ -7349,7 +7871,7 @@
             }
         ],
         "iconIndex": 319,
-        "name": "魂縄",
+        "name": "Soul Rope",
         "note": "",
         "params": [
             0,
@@ -7361,6 +7883,9 @@
             0,
             0
         ],
-        "price": 5000
+        "price": 5000,
+        "_original": {
+            "name": "魂縄"
+        }
     }
 ]

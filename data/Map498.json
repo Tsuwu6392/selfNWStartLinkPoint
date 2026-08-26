@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "イブティサーマ",
+    "displayName": "Ibtisama",
     "encounterList": [
         {
             "troopId": 290,
@@ -10270,35 +10270,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのヌシだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さて、どうすべきか……"
-                            ]
+                                "This is the boss here. Now, what should\nI do..."
+                            ],
+                            "_original": "ここのヌシだ。\nさて、どうすべきか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "討伐する",
-                                    "立ち去る"
+                                    "Defeat it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "討伐する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -10598,15 +10597,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アル・ヘルムのヌシからは装備品を入手できます。"
-                            ]
+                                "You can obtain equipment from Al-Helm's boss."
+                            ],
+                            "_original": "アル・ヘルムのヌシからは装備品を入手できます。"
                         },
                         {
                             "code": 0,
@@ -10796,35 +10797,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヌシはその地のマナで復活する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいると戦闘になるだろう……"
-                            ]
+                                "The Master revives using the mana of the\nEarth. If we stay here, we'll end up in\nbattle…"
+                            ],
+                            "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヌシの復活を待つ",
-                                    "立ち去る"
+                                    "Wait for the Master's revival",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ヌシの復活を待つ",
+                                "立ち去る"
                             ]
                         },
                         {

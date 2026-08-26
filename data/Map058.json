@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "見知らぬ村",
+    "displayName": "Unknown Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 37,
@@ -8376,8 +8376,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夢を見ている。"
-                            ]
+                                "I am inside a dream."
+                            ],
+                            "_original": "夢を見ている。"
                         },
                         {
                             "code": 101,
@@ -8394,8 +8395,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこに、自分の姿もある。"
-                            ]
+                                "My body is also here."
+                            ],
+                            "_original": "そこに、自分の姿もある。"
                         },
                         {
                             "code": 205,
@@ -8525,8 +8527,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かに引き寄せられているような感覚だ。"
-                            ]
+                                "It feels as if I am being drawn to something."
+                            ],
+                            "_original": "何かに引き寄せられているような感覚だ。"
                         },
                         {
                             "code": 221,
@@ -8686,15 +8689,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらには進めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目に見えない何かに阻まれている。"
-                            ]
+                                "You can't go any further here. You're blocked by\nsomething invisible."
+                            ],
+                            "_original": "こちらには進めない。\n目に見えない何かに阻まれている。"
                         },
                         {
                             "code": 205,
@@ -8816,15 +8813,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらには進めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目に見えない何かに阻まれている。"
-                            ]
+                                "You can't go any further here. You're blocked by\nsomething invisible."
+                            ],
+                            "_original": "こちらには進めない。\n目に見えない何かに阻まれている。"
                         },
                         {
                             "code": 205,
@@ -8932,15 +8923,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらには進めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目に見えない何かに阻まれている。"
-                            ]
+                                "You can't go any further here. You're blocked by\nsomething invisible."
+                            ],
+                            "_original": "こちらには進めない。\n目に見えない何かに阻まれている。"
                         },
                         {
                             "code": 205,
@@ -9048,8 +9033,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か書かれているが、正しく読めない。"
-                            ]
+                                "Something is written here, but I can't read it\nproperly."
+                            ],
+                            "_original": "何か書かれているが、正しく読めない。"
                         },
                         {
                             "code": 0,
@@ -9179,22 +9165,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やはり都に戻られるのですか、ウーラさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほど近いとはいえ今は怪異多き世。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拙僧も同行しましょう。"
-                            ]
+                                "So you really are returning to the capital, Uura-san.\nThough it's close by, these are times of many occurrences.\nThis humble monk will accompany you."
+                            ],
+                            "_original": "やはり都に戻られるのですか、ウーラさん。\nほど近いとはいえ今は怪異多き世。\n拙僧も同行しましょう。"
                         },
                         {
                             "code": 101,
@@ -9204,29 +9177,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫です大丈夫です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたには散々お世話になりましたし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上迷惑はかけられません。"
-                            ]
+                                "No, no, I'll be fine.\nYou've already helped me so much,\nI can't impose any further."
+                            ],
+                            "_original": "大丈夫です大丈夫です。\nあなたには散々お世話になりましたし、\nこれ以上迷惑はかけられません。"
                         },
                         {
                             "code": 101,
@@ -9243,8 +9204,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "迷惑などとは思っておりませぬが……"
-                            ]
+                                "I do not consider it an imposition, but..."
+                            ],
+                            "_original": "迷惑などとは思っておりませぬが……"
                         },
                         {
                             "code": 101,
@@ -9254,29 +9216,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたは修行の最中なんでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は本当に大丈夫ですから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分のために時間を使ってください。"
-                            ]
+                                "You're in the middle of your training, aren't you?\nI really will be fine,\nso please use your time for yourself."
+                            ],
+                            "_original": "あなたは修行の最中なんでしょう？\n私は本当に大丈夫ですから、\n自分のために時間を使ってください。"
                         },
                         {
                             "code": 101,
@@ -9293,15 +9243,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで言われると、これ以上の進言は無作法というもの。"
-                            ]
+                                "...I see.\nWhen you put it that way, pressing further would be discourteous."
+                            ],
+                            "_original": "……そうですか。\nそこまで言われると、これ以上の進言は無作法というもの。"
                         },
                         {
                             "code": 101,
@@ -9318,15 +9262,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "息災を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "万事解決を祈ります。"
-                            ]
+                                "Stay safe.\nI pray all goes well."
+                            ],
+                            "_original": "息災を。\n万事解決を祈ります。"
                         },
                         {
                             "code": 101,
@@ -9336,22 +9274,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どーもです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの修行も上手くいくといいですね。"
-                            ]
+                                "Thanks a lot.\nI hope your training goes well too."
+                            ],
+                            "_original": "どーもです。\nあなたの修行も上手くいくといいですね。"
                         },
                         {
                             "code": 205,
@@ -9582,15 +9515,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魂の気配……？"
-                            ]
+                                "...?\nA soul's presence...?"
+                            ],
+                            "_original": "……？\n魂の気配……？"
                         },
                         {
                             "code": 246,
@@ -9840,15 +9767,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目覚めると、真っ暗だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ朝は来ていないようだ。"
-                            ]
+                                "When I woke up, it was pitch black.\nIt seems morning hasn't arrived yet."
+                            ],
+                            "_original": "目覚めると、真っ暗だった。\nまだ朝は来ていないようだ。"
                         },
                         {
                             "code": 101,
@@ -9865,15 +9786,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、再び目を閉じても眠れそうにない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し外の空気を吸うことにした。"
-                            ]
+                                "However, even after closing my eyes again, I didn't\nfeel like I could sleep. I decided to\nget some fresh air outside."
+                            ],
+                            "_original": "しかし、再び目を閉じても眠れそうにない。\n少し外の空気を吸うことにした。"
                         },
                         {
                             "code": 201,
@@ -10082,15 +9997,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桶がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触れることができない。"
-                            ]
+                                "There is a bucket. It cannot be touched."
+                            ],
+                            "_original": "桶がある。\n触れることができない。"
                         },
                         {
                             "code": 0,

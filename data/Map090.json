@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "石拾い道",
+    "displayName": "Ishihiroi Path",
     "encounterList": [
         {
             "troopId": 49,
@@ -5487,22 +5487,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これかもしれない……！"
-                            ]
+                                "Ah. This might be it...!"
+                            ],
+                            "_original": "あっ。\nこれかもしれない……！"
                         },
                         {
                             "code": 101,
@@ -5512,22 +5507,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何がですか？"
-                            ]
+                                "Hmm? What is it?"
+                            ],
+                            "_original": "うん？\n何がですか？"
                         },
                         {
                             "code": 101,
@@ -5537,58 +5527,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝！"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "face01",
-                                1,
-                                0,
-                                2,
-                                "プリム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宝？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "face01",
-                                2,
-                                0,
-                                2,
-                                "桜悳"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "修行として見つけるべきものでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、冨波さんの。"
-                            ]
+                                "Treasure!"
+                            ],
+                            "_original": "宝！"
                         },
                         {
                             "code": 101,
@@ -5598,15 +5547,57 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あー。"
-                            ]
+                                "Treasure?"
+                            ],
+                            "_original": "宝？"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "face01",
+                                2,
+                                0,
+                                2,
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "It's something you should find as part\nof your training, right? Look, it's\nToba-san's."
+                            ],
+                            "_original": "修行として見つけるべきものでしょう。\nほら、冨波さんの。"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "face01",
+                                1,
+                                0,
+                                2,
+                                "Prim"
+                            ],
+                            "_original": "プリム"
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "...Ah."
+                            ],
+                            "_original": "……あー。"
                         },
                         {
                             "code": 101,
@@ -5616,15 +5607,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味を持ってやれ。"
-                            ]
+                                "Show some interest."
+                            ],
+                            "_original": "興味を持ってやれ。"
                         },
                         {
                             "code": 213,
@@ -5643,15 +5636,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よーし、これを冨波殿に届ければ達成だ！"
-                            ]
+                                "Alright, if we deliver this to\nToba-dono, we'll have accomplished it!"
+                            ],
+                            "_original": "よーし、これを冨波殿に届ければ達成だ！"
                         },
                         {
                             "code": 221,
@@ -5739,15 +5734,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]白刀流、修行の一\\C[0]が更新されました。"
-                            ]
+                                "The event's \\C[17]Hakutou Style: Training I\\C[0]\nhas been updated."
+                            ],
+                            "_original": "イベントの\\C[17]白刀流、修行の一\\C[0]が更新されました。"
                         },
                         {
                             "code": 122,
@@ -6170,29 +6167,17 @@
                                 0,
                                 0,
                                 2,
-                                "柴組隊士"
-                            ]
+                                "Shibagumi Soldier"
+                            ],
+                            "_original": "柴組隊士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厭い根を探しているのだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兎の怪異に邪魔されて参っているんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊び相手か何かだと思われているのか……？"
-                            ]
+                                "I'm looking for the Blight Root, but\nI'm being troubled by a rabbit occurrence getting in my way.\nDoes it think I'm its playmate or something...?"
+                            ],
+                            "_original": "厭い根を探しているのだが、\n兎の怪異に邪魔されて参っているんだ。\n遊び相手か何かだと思われているのか……？"
                         },
                         {
                             "code": 0,

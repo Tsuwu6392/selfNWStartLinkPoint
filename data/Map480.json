@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "地上の星空",
+    "displayName": "Earth's Starry Sky",
     "encounterList": [
         {
             "troopId": 274,
@@ -9359,22 +9359,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この扉は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "向こう側からでなければ開けられないみたいだ。"
-                            ]
+                                "This door... it seems like it can only\nbe opened from the other side."
+                            ],
+                            "_original": "この扉は……\n向こう側からでなければ開けられないみたいだ。"
                         },
                         {
                             "code": 0,

@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "日向の墓標",
+    "displayName": "Sunlit Grave Marker",
     "encounterList": [],
     "encounterStep": 30,
     "height": 33,
@@ -5214,28 +5214,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "墓標が二つ並んでいる。"
-                            ]
+                                "There are two gravestones standing side\nby side."
+                            ],
+                            "_original": "墓標が二つ並んでいる。"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\C[3]枯れた砂漠の花\\C[0]を供える",
-                                    "立ち去る"
+                                    "\\C[3]Withered Desert Flower\\C[0] to offer",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "\\C[3]枯れた砂漠の花\\C[0]を供える",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -5430,15 +5436,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "い、今のは……？"
-                            ]
+                                "W-What was that just now…?"
+                            ],
+                            "_original": "い、今のは……？"
                         },
                         {
                             "code": 117,
@@ -5455,15 +5463,17 @@
                                 2,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "カンムイ……"
-                            ]
+                                "Kamui…"
+                            ],
+                            "_original": "カンムイ……"
                         },
                         {
                             "code": 117,
@@ -5496,15 +5506,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "え？"
-                            ]
+                                "Huh?"
+                            ],
+                            "_original": "え？"
                         },
                         {
                             "code": 117,
@@ -5537,22 +5549,17 @@
                                 2,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あっ、いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "すまん、似ておるなあと思っただけじゃ。"
-                            ]
+                                "Ah, no. Sorry, I just thought she looked a bit\nlike him."
+                            ],
+                            "_original": "あっ、いや。\nすまん、似ておるなあと思っただけじゃ。"
                         },
                         {
                             "code": 101,
@@ -5562,15 +5569,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "カンムイに、ですか？"
-                            ]
+                                "Like Kamui, you mean?"
+                            ],
+                            "_original": "カンムイに、ですか？"
                         },
                         {
                             "code": 101,
@@ -5580,22 +5589,17 @@
                                 2,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うむ、なんとなく雰囲気が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "しかし、まあ気のせいじゃろう。"
-                            ]
+                                "Yeah, the vibe was… similar. But ah, probably\njust my imagination."
+                            ],
+                            "_original": "うむ、なんとなく雰囲気が……\nしかし、まあ気のせいじゃろう。"
                         },
                         {
                             "code": 101,
@@ -5605,22 +5609,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "どうですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "夕闇さん。"
-                            ]
+                                "What do you think, Yuuyami-san?"
+                            ],
+                            "_original": "どうですか？\n夕闇さん。"
                         },
                         {
                             "code": 101,
@@ -5630,22 +5629,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "確かに似てたような気がするが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "だからなんだという話だ。"
-                            ]
+                                "It did feel a bit like him, but so what?"
+                            ],
+                            "_original": "確かに似てたような気がするが、\nだからなんだという話だ。"
                         },
                         {
                             "code": 101,
@@ -5655,15 +5649,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "無関心。"
-                            ]
+                                "Don't care."
+                            ],
+                            "_original": "無関心。"
                         },
                         {
                             "code": 101,
@@ -5673,22 +5669,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ラムルアラムは、シキノワと同じように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "魂というものに馴染みがあったようだ。"
-                            ]
+                                "Ramul Alam seems to have had a\nconnection to souls, much like Shikinoa."
+                            ],
+                            "_original": "ラムルアラムは、シキノワと同じように\n魂というものに馴染みがあったようだ。"
                         },
                         {
                             "code": 101,
@@ -5698,15 +5689,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "その起源も近しいということかい？"
-                            ]
+                                "Does that mean their origins are similar\nas well?"
+                            ],
+                            "_original": "その起源も近しいということかい？"
                         },
                         {
                             "code": 101,
@@ -5716,15 +5709,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まあ、ただの想像だ。"
-                            ]
+                                "Well, that's just a guess."
+                            ],
+                            "_original": "まあ、ただの想像だ。"
                         },
                         {
                             "code": 117,
@@ -5757,22 +5752,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "つまり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "存子殿はラムルアラム人！？"
-                            ]
+                                "So… does that mean Sonoko-dono is a Ramul Alam\nperson?!"
+                            ],
+                            "_original": "つまり……\n存子殿はラムルアラム人！？"
                         },
                         {
                             "code": 117,
@@ -5805,15 +5795,17 @@
                                 2,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんと！"
-                            ]
+                                "What?!"
+                            ],
+                            "_original": "なんと！"
                         },
                         {
                             "code": 101,
@@ -5823,15 +5815,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "違うと思いますけど……"
-                            ]
+                                "I don't think so…"
+                            ],
+                            "_original": "違うと思いますけど……"
                         },
                         {
                             "code": 221,
@@ -6158,15 +6152,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "墓標が二つ並んでいる。"
-                            ]
+                                "There are two gravestones standing side\nby side."
+                            ],
+                            "_original": "墓標が二つ並んでいる。"
                         },
                         {
                             "code": 0,
@@ -6337,43 +6333,36 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓標が二つ並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待っていれば、あの不思議な存在が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度現れるかも……"
-                            ]
+                                "There are two gravestones standing side\nby side. If I wait here, maybe that\nmysterious being will appear again..."
+                            ],
+                            "_original": "墓標が二つ並んでいる。\n待っていれば、あの不思議な存在が\nもう一度現れるかも……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "待つ",
-                                    "待つ（限られた祝福で挑戦）",
-                                    "立ち去る"
+                                    "Wait",
+                                    "Wait (Challenge with limited Blessing)",
+                                    "Leave"
                                 ],
                                 2,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "待つ",
+                                "待つ（限られた祝福で挑戦）",
+                                "立ち去る"
                             ]
                         },
                         {

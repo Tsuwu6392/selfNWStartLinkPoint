@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "ナーヴィガー号",
+    "displayName": "Navigator",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -5519,8 +5519,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "麻袋が積まれている。"
-                            ]
+                                "Sacks are piled up."
+                            ],
+                            "_original": "麻袋が積まれている。"
                         },
                         {
                             "code": 0,
@@ -5597,15 +5598,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろなものがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船の荷物だろう。"
-                            ]
+                                "There are all sorts of things. Probably cargo\nfrom the ship."
+                            ],
+                            "_original": "いろいろなものがある。\n船の荷物だろう。"
                         },
                         {
                             "code": 0,
@@ -5682,15 +5677,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろなものがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "船の荷物だろう。"
-                            ]
+                                "There are all sorts of things. Probably cargo\nfrom the ship."
+                            ],
+                            "_original": "いろいろなものがある。\n船の荷物だろう。"
                         },
                         {
                             "code": 0,
@@ -5767,15 +5756,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険者ギルドが発行する紙面、冒険者通信だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくつか目を引く見出しがある……"
-                            ]
+                                "It's the Adventurer's Newsletter, a publication\nissued by the Adventurer's Guild. There are a\nfew eye-catching headlines..."
+                            ],
+                            "_original": "冒険者ギルドが発行する紙面、冒険者通信だ。\nいくつか目を引く見出しがある……"
                         },
                         {
                             "code": 101,
@@ -5792,22 +5775,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「死の雨に異変！　機械の国の今」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「三貴族フェルゼン家、事実上解体か」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「世界各地で暗躍中？　シキノワの忍者とは」"
-                            ]
+                                "\"Deadly Rain Anomaly! The Machine Nation's\nPresent\" \"House Felsen of the Three Nobles,\nEffectively Dissolved?\" \"Active Worldwide in the\nShadows? What Are Shikinowa's Ninjas?\""
+                            ],
+                            "_original": "「死の雨に異変！　機械の国の今」\n「三貴族フェルゼン家、事実上解体か」\n「世界各地で暗躍中？　シキノワの忍者とは」"
                         },
                         {
                             "code": 0,
@@ -5884,8 +5854,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木箱が積まれている。"
-                            ]
+                                "Wooden boxes are stacked."
+                            ],
+                            "_original": "木箱が積まれている。"
                         },
                         {
                             "code": 0,
@@ -5962,8 +5933,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "棚だ。"
-                            ]
+                                "Shelves."
+                            ],
+                            "_original": "棚だ。"
                         },
                         {
                             "code": 0,
@@ -6040,15 +6012,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒の香りがする。"
-                            ]
+                                "It's a barrel. It smells of alcohol."
+                            ],
+                            "_original": "樽だ。\n酒の香りがする。"
                         },
                         {
                             "code": 0,
@@ -6125,15 +6091,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒の香りがする。"
-                            ]
+                                "It's a barrel. It smells of alcohol."
+                            ],
+                            "_original": "樽だ。\n酒の香りがする。"
                         },
                         {
                             "code": 0,
@@ -6210,15 +6170,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "簡素なベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "揺れても動かないように固定されている。"
-                            ]
+                                "It's a simple bed. It's fixed in place so it\nwon't move even if it shakes."
+                            ],
+                            "_original": "簡素なベッドだ。\n揺れても動かないように固定されている。"
                         },
                         {
                             "code": 0,
@@ -6288,29 +6242,17 @@
                                 0,
                                 0,
                                 2,
-                                "スターネ"
-                            ]
+                                "Starne"
+                            ],
+                            "_original": "スターネ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、ファリアさんのご友人じゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "機械の国では随分と世話になったそうで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルド全体として、あなたには感謝している。"
-                            ]
+                                "Oh, aren't you a friend of Faria-san's? I hear\nyou were quite helpful in the Machine Country...\nThe guild as a whole is grateful to you."
+                            ],
+                            "_original": "おお、ファリアさんのご友人じゃないか。\n機械の国では随分と世話になったそうで……\nギルド全体として、あなたには感謝している。"
                         },
                         {
                             "code": 101,
@@ -6320,29 +6262,17 @@
                                 0,
                                 0,
                                 2,
-                                "スターネ"
-                            ]
+                                "Starne"
+                            ],
+                            "_original": "スターネ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回は快適な船旅を提供できなくてすまないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナーヴィガー号は旅客船ではないからしょうがないんだ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わっはっは。"
-                            ]
+                                "Sorry we can't offer you a comfortable voyage\nthis time. The Navigator isn't a passenger ship,\nso it can't be helped―wah ha ha!"
+                            ],
+                            "_original": "今回は快適な船旅を提供できなくてすまないね。\nナーヴィガー号は旅客船ではないからしょうがないんだ、\nわっはっは。"
                         },
                         {
                             "code": 101,
@@ -6352,22 +6282,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやあ、乗せてもらえただけでもありがたいですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ね？"
-                            ]
+                                "No, we're just grateful to be given a\nride at all. Right?"
+                            ],
+                            "_original": "いやあ、乗せてもらえただけでもありがたいですよ。\nね？"
                         },
                         {
                             "code": 123,
@@ -6436,29 +6361,17 @@
                                 0,
                                 0,
                                 2,
-                                "スターネ"
-                            ]
+                                "Starne"
+                            ],
+                            "_original": "スターネ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたはケイスさんとも知り合いだそうじゃないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかすると私みたいなものが気安く話しかけていい人では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないのかもしれないなあ、わっはっは。"
-                            ]
+                                "You're acquainted with Keis-san, aren't you?\nPerhaps someone like me shouldn't be so casual\nin speaking to you―ha ha ha."
+                            ],
+                            "_original": "あなたはケイスさんとも知り合いだそうじゃないか？\nもしかすると私みたいなものが気安く話しかけていい人では\nないのかもしれないなあ、わっはっは。"
                         },
                         {
                             "code": 0,
@@ -6528,22 +6441,17 @@
                                 0,
                                 0,
                                 2,
-                                "アン"
-                            ]
+                                "An"
+                            ],
+                            "_original": "アン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休憩中……休憩中だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サボってるわけじゃないよ……"
-                            ]
+                                "On break... I'm on break, okay? I'm not slacking\noff..."
+                            ],
+                            "_original": "休憩中……休憩中だよ。\nサボってるわけじゃないよ……"
                         },
                         {
                             "code": 0,

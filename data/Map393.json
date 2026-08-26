@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "アルワーフ砂漠",
+    "displayName": "Alwarf Desert",
     "encounterList": [
         {
             "troopId": 327,
@@ -13204,15 +13204,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「滑落注意"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　下への移動には階段と梯子を利用しましょう」"
-                            ]
+                                "\"Warning: Risk of falling. Use stairs and\nladders to move downward.\""
+                            ],
+                            "_original": "「滑落注意\n　下への移動には階段と梯子を利用しましょう」"
                         },
                         {
                             "code": 0,
@@ -13248,8 +13242,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「こちらは裏側です」"
-                            ]
+                                "\"This is the back side.\""
+                            ],
+                            "_original": "「こちらは裏側です」"
                         },
                         {
                             "code": 0,
@@ -13269,15 +13264,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "一応、側面も調べてみるんだ！"
-                            ]
+                                "Just to be sure, check the sides too!"
+                            ],
+                            "_original": "一応、側面も調べてみるんだ！"
                         },
                         {
                             "code": 0,
@@ -15482,15 +15479,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "都に到着です、勇士。"
-                            ]
+                                "We've arrived at the capital, brave one."
+                            ],
+                            "_original": "都に到着です、勇士。"
                         },
                         {
                             "code": 101,
@@ -15500,15 +15499,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ああ……"
-                            ]
+                                "Ah… yeah…"
+                            ],
+                            "_original": "あ、ああ……"
                         },
                         {
                             "code": 213,
@@ -15527,22 +15528,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疲れたのか？"
-                            ]
+                                "What's wrong? Are you tired?"
+                            ],
+                            "_original": "どうした？\n疲れたのか？"
                         },
                         {
                             "code": 101,
@@ -15552,22 +15548,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに来てから、なんだか身体が重く感じて……"
-                            ]
+                                "No… it's just, ever since we got here,\nmy body feels so heavy…"
+                            ],
+                            "_original": "いや……\nここに来てから、なんだか身体が重く感じて……"
                         },
                         {
                             "code": 101,
@@ -15577,22 +15568,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、気のせいじゃなかったんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もです。"
-                            ]
+                                "Ah, so it wasn't just my imagination. I\nfeel it too."
+                            ],
+                            "_original": "あっ、気のせいじゃなかったんですね。\n私もです。"
                         },
                         {
                             "code": 101,
@@ -15602,22 +15588,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理由：砂漠の歩行は困難。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、旅慣れた者であればすぐに適応できるでしょう。"
-                            ]
+                                "Reason: Walking through the desert is difficult.\nHowever, those accustomed to travel should adapt\nquickly."
+                            ],
+                            "_original": "理由：砂漠の歩行は困難。\nしかし、旅慣れた者であればすぐに適応できるでしょう。"
                         },
                         {
                             "code": 101,
@@ -15627,22 +15608,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうことなのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ううむ……"
-                            ]
+                                "Is that what's happening? Hmm…"
+                            ],
+                            "_original": "そういうことなのかな？\nううむ……"
                         },
                         {
                             "code": 101,
@@ -15652,22 +15628,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、もう都に着いたみたいですし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休めば元気になりますよ、きっと。"
-                            ]
+                                "Well, we've already reached the capital,\nit seems. Rest up, and you'll feel\nbetter, I'm sure."
+                            ],
+                            "_original": "ま、もう都に着いたみたいですし。\n休めば元気になりますよ、きっと。"
                         },
                         {
                             "code": 101,
@@ -15677,22 +15648,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウーラさんはあまり堪えていないようですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体が軽いからでしょうか。"
-                            ]
+                                "Ula-san doesn't seem to be struggling\nmuch… probably because her body is\nlight."
+                            ],
+                            "_original": "ウーラさんはあまり堪えていないようですね……\n身体が軽いからでしょうか。"
                         },
                         {
                             "code": 101,
@@ -15702,22 +15668,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私は胸におかしなものをぶら下げていないのでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっ。"
-                            ]
+                                "…Unlike some, I'm not lugging around\nsomething strange on my chest. Tch."
+                            ],
+                            "_original": "……私は胸におかしなものをぶら下げていないのでね。\nちっ。"
                         },
                         {
                             "code": 221,
@@ -15870,15 +15831,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像が炎を掲げている！"
-                            ]
+                                "The stone statue is holding up a flame!"
+                            ],
+                            "_original": "石像が炎を掲げている！"
                         },
                         {
                             "code": 0,
@@ -15955,15 +15918,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像が炎を掲げている！"
-                            ]
+                                "The stone statue is holding up a flame!"
+                            ],
+                            "_original": "石像が炎を掲げている！"
                         },
                         {
                             "code": 0,
@@ -16040,15 +16005,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像が炎を掲げている！"
-                            ]
+                                "The stone statue is holding up a flame!"
+                            ],
+                            "_original": "石像が炎を掲げている！"
                         },
                         {
                             "code": 0,
@@ -16125,15 +16092,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "石像が炎を掲げている！"
-                            ]
+                                "The stone statue is holding up a flame!"
+                            ],
+                            "_original": "石像が炎を掲げている！"
                         },
                         {
                             "code": 0,
@@ -16334,15 +16303,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高所のたる！"
-                            ]
+                                "A barrel up high!"
+                            ],
+                            "_original": "高所のたる！"
                         },
                         {
                             "code": 0,
@@ -16412,15 +16383,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高所のたる！"
-                            ]
+                                "A barrel up high!"
+                            ],
+                            "_original": "高所のたる！"
                         },
                         {
                             "code": 0,
@@ -16490,15 +16463,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高所のふくろ！"
-                            ]
+                                "A pouch from up high!"
+                            ],
+                            "_original": "高所のふくろ！"
                         },
                         {
                             "code": 0,

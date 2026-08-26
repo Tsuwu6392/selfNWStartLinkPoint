@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "夜光地",
+    "displayName": "Nightlight Grounds",
     "encounterList": [],
     "encounterStep": 30,
     "height": 39,
@@ -12022,28 +12022,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう一度挑戦してみようか……"
-                            ]
+                                "Should I try challenging it again..."
+                            ],
+                            "_original": "もう一度挑戦してみようか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "挑戦する",
-                                    "立ち去る"
+                                    "Try again",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "挑戦する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -12325,28 +12331,34 @@
                                 4,
                                 0,
                                 2,
-                                "亜命"
-                            ]
+                                "Amei"
+                            ],
+                            "_original": "亜命"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰る？"
-                            ]
+                                "Going home?"
+                            ],
+                            "_original": "帰る？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "帰る",
-                                    "帰らない"
+                                    "Go home",
+                                    "Don't go home"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "帰る",
+                                "帰らない"
                             ]
                         },
                         {
@@ -12365,15 +12377,17 @@
                                 4,
                                 0,
                                 2,
-                                "亜命"
-                            ]
+                                "Amei"
+                            ],
+                            "_original": "亜命"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わかった。"
-                            ]
+                                "Got it."
+                            ],
+                            "_original": "わかった。"
                         },
                         {
                             "code": 281,
@@ -12469,15 +12483,17 @@
                                 4,
                                 0,
                                 2,
-                                "亜命"
-                            ]
+                                "Amei"
+                            ],
+                            "_original": "亜命"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がんばって。"
-                            ]
+                                "Do your best."
+                            ],
+                            "_original": "がんばって。"
                         },
                         {
                             "code": 0,

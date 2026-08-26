@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "聖刻遺跡",
+    "displayName": "Sacred Inscription Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -7564,8 +7564,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "試練から逃げ出すわけにはいかない。"
-                            ]
+                                "I can't run away from this trial."
+                            ],
+                            "_original": "試練から逃げ出すわけにはいかない。"
                         },
                         {
                             "code": 205,
@@ -7999,22 +8000,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえるか？"
-                            ]
+                                "\\N[10]-dono! Can you hear me?"
+                            ],
+                            "_original": "\\N[10]殿！\n聞こえるか？"
                         },
                         {
                             "code": 213,
@@ -8033,29 +8029,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たち、ザフラに案内されて別室に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いるわけですけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんかここからあなたの様子を見れます。"
-                            ]
+                                "We were guided by Zafra to a separate\nroom... but somehow, we can see how\nyou're doing from here."
+                            ],
+                            "_original": "私たち、ザフラに案内されて別室に\nいるわけですけど……\nなんかここからあなたの様子を見れます。"
                         },
                         {
                             "code": 101,
@@ -8065,15 +8049,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亜命が見せた過去の映像のようじゃ！"
-                            ]
+                                "It looks like a recording of the past\nthat Amei showed us!"
+                            ],
+                            "_original": "亜命が見せた過去の映像のようじゃ！"
                         },
                         {
                             "code": 101,
@@ -8083,15 +8069,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "会話もできるので、あれよりすごいかもしれません。"
-                            ]
+                                "We can even talk to you, so this might\nbe even more amazing than that."
+                            ],
+                            "_original": "会話もできるので、あれよりすごいかもしれません。"
                         },
                         {
                             "code": 101,
@@ -8101,15 +8089,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亜命が本気を出せばこんなもんじゃないよ。"
-                            ]
+                                "If Amei really went all out, this would\nbe nothing compared to what she could\ndo."
+                            ],
+                            "_original": "亜命が本気を出せばこんなもんじゃないよ。"
                         },
                         {
                             "code": 101,
@@ -8119,22 +8109,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは、高度な機械だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ……"
-                            ]
+                                "This is some advanced machinery. Hmm..."
+                            ],
+                            "_original": "これは、高度な機械だな。\nふむ……"
                         },
                         {
                             "code": 101,
@@ -8144,22 +8129,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "助力は駄目だが助言はいいと言われたんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困ったときは頼ってくれ！"
-                            ]
+                                "We were told we can't help directly, but\nwe can give advice! If you're in\ntrouble, rely on us!"
+                            ],
+                            "_original": "助力は駄目だが助言はいいと言われたんだ！\n困ったときは頼ってくれ！"
                         },
                         {
                             "code": 221,
@@ -8907,29 +8887,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我の声が聞こえるな、勇士よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これより三つの質問をもって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神がお前の素質を見る。"
-                            ]
+                                "You can hear my voice, warrior. With\nthree questions, the god shall judge\nyour worth."
+                            ],
+                            "_original": "我の声が聞こえるな、勇士よ。\nこれより三つの質問をもって、\n神がお前の素質を見る。"
                         },
                         {
                             "code": 101,
@@ -8939,29 +8907,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "問おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の前に二つの部屋がある──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それらの扉には鍵がかかっている。"
-                            ]
+                                "Listen well. Before you stand two\nrooms―both doors are locked."
+                            ],
+                            "_original": "問おう。\nお前の前に二つの部屋がある──\nそれらの扉には鍵がかかっている。"
                         },
                         {
                             "code": 101,
@@ -8971,22 +8927,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "両方の部屋が炎に包まれた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一方には神が、一方には百人の民がいる。"
-                            ]
+                                "Both rooms are engulfed in flames. One\nholds a god, the other holds a hundred\npeople."
+                            ],
+                            "_original": "両方の部屋が炎に包まれた。\n一方には神が、一方には百人の民がいる。"
                         },
                         {
                             "code": 101,
@@ -8996,22 +8947,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の手には部屋の扉の鍵がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、一度使用すると壊れてしまう。"
-                            ]
+                                "In your hand is a key to the doors. But\nit will break after a single use."
+                            ],
+                            "_original": "お前の手には部屋の扉の鍵がある。\nしかし、一度使用すると壊れてしまう。"
                         },
                         {
                             "code": 118,
@@ -9028,29 +8974,36 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……さて、お前はどちらの扉を開放する？"
-                            ]
+                                "...So, which door will you unlock?"
+                            ],
+                            "_original": "……さて、お前はどちらの扉を開放する？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "神の部屋の扉",
-                                    "百人の民の部屋の扉",
-                                    "仲間の意見を聞く"
+                                    "The door to the god's room",
+                                    "The door to the room with a hundred people",
+                                    "Ask your companions for their opinion"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "神の部屋の扉",
+                                "百人の民の部屋の扉",
+                                "仲間の意見を聞く"
                             ]
                         },
                         {
@@ -9080,22 +9033,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "百人の命より神の命を優先するのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほど。"
-                            ]
+                                "You prioritize the god's life over a\nhundred lives. I see."
+                            ],
+                            "_original": "百人の命より神の命を優先するのか。\nなるほど。"
                         },
                         {
                             "code": 101,
@@ -9105,22 +9053,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく分かった──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進め。"
-                            ]
+                                "Understood―proceed."
+                            ],
+                            "_original": "よく分かった──\n先に進め。"
                         },
                         {
                             "code": 250,
@@ -9183,22 +9126,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神の命より民の命を優先するのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほど。"
-                            ]
+                                "You prioritize the people's lives over\nthe god's. I see."
+                            ],
+                            "_original": "神の命より民の命を優先するのか。\nなるほど。"
                         },
                         {
                             "code": 101,
@@ -9208,22 +9146,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく分かった──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進め。"
-                            ]
+                                "Understood―proceed."
+                            ],
+                            "_original": "よく分かった──\n先に進め。"
                         },
                         {
                             "code": 250,
@@ -9286,22 +9219,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "命の価値に差などない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからこそ、難しい問いですね。"
-                            ]
+                                "There is no difference in the value of\nlife. That is precisely what makes this\nquestion so difficult."
+                            ],
+                            "_original": "命の価値に差などない。\nだからこそ、難しい問いですね。"
                         },
                         {
                             "code": 101,
@@ -9311,29 +9239,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どっちを選んでも、誰かは絶対に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死んじゃうわけですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うーん……"
-                            ]
+                                "No matter which you choose, someone is\ndefinitely going to die, right? Hmm..."
+                            ],
+                            "_original": "どっちを選んでも、誰かは絶対に\n死んじゃうわけですよね。\nうーん……"
                         },
                         {
                             "code": 101,
@@ -9343,15 +9259,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全員助けたい！"
-                            ]
+                                "I want to save everyone!"
+                            ],
+                            "_original": "全員助けたい！"
                         },
                         {
                             "code": 101,
@@ -9361,15 +9279,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "問いそのものを無視するな。"
-                            ]
+                                "Do not ignore the question itself."
+                            ],
+                            "_original": "問いそのものを無視するな。"
                         },
                         {
                             "code": 101,
@@ -9379,22 +9299,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この国での神の扱いを見れば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悩むようなことじゃあない。"
-                            ]
+                                "Given how gods are treated in this\ncountry, there's no need to agonize over\nthis."
+                            ],
+                            "_original": "この国での神の扱いを見れば、\n悩むようなことじゃあない。"
                         },
                         {
                             "code": 101,
@@ -9404,22 +9319,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし、それで民を犠牲にしては……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうしてしまった私だからこそ、否定したい……"
-                            ]
+                                "But to sacrifice the people... Having\ndone so myself, I must reject that\nchoice..."
+                            ],
+                            "_original": "しかし、それで民を犠牲にしては……\nそうしてしまった私だからこそ、否定したい……"
                         },
                         {
                             "code": 119,

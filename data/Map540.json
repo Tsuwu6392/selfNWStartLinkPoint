@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "あばら四つ辻",
+    "displayName": "Abandoned Crossroads",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -9523,35 +9523,34 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は来た道だが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰りたいのかい？"
-                            ]
+                                "This is the way we came... Do you want\nto go back?"
+                            ],
+                            "_original": "この先は来た道だが……\n帰りたいのかい？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "戻らない"
+                                    "Return",
+                                    "Don't return"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "戻る",
+                                "戻らない"
                             ]
                         },
                         {
@@ -9577,22 +9576,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しょうがないねえ。"
-                            ]
+                                "Hmph. Can't be helped, I suppose."
+                            ],
+                            "_original": "ふん。\nしょうがないねえ。"
                         },
                         {
                             "code": 250,
@@ -9666,15 +9660,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまりわらわを待たせるんじゃないよ。"
-                            ]
+                                "Don't make me wait too long."
+                            ],
+                            "_original": "あまりわらわを待たせるんじゃないよ。"
                         },
                         {
                             "code": 0,
@@ -9697,15 +9693,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……怒るよ。"
-                            ]
+                                "...I'll get angry."
+                            ],
+                            "_original": "……怒るよ。"
                         },
                         {
                             "code": 205,
@@ -9821,28 +9819,34 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神社に戻るのですか？"
-                            ]
+                                "Are we returning to the shrine?"
+                            ],
+                            "_original": "神社に戻るのですか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "戻らない"
+                                    "Return",
+                                    "Don't return"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "戻る",
+                                "戻らない"
                             ]
                         },
                         {
@@ -9868,22 +9872,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "承知しました。ですが──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "できれば早めにまたここへ。"
-                            ]
+                                "Understood. But―please come back here as\nsoon as possible."
+                            ],
+                            "_original": "承知しました。ですが──\nできれば早めにまたここへ。"
                         },
                         {
                             "code": 250,
@@ -9970,15 +9969,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夕闇様を探しましょう。"
-                            ]
+                                "Let's search for Yuuyami-sama."
+                            ],
+                            "_original": "夕闇様を探しましょう。"
                         },
                         {
                             "code": 205,
@@ -10163,22 +10164,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめておきな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに入るのは。"
-                            ]
+                                "Stop. Don't come in here."
+                            ],
+                            "_original": "やめておきな。\nここに入るのは。"
                         },
                         {
                             "code": 205,
@@ -10421,22 +10417,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで来れば、もう安全だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通ならね。"
-                            ]
+                                "At this point, we should be safe.\nNormally, that is."
+                            ],
+                            "_original": "ここまで来れば、もう安全だ。\n普通ならね。"
                         },
                         {
                             "code": 205,
@@ -10590,22 +10581,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眠りの森の南東、道なき道を抜けた先。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて、そこに小さな集落があってねえ。"
-                            ]
+                                "To the southeast of Sleeping Forest,\npast a pathless trail. There used to be\na small settlement there, you know."
+                            ],
+                            "_original": "眠りの森の南東、道なき道を抜けた先。\nかつて、そこに小さな集落があってねえ。"
                         },
                         {
                             "code": 101,
@@ -10615,22 +10601,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は何もないはずだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、見て回ってみるとしよう。"
-                            ]
+                                "It should be empty now... Well, let's go\ntake a look around."
+                            ],
+                            "_original": "今は何もないはずだが……\nまあ、見て回ってみるとしよう。"
                         },
                         {
                             "code": 221,
@@ -10977,22 +10958,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間……？"
-                            ]
+                                "…Hm? A human…?"
+                            ],
+                            "_original": "……ん？\n人間……？"
                         },
                         {
                             "code": 213,
@@ -11011,15 +10987,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなた方は……"
-                            ]
+                                "You two are…"
+                            ],
+                            "_original": "あなた方は……"
                         },
                         {
                             "code": 101,
@@ -11029,15 +11007,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見て分からないのかい？"
-                            ]
+                                "Can't you tell just by looking?"
+                            ],
+                            "_original": "見て分からないのかい？"
                         },
                         {
                             "code": 101,
@@ -11047,22 +11027,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……夕闇さんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "りゆう屋の……"
-                            ]
+                                "…Are you Yuuyami-sama? From the Reason Shop…?"
+                            ],
+                            "_original": "……夕闇さんですか？\nりゆう屋の……"
                         },
                         {
                             "code": 101,
@@ -11072,22 +11047,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "常識はあるようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心したよ。"
-                            ]
+                                "Seems you've got some common sense.\nThat's a relief."
+                            ],
+                            "_original": "常識はあるようだ。\n安心したよ。"
                         },
                         {
                             "code": 101,
@@ -11097,22 +11067,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、お前はなんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで何をしている？"
-                            ]
+                                "So, who are you? What are you doing\nhere?"
+                            ],
+                            "_original": "で、お前はなんだ？\nここで何をしている？"
                         },
                         {
                             "code": 213,
@@ -11131,22 +11096,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は、狸に化かされ道に迷ってしまいまして……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "途方に暮れていたのです。"
-                            ]
+                                "Actually, I was tricked by a tanuki and got\nlost… I was at my wits' end."
+                            ],
+                            "_original": "実は、狸に化かされ道に迷ってしまいまして……\n途方に暮れていたのです。"
                         },
                         {
                             "code": 101,
@@ -11156,22 +11116,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狸に。"
-                            ]
+                                "Oh? A tanuki, huh."
+                            ],
+                            "_original": "ほう。\n狸に。"
                         },
                         {
                             "code": 101,
@@ -11181,15 +11136,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかして、あなた方も……？"
-                            ]
+                                "Could it be… you two as well?"
+                            ],
+                            "_original": "もしかして、あなた方も……？"
                         },
                         {
                             "code": 213,
@@ -11208,22 +11165,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\N[10]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前のせいで侮られたよ。"
-                            ]
+                                "…\\N[10]. You've made me look like a fool."
+                            ],
+                            "_original": "……\\N[10]。\nお前のせいで侮られたよ。"
                         },
                         {
                             "code": 213,
@@ -11273,22 +11225,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然だが、違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわはこいつに教えに来たんだよ。"
-                            ]
+                                "Of course not. I came here to teach this\nbastard a thing or two."
+                            ],
+                            "_original": "当然だが、違う。\nわらわはこいつに教えに来たんだよ。"
                         },
                         {
                             "code": 101,
@@ -11298,22 +11245,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつって、そちらの男性の……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったい何を……"
-                            ]
+                                "This bastard…? That man over there? Just what in\nthe world…?"
+                            ],
+                            "_original": "こいつって、そちらの男性の……？\nいったい何を……"
                         },
                         {
                             "code": 101,
@@ -11323,22 +11265,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この場所についてさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかくだ、お前にも教えてやろうか。"
-                            ]
+                                "About this place. Since I'm here, I\nmight as well teach you too."
+                            ],
+                            "_original": "この場所についてさ。\nせっかくだ、お前にも教えてやろうか。"
                         },
                         {
                             "code": 101,
@@ -11348,22 +11285,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでは数多の人間が死んだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「艶尾の辻」は分かるかい？"
-                            ]
+                                "Many humans have died here. Know what\nthe Seductive Tail Crossroads is?"
+                            ],
+                            "_original": "ここでは数多の人間が死んだ。\n「艶尾の辻」は分かるかい？"
                         },
                         {
                             "code": 101,
@@ -11373,22 +11305,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え……？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いえ……"
-                            ]
+                                "Uh… n-no…"
+                            ],
+                            "_original": "え……？\nい、いえ……"
                         },
                         {
                             "code": 101,
@@ -11398,22 +11325,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪談の一つだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とある四つ辻の妖狐に関する話……"
-                            ]
+                                "It's a ghost story. A tale about a vixen\nat a certain crossroads…"
+                            ],
+                            "_original": "怪談の一つだ。\nとある四つ辻の妖狐に関する話……"
                         },
                         {
                             "code": 101,
@@ -11423,22 +11345,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そいつはそいつに誘われた雄を死に追いやった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇時に、何度も何度もねえ。"
-                            ]
+                                "She lured men to their deaths, over and\nover, during the twilight hours."
+                            ],
+                            "_original": "そいつはそいつに誘われた雄を死に追いやった。\n夕闇時に、何度も何度もねえ。"
                         },
                         {
                             "code": 213,
@@ -11457,22 +11374,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、もう帰ります。"
-                            ]
+                                "A-ah, um. I think I'll be going now."
+                            ],
+                            "_original": "あ、あの。\n私、もう帰ります。"
                         },
                         {
                             "code": 205,
@@ -11513,22 +11425,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰れるのかい？"
-                            ]
+                                "Hm? You think you can just leave?"
+                            ],
+                            "_original": "ん？\n帰れるのかい？"
                         },
                         {
                             "code": 101,
@@ -11538,15 +11445,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "都への道を教えてもらえれば……"
-                            ]
+                                "If you could just tell me the way to the\ncapital…"
+                            ],
+                            "_original": "都への道を教えてもらえれば……"
                         },
                         {
                             "code": 101,
@@ -11556,22 +11465,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南に笹倉の人里がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで行けばなんとかなるだろうさ。"
-                            ]
+                                "There's a village called Sasakura to the\nsouth. If you make it there, you'll be\nfine."
+                            ],
+                            "_original": "南に笹倉の人里がある。\nそこまで行けばなんとかなるだろうさ。"
                         },
                         {
                             "code": 101,
@@ -11581,22 +11485,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "み、南ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます。"
-                            ]
+                                "S-south, then. Thank you."
+                            ],
+                            "_original": "み、南ですね。\nありがとうございます。"
                         },
                         {
                             "code": 221,
@@ -11737,15 +11636,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気づいたかい？"
-                            ]
+                                "Notice anything?"
+                            ],
+                            "_original": "気づいたかい？"
                         },
                         {
                             "code": 213,
@@ -11764,22 +11665,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちっ、愚図め。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあいい、別に期待はしていない。"
-                            ]
+                                "Tch. What an idiot. Well, whatever. I\nwasn't expecting much."
+                            ],
+                            "_original": "ちっ、愚図め。\nまあいい、別に期待はしていない。"
                         },
                         {
                             "code": 205,
@@ -11820,22 +11716,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それより、続きだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇時の妖狐は人間を殺め続けた──"
-                            ]
+                                "Anyway, back to the story. The twilight\nvixen kept killing humans―"
+                            ],
+                            "_original": "それより、続きだ。\n夕闇時の妖狐は人間を殺め続けた──"
                         },
                         {
                             "code": 205,
@@ -11876,35 +11767,34 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜだと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]。"
-                            ]
+                                "Any idea why? \\N[10]."
+                            ],
+                            "_original": "なぜだと思う？\n\\N[10]。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "快楽のため",
-                                    "そうせざるを得なかった"
+                                    "For pleasure",
+                                    "It had no choice"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "快楽のため",
+                                "そうせざるを得なかった"
                             ]
                         },
                         {
@@ -11923,22 +11813,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうだね。"
-                            ]
+                                "Huh. I suppose so."
+                            ],
+                            "_original": "ふぅん。\nそうだね。"
                         },
                         {
                             "code": 0,
@@ -11961,22 +11846,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か事情があったと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふぅん……馬鹿だねえ。"
-                            ]
+                                "You think there was some reason? Huh…\nYou're an idiot."
+                            ],
+                            "_original": "何か事情があったと？\nふぅん……馬鹿だねえ。"
                         },
                         {
                             "code": 0,
@@ -11996,22 +11876,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雄が何をしようと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そいつを楽しませることはできない。"
-                            ]
+                                "No matter what the men did, they\ncouldn't please her."
+                            ],
+                            "_original": "雄が何をしようと、\nそいつを楽しませることはできない。"
                         },
                         {
                             "code": 101,
@@ -12021,22 +11896,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、快楽の中で死んでいく様だけは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し愉快だったんだよ──"
-                            ]
+                                "But watching them die in pleasure… that\nwas a little amusing, I'll admit―"
+                            ],
+                            "_original": "ただ、快楽の中で死んでいく様だけは、\n少し愉快だったんだよ──"
                         },
                         {
                             "code": 246,
@@ -12175,35 +12045,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『夕闇時の怪談』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Do you want to view the ghost story \"Yuuyami's\nTale\"? \\C[17]*Either choice will be added to your\nmemories.*\\C[0]"
+                            ],
+                            "_original": "シーン『夕闇時の怪談』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -12278,15 +12147,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Encounter: Yuuyami of the Crossroads\nof the Lustrous Tail\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -12690,22 +12561,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "光明の……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぜここに。"
-                            ]
+                                "Koomyou... Why are you here?"
+                            ],
+                            "_original": "光明の……\nなぜここに。"
                         },
                         {
                             "code": 101,
@@ -12715,22 +12581,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに\\N[10]。"
-                            ]
+                                "Yuuyami. And \\N[10]."
+                            ],
+                            "_original": "夕闇。\nそれに\\N[10]。"
                         },
                         {
                             "code": 101,
@@ -12740,22 +12601,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私がここにいる理由なんて、別にないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの散歩の途中さ。"
-                            ]
+                                "There's no particular reason I'm here.\nJust passing through on a walk."
+                            ],
+                            "_original": "私がここにいる理由なんて、別にないよ。\nただの散歩の途中さ。"
                         },
                         {
                             "code": 101,
@@ -12765,22 +12621,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かめに来たのかい。"
-                            ]
+                                "Hmph. Did you come to check up on me?"
+                            ],
+                            "_original": "ふぅん。\n確かめに来たのかい。"
                         },
                         {
                             "code": 101,
@@ -12790,22 +12641,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そういえば、無駄だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君に隠し事をするのは。"
-                            ]
+                                "...Now that you mention it, it was\npointless. Trying to hide things from\nyou."
+                            ],
+                            "_original": "……そういえば、無駄だった。\n君に隠し事をするのは。"
                         },
                         {
                             "code": 101,
@@ -12815,15 +12661,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前と初めて会ったのはここだったねえ。"
-                            ]
+                                "This is where we first met, isn't it?"
+                            ],
+                            "_original": "お前と初めて会ったのはここだったねえ。"
                         },
                         {
                             "code": 101,
@@ -12833,22 +12681,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]りゆう屋\\C[0]……あの下卑た空間が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "随分と煌びやかになったものだよ。"
-                            ]
+                                "\\C[17]Reason Shop\\C[0]... That vile little space\nhas certainly become quite splendid."
+                            ],
+                            "_original": "\\C[17]りゆう屋\\C[0]……あの下卑た空間が、\n随分と煌びやかになったものだよ。"
                         },
                         {
                             "code": 101,
@@ -12858,15 +12701,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "軽蔑するかい？"
-                            ]
+                                "Do you look down on it?"
+                            ],
+                            "_original": "軽蔑するかい？"
                         },
                         {
                             "code": 101,
@@ -12876,22 +12721,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいや、尊敬する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は、言わば必要悪だ。"
-                            ]
+                                "No, I respect it. You're what they call\na necessary evil."
+                            ],
+                            "_original": "いいや、尊敬する。\n君は、言わば必要悪だ。"
                         },
                         {
                             "code": 101,
@@ -12901,15 +12741,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "変わったね、光明の。"
-                            ]
+                                "You've changed, Koomyou."
+                            ],
+                            "_original": "変わったね、光明の。"
                         },
                         {
                             "code": 101,
@@ -12919,15 +12761,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君も。"
-                            ]
+                                "So have you."
+                            ],
+                            "_original": "君も。"
                         },
                         {
                             "code": 213,
@@ -12946,22 +12790,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわはそこの小屋の中を調べる。"
-                            ]
+                                "Well then. I'm going to search that hut\nover there."
+                            ],
+                            "_original": "さて。\nわらわはそこの小屋の中を調べる。"
                         },
                         {
                             "code": 205,
@@ -13002,22 +12841,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前は光明のと話でもして待つがよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違ってもついてくるんじゃないよ。"
-                            ]
+                                "You can stay here and chat with Koomyou.\nAnd don't even think about following me."
+                            ],
+                            "_original": "お前は光明のと話でもして待つがよい。\n間違ってもついてくるんじゃないよ。"
                         },
                         {
                             "code": 221,
@@ -13138,35 +12972,34 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]は知っているのかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここがどういう場所なのか。"
-                            ]
+                                "Does \\N[10] know what kind of place this is?"
+                            ],
+                            "_original": "\\N[10]は知っているのかい。\nここがどういう場所なのか。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "怪談の舞台",
-                                    "夕闇の住処"
+                                    "The stage of a ghost story",
+                                    "Yuuyami's dwelling"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "怪談の舞台",
+                                "夕闇の住処"
                             ]
                         },
                         {
@@ -13185,22 +13018,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "艶尾の辻、か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うん、その通りだ。"
-                            ]
+                                "Seductive Tail Crossroads, huh? Yeah,\nthat's right."
+                            ],
+                            "_original": "艶尾の辻、か。\nうん、その通りだ。"
                         },
                         {
                             "code": 0,
@@ -13223,22 +13051,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夕闇の住処……うん、間違ってはいないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確かに、そうとも言える。"
-                            ]
+                                "Yuuyami's dwelling... Well, that's not\nwrong. You could say that, yes."
+                            ],
+                            "_original": "夕闇の住処……うん、間違ってはいないね。\n確かに、そうとも言える。"
                         },
                         {
                             "code": 0,
@@ -13258,22 +13081,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その昔、ここはただの遊び場だったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薄暗い雰囲気が逆に人気だったみたいでね。"
-                            ]
+                                "Long ago, this place was just a\nplayground. Its dim atmosphere was\nactually part of its charm."
+                            ],
+                            "_original": "その昔、ここはただの遊び場だったらしい。\n薄暗い雰囲気が逆に人気だったみたいでね。"
                         },
                         {
                             "code": 101,
@@ -13283,22 +13101,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くの集落の子供たちは、ここをよく訪れた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、ここに住む怪異と一緒に楽しく過ごした。"
-                            ]
+                                "Children from the nearby village often\nvisited. They'd spend time here, happily\nplaying with the youkai that lived here."
+                            ],
+                            "_original": "近くの集落の子供たちは、ここをよく訪れた。\nそして、ここに住む怪異と一緒に楽しく過ごした。"
                         },
                         {
                             "code": 101,
@@ -13308,22 +13121,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけど──その怪異は尋常の存在じゃなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無自覚に招かれざる者を集めてしまった。"
-                            ]
+                                "But―that youkai was no ordinary being.\nUnknowingly, it gathered those who\nweren't welcome."
+                            ],
+                            "_original": "だけど──その怪異は尋常の存在じゃなかった。\n無自覚に招かれざる者を集めてしまった。"
                         },
                         {
                             "code": 101,
@@ -13333,22 +13141,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "似た力を持つ怪異たち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを求める大人たち。"
-                            ]
+                                "Other youkai with similar powers. Adults\nwho sought them out."
+                            ],
+                            "_original": "似た力を持つ怪異たち。\nそれを求める大人たち。"
                         },
                         {
                             "code": 101,
@@ -13358,22 +13161,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊び場は変貌してしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相応しくない子供たちは邪魔者扱いだ。"
-                            ]
+                                "The playground changed. The children who\ndidn't belong were treated as nuisances."
+                            ],
+                            "_original": "遊び場は変貌してしまった。\n相応しくない子供たちは邪魔者扱いだ。"
                         },
                         {
                             "code": 101,
@@ -13383,29 +13181,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "のちに怪談が広まる頃……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐れをなした大人たちは寄り付かなくなったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供たちもまた戻ることはなかった。"
-                            ]
+                                "By the time ghost stories spread... the\nterrified adults stayed away, and the\nchildren never returned either."
+                            ],
+                            "_original": "のちに怪談が広まる頃……\n恐れをなした大人たちは寄り付かなくなったけど、\n子供たちもまた戻ることはなかった。"
                         },
                         {
                             "code": 101,
@@ -13415,22 +13201,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "残されたのは初めから住んでいた怪異と、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "似た力を持つ者たちだけ。"
-                            ]
+                                "Only the youkai that had lived here from\nthe start and those with similar powers\nremained."
+                            ],
+                            "_original": "残されたのは初めから住んでいた怪異と、\n似た力を持つ者たちだけ。"
                         },
                         {
                             "code": 101,
@@ -13440,22 +13221,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それらもすぐに姿を消した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして四つ辻には誰もいなくなった。"
-                            ]
+                                "Even they soon vanished. And the\ncrossroads was left empty."
+                            ],
+                            "_original": "それらもすぐに姿を消した。\nそして四つ辻には誰もいなくなった。"
                         },
                         {
                             "code": 101,
@@ -13465,22 +13241,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……とまあ、こういう昔話がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇にとって楽しい場所ではないんだよ。"
-                            ]
+                                "...Well, that's the old tale. Not\nexactly a happy place for Yuuyami, is\nit?"
+                            ],
+                            "_original": "……とまあ、こういう昔話がある。\n夕闇にとって楽しい場所ではないんだよ。"
                         },
                         {
                             "code": 101,
@@ -13490,22 +13261,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぜ、今になって再び訪れたんだろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君を連れて……"
-                            ]
+                                "I wonder why you've come back now, after\nall this time. Bringing him with you..."
+                            ],
+                            "_original": "なぜ、今になって再び訪れたんだろうね。\n君を連れて……"
                         },
                         {
                             "code": 101,
@@ -13515,15 +13281,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分からないふりをするんじゃないよ。"
-                            ]
+                                "Don't play dumb."
+                            ],
+                            "_original": "分からないふりをするんじゃないよ。"
                         },
                         {
                             "code": 205,
@@ -13659,22 +13427,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気づいたから来たんだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は隣にいる奴と違って愚図じゃあない。"
-                            ]
+                                "You noticed, didn't you? That's why you\ncame. Unlike the one next to you, you're\nno fool."
+                            ],
+                            "_original": "気づいたから来たんだろう？\nお前は隣にいる奴と違って愚図じゃあない。"
                         },
                         {
                             "code": 101,
@@ -13684,15 +13447,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇は、\\N[10]が愚図だと思っているのかい？"
-                            ]
+                                "Does Yuuyami think \\N[10] is a fool?"
+                            ],
+                            "_original": "夕闇は、\\N[10]が愚図だと思っているのかい？"
                         },
                         {
                             "code": 101,
@@ -13702,15 +13467,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明らかだろう。"
-                            ]
+                                "Isn't it obvious?"
+                            ],
+                            "_original": "明らかだろう。"
                         },
                         {
                             "code": 213,
@@ -13729,22 +13496,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっはっは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白い。"
-                            ]
+                                "Ahahaha. How amusing."
+                            ],
+                            "_original": "あっはっは。\n面白い。"
                         },
                         {
                             "code": 205,
@@ -13794,22 +13556,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、\\N[10]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はもう帰るよ。"
-                            ]
+                                "Anyway, \\N[10]. I'm heading back for today."
+                            ],
+                            "_original": "さて、\\N[10]。\n今日はもう帰るよ。"
                         },
                         {
                             "code": 205,
@@ -13850,15 +13607,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "光明の、お前はどうする？"
-                            ]
+                                "What about you, Koumyou?"
+                            ],
+                            "_original": "光明の、お前はどうする？"
                         },
                         {
                             "code": 101,
@@ -13868,22 +13627,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は今しばらくここにいるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一応。"
-                            ]
+                                "I'll be staying here for a while. Just\nin case."
+                            ],
+                            "_original": "私は今しばらくここにいるよ。\n一応。"
                         },
                         {
                             "code": 101,
@@ -13893,22 +13647,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあね。"
-                            ]
+                                "I see. See you later."
+                            ],
+                            "_original": "そうかい。\nじゃあね。"
                         },
                         {
                             "code": 101,
@@ -13918,22 +13667,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん、また。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]も。"
-                            ]
+                                "Yeah, see you. You too, \\N[10]."
+                            ],
+                            "_original": "うん、また。\n\\N[10]も。"
                         },
                         {
                             "code": 246,
@@ -14072,35 +13816,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『魅了毒抜き』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene \"Charm Poison Removal\"? \\C[17]*Either\nchoice will be added to memories.*\\C[0]"
+                            ],
+                            "_original": "シーン『魅了毒抜き』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -14175,15 +13918,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【交流追加】\\C[0]"
-                            ]
+                                "\\C[16]【Add Interaction】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【交流追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夕闇への\\C[27]ろくでもない贈り物\\C[0]が解放されました。"
-                            ]
+                                "A \\C[27]worthless gift\\C[0] for Yuuyami has been unlocked."
+                            ],
+                            "_original": "夕闇への\\C[27]ろくでもない贈り物\\C[0]が解放されました。"
                         },
                         {
                             "code": 250,
@@ -14212,15 +13957,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Interaction: Yuuyami of the Crossroads\nof the Lustrous Tail\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -14706,22 +14453,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ここまでだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ以上は感づかれる。"
-                            ]
+                                "...This is as far as we go. We might be\nnoticed if we go any further."
+                            ],
+                            "_original": "……ここまでだね。\nこれ以上は感づかれる。"
                         },
                         {
                             "code": 205,
@@ -14772,29 +14514,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、\\N[10]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの小屋に入るんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人で。"
-                            ]
+                                "Come on, \\N[10]. Go into that hut. Alone."
+                            ],
+                            "_original": "ほら、\\N[10]。\nあの小屋に入るんだ。\n一人で。"
                         },
                         {
                             "code": 205,
@@ -14844,22 +14574,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫さ、問題など起きやしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわが近くにいるんだからねえ。"
-                            ]
+                                "Don't worry, nothing will happen. I'll\nbe nearby, after all."
+                            ],
+                            "_original": "大丈夫さ、問題など起きやしない。\nわらわが近くにいるんだからねえ。"
                         },
                         {
                             "code": 246,
@@ -15039,8 +14764,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立て札の残骸だ。"
-                            ]
+                                "It's the remains of a signpost."
+                            ],
+                            "_original": "立て札の残骸だ。"
                         },
                         {
                             "code": 0,
@@ -15117,15 +14843,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木箱が積まれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり古いもののようだ。"
-                            ]
+                                "Wooden crates are stacked up. They look quite\nold."
+                            ],
+                            "_original": "木箱が積まれている。\nかなり古いもののようだ。"
                         },
                         {
                             "code": 0,
@@ -15202,15 +14922,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木箱がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり古いもののようだ。"
-                            ]
+                                "There's a wooden crate. It looks quite old."
+                            ],
+                            "_original": "木箱がある。\nかなり古いもののようだ。"
                         },
                         {
                             "code": 0,

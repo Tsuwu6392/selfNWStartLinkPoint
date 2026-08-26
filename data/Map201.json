@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "アプノコンル",
+    "displayName": "Apunokonru",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -5441,15 +5441,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "移動に次ぐ移動。"
-                            ]
+                                "Moving from place to place."
+                            ],
+                            "_original": "移動に次ぐ移動。"
                         },
                         {
                             "code": 101,
@@ -5459,15 +5461,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目まぐるしいですね。"
-                            ]
+                                "It's quite dizzying, isn't it?"
+                            ],
+                            "_original": "目まぐるしいですね。"
                         },
                         {
                             "code": 101,
@@ -5477,22 +5481,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと、どいて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道を閉じておかないと。"
-                            ]
+                                "Hey, move. I need to block the path."
+                            ],
+                            "_original": "ちょっと、どいて。\n道を閉じておかないと。"
                         },
                         {
                             "code": 205,
@@ -5642,22 +5641,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひとまず外に出ましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ南に出口があります──"
-                            ]
+                                "Let's get outside for now. There's an\nexit just to the south──"
+                            ],
+                            "_original": "ひとまず外に出ましょう。\nすぐ南に出口があります──"
                         },
                         {
                             "code": 221,

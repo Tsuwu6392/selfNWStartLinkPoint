@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "かつての真白神社",
+    "displayName": "Former Pure White Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -6632,15 +6632,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「右手、眠りの森"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　妖狐に注意」"
-                            ]
+                                "\"Right hand, Sleeping Forest -beware the fox\nyoukai\""
+                            ],
+                            "_original": "「右手、眠りの森\n　妖狐に注意」"
                         },
                         {
                             "code": 0,
@@ -6660,15 +6654,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "立て札の側面だ！"
-                            ]
+                                "It's on the side of the signpost!"
+                            ],
+                            "_original": "立て札の側面だ！"
                         },
                         {
                             "code": 0,

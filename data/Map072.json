@@ -16,7 +16,7 @@
         "volume": 30
     },
     "disableDashing": false,
-    "displayName": "舟観砦",
+    "displayName": "Funami Fort",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -3981,15 +3981,17 @@
                                 0,
                                 0,
                                 2,
-                                "中島"
-                            ]
+                                "Nakajima"
+                            ],
+                            "_original": "中島"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二階にいる私は一階の隊士よりも偉い！"
-                            ]
+                                "I'm on the second floor, so I'm more important\nthan the squad members on the first floor!"
+                            ],
+                            "_original": "二階にいる私は一階の隊士よりも偉い！"
                         },
                         {
                             "code": 101,
@@ -3999,29 +4001,17 @@
                                 0,
                                 0,
                                 2,
-                                "中島"
-                            ]
+                                "Nakajima"
+                            ],
+                            "_original": "中島"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんてことは全然なくてだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柴組にはそもそも階級ってものがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、隊長は一人いるけど。"
-                            ]
+                                "……That's totally not true, though. The\nShibagumi doesn't even have ranks to begin\nwith. Well, there is one captain, though."
+                            ],
+                            "_original": "……なんてことは全然なくてだね。\n柴組にはそもそも階級ってものがない。\nまあ、隊長は一人いるけど。"
                         },
                         {
                             "code": 123,
@@ -4090,22 +4080,17 @@
                                 0,
                                 0,
                                 2,
-                                "中島"
-                            ]
+                                "Nakajima"
+                            ],
+                            "_original": "中島"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隊長だって、普通の隊士より偉いわけじゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ強いだけさ。"
-                            ]
+                                "Being a captain doesn't make you any better than\nthe ordinary soldiers. It just means you're\nstrong."
+                            ],
+                            "_original": "隊長だって、普通の隊士より偉いわけじゃないよ。\nただ強いだけさ。"
                         },
                         {
                             "code": 0,
@@ -4235,15 +4220,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふーむ。"
-                            ]
+                                "Hmm."
+                            ],
+                            "_original": "ふーむ。"
                         },
                         {
                             "code": 101,
@@ -4253,22 +4240,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、柴組の隊士殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か困っているのか？"
-                            ]
+                                "Oh, soldier-dono of Shibagumi? Are\nyou in trouble?"
+                            ],
+                            "_original": "おや、柴組の隊士殿。\n何か困っているのか？"
                         },
                         {
                             "code": 101,
@@ -4278,22 +4260,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけない、面倒事を増やす気ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せいっ。"
-                            ]
+                                "Oh dear, you're trying to add more\ntrouble. Hup!"
+                            ],
+                            "_original": "いけない、面倒事を増やす気ですね。\nせいっ。"
                         },
                         {
                             "code": 205,
@@ -4342,29 +4319,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痛い！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "プリム殿が叩いた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]どの！"
-                            ]
+                                "Ouch!? Prim-dono hit me! \\N[10]-dono!"
+                            ],
+                            "_original": "痛い！？\nプリム殿が叩いた！\n\\N[10]どの！"
                         },
                         {
                             "code": 101,
@@ -4374,15 +4339,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるさいぞ。"
-                            ]
+                                "Quiet."
+                            ],
+                            "_original": "うるさいぞ。"
                         },
                         {
                             "code": 205,
@@ -4453,22 +4420,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちは何？"
-                            ]
+                                "Uh... who are you all?"
+                            ],
+                            "_original": "ええと……\n君たちは何？"
                         },
                         {
                             "code": 101,
@@ -4478,22 +4440,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまん、気にするな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもない。"
-                            ]
+                                "Sorry, don't mind us. It's nothing."
+                            ],
+                            "_original": "すまん、気にするな。\nなんでもない。"
                         },
                         {
                             "code": 101,
@@ -4503,22 +4460,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はナズナ・ハクトウ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "困っているように見えたから声をかけたんだ！"
-                            ]
+                                "I am Nazuna Hakutou! I called out because\nyou looked like you were in trouble!"
+                            ],
+                            "_original": "私はナズナ・ハクトウ！\n困っているように見えたから声をかけたんだ！"
                         },
                         {
                             "code": 101,
@@ -4528,29 +4480,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだったのか、私は高柳晶。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確かに困っているが……うーむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柴組の仕事のことだからなあ。"
-                            ]
+                                "I see, I'm Takayanagi Akira. I am indeed in\ntrouble, but... hmm. It's about work for the\nShibagumi."
+                            ],
+                            "_original": "そうだったのか、私は高柳晶。\n確かに困っているが……うーむ。\n柴組の仕事のことだからなあ。"
                         },
                         {
                             "code": 101,
@@ -4560,15 +4500,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑張ってください。"
-                            ]
+                                "Do your best."
+                            ],
+                            "_original": "頑張ってください。"
                         },
                         {
                             "code": 101,
@@ -4578,22 +4520,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人助け！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人助け！"
-                            ]
+                                "Helping people! Helping people!"
+                            ],
+                            "_original": "人助け！\n人助け！"
                         },
                         {
                             "code": 101,
@@ -4603,15 +4540,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるさいぞ。"
-                            ]
+                                "Quiet."
+                            ],
+                            "_original": "うるさいぞ。"
                         },
                         {
                             "code": 101,
@@ -4621,22 +4560,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、話だけでも聞いてもらおうかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同僚にはとても言えないし……"
-                            ]
+                                "Well, I suppose I could at least\ntell you about it. It's not something\nI can easily tell my colleagues..."
+                            ],
+                            "_original": "まあ、話だけでも聞いてもらおうかな。\n同僚にはとても言えないし……"
                         },
                         {
                             "code": 101,
@@ -4646,22 +4580,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "旧笹倉町の地下に摂社があるのは知ってるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の仕事は、そこを調べることでね。"
-                            ]
+                                "Do you know that there is an\nauxiliary shrine beneath Old Sasakura Town?\nMy job is to investigate it."
+                            ],
+                            "_original": "旧笹倉町の地下に摂社があるのは知ってるか？\n私の仕事は、そこを調べることでね。"
                         },
                         {
                             "code": 101,
@@ -4671,22 +4600,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "摂社というと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神社のことですか？"
-                            ]
+                                "An auxiliary shrine... \nDoes that mean a Shinto shrine?"
+                            ],
+                            "_original": "摂社というと……\n神社のことですか？"
                         },
                         {
                             "code": 101,
@@ -4696,15 +4620,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小さな神社という認識だ。"
-                            ]
+                                "That's how I understand it—a small shrine."
+                            ],
+                            "_original": "小さな神社という認識だ。"
                         },
                         {
                             "code": 101,
@@ -4714,15 +4640,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私も詳しくはないが、たぶんそれで間違ってない。"
-                            ]
+                                "I'm not too familiar with it either,\nbut that's probably correct."
+                            ],
+                            "_original": "私も詳しくはないが、たぶんそれで間違ってない。"
                         },
                         {
                             "code": 101,
@@ -4732,15 +4660,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこまで行くのが大変なのか？"
-                            ]
+                                "Is it difficult to get there?"
+                            ],
+                            "_original": "そこまで行くのが大変なのか？"
                         },
                         {
                             "code": 101,
@@ -4750,22 +4680,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、それはそうでもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺りの怪異は弱いから。"
-                            ]
+                                "No, not really.\nThe occurrences around here are weak."
+                            ],
+                            "_original": "いや、それはそうでもない。\nこの辺りの怪異は弱いから。"
                         },
                         {
                             "code": 101,
@@ -4775,29 +4700,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、その……仕事の詳しい内容が、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこで幽霊のようなものを見たから調べてほしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というものなんだ。"
-                            ]
+                                "It's just, well... the details of my job are,\nsomeone saw a ghost-like thing there\nand wants it investigated."
+                            ],
+                            "_original": "ただ、その……仕事の詳しい内容が、\nそこで幽霊のようなものを見たから調べてほしい\nというものなんだ。"
                         },
                         {
                             "code": 101,
@@ -4807,22 +4720,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幽霊？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、怪異？"
-                            ]
+                                "A ghost?\nIn other words, an occurrence?"
+                            ],
+                            "_original": "幽霊？\nつまり、怪異？"
                         },
                         {
                             "code": 101,
@@ -4832,22 +4740,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分からない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "問題は、私はそういうのが大の苦手ということ……"
-                            ]
+                                "I don't know.\nThe problem is, I'm absolutely terrible\nwith that kind of stuff..."
+                            ],
+                            "_original": "分からない。\n問題は、私はそういうのが大の苦手ということ……"
                         },
                         {
                             "code": 101,
@@ -4857,22 +4760,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、怖くて行けないと。"
-                            ]
+                                "Ara.\nSo in other words,\nyou're too scared to go."
+                            ],
+                            "_original": "あら。\nつまり、怖くて行けないと。"
                         },
                         {
                             "code": 213,
@@ -4891,29 +4789,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情けない話だが、その通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしこれしきのことで他の隊士の手を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "借りるわけにもいかず……"
-                            ]
+                                "It's pathetic, but that's exactly right.\nAnd yet, I can't really ask other soldiers\nfor help over something like this..."
+                            ],
+                            "_original": "情けない話だが、その通りだ。\nしかしこれしきのことで他の隊士の手を\n借りるわけにもいかず……"
                         },
                         {
                             "code": 101,
@@ -4923,15 +4809,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちの出番だ！"
-                            ]
+                                "That's our cue!"
+                            ],
+                            "_original": "私たちの出番だ！"
                         },
                         {
                             "code": 101,
@@ -4941,22 +4829,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ついてきてもらえるならとてもありがたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事を無視するわけにもいかないから……"
-                            ]
+                                "If you could come with me, I'd be\nvery grateful. It's not like I can\njust ignore my job..."
+                            ],
+                            "_original": "ついてきてもらえるならとてもありがたい。\n仕事を無視するわけにもいかないから……"
                         },
                         {
                             "code": 101,
@@ -4966,15 +4849,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出発！"
-                            ]
+                                "Let's go!"
+                            ],
+                            "_original": "出発！"
                         },
                         {
                             "code": 101,
@@ -4984,15 +4869,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話が早い。"
-                            ]
+                                "You make decisions fast."
+                            ],
+                            "_original": "話が早い。"
                         },
                         {
                             "code": 101,
@@ -5002,22 +4889,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逸るな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "摂社の調査は今すぐ行うのか？"
-                            ]
+                                "Don't rush.\nAre we investigating the auxiliary shrine\nright now?"
+                            ],
+                            "_original": "逸るな。\n摂社の調査は今すぐ行うのか？"
                         },
                         {
                             "code": 101,
@@ -5027,29 +4909,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうしたいけど、ええっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから一緒に行動するのはちょっと問題が……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無関係の人の手を借りたと知られるとまずい。"
-                            ]
+                                "I'd like to, but, well... it's a bit of a problem\nif we go together from here... If anyone\nfinds out I got help from outsiders, it\nwould be bad."
+                            ],
+                            "_original": "そうしたいけど、ええっと。\nここから一緒に行動するのはちょっと問題が……\n無関係の人の手を借りたと知られるとまずい。"
                         },
                         {
                             "code": 101,
@@ -5059,22 +4929,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は先に出て現地の入口で待ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちは時間があるときにでも来てくれたらいい。"
-                            ]
+                                "I'll head out ahead and wait\nat the entrance. You guys can come\nwhenever you have some free time."
+                            ],
+                            "_original": "私は先に出て現地の入口で待ってるよ。\n君たちは時間があるときにでも来てくれたらいい。"
                         },
                         {
                             "code": 101,
@@ -5084,22 +4949,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……別にこのまま放っておいてくれても大丈夫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人でもなんとか……なんとかする。"
-                            ]
+                                "...Actually, it's fine if you just\nleave me alone. I'll manage... somehow,\non my own."
+                            ],
+                            "_original": "……別にこのまま放っておいてくれても大丈夫だ。\n一人でもなんとか……なんとかする。"
                         },
                         {
                             "code": 101,
@@ -5109,22 +4969,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐに駆け付ける！"
-                            ]
+                                "Don't worry!\nWe'll be right there!"
+                            ],
+                            "_original": "大丈夫！\nすぐに駆け付ける！"
                         },
                         {
                             "code": 101,
@@ -5134,22 +4989,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか、ありがたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では地下で。"
-                            ]
+                                "Is that so? Thank you.\nWell then, see you underground."
+                            ],
+                            "_original": "そうか、ありがたい。\nでは地下で。"
                         },
                         {
                             "code": 221,
@@ -5218,22 +5068,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局手伝う流れになってしまいました。"
-                            ]
+                                "Yare yare.\nWe've ended up helping out after all."
+                            ],
+                            "_original": "やれやれ。\n結局手伝う流れになってしまいました。"
                         },
                         {
                             "code": 101,
@@ -5243,22 +5088,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "途中からプリム殿も高柳殿の話に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耳を傾けていたじゃないか？"
-                            ]
+                                "Didn't Prim-dono also start listening closely\nto Takayanagi-dono's story halfway through?"
+                            ],
+                            "_original": "途中からプリム殿も高柳殿の話に\n耳を傾けていたじゃないか？"
                         },
                         {
                             "code": 101,
@@ -5268,22 +5108,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ、まあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人助けが趣味なので。"
-                            ]
+                                "Eh, well.\nHelping people happens to be my hobby."
+                            ],
+                            "_original": "ええ、まあ。\n人助けが趣味なので。"
                         },
                         {
                             "code": 213,
@@ -5341,15 +5176,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わあっ、やっぱり！"
-                            ]
+                                "Whoa! I knew it!"
+                            ],
+                            "_original": "わあっ、やっぱり！"
                         },
                         {
                             "code": 101,
@@ -5359,15 +5196,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もういちいち何も言わんぞ、俺は。"
-                            ]
+                                "I'm not even going to bother\nsaying anything anymore."
+                            ],
+                            "_original": "もういちいち何も言わんぞ、俺は。"
                         },
                         {
                             "code": 221,
@@ -5413,15 +5252,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント追加】\\C[0]"
-                            ]
+                                "\\C[16]【Event Add】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント一覧に\\C[17]摂社の騒ぎ\\C[0]が追加されました。"
-                            ]
+                                "\\C[17]Auxiliary Shrine Commotion\\C[0] has been added to the Event List."
+                            ],
+                            "_original": "イベント一覧に\\C[17]摂社の騒ぎ\\C[0]が追加されました。"
                         },
                         {
                             "code": 0,
@@ -5638,22 +5479,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、君たち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すまない、一人で立ち去ってしまって。"
-                            ]
+                                "Oh, you guys. Sorry I left on my own."
+                            ],
+                            "_original": "ああ、君たち。\nすまない、一人で立ち去ってしまって。"
                         },
                         {
                             "code": 101,
@@ -5663,22 +5499,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "高柳殿は幽霊が苦手なのだから是非もない。"
-                            ]
+                                "It's fine. Takayanagi-dono is afraid of\nghosts, so it can't be helped."
+                            ],
+                            "_original": "いいんだ。\n高柳殿は幽霊が苦手なのだから是非もない。"
                         },
                         {
                             "code": 101,
@@ -5688,22 +5519,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柴組は頼りない感じがしてきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回の件を触れ回ってもいいですか？"
-                            ]
+                                "I've come to feel that the Shibagumi is\nunreliable. May I spread the word about\nthis incident?"
+                            ],
+                            "_original": "柴組は頼りない感じがしてきました。\n今回の件を触れ回ってもいいですか？"
                         },
                         {
                             "code": 213,
@@ -5722,22 +5548,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それは控えてもらえると助かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、礼の品も用意したんだ。"
-                            ]
+                                "I'd appreciate it if you could refrain from\nthat. Look, I've prepared a token of gratitude\nas well."
+                            ],
+                            "_original": "そ、それは控えてもらえると助かる。\nほら、礼の品も用意したんだ。"
                         },
                         {
                             "code": 101,
@@ -5747,22 +5568,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "剣だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも……なかなかの業物。"
-                            ]
+                                "A sword. And... quite a fine blade."
+                            ],
+                            "_original": "剣だ。\nしかも……なかなかの業物。"
                         },
                         {
                             "code": 101,
@@ -5772,29 +5588,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、分かるのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは刀匠\\C[17]穂武良春火（ほむらはるか）\\C[0]の作……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "号は空風。"
-                            ]
+                                "Oh, you can tell? This is the work of the\nswordsmith \\C[17]Homura Haruka\\C[0]... its name is Sky\nWind."
+                            ],
+                            "_original": "おや、分かるのか。\nこれは刀匠\\C[17]穂武良春火（ほむらはるか）\\C[0]の作……\n号は空風。"
                         },
                         {
                             "code": 101,
@@ -5804,15 +5608,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……有名な方？"
-                            ]
+                                "...A famous person?"
+                            ],
+                            "_original": "……有名な方？"
                         },
                         {
                             "code": 101,
@@ -5822,15 +5628,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知らんが、恐らくはそうなんだろう。"
-                            ]
+                                "I don't know, but probably so."
+                            ],
+                            "_original": "知らんが、恐らくはそうなんだろう。"
                         },
                         {
                             "code": 101,
@@ -5840,22 +5648,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このような物……貰ってもいいのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宝と言って差し支えない品だと思うのだが……"
-                            ]
+                                "Can I really accept such a thing? I\nthink it's a treasure without\nquestion..."
+                            ],
+                            "_original": "このような物……貰ってもいいのだろうか？\n宝と言って差し支えない品だと思うのだが……"
                         },
                         {
                             "code": 101,
@@ -5865,22 +5668,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいんだよ、実は私はあの人の親戚でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまにこういった「駄作」を押し付けられるんだ。"
-                            ]
+                                "It's fine, actually I'm a relative of that\nperson. Sometimes I get saddled with these\n「failures」."
+                            ],
+                            "_original": "いいんだよ、実は私はあの人の親戚でね。\nたまにこういった「駄作」を押し付けられるんだ。"
                         },
                         {
                             "code": 101,
@@ -5890,22 +5688,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、駄作？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが？"
-                            ]
+                                "F-failure? This?"
+                            ],
+                            "_original": "だ、駄作？\nこれが？"
                         },
                         {
                             "code": 101,
@@ -5915,29 +5708,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、普通の基準で言えば駄作どころか傑作だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけどあの人は、まあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通ではないから。"
-                            ]
+                                "Of course, by ordinary standards, it's not a\nfailure but a masterpiece. But that person,\nwell, is not ordinary."
+                            ],
+                            "_original": "もちろん、普通の基準で言えば駄作どころか傑作だ。\nだけどあの人は、まあ。\n普通ではないから。"
                         },
                         {
                             "code": 101,
@@ -5947,15 +5728,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが振るえばいいのでは？"
-                            ]
+                                "Why don't you wield it?"
+                            ],
+                            "_original": "あなたが振るえばいいのでは？"
                         },
                         {
                             "code": 101,
@@ -5965,22 +5748,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この剣は私の手に余る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちのように、心までも強い者が持つべきだ。"
-                            ]
+                                "This sword is beyond my ability. It should be\nheld by someone strong in heart, like you."
+                            ],
+                            "_original": "この剣は私の手に余る。\n君たちのように、心までも強い者が持つべきだ。"
                         },
                         {
                             "code": 101,
@@ -5990,22 +5768,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、ありがたくいただこう。"
-                            ]
+                                "I see... then I'll gratefully accept."
+                            ],
+                            "_original": "そうか……\nでは、ありがたくいただこう。"
                         },
                         {
                             "code": 101,
@@ -6015,29 +5788,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぜひ使ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとあの人も喜ぶ──かどうかは分からないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少なくとも刀にとっては本望だろう。"
-                            ]
+                                "Please use it. I'm sure that person would be\nhappy―though I don't know―but at least for the\nsword, it would be its wish."
+                            ],
+                            "_original": "ぜひ使ってくれ。\nきっとあの人も喜ぶ──かどうかは分からないが、\n少なくとも刀にとっては本望だろう。"
                         },
                         {
                             "code": 101,
@@ -6047,22 +5808,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、今回は本当にありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は別の仕事があるからもう行くよ。"
-                            ]
+                                "Well, thank you very much for this time. I have\nanother job, so I'll be going now."
+                            ],
+                            "_original": "さて、今回は本当にありがとう。\n私は別の仕事があるからもう行くよ。"
                         },
                         {
                             "code": 101,
@@ -6072,15 +5828,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらこそありがとう、高柳殿！"
-                            ]
+                                "Thank you too, Takayanagi-dono!"
+                            ],
+                            "_original": "こちらこそありがとう、高柳殿！"
                         },
                         {
                             "code": 101,
@@ -6090,22 +5848,17 @@
                                 0,
                                 0,
                                 2,
-                                "高柳"
-                            ]
+                                "Takayanagi"
+                            ],
+                            "_original": "高柳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "またどこかで会えるといいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ。"
-                            ]
+                                "I hope we meet again somewhere. See you then."
+                            ],
+                            "_original": "またどこかで会えるといいな。\nそれじゃあ。"
                         },
                         {
                             "code": 221,
@@ -6193,15 +5946,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]摂社の騒ぎ\\C[0] 達成！"
-                            ]
+                                "\\C[17]Auxiliary Shrine Commotion\\C[0] Completed!"
+                            ],
+                            "_original": "\\C[17]摂社の騒ぎ\\C[0] 達成！"
                         },
                         {
                             "code": 122,
@@ -6695,15 +6450,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼ！"
-                            ]
+                                "There!"
+                            ],
+                            "_original": "つぼ！"
                         },
                         {
                             "code": 0,
@@ -6773,15 +6530,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かまど！"
-                            ]
+                                "Stove!"
+                            ],
+                            "_original": "かまど！"
                         },
                         {
                             "code": 0,
@@ -6851,22 +6610,17 @@
                                 0,
                                 0,
                                 2,
-                                "和田"
-                            ]
+                                "Wada"
+                            ],
+                            "_original": "和田"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柴組の隊士たるもの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "料理もできねば！"
-                            ]
+                                "As a member of the Shiba group... you must be\nable to cook!"
+                            ],
+                            "_original": "柴組の隊士たるもの……\n料理もできねば！"
                         },
                         {
                             "code": 0,
@@ -6936,15 +6690,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たわら！"
-                            ]
+                                "Boo!"
+                            ],
+                            "_original": "たわら！"
                         },
                         {
                             "code": 0,
@@ -7023,15 +6779,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "たな！"
-                            ]
+                                "Right?"
+                            ],
+                            "_original": "たな！"
                         },
                         {
                             "code": 0,
@@ -7120,15 +6878,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "たな！"
-                            ]
+                                "Right?"
+                            ],
+                            "_original": "たな！"
                         },
                         {
                             "code": 0,
@@ -7217,15 +6977,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おちゃ！"
-                            ]
+                                "Tea!"
+                            ],
+                            "_original": "おちゃ！"
                         },
                         {
                             "code": 0,
@@ -7305,15 +7067,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たんす！"
-                            ]
+                                "Chest!"
+                            ],
+                            "_original": "たんす！"
                         },
                         {
                             "code": 0,
@@ -7383,15 +7147,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たんす！"
-                            ]
+                                "Chest!"
+                            ],
+                            "_original": "たんす！"
                         },
                         {
                             "code": 0,

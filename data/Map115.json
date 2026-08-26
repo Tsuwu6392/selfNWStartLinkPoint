@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "旧笹倉町",
+    "displayName": "Old Sasakura Town",
     "encounterList": [
         {
             "troopId": 39,
@@ -3700,22 +3700,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桶だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり古いもののようだ。"
-                            ]
+                                "It's a bucket. Looks quite old."
+                            ],
+                            "_original": "桶だ。\nかなり古いもののようだ。"
                         },
                         {
                             "code": 0,

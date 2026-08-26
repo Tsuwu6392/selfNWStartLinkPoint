@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "アルワーフ砂漠",
+    "displayName": "Alwarf Desert",
     "encounterList": [
         {
             "troopId": 327,
@@ -5607,15 +5607,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう動かす必要はなさそうだ。"
-                            ]
+                                "It seems there's no need to move\nanymore."
+                            ],
+                            "_original": "もう動かす必要はなさそうだ。"
                         },
                         {
                             "code": 0,
@@ -6735,28 +6737,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下に道が続いている。"
-                            ]
+                                "There's a path continuing below."
+                            ],
+                            "_original": "下に道が続いている。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "下りる",
-                                    "下りない"
+                                    "Go down",
+                                    "Don't go down"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "下りる",
+                                "下りない"
                             ]
                         },
                         {
@@ -6896,15 +6904,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あかるい！"
-                            ]
+                                "It's bright!"
+                            ],
+                            "_original": "あかるい！"
                         },
                         {
                             "code": 0,
@@ -6981,15 +6991,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あかるい！"
-                            ]
+                                "It's bright!"
+                            ],
+                            "_original": "あかるい！"
                         },
                         {
                             "code": 0,

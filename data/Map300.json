@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "蛇の村",
+    "displayName": "Snake Village",
     "encounterList": [
         {
             "troopId": 188,
@@ -8572,29 +8572,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷く汚れているが……なんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでも立派に見える。"
-                            ]
+                                "It's a Jizo statue. It's really dirty...\nbut somehow, it still looks dignified."
+                            ],
+                            "_original": "お地蔵様だ。\n酷く汚れているが……なんだろう。\nそれでも立派に見える。"
                         },
                         {
                             "code": 0,

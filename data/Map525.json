@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "オルーサ製造所",
+    "displayName": "Orsa Manufacturing Plant",
     "encounterList": [
         {
             "troopId": 297,
@@ -6334,15 +6334,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、オルーサ殿だ。"
-                            ]
+                                "Ah, it's Orsa-sama."
+                            ],
+                            "_original": "あっ、オルーサ殿だ。"
                         },
                         {
                             "code": 101,
@@ -6352,22 +6354,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客様、いいところに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらへ。"
-                            ]
+                                "Customer, perfect timing. This way, please."
+                            ],
+                            "_original": "お客様、いいところに。\nこちらへ。"
                         },
                         {
                             "code": 205,
@@ -6492,22 +6489,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "代わってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いいたします。"
-                            ]
+                                "Please take over. I'd be most grateful."
+                            ],
+                            "_original": "代わってください。\nよろしくお願いいたします。"
                         },
                         {
                             "code": 205,
@@ -6654,15 +6646,17 @@
                                 0,
                                 0,
                                 2,
-                                "グーラ"
-                            ]
+                                "Gula"
+                            ],
+                            "_original": "グーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うお～……"
-                            ]
+                                "Whoa~…"
+                            ],
+                            "_original": "うお～……"
                         },
                         {
                             "code": 205,
@@ -6787,15 +6781,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、おお？"
-                            ]
+                                "O-oh?"
+                            ],
+                            "_original": "お、おお？"
                         },
                         {
                             "code": 101,
@@ -6805,15 +6801,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔物を演じていたオルーサ、でしょうか。"
-                            ]
+                                "Is that Orsa, playing the part of a\nmonster?"
+                            ],
+                            "_original": "魔物を演じていたオルーサ、でしょうか。"
                         },
                         {
                             "code": 101,
@@ -6823,22 +6821,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その通りです、お客様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひとりでに動き出すことはないはずなのですが……"
-                            ]
+                                "That's correct, customer. They shouldn't be\nmoving on their own, though…"
+                            ],
+                            "_original": "その通りです、お客様。\nひとりでに動き出すことはないはずなのですが……"
                         },
                         {
                             "code": 205,
@@ -6879,22 +6872,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そもそもここには普通に魔物が徘徊していますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれらは？"
-                            ]
+                                "But this place already has regular\nmonsters wandering around. What about\nthose?"
+                            ],
+                            "_original": "そもそもここには普通に魔物が徘徊していますが、\nあれらは？"
                         },
                         {
                             "code": 101,
@@ -6904,29 +6892,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "確認できる二種の内、一方はいわゆる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "普通の機械の魔物で、もう一方は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "故障したオルーサ……でしょうか。"
-                            ]
+                                "Of the two types we can confirm, one is a normal\nmechanical monster, and the other is… a\nmalfunctioning Orsa, I suppose."
+                            ],
+                            "_original": "確認できる二種の内、一方はいわゆる\n普通の機械の魔物で、もう一方は\n故障したオルーサ……でしょうか。"
                         },
                         {
                             "code": 205,
@@ -7026,22 +7002,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "異常があることは今や明らかで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その原因がどこかにあるはずです。"
-                            ]
+                                "It's clear there's an abnormality, and the cause\nmust be somewhere around here."
+                            ],
+                            "_original": "異常があることは今や明らかで、\nその原因がどこかにあるはずです。"
                         },
                         {
                             "code": 205,
@@ -7082,22 +7053,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お客様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "引き続きよろしくお願いいたします。"
-                            ]
+                                "Customer. I'd appreciate your continued\nassistance."
+                            ],
+                            "_original": "お客様。\n引き続きよろしくお願いいたします。"
                         },
                         {
                             "code": 221,
@@ -7135,15 +7101,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あいつも故障した絡繰りの内の一つだと思うわけだが。"
-                            ]
+                                "I just assumed that one was another\nbroken karakuri."
+                            ],
+                            "_original": "あいつも故障した絡繰りの内の一つだと思うわけだが。"
                         },
                         {
                             "code": 101,
@@ -7153,15 +7121,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あり得るが、だとすればどうする？"
-                            ]
+                                "It's possible, but what do we do if it\nis?"
+                            ],
+                            "_original": "あり得るが、だとすればどうする？"
                         },
                         {
                             "code": 101,
@@ -7171,22 +7141,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "壊してしまえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしてここを去る。"
-                            ]
+                                "Smash it. Then leave this place."
+                            ],
+                            "_original": "壊してしまえ。\nそしてここを去る。"
                         },
                         {
                             "code": 101,
@@ -7196,15 +7161,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おや、お手軽。"
-                            ]
+                                "Oh, how simple."
+                            ],
+                            "_original": "おや、お手軽。"
                         },
                         {
                             "code": 101,
@@ -7214,22 +7181,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だ、駄目だ駄目だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "問題を解決する！"
-                            ]
+                                "N-no, no, no! We have to solve the\nproblem!"
+                            ],
+                            "_original": "だ、駄目だ駄目だ！\n問題を解決する！"
                         },
                         {
                             "code": 101,
@@ -7239,29 +7201,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ひとりでに起動するオルーサに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "故障して徘徊するオルーサか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふむ……"
-                            ]
+                                "So we have Orsas activating on their own\nand malfunctioning Orsas wandering\naround. Hmm…"
+                            ],
+                            "_original": "ひとりでに起動するオルーサに\n故障して徘徊するオルーサか。\nふむ……"
                         },
                         {
                             "code": 221,
@@ -7340,15 +7290,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]製造所の異常\\C[0] 達成！"
-                            ]
+                                "\\C[17]Manufacturing Facility Anomaly\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]製造所の異常\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -7377,15 +7329,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント追加】\\C[0]"
-                            ]
+                                "\\C[16]【Event Add】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベント一覧に\\C[17]ルーフの脈動\\C[0]が追加されました。"
-                            ]
+                                "\\C[17]Roof's Pulse\\C[0] has been added to the event list."
+                            ],
+                            "_original": "イベント一覧に\\C[17]ルーフの脈動\\C[0]が追加されました。"
                         },
                         {
                             "code": 0,
@@ -7533,15 +7487,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "停止したオルーサだ。"
-                            ]
+                                "It's Orsa, stopped."
+                            ],
+                            "_original": "停止したオルーサだ。"
                         },
                         {
                             "code": 0,
@@ -7885,22 +7841,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オルーサだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魂が入っていない状態……なのだろうか。"
-                            ]
+                                "That's Orsa. Her soul... isn't in her\nbody, is it?"
+                            ],
+                            "_original": "オルーサだ。\n魂が入っていない状態……なのだろうか。"
                         },
                         {
                             "code": 0,
@@ -7970,22 +7921,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オルーサだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魂が入っていない状態……なのだろうか。"
-                            ]
+                                "That's Orsa. Her soul... isn't in her\nbody, is it?"
+                            ],
+                            "_original": "オルーサだ。\n魂が入っていない状態……なのだろうか。"
                         },
                         {
                             "code": 0,

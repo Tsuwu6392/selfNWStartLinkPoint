@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "アフダル高地",
+    "displayName": "Afdal Highlands",
     "encounterList": [
         {
             "troopId": 248,
@@ -10937,22 +10937,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "獣の亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風化しかけている……"
-                            ]
+                                "It's the carcass of a beast. It's\nalready starting to weather..."
+                            ],
+                            "_original": "獣の亡骸だ。\n風化しかけている……"
                         },
                         {
                             "code": 0,

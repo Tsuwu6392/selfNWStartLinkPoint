@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "落命ヶ浜",
+    "displayName": "Rakumeigahama",
     "encounterList": [
         {
             "troopId": 16,
@@ -9366,15 +9366,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだこちらには気づいていない。"
-                            ]
+                                "There's a monster. It hasn't noticed us yet."
+                            ],
+                            "_original": "魔物がいる。\nまだこちらには気づいていない。"
                         },
                         {
                             "code": 101,
@@ -9391,15 +9385,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "引き返すべきだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、慎重に歩けばこのまま進めるかもしれない。"
-                            ]
+                                "Should I turn back? No, if I walk carefully, I\nmight be able to keep going."
+                            ],
+                            "_original": "引き返すべきだろうか？\nいや、慎重に歩けばこのまま進めるかもしれない。"
                         },
                         {
                             "code": 242,
@@ -9591,8 +9579,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……などと考えている内に見つかってしまった。"
-                            ]
+                                "...While I was thinking that, I got spotted."
+                            ],
+                            "_original": "……などと考えている内に見つかってしまった。"
                         },
                         {
                             "code": 205,
@@ -9753,15 +9742,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "万全の状態であれば逃げ延びるくらいはできたかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし今は丸腰で、意識もまだはっきりとしていない──"
-                            ]
+                                "If I were in top condition, I might have been\nable to escape. But right now I'm unarmed, and\nmy mind is still hazy──"
+                            ],
+                            "_original": "万全の状態であれば逃げ延びるくらいはできたかもしれない。\nしかし今は丸腰で、意識もまだはっきりとしていない──"
                         },
                         {
                             "code": 242,
@@ -9785,15 +9768,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に任せてくれ！"
-                            ]
+                                "It's alright! Leave it to me!"
+                            ],
+                            "_original": "大丈夫だ！\n私に任せてくれ！"
                         },
                         {
                             "code": 213,
@@ -10038,8 +10015,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "下がって！"
-                            ]
+                                "Get back!"
+                            ],
+                            "_original": "下がって！"
                         },
                         {
                             "code": 205,
@@ -10407,8 +10385,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふう……"
-                            ]
+                                "Phew..."
+                            ],
+                            "_original": "ふう……"
                         },
                         {
                             "code": 205,
@@ -10563,22 +10542,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "怪我はないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見知らぬ人。"
-                            ]
+                                "Are you hurt? Stranger."
+                            ],
+                            "_original": "怪我はないか？\n見知らぬ人。"
                         },
                         {
                             "code": 101,
@@ -10588,22 +10562,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この辺りは怪異が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦えない者が一人で出歩くべきではない……"
-                            ]
+                                "There are many anomalies around here. Someone\nwho can't fight shouldn't be walking around\nalone..."
+                            ],
+                            "_original": "この辺りは怪異が多い。\n戦えない者が一人で出歩くべきではない……"
                         },
                         {
                             "code": 101,
@@ -10613,8 +10582,9 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -10647,35 +10617,34 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……って、あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは……"
-                            ]
+                                "...Wait, huh? You are..."
+                            ],
+                            "_original": "……って、あれ？\nあなたは……"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "初めまして",
-                                    "久しぶり"
+                                    "Nice to meet you",
+                                    "Long time no see"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "初めまして",
+                                "久しぶり"
                             ]
                         },
                         {
@@ -10694,22 +10663,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へっ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あ、あれ……人違いか？"
-                            ]
+                                "Eh? Ah, wait...wrong person?"
+                            ],
+                            "_original": "へっ？\nあ、あれ……人違いか？"
                         },
                         {
                             "code": 101,
@@ -10726,22 +10690,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんなことはない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "自分を助けてくれた彼女、\\C[17]ナズナ・ハクトウ\\C[0]は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "かつて共に冒険した仲間の内の一人だ。"
-                            ]
+                                "No, that's not it. The girl who saved me, \\C[17]Nazuna\n(Hakutou)\\C[0], is one of the companions I once\nadventured with."
+                            ],
+                            "_original": "そんなことはない。\n自分を助けてくれた彼女、\\C[17]ナズナ・ハクトウ\\C[0]は\nかつて共に冒険した仲間の内の一人だ。"
                         },
                         {
                             "code": 246,
@@ -10786,22 +10737,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "や、やっぱりあなたは\\N[10]殿か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "わあ！"
-                            ]
+                                "W-wait, you are \\N[10]-sama, aren't you? Wow!"
+                            ],
+                            "_original": "や、やっぱりあなたは\\N[10]殿か？\nわあ！"
                         },
                         {
                             "code": 0,
@@ -10824,22 +10770,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N[10]殿？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N[10]殿なのか？"
-                            ]
+                                "\\N[10]-sama? Is it really you?"
+                            ],
+                            "_original": "\\N[10]殿？\n\\N[10]殿なのか？"
                         },
                         {
                             "code": 101,
@@ -10856,15 +10797,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "彼女は自分を知っていて、そしてまた自分は彼女を知っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\C[17]ナズナ・ハクトウ\\C[0]はかつて共に冒険した仲間の内の一人だ。"
-                            ]
+                                "She knows me, and I know her. \\C[17]Nazuna (Hakutou)\\C[0] is\none of the companions I once adventured with."
+                            ],
+                            "_original": "彼女は自分を知っていて、そしてまた自分は彼女を知っている。\n\\C[17]ナズナ・ハクトウ\\C[0]はかつて共に冒険した仲間の内の一人だ。"
                         },
                         {
                             "code": 246,
@@ -10909,22 +10844,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わあぁ、こんなところで再会できるなんて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "嬉しいぞ！"
-                            ]
+                                "Whoa, to think we'd meet again in a place like\nthis! I'm so glad!"
+                            ],
+                            "_original": "わあぁ、こんなところで再会できるなんて！\n嬉しいぞ！"
                         },
                         {
                             "code": 0,
@@ -10960,22 +10890,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……いや、しかし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なぜ\\N[10]殿がここに？"
-                            ]
+                                "...No, but. Why is \\N[10]-sama here?"
+                            ],
+                            "_original": "……いや、しかし。\nなぜ\\N[10]殿がここに？"
                         },
                         {
                             "code": 231,
@@ -11001,22 +10926,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妙だ……妙だぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また私を騙そうとする怪異か……！？"
-                            ]
+                                "Strange...this is strange. Is this another\nanomaly trying to trick me...!?"
+                            ],
+                            "_original": "妙だ……妙だぞ。\nまた私を騙そうとする怪異か……！？"
                         },
                         {
                             "code": 101,
@@ -11033,15 +10953,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "再会の喜びも束の間、敵意を向けられてしまった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それを解消すべく、これまでの経緯を説明することにした……"
-                            ]
+                                "The joy of reunion was short-lived―she turned\nhostile toward me. To clear that up, I decided\nto explain what had happened so far..."
+                            ],
+                            "_original": "再会の喜びも束の間、敵意を向けられてしまった。\nそれを解消すべく、これまでの経緯を説明することにした……"
                         },
                         {
                             "code": 221,
@@ -11084,22 +10998,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "船が転覆し、ここに流れ着いたと……"
-                            ]
+                                "I-I see. So the ship capsized, and you washed\nashore here..."
+                            ],
+                            "_original": "な、なるほど。\n船が転覆し、ここに流れ着いたと……"
                         },
                         {
                             "code": 231,
@@ -11125,22 +11034,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ、\\N[10]殿が無事でよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたの身に何かあれば、私は……"
-                            ]
+                                "Ugh, thank goodness you're safe, \\N[10]-sama. If\nanything happened to you, I..."
+                            ],
+                            "_original": "うぅ、\\N[10]殿が無事でよかった。\nあなたの身に何かあれば、私は……"
                         },
                         {
                             "code": 101,
@@ -11157,15 +11061,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "確かに自分は無事だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、ウーラたちの状況がまだ分からない。"
-                            ]
+                                "Indeed, I'm safe. But I still don't know how Uura\nand the others are doing."
+                            ],
+                            "_original": "確かに自分は無事だ。\nしかし、ウーラたちの状況がまだ分からない。"
                         },
                         {
                             "code": 231,
@@ -11191,22 +11089,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだ海にいるとしたら、一刻も早く救助に向かわなくては。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのために、ええっと、まず……"
-                            ]
+                                "If they're still at sea, we need to go rescue\nthem as soon as possible. For that, um, first..."
+                            ],
+                            "_original": "まだ海にいるとしたら、一刻も早く救助に向かわなくては。\nそのために、ええっと、まず……"
                         },
                         {
                             "code": 231,
@@ -11232,22 +11125,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……まずは\\N[10]殿を安全な場所まで案内する！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ついてきてくれ！"
-                            ]
+                                "...First, I'll guide \\N[10]-sama to a safe place!\nFollow me!"
+                            ],
+                            "_original": "……まずは\\N[10]殿を安全な場所まで案内する！\nついてきてくれ！"
                         },
                         {
                             "code": 242,
@@ -11440,15 +11328,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここからしばらくの間は\\C[17]ナズナ\\C[0]を操作します。"
-                            ]
+                                "From here on, you will control \\C[17]Nazuna\\C[0] for a\nwhile."
+                            ],
+                            "_original": "ここからしばらくの間は\\C[17]ナズナ\\C[0]を操作します。"
                         },
                         {
                             "code": 101,
@@ -11465,28 +11355,34 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "基本的な操作についての説明を確認しますか？"
-                            ]
+                                "Would you like to review the basic controls?"
+                            ],
+                            "_original": "基本的な操作についての説明を確認しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "確認する",
-                                    "確認しない"
+                                    "Confirm",
+                                    "Do not confirm"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "確認する",
+                                "確認しない"
                             ]
                         },
                         {
@@ -11512,29 +11408,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[17]Ｘキー\\C[0]を入力するとメニュー画面が表示されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メニュー画面ではアイテムやスキルの確認、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "セーブなどを行えます。"
-                            ]
+                                "Press the \\C[17]X key\\C[0] to open the menu screen. In the\nmenu, you can check items and skills, save your\ngame, and more."
+                            ],
+                            "_original": "\\C[17]Ｘキー\\C[0]を入力するとメニュー画面が表示されます。\nメニュー画面ではアイテムやスキルの確認、\nセーブなどを行えます。"
                         },
                         {
                             "code": 101,
@@ -11551,15 +11435,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "移動中は、次のショートカットキーを利用できます。"
-                            ]
+                                "While moving, you can use the following shortcut\nkeys:"
+                            ],
+                            "_original": "移動中は、次のショートカットキーを利用できます。"
                         },
                         {
                             "code": 101,
@@ -11576,29 +11462,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[17]・Ｅキー：\\C[0]アイテム画面表示"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[17]・Ｒキー：\\C[0]スキル使用画面表示"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[17]・Ｓキー：\\C[0]セーブ画面表示"
-                            ]
+                                "\\C[17]・E key:\\C[0] Open item screen \\C[17]・R key:\\C[0] Open skill use\nscreen \\C[17]・S key:\\C[0] Open save screen"
+                            ],
+                            "_original": "\\C[17]・Ｅキー：\\C[0]アイテム画面表示\n\\C[17]・Ｒキー：\\C[0]スキル使用画面表示\n\\C[17]・Ｓキー：\\C[0]セーブ画面表示"
                         },
                         {
                             "code": 0,
@@ -11641,22 +11515,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうだ、\\N[10]殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これを。"
-                            ]
+                                "Oh, right, \\N[10]-sama. Take this."
+                            ],
+                            "_original": "そうだ、\\N[10]殿。\nこれを。"
                         },
                         {
                             "code": 250,
@@ -11685,8 +11554,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]冒険者の手記\\C[0]を貰った！"
-                            ]
+                                "\\C[3]Adventurer's Memoir\\C[0] obtained!"
+                            ],
+                            "_original": "\\C[3]冒険者の手記\\C[0]を貰った！"
                         },
                         {
                             "code": 111,
@@ -11712,28 +11582,34 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]冒険者の手記\\C[0]についての説明を確認しますか？"
-                            ]
+                                "Would you like to view the explanation for the\n\\C[3]Adventurer's Memoir\\C[0]?"
+                            ],
+                            "_original": "\\C[3]冒険者の手記\\C[0]についての説明を確認しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "確認する",
-                                    "確認しない"
+                                    "Confirm",
+                                    "Don't confirm"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "確認する",
+                                "確認しない"
                             ]
                         },
                         {
@@ -11759,22 +11635,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[3]冒険者の手記\\C[0]を使用するとイベント画面が表示されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "イベント画面では\\C[17]今の目的\\C[0]を確認できます。"
-                            ]
+                                "Using the \\C[3]Adventurer's Memoir\\C[0] will display the\nevent screen. On the event screen, you can check\n\\C[17]Current Objective\\C[0]."
+                            ],
+                            "_original": "\\C[3]冒険者の手記\\C[0]を使用するとイベント画面が表示されます。\nイベント画面では\\C[17]今の目的\\C[0]を確認できます。"
                         },
                         {
                             "code": 101,
@@ -11791,29 +11662,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[17]今の目的\\C[0]はゲームの進行に伴って随時更新されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "すべきことが分からなくなってしまったときは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "確認してみましょう。"
-                            ]
+                                "\\C[17]Current Objective\\C[0] is updated as the game\nprogresses. Check it if you're not sure what to\ndo next."
+                            ],
+                            "_original": "\\C[17]今の目的\\C[0]はゲームの進行に伴って随時更新されます。\nすべきことが分からなくなってしまったときは\n確認してみましょう。"
                         },
                         {
                             "code": 101,
@@ -11830,22 +11689,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "移動中は、次のショートカットキーを利用できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\C[17]・Ｄキー：\\C[0]イベント画面表示"
-                            ]
+                                "While moving, you can use the following shortcut\nkeys. \\C[17]・D key:\\C[0] Event screen display"
+                            ],
+                            "_original": "移動中は、次のショートカットキーを利用できます。\n\\C[17]・Ｄキー：\\C[0]イベント画面表示"
                         },
                         {
                             "code": 0,
@@ -11888,29 +11742,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "以前に貰った物なのだが、持て余していて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N[10]殿ならきっと有効に活用してくれるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからあなたに譲ろう。"
-                            ]
+                                "I received this before, but I haven't\nhad much use for it... I'm sure you'll\nput it to good use, \\N[10]-dono. So I'll give\nit to you."
+                            ],
+                            "_original": "以前に貰った物なのだが、持て余していて……\n\\N[10]殿ならきっと有効に活用してくれるはず。\nだからあなたに譲ろう。"
                         },
                         {
                             "code": 117,
@@ -11989,15 +11831,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "な、なかなかやるな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかしまだまだ！"
-                            ]
+                                "H-he's pretty good... but I'm not done\nyet!"
+                            ],
+                            "_original": "な、なかなかやるな……\nしかしまだまだ！"
                         },
                         {
                             "code": 119,
@@ -12365,22 +12201,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むうっ、また怪異か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近頃は本当に多いな。"
-                            ]
+                                "Hmph, anomalies again... They've been so\nfrequent lately."
+                            ],
+                            "_original": "むうっ、また怪異か……\n近頃は本当に多いな。"
                         },
                         {
                             "code": 101,
@@ -12390,22 +12221,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿、少し下がっていてくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がなんとかする！"
-                            ]
+                                "\\N[10]-dono, stand back a bit. I'll handle\nthis!"
+                            ],
+                            "_original": "\\N[10]殿、少し下がっていてくれ。\n私がなんとかする！"
                         },
                         {
                             "code": 205,
@@ -12792,22 +12618,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "斬らずに済むのなら、それが一番なのだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "相手が怪異ではそうもいかない。"
-                            ]
+                                "If we could settle this without cutting,\nthat would be best. But with an anomaly\nas the opponent, that's not an option."
+                            ],
+                            "_original": "斬らずに済むのなら、それが一番なのだが。\n相手が怪異ではそうもいかない。"
                         },
                         {
                             "code": 111,
@@ -12826,22 +12647,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "早く勘を取り戻さなくては。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今の戦いで、少しは強くなれただろうか？"
-                            ]
+                                "I need to regain my intuition quickly. I\nwonder if I've gotten at least a little\nstronger from that fight?"
+                            ],
+                            "_original": "早く勘を取り戻さなくては。\n今の戦いで、少しは強くなれただろうか？"
                         },
                         {
                             "code": 101,
@@ -12858,28 +12674,34 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "スキルの習得についての説明を確認しますか？"
-                            ]
+                                "Would you like to review the explanation about\nlearning skills?"
+                            ],
+                            "_original": "スキルの習得についての説明を確認しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "確認する",
-                                    "確認しない"
+                                    "Confirm",
+                                    "Don't confirm"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "確認する",
+                                "確認しない"
                             ]
                         },
                         {
@@ -12905,22 +12727,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "レベルが上昇すると、同時にLPというポイントを獲得します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "これを消費することでスキルを習得できます。"
-                            ]
+                                "When your level increases, you also gain points\ncalled LP. You can spend these to learn skills."
+                            ],
+                            "_original": "レベルが上昇すると、同時にLPというポイントを獲得します。\nこれを消費することでスキルを習得できます。"
                         },
                         {
                             "code": 101,
@@ -12937,22 +12754,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "スキルの習得はメニュー画面の\\C[17]スキル\\C[0]から行え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "表示画面の左端のものから順に習得できます。"
-                            ]
+                                "You can learn skills from the \\C[17]Skills\\C[0] menu\nscreen, and you can learn them in order starting\nfrom the leftmost one displayed."
+                            ],
+                            "_original": "スキルの習得はメニュー画面の\\C[17]スキル\\C[0]から行え、\n表示画面の左端のものから順に習得できます。"
                         },
                         {
                             "code": 101,
@@ -12969,22 +12781,17 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "スキルの習得状況は、とある場所でリセットできます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "必要なLPを獲得したら、積極的に習得してみましょう。"
-                            ]
+                                "You can reset your learned skills at a certain\nlocation. Once you have the required LP, try\nactively learning them."
+                            ],
+                            "_original": "スキルの習得状況は、とある場所でリセットできます。\n必要なLPを獲得したら、積極的に習得してみましょう。"
                         },
                         {
                             "code": 0,
@@ -13027,22 +12834,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ともかく、これで安全だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進もう、\\N[10]殿。"
-                            ]
+                                "Anyway, we're safe now. Let's move on,\n\\N[10]-dono."
+                            ],
+                            "_original": "ともかく、これで安全だ。\n先に進もう、\\N[10]殿。"
                         },
                         {
                             "code": 221,
@@ -13116,22 +12918,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬ、ぬうぅ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんのこれしき！"
-                            ]
+                                "Ngh...! This is nothing!"
+                            ],
+                            "_original": "ぬ、ぬうぅ！\nなんのこれしき！"
                         },
                         {
                             "code": 119,
@@ -14228,35 +14025,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し汚れている……"
-                            ]
+                                "It's a Jizo statue. It's a little\ndirty..."
+                            ],
+                            "_original": "お地蔵様だ。\n少し汚れている……"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "手入れする",
-                                    "立ち去る"
+                                    "Tend to it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "手入れする",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -14308,15 +14104,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これでよし。"
-                            ]
+                                "There, that should do."
+                            ],
+                            "_original": "これでよし。"
                         },
                         {
                             "code": 123,
@@ -14367,15 +14165,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,
@@ -14455,22 +14255,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりと手入れしたぞ！"
-                            ]
+                                "It's a Jizo statue. I made sure to take\ngood care of it!"
+                            ],
+                            "_original": "お地蔵様だ。\nしっかりと手入れしたぞ！"
                         },
                         {
                             "code": 0,
@@ -14490,15 +14285,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Right next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,
@@ -14578,22 +14375,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安全な場所はこちらではないぞ！"
-                            ]
+                                "\\N[10]-dono! This is not a safe place!"
+                            ],
+                            "_original": "\\N[10]殿！\n安全な場所はこちらではないぞ！"
                         },
                         {
                             "code": 205,
@@ -14707,29 +14499,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安全な場所はこちらではない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当だ！"
-                            ]
+                                "\\N[10]-dono! This is not a safe place! It's\ntrue!"
+                            ],
+                            "_original": "\\N[10]殿！\n安全な場所はこちらではない！\n本当だ！"
                         },
                         {
                             "code": 205,

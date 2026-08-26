@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "龍の宮",
+    "displayName": "Dragon Shrine",
     "encounterList": [
         {
             "troopId": 174,
@@ -3424,22 +3424,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……見つけた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだわ。"
-                            ]
+                                "...Found it. This is the one."
+                            ],
+                            "_original": "……見つけた。\nこれだわ。"
                         },
                         {
                             "code": 101,
@@ -3449,15 +3444,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ。"
-                            ]
+                                "Ohh!"
+                            ],
+                            "_original": "おおっ。"
                         },
                         {
                             "code": 205,
@@ -3676,15 +3673,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "縁の盃──これを持てば、宴に招かれる。"
-                            ]
+                                "The Cup of Fate―if you hold this, you'll be\ninvited to the feast."
+                            ],
+                            "_original": "縁の盃──これを持てば、宴に招かれる。"
                         },
                         {
                             "code": 117,
@@ -3701,15 +3700,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宴？"
-                            ]
+                                "A feast?"
+                            ],
+                            "_original": "宴？"
                         },
                         {
                             "code": 101,
@@ -3719,15 +3720,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魂の祭事じゃな。"
-                            ]
+                                "The Soul Ritual, I'd say."
+                            ],
+                            "_original": "魂の祭事じゃな。"
                         },
                         {
                             "code": 117,
@@ -3744,15 +3747,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、その通り。"
-                            ]
+                                "Yes, that's right."
+                            ],
+                            "_original": "そう、その通り。"
                         },
                         {
                             "code": 101,
@@ -3762,22 +3767,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、宴が始まるのを待つ必要があるのか？"
-                            ]
+                                "Hmm. So do we need to wait for the feast\nto begin?"
+                            ],
+                            "_original": "ふむ。\nでは、宴が始まるのを待つ必要があるのか？"
                         },
                         {
                             "code": 101,
@@ -3787,22 +3787,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや……そうじゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も詳しくはないけど……"
-                            ]
+                                "No... that's not it. I don't know the details\nmyself, but..."
+                            ],
+                            "_original": "いや……そうじゃないわ。\n私も詳しくはないけど……"
                         },
                         {
                             "code": 101,
@@ -3812,22 +3807,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宴は常に開かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに誰もいないだけでね。"
-                            ]
+                                "The feast is always open. It's just that no\none's there."
+                            ],
+                            "_original": "宴は常に開かれている。\nそこに誰もいないだけでね。"
                         },
                         {
                             "code": 101,
@@ -3837,22 +3827,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと……その宴って、たぶん一般的に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "想像できるようなものではないんですよね？"
-                            ]
+                                "Umm... that feast probably isn't the\nkind you'd normally imagine, right?"
+                            ],
+                            "_original": "えーっと……その宴って、たぶん一般的に\n想像できるようなものではないんですよね？"
                         },
                         {
                             "code": 231,
@@ -3878,22 +3863,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうでしょう……伝承によると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踊ったり酒を飲んだりしてたみたいだけど。"
-                            ]
+                                "Who knows... According to legend, they danced\nand drank there."
+                            ],
+                            "_original": "どうでしょう……伝承によると、\n踊ったり酒を飲んだりしてたみたいだけど。"
                         },
                         {
                             "code": 101,
@@ -3903,15 +3883,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒！"
-                            ]
+                                "Alcohol!"
+                            ],
+                            "_original": "酒！"
                         },
                         {
                             "code": 117,
@@ -3928,22 +3910,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "祭場に行ってみれば分かるだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを持って、どうすればいいんだ？"
-                            ]
+                                "We'll know once we go to the ritual site. What\ndo we do with this?"
+                            ],
+                            "_original": "祭場に行ってみれば分かるだろう？\nこれを持って、どうすればいいんだ？"
                         },
                         {
                             "code": 101,
@@ -3953,22 +3930,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウパシモシリ──カンムイ・チャシから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行けるのではないでしょうか。"
-                            ]
+                                "Perhaps you can reach it from\nUpashimoshiri―the Kamuy Chashi ruins."
+                            ],
+                            "_original": "ウパシモシリ──カンムイ・チャシから\n行けるのではないでしょうか。"
                         },
                         {
                             "code": 117,
@@ -3985,15 +3957,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それって……どこ？"
-                            ]
+                                "That's... where?"
+                            ],
+                            "_original": "それって……どこ？"
                         },
                         {
                             "code": 101,
@@ -4003,22 +3977,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウパシモシリは分かりますよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこの東の方にある遺跡です。"
-                            ]
+                                "You know Upashimoshiri, right? It's the\nruins to the east of there."
+                            ],
+                            "_original": "ウパシモシリは分かりますよね？\nそこの東の方にある遺跡です。"
                         },
                         {
                             "code": 101,
@@ -4028,22 +3997,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かの場所とここは内装、雰囲気がよく似ている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何らかの関連性を感じるのです。"
-                            ]
+                                "That place and here share a similar\ninterior and atmosphere. I sense some\nconnection."
+                            ],
+                            "_original": "かの場所とここは内装、雰囲気がよく似ている。\n何らかの関連性を感じるのです。"
                         },
                         {
                             "code": 101,
@@ -4053,15 +4017,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、同感じゃ。"
-                            ]
+                                "Mmm, I agree."
+                            ],
+                            "_original": "うむ、同感じゃ。"
                         },
                         {
                             "code": 231,
@@ -4087,15 +4053,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おまえたちは行ったことがあるの？"
-                            ]
+                                "Have you all been there before?"
+                            ],
+                            "_original": "おまえたちは行ったことがあるの？"
                         },
                         {
                             "code": 117,
@@ -4112,15 +4080,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あるぞ！"
-                            ]
+                                "We have!"
+                            ],
+                            "_original": "あるぞ！"
                         },
                         {
                             "code": 117,
@@ -4137,22 +4107,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう、なら案内して。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調べてみましょう。"
-                            ]
+                                "Then guide me. Let's go investigate."
+                            ],
+                            "_original": "そう、なら案内して。\n調べてみましょう。"
                         },
                         {
                             "code": 101,
@@ -4162,22 +4127,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絃様……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "執政に報告しては。"
-                            ]
+                                "Gen-sama... Should we report this to the\nexecutive council?"
+                            ],
+                            "_original": "絃様……\n執政に報告しては。"
                         },
                         {
                             "code": 101,
@@ -4187,29 +4147,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何言ってるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淡雪が知ったら止めるに決まってるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで私の代わりに行くに違いない。"
-                            ]
+                                "What are you saying?! If Usuyuki finds out,\nshe'll definitely stop us. And then she'll go in\nmy place."
+                            ],
+                            "_original": "何言ってるの！\n淡雪が知ったら止めるに決まってるわ。\nそれで私の代わりに行くに違いない。"
                         },
                         {
                             "code": 101,
@@ -4219,29 +4167,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうはさせないんだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは鬨宮家の将軍が解決すべき問題よ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、早く行きましょう！"
-                            ]
+                                "I won't let that happen. This is a problem for\nthe general of the Totomiya family to solve!\nCome on, let's go already!"
+                            ],
+                            "_original": "そうはさせないんだからね。\nこれは鬨宮家の将軍が解決すべき問題よ！\nさあ、早く行きましょう！"
                         },
                         {
                             "code": 232,
@@ -4305,22 +4241,17 @@
                                 2,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇猛果敢……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急に無玄様に似てこられた。"
-                            ]
+                                "Brave and bold... You've suddenly started to\nresemble Mugen-sama."
+                            ],
+                            "_original": "勇猛果敢……\n急に無玄様に似てこられた。"
                         },
                         {
                             "code": 101,
@@ -4330,22 +4261,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "若者の成長は早い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっかけがあれば驚くほど変わるもんじゃ。"
-                            ]
+                                "The young grow quickly. With the right\nspark, they can change in surprising\nways."
+                            ],
+                            "_original": "若者の成長は早い。\nきっかけがあれば驚くほど変わるもんじゃ。"
                         },
                         {
                             "code": 117,
@@ -4378,15 +4304,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回の件で、更に立派な将軍様になるのだろう！"
-                            ]
+                                "This whole thing will make her an even more\nmagnificent general!"
+                            ],
+                            "_original": "今回の件で、更に立派な将軍様になるのだろう！"
                         },
                         {
                             "code": 101,
@@ -4396,15 +4324,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "母君も喜ばれましょう。"
-                            ]
+                                "Her mother will surely be pleased."
+                            ],
+                            "_original": "母君も喜ばれましょう。"
                         },
                         {
                             "code": 101,
@@ -4414,15 +4344,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "口調も板につくといいですよね。"
-                            ]
+                                "It'd be nice if her way of speaking\nsettled into place too."
+                            ],
+                            "_original": "口調も板につくといいですよね。"
                         },
                         {
                             "code": 117,
@@ -4439,22 +4371,17 @@
                                 2,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……支えねば。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それこそが壬生の使命。"
-                            ]
+                                "...We must support her. That is the duty of the\nMibu."
+                            ],
+                            "_original": "……支えねば。\nそれこそが壬生の使命。"
                         },
                         {
                             "code": 242,
@@ -4587,15 +4514,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]龍の宮\\C[0] 達成！"
-                            ]
+                                "\\C[17]Dragon Shrine\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]龍の宮\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -4624,15 +4553,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント追加】\\C[0]"
-                            ]
+                                "\\C[16]【Event Add】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント一覧に\\C[17]魂の祭事\\C[0]が追加されました。"
-                            ]
+                                "\\C[17]Soul Ritual\\C[0] has been added to the event list."
+                            ],
+                            "_original": "イベント一覧に\\C[17]魂の祭事\\C[0]が追加されました。"
                         },
                         {
                             "code": 122,

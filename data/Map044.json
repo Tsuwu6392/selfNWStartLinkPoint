@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "落命ヶ浜",
+    "displayName": "Rakumeigahama",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -5284,35 +5284,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "房子殿を苦しめている怪異……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討たなくては！"
-                            ]
+                                "The occurrence that torments Fusako-dono...\nWe must defeat it!"
+                            ],
+                            "_original": "房子殿を苦しめている怪異……\n討たなくては！"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "討伐する",
-                                    "立ち去る"
+                                    "Defeat",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "討伐する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -5661,22 +5660,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "房子殿に降りかかる呪いは断たれたか？"
-                            ]
+                                "With this... has the curse befalling Fusako-dono\nbeen severed?"
+                            ],
+                            "_original": "これで……\n房子殿に降りかかる呪いは断たれたか？"
                         },
                         {
                             "code": 117,
@@ -5693,22 +5687,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "確かめなければ分かりません。"
-                            ]
+                                "Well. We won't know unless we check."
+                            ],
+                            "_original": "さて。\n確かめなければ分かりません。"
                         },
                         {
                             "code": 101,
@@ -5718,22 +5707,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "怪異を討てたのは間違いない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だが、気がかりなのは──"
-                            ]
+                                "There's no doubt we defeated\nthe occurrence. But what's troubling is──"
+                            ],
+                            "_original": "怪異を討てたのは間違いない。\nだが、気がかりなのは──"
                         },
                         {
                             "code": 117,
@@ -5766,15 +5750,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今の魔物がヌシとなっていたこと、ですか？"
-                            ]
+                                "Is it that the monster we just defeated\nwas a Boss?"
+                            ],
+                            "_original": "今の魔物がヌシとなっていたこと、ですか？"
                         },
                         {
                             "code": 101,
@@ -5784,15 +5770,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お前も気づいていたか。"
-                            ]
+                                "You noticed that too, huh."
+                            ],
+                            "_original": "お前も気づいていたか。"
                         },
                         {
                             "code": 117,
@@ -5825,22 +5813,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヌシというと、その地のマナの力によって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何度でも蘇る魔物……？"
-                            ]
+                                "By Boss, you mean a monster that revives\nover and over thanks to the land's mana...?"
+                            ],
+                            "_original": "ヌシというと、その地のマナの力によって\n何度でも蘇る魔物……？"
                         },
                         {
                             "code": 101,
@@ -5850,22 +5833,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この怪異は、少し時間が経てば復活するだろう。"
-                            ]
+                                "Exactly. This occurrence will likely revive\nafter some time."
+                            ],
+                            "_original": "そうだ。\nこの怪異は、少し時間が経てば復活するだろう。"
                         },
                         {
                             "code": 117,
@@ -5882,22 +5860,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "となると、房子さんを救う方法など"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ないのかもしれません。"
-                            ]
+                                "If so, there may be no way to save Fusako-san."
+                            ],
+                            "_original": "となると、房子さんを救う方法など\nないのかもしれません。"
                         },
                         {
                             "code": 117,
@@ -5930,35 +5903,34 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そ、そんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\N[10]殿……どうすればいいと思う？"
-                            ]
+                                "Th-That can't be... \\N[10]-dono... what do you think\nwe should do?"
+                            ],
+                            "_original": "そ、そんな。\n\\N[10]殿……どうすればいいと思う？"
                         },
                         {
                             "code": 102,
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "影響力は弱まったかもしれない",
-                                    "房子の様子を見に行くべきだ"
+                                    "Perhaps the influence has weakened.",
+                                    "We should go check on Fusako."
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "影響力は弱まったかもしれない",
+                                "房子の様子を見に行くべきだ"
                             ]
                         },
                         {
@@ -6000,29 +5972,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "だから最初に言ったでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "確かめなければ分からない、と。"
-                            ]
+                                "Indeed. That's why I said it from the start,\ndidn't I? We won't know unless we check."
+                            ],
+                            "_original": "そうですね。\nだから最初に言ったでしょう？\n確かめなければ分からない、と。"
                         },
                         {
                             "code": 0,
@@ -6068,22 +6028,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ええ、私も言いましたよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "確かめなければ分からない、と。"
-                            ]
+                                "Yes, I said so too, didn't I? We won't know\nunless we check."
+                            ],
+                            "_original": "ええ、私も言いましたよね。\n確かめなければ分からない、と。"
                         },
                         {
                             "code": 0,
@@ -6126,22 +6081,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "では、ともしび村に！"
-                            ]
+                                "I see... then to Tomoshibi Village!"
+                            ],
+                            "_original": "そうか……\nでは、ともしび村に！"
                         },
                         {
                             "code": 117,
@@ -6158,22 +6108,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やれやれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本当にお人好しですね、あなたは。"
-                            ]
+                                "Oh dear. You really are a goody-two-shoes,\naren't you?"
+                            ],
+                            "_original": "やれやれ。\n本当にお人好しですね、あなたは。"
                         },
                         {
                             "code": 221,
@@ -6383,35 +6328,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヌシはその地のマナで復活する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにいると戦闘になるだろう……"
-                            ]
+                                "You will be resurrected by the mana of\nthat land. If you stay here, you'll get\ninto a battle..."
+                            ],
+                            "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ヌシの復活を待つ",
-                                    "立ち去る"
+                                    "Wait for your revival.",
+                                    "Leave."
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ヌシの復活を待つ",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -6826,22 +6770,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "開かないな……いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしや、この鍵で……"
-                            ]
+                                "It won't open... No. Could it be, with\nthis key..."
+                            ],
+                            "_original": "開かないな……いや。\nもしや、この鍵で……"
                         },
                         {
                             "code": 101,
@@ -6858,8 +6797,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]涅塚の封じ\\C[0]を使った。"
-                            ]
+                                "\\C[3]Used Nezuka Seal.\\C[0]"
+                            ],
+                            "_original": "\\C[3]涅塚の封じ\\C[0]を使った。"
                         },
                         {
                             "code": 126,
@@ -7028,15 +6968,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし！"
-                            ]
+                                "Alright!"
+                            ],
+                            "_original": "よし！"
                         },
                         {
                             "code": 250,
@@ -7081,22 +7023,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "か、鍵が……壊れてしまった。"
-                            ]
+                                "Whoa! Th-the key... it broke."
+                            ],
+                            "_original": "うわっ！\nか、鍵が……壊れてしまった。"
                         },
                         {
                             "code": 101,
@@ -7106,15 +7043,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "役目を果たしたということかもしれん。"
-                            ]
+                                "Perhaps that means it fulfilled its\npurpose."
+                            ],
+                            "_original": "役目を果たしたということかもしれん。"
                         },
                         {
                             "code": 101,
@@ -7124,22 +7063,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……つまり、この先に例の怪異がいる可能性が高いと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "房子さんの先祖の。"
-                            ]
+                                "……In other words, there's a high probability\nthat the occurrence ahead is\nFusako-san's ancestor."
+                            ],
+                            "_original": "……つまり、この先に例の怪異がいる可能性が高いと。\n房子さんの先祖の。"
                         },
                         {
                             "code": 101,
@@ -7149,22 +7083,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "注意した方がいい。"
-                            ]
+                                "Yeah. We should be careful."
+                            ],
+                            "_original": "ああ。\n注意した方がいい。"
                         },
                         {
                             "code": 221,
@@ -7201,22 +7130,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "開かないな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鍵がかかっているようだ。"
-                            ]
+                                "It won't open... It seems to be locked."
+                            ],
+                            "_original": "開かないな……\n鍵がかかっているようだ。"
                         },
                         {
                             "code": 0,
@@ -7679,22 +7603,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桶があるが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだか汚いな……"
-                            ]
+                                "There's a bucket... but it looks kind of\ndirty..."
+                            ],
+                            "_original": "桶があるが……\nなんだか汚いな……"
                         },
                         {
                             "code": 0,

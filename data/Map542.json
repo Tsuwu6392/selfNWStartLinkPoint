@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "あばら四つ辻",
+    "displayName": "Abandoned Crossroads",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3489,22 +3489,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この感覚……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私でも分かるほどの……"
-                            ]
+                                "This feeling... Even I can tell..."
+                            ],
+                            "_original": "この感覚……\n私でも分かるほどの……"
                         },
                         {
                             "code": 101,
@@ -3514,8 +3509,9 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
@@ -3541,15 +3537,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……し、しまった。"
-                            ]
+                                "...D-Damn it."
+                            ],
+                            "_original": "……し、しまった。"
                         },
                         {
                             "code": 205,
@@ -3706,35 +3704,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『テンの胸』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View scene \"Ten's Chest\"? \\C[17]*Either choice will be\nadded to memories.\\C[0]"
+                            ],
+                            "_original": "シーン『テンの胸』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -3809,15 +3806,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
-                            ]
+                                "Event \\C[17]Interaction: Yuuyami of the Crossroads of\nthe Lustrous Tail\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -4247,15 +4246,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見覚えのある人物がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれは、初めてここへ来た時に見かけた女性だ。"
-                            ]
+                                "There's a familiar face. That's the woman I saw\nwhen I first came here."
+                            ],
+                            "_original": "見覚えのある人物がいる。\nあれは、初めてここへ来た時に見かけた女性だ。"
                         },
                         {
                             "code": 205,
@@ -4343,15 +4336,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたは……"
-                            ]
+                                "You are…"
+                            ],
+                            "_original": "あなたは……"
                         },
                         {
                             "code": 205,
@@ -4392,22 +4387,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの……助けてもらえませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、身体が火照ってしまって……"
-                            ]
+                                "Um… could you help me? My body is burning up…"
+                            ],
+                            "_original": "あの……助けてもらえませんか？\n私、身体が火照ってしまって……"
                         },
                         {
                             "code": 101,
@@ -4417,22 +4407,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたのもので、突いてもらえれば……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落ち着くと思うんです……♥"
-                            ]
+                                "If you could just… thrust into me with yours… I\nthink I'd calm down…♥"
+                            ],
+                            "_original": "あなたのもので、突いてもらえれば……\n落ち着くと思うんです……♥"
                         },
                         {
                             "code": 213,
@@ -4579,8 +4564,9 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
@@ -4597,22 +4583,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あははっ。"
-                            ]
+                                "…Heh. Ahahaha."
+                            ],
+                            "_original": "……ふふ。\nあははっ。"
                         },
                         {
                             "code": 101,
@@ -4622,22 +4603,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奪ってやった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪ってやったぞ！"
-                            ]
+                                "I took it. I took it from her!"
+                            ],
+                            "_original": "奪ってやった。\n奪ってやったぞ！"
                         },
                         {
                             "code": 101,
@@ -4647,22 +4623,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あいつの大切なものを奪って、殺してやった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あははははっ！"
-                            ]
+                                "I stole what was precious to that bitch and\nkilled her. Ahahahaha!"
+                            ],
+                            "_original": "あいつの大切なものを奪って、殺してやった。\nあははははっ！"
                         },
                         {
                             "code": 101,
@@ -4672,22 +4643,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ざまあみろ、夕闇……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奪われる者の悲しみを思い知るがいい。"
-                            ]
+                                "Serves you right, Yuuyami… Now you know the\nsorrow of having something taken from you."
+                            ],
+                            "_original": "ざまあみろ、夕闇……\n奪われる者の悲しみを思い知るがいい。"
                         },
                         {
                             "code": 230,
@@ -4704,15 +4670,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愚かだねえ。"
-                            ]
+                                "How foolish."
+                            ],
+                            "_original": "愚かだねえ。"
                         },
                         {
                             "code": 205,
@@ -4770,15 +4738,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰だ！？"
-                            ]
+                                "W-Who are you!?"
+                            ],
+                            "_original": "だ、誰だ！？"
                         },
                         {
                             "code": 212,
@@ -4842,22 +4812,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "艶尾の辻の夕闇……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの主さ。"
-                            ]
+                                "Yuuyami of the Crossroads of the\nLustrous Tail… the master of this place."
+                            ],
+                            "_original": "艶尾の辻の夕闇……\nここの主さ。"
                         },
                         {
                             "code": 205,
@@ -4920,15 +4885,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、お前……！"
-                            ]
+                                "Y-You…!"
+                            ],
+                            "_original": "お、お前……！"
                         },
                         {
                             "code": 101,
@@ -4938,15 +4905,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "覚悟はできてるかい？"
-                            ]
+                                "Are you prepared?"
+                            ],
+                            "_original": "覚悟はできてるかい？"
                         },
                         {
                             "code": 101,
@@ -4956,22 +4925,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私を殺す気か……\\!はんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きにすればいいさ！"
-                            ]
+                                "You're going to kill me… \\! Hah! Do whatever you\nwant!"
+                            ],
+                            "_original": "私を殺す気か……\\!はんっ！\n好きにすればいいさ！"
                         },
                         {
                             "code": 101,
@@ -4981,22 +4945,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は既に勝っている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の大切な人は徹底的に凌辱して搾り殺したよ！"
-                            ]
+                                "I've already won! I thoroughly humiliated and\ndrained the life out of someone precious to you!"
+                            ],
+                            "_original": "私は既に勝っている！\nお前の大切な人は徹底的に凌辱して搾り殺したよ！"
                         },
                         {
                             "code": 101,
@@ -5006,22 +4965,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てたからねえ。"
-                            ]
+                                "I know. I was watching."
+                            ],
+                            "_original": "知ってるよ。\n見てたからねえ。"
                         },
                         {
                             "code": 101,
@@ -5031,22 +4985,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだと！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならどうして──"
-                            ]
+                                "W-What!? Then why didn't you──"
+                            ],
+                            "_original": "な、なんだと！？\nならどうして──"
                         },
                         {
                             "code": 101,
@@ -5056,22 +5005,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなことより、お前は野良だろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの頃ここにいた連中の内の一人かい？"
-                            ]
+                                "More importantly, you're a stray, right?\nOne of the ones who used to be here back\nthen?"
+                            ],
+                            "_original": "そんなことより、お前は野良だろう？\nあの頃ここにいた連中の内の一人かい？"
                         },
                         {
                             "code": 101,
@@ -5081,22 +5025,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ……そうさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は、お前に居場所を奪われたんだ……"
-                            ]
+                                "Th-That's right. You… took my place from me…"
+                            ],
+                            "_original": "そ……そうさ。\n私は、お前に居場所を奪われたんだ……"
                         },
                         {
                             "code": 101,
@@ -5106,29 +5045,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの頃は幸せだった……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きなだけ雄を侍らせて、マナを搾って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちの天下だったのに……！"
-                            ]
+                                "Back then, we were happy… We had as many males\nas we wanted serving us, draining their mana… It\nwas our paradise…!"
+                            ],
+                            "_original": "あの頃は幸せだった……\n好きなだけ雄を侍らせて、マナを搾って……\n私たちの天下だったのに……！"
                         },
                         {
                             "code": 101,
@@ -5138,22 +5065,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ、品のない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで獣だ。"
-                            ]
+                                "Oh dear, how uncouth. You sound like a\nbeast."
+                            ],
+                            "_original": "やれやれ、品のない。\nまるで獣だ。"
                         },
                         {
                             "code": 101,
@@ -5163,22 +5085,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うるさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "発端はお前だろう！？"
-                            ]
+                                "S-Shut up! It's all your fault!"
+                            ],
+                            "_original": "う、うるさい！\n発端はお前だろう！？"
                         },
                         {
                             "code": 101,
@@ -5188,29 +5105,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなにマナに飢えているのなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわと共に来ればよかったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲間は都で楽しくやってるよ。"
-                            ]
+                                "If you were so desperate for mana, you\nshould've come with me. My companions\nare living happily in the capital."
+                            ],
+                            "_original": "そんなにマナに飢えているのなら、\nわらわと共に来ればよかったんだ。\n仲間は都で楽しくやってるよ。"
                         },
                         {
                             "code": 101,
@@ -5220,22 +5125,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰がお前なんかに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏切り者なんかに！"
-                            ]
+                                "As if I'd ever… follow a traitor like you!"
+                            ],
+                            "_original": "誰がお前なんかに……\n裏切り者なんかに！"
                         },
                         {
                             "code": 101,
@@ -5245,29 +5145,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "根深いねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔のよしみで、場合によっては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見逃してやってもいいと思ったんだが──"
-                            ]
+                                "How deep the grudge runs. I was even\nconsidering letting you go, for old\ntimes' sake…"
+                            ],
+                            "_original": "根深いねえ。\n昔のよしみで、場合によっては\n見逃してやってもいいと思ったんだが──"
                         },
                         {
                             "code": 250,
@@ -5312,15 +5200,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ……なんだ！？"
-                            ]
+                                "Wha… what!?"
+                            ],
+                            "_original": "なっ……なんだ！？"
                         },
                         {
                             "code": 101,
@@ -5330,15 +5220,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前は三つの間違いを犯している。"
-                            ]
+                                "But you've made three mistakes."
+                            ],
+                            "_original": "お前は三つの間違いを犯している。"
                         },
                         {
                             "code": 101,
@@ -5348,29 +5240,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "居場所を奪われたのはお前じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供たちだ。"
-                            ]
+                                "First. It wasn't you who lost your\nplace. It was the children."
+                            ],
+                            "_original": "一つ。\n居場所を奪われたのはお前じゃない。\n子供たちだ。"
                         },
                         {
                             "code": 101,
@@ -5380,15 +5260,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は……？"
-                            ]
+                                "Huh…?"
+                            ],
+                            "_original": "は……？"
                         },
                         {
                             "code": 101,
@@ -5398,22 +5280,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前が殺した男は、別に大切じゃあない。"
-                            ]
+                                "Second. The man you killed wasn't\nimportant to me."
+                            ],
+                            "_original": "二つ。\nお前が殺した男は、別に大切じゃあない。"
                         },
                         {
                             "code": 101,
@@ -5423,22 +5300,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、嘘だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前があんなふうに接する雄なんて──"
-                            ]
+                                "N-No way! There's no way you'd treat a man like\nthat―"
+                            ],
+                            "_original": "う、嘘だ！\nお前があんなふうに接する雄なんて──"
                         },
                         {
                             "code": 101,
@@ -5448,22 +5320,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮に、あれがわらわにとって大切だったとしよう。"
-                            ]
+                                "Three. Suppose, for a moment, that he\n*was* precious to me."
+                            ],
+                            "_original": "三つ。\n仮に、あれがわらわにとって大切だったとしよう。"
                         },
                         {
                             "code": 101,
@@ -5473,22 +5340,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだと知った上で、お前はそれを奪った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "愚かだよ。"
-                            ]
+                                "You took him from me *knowing* that. How\nfoolish."
+                            ],
+                            "_original": "そうだと知った上で、お前はそれを奪った。\n愚かだよ。"
                         },
                         {
                             "code": 101,
@@ -5498,22 +5360,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "覚悟はできてる様子だったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それじゃあ──"
-                            ]
+                                "You seemed prepared. In that case―"
+                            ],
+                            "_original": "覚悟はできてる様子だったね。\nそれじゃあ──"
                         },
                         {
                             "code": 101,
@@ -5523,15 +5380,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うわ……"
-                            ]
+                                "N-No…"
+                            ],
+                            "_original": "う、うわ……"
                         },
                         {
                             "code": 101,
@@ -5541,15 +5400,17 @@
                                 0,
                                 0,
                                 2,
-                                "女性"
-                            ]
+                                "Female"
+                            ],
+                            "_original": "女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うわあああっ！！"
-                            ]
+                                "…Aaaaaahh!!"
+                            ],
+                            "_original": "……うわあああっ！！"
                         },
                         {
                             "code": 251,
@@ -5632,8 +5493,9 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
@@ -5650,22 +5512,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……さて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よくやったよ、\\N[10]。"
-                            ]
+                                "…Well. Good work, \\N[10]."
+                            ],
+                            "_original": "……さて。\nよくやったよ、\\N[10]。"
                         },
                         {
                             "code": 205,
@@ -5812,22 +5669,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなか使いこなせていたじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわの力を込めた、特別な身写し形代を。"
-                            ]
+                                "You handled it quite well. That special\nBody Effigy I imbued with my power."
+                            ],
+                            "_original": "なかなか使いこなせていたじゃないか。\nわらわの力を込めた、特別な身写し形代を。"
                         },
                         {
                             "code": 101,
@@ -5844,15 +5696,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……つまり、こういうことだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分は廃屋に入る瞬間に分身と入れ替わり、身を隠した。"
-                            ]
+                                "…In other words, here's what happened. I swapped\nplaces with a decoy the moment I entered the\nabandoned house, hiding myself."
+                            ],
+                            "_original": "……つまり、こういうことだ。\n自分は廃屋に入る瞬間に分身と入れ替わり、身を隠した。"
                         },
                         {
                             "code": 101,
@@ -5869,15 +5715,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "分身は夜魔に搾り殺されてしまったが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼ならば、そういう最期も楽しんでくれたと思いたい。"
-                            ]
+                                "The decoy was crushed to death by the demon… but\nI'd like to think he enjoyed that kind of end."
+                            ],
+                            "_original": "分身は夜魔に搾り殺されてしまったが……\n彼ならば、そういう最期も楽しんでくれたと思いたい。"
                         },
                         {
                             "code": 101,
@@ -5887,22 +5727,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけど、少し影響を受けてるようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの野良の魅了の……"
-                            ]
+                                "Though it seems you've been affected a\nlittle. By that stray's charm…"
+                            ],
+                            "_original": "だけど、少し影響を受けてるようだ。\nあの野良の魅了の……"
                         },
                         {
                             "code": 205,
@@ -5943,22 +5778,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上書きしてやる。"
-                            ]
+                                "Don't worry. I'll overwrite it for you."
+                            ],
+                            "_original": "安心しな。\n上書きしてやる。"
                         },
                         {
                             "code": 357,
@@ -6138,35 +5968,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『月が出るまで』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View scene \"Until the Moon Rises\"? \\C[17]*Either\nchoice will be added to your memories.*\\C[0]"
+                            ],
+                            "_original": "シーン『月が出るまで』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -6241,15 +6070,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]交流：艶尾の辻の夕闇\\C[0] 達成！"
-                            ]
+                                "\\C[17]Interaction: Yuuyami of the Crossroads of the\nLustrous Tail\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]交流：艶尾の辻の夕闇\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -6278,22 +6109,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【交流追加】\\C[0]"
-                            ]
+                                "\\C[16]【Add Interaction】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【交流追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夕闇との\\C[27]清殿神事\\C[0]が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "清殿にて訪問を待ってみましょう……"
-                            ]
+                                "Interaction with Yuuyami, \\C[27]Seiden Ritual\\C[0], has\nbeen unlocked. Visit Seiden to see her…"
+                            ],
+                            "_original": "夕闇との\\C[27]清殿神事\\C[0]が解放されました。\n清殿にて訪問を待ってみましょう……"
                         },
                         {
                             "code": 250,
@@ -6711,15 +6537,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木箱がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり古いもののようだ。"
-                            ]
+                                "There's a wooden crate. It looks quite old."
+                            ],
+                            "_original": "木箱がある。\nかなり古いもののようだ。"
                         },
                         {
                             "code": 0,

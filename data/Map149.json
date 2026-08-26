@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "りゆう屋",
+    "displayName": "Reason Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3466,22 +3466,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし……情報通り、個室に辿り着いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかも運よく誰もいないようだ。"
-                            ]
+                                "Good... Just as the information said, we've\nreached a private room. And luckily, it seems no\none is here."
+                            ],
+                            "_original": "よし……情報通り、個室に辿り着いた。\nしかも運よく誰もいないようだ。"
                         },
                         {
                             "code": 101,
@@ -3491,15 +3486,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで何を調べればいい？"
-                            ]
+                                "What should we look for here?"
+                            ],
+                            "_original": "ここで何を調べればいい？"
                         },
                         {
                             "code": 101,
@@ -3509,22 +3506,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どのような営業が行われているか分かるものを探すのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例えば記録、道具……あるいは行為の痕跡。"
-                            ]
+                                "We need to find something that tells us what\nkind of business is being conducted here.\nRecords, tools... or traces of the acts\nthemselves."
+                            ],
+                            "_original": "どのような営業が行われているか分かるものを探すのだ。\n例えば記録、道具……あるいは行為の痕跡。"
                         },
                         {
                             "code": 101,
@@ -3534,22 +3526,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プリムは得意そうですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうの。"
-                            ]
+                                "Prim seems like she'd be good at this\nkind of thing."
+                            ],
+                            "_original": "プリムは得意そうですよね。\nこういうの。"
                         },
                         {
                             "code": 101,
@@ -3559,15 +3546,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は便利屋ではありませんよ。"
-                            ]
+                                "I am not a handyman, you know."
+                            ],
+                            "_original": "私は便利屋ではありませんよ。"
                         },
                         {
                             "code": 101,
@@ -3577,22 +3566,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋に充満する夜伽鬼の芳香……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気をつけなければなりませぬ。"
-                            ]
+                                "The scent of the Yotogi Oni fills this\nroom... We must be cautious."
+                            ],
+                            "_original": "部屋に充満する夜伽鬼の芳香……\n気をつけなければなりませぬ。"
                         },
                         {
                             "code": 101,
@@ -3602,15 +3586,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "長居はできんな。"
-                            ]
+                                "We can't stay here long."
+                            ],
+                            "_original": "長居はできんな。"
                         },
                         {
                             "code": 101,
@@ -3620,22 +3606,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そもそも店の者に見つかってはまずい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手早く進めるとしよう。"
-                            ]
+                                "If the staff find us, it'll be trouble. Let's\nmove quickly."
+                            ],
+                            "_original": "そもそも店の者に見つかってはまずい。\n手早く進めるとしよう。"
                         },
                         {
                             "code": 221,
@@ -3692,15 +3673,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]りゆう屋潜入調査\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Reason Shop Infiltration Investigation\\C[0]\nhas been updated."
+                            ],
+                            "_original": "イベントの\\C[17]りゆう屋潜入調査\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -3971,22 +3954,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはただの酒ではないな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参考品として一つ持ち帰ろう。"
-                            ]
+                                "This isn't just ordinary sake... I should take\none back as a reference."
+                            ],
+                            "_original": "これはただの酒ではないな……\n参考品として一つ持ち帰ろう。"
                         },
                         {
                             "code": 0,
@@ -4107,22 +4085,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "整えられていて、直近に使われた形跡はない。"
-                            ]
+                                "It's a bed. It's made, and there's no\nsign it's been used recently."
+                            ],
+                            "_original": "ベッドだ。\n整えられていて、直近に使われた形跡はない。"
                         },
                         {
                             "code": 0,
@@ -4192,22 +4165,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見るからに高価そうだ……"
-                            ]
+                                "It's a vase. Looks expensive..."
+                            ],
+                            "_original": "壺だ。\n見るからに高価そうだ……"
                         },
                         {
                             "code": 0,
@@ -4286,22 +4254,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "引き出しだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中には何もない。"
-                            ]
+                                "It's a drawer. There's nothing inside."
+                            ],
+                            "_original": "引き出しだ。\n中には何もない。"
                         },
                         {
                             "code": 0,
@@ -4532,22 +4495,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "引き出しだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中には……\\!むっ。"
-                            ]
+                                "It's a drawer. Inside there's... \\! Hmph."
+                            ],
+                            "_original": "引き出しだ。\n中には……\\!むっ。"
                         },
                         {
                             "code": 101,
@@ -4557,15 +4515,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かありましたか？"
-                            ]
+                                "Did something happen?"
+                            ],
+                            "_original": "何かありましたか？"
                         },
                         {
                             "code": 101,
@@ -4575,15 +4535,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "手紙のようなものが──"
-                            ]
+                                "There's something like a letter―"
+                            ],
+                            "_original": "手紙のようなものが──"
                         },
                         {
                             "code": 101,
@@ -4593,22 +4555,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……いけない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは罠です！"
-                            ]
+                                "...This is bad! That's a trap!"
+                            ],
+                            "_original": "……いけない！\nそれは罠です！"
                         },
                         {
                             "code": 250,
@@ -4747,15 +4704,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "部屋の灯りが……"
-                            ]
+                                "The room's lights..."
+                            ],
+                            "_original": "部屋の灯りが……"
                         },
                         {
                             "code": 230,
@@ -4779,8 +4738,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "懲りないねえ、柴組隊士。"
-                            ]
+                                "You just don't learn, do you, Shiba-Gumi\nSoldier."
+                            ],
+                            "_original": "懲りないねえ、柴組隊士。"
                         },
                         {
                             "code": 205,
@@ -4821,22 +4781,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だ、誰だ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どこにいる？"
-                            ]
+                                "W-Who is it? Where are you?"
+                            ],
+                            "_original": "だ、誰だ？\nどこにいる？"
                         },
                         {
                             "code": 101,
@@ -4853,15 +4808,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その部屋に情報はない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手柄が欲しいなら──先に進め。"
-                            ]
+                                "There's no information in this room. If you want\nglory―move forward."
+                            ],
+                            "_original": "その部屋に情報はない。\n手柄が欲しいなら──先に進め。"
                         },
                         {
                             "code": 101,
@@ -4871,22 +4820,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先に、って……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "りゆう屋の奥を目指せということか？"
-                            ]
+                                "Move forward...? Does that mean we\nshould head deeper into the Reason Shop?"
+                            ],
+                            "_original": "先に、って……\nりゆう屋の奥を目指せということか？"
                         },
                         {
                             "code": 213,
@@ -4905,15 +4849,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "返事がない。"
-                            ]
+                                "No response."
+                            ],
+                            "_original": "返事がない。"
                         },
                         {
                             "code": 101,
@@ -4923,22 +4869,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "話しかけてきたわけではないようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "内容が決まっている音声が流れただけだ。"
-                            ]
+                                "Doesn't seem like they're actually\ntalking to us. Just a pre-recorded\nmessage playing."
+                            ],
+                            "_original": "話しかけてきたわけではないようだな。\n内容が決まっている音声が流れただけだ。"
                         },
                         {
                             "code": 101,
@@ -4948,22 +4889,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちのこと柴組の隊士って言いましたしね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どこかから見てるわけでもなさそうです。"
-                            ]
+                                "They called us Shiba-Gumi soldiers, too.\nDoesn't look like anyone's watching from\nsomewhere."
+                            ],
+                            "_original": "こっちのこと柴組の隊士って言いましたしね。\nどこかから見てるわけでもなさそうです。"
                         },
                         {
                             "code": 101,
@@ -4973,22 +4909,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "従った方がいいのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "声に……"
-                            ]
+                                "Should we obey...? The voice..."
+                            ],
+                            "_original": "従った方がいいのだろうか？\n声に……"
                         },
                         {
                             "code": 101,
@@ -4998,22 +4929,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それは原野さんが決めることですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "原野さーん。"
-                            ]
+                                "That's for Harano-san to decide.\nHarano-saaaan."
+                            ],
+                            "_original": "それは原野さんが決めることですよ。\n原野さーん。"
                         },
                         {
                             "code": 221,
@@ -5051,15 +4977,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "聞いていましたよね、今の声。"
-                            ]
+                                "You heard that voice just now, right?"
+                            ],
+                            "_original": "聞いていましたよね、今の声。"
                         },
                         {
                             "code": 101,
@@ -5069,22 +4997,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もちろん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こちらを挑発しているようだ。"
-                            ]
+                                "Of course. It seems like they're trying to\nprovoke us."
+                            ],
+                            "_original": "もちろん。\nこちらを挑発しているようだ。"
                         },
                         {
                             "code": 101,
@@ -5094,22 +5017,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お前はこの件は失敗続きだと言っていたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つまり、過去の隊士たちは……"
-                            ]
+                                "You said this mission has been nothing\nbut failures so far. So, the past\nsoldiers..."
+                            ],
+                            "_original": "お前はこの件は失敗続きだと言っていたな。\nつまり、過去の隊士たちは……"
                         },
                         {
                             "code": 101,
@@ -5119,22 +5037,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここで引き下がる者はいないだろうと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進み、そして……餌食となったのだ。"
-                            ]
+                                "I doubt anyone here would back down. They\npressed on... and became prey."
+                            ],
+                            "_original": "ここで引き下がる者はいないだろうと思う。\n先に進み、そして……餌食となったのだ。"
                         },
                         {
                             "code": 101,
@@ -5144,22 +5057,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この部屋に情報はないそうだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうする？"
-                            ]
+                                "They say there's no information in this\nroom... What do we do?"
+                            ],
+                            "_original": "この部屋に情報はないそうだが……\nどうする？"
                         },
                         {
                             "code": 101,
@@ -5169,22 +5077,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "思えば、この部屋の存在そのものが罠だったのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そもそもりゆう屋に入れすらしなければ諦めもつくもの……"
-                            ]
+                                "Now that I think about it, this room's very\nexistence might be the trap. If we'd never even\nentered the Reason Shop, we could've given up\nwithout a second thought..."
+                            ],
+                            "_original": "思えば、この部屋の存在そのものが罠だったのだろう。\nそもそもりゆう屋に入れすらしなければ諦めもつくもの……"
                         },
                         {
                             "code": 101,
@@ -5194,22 +5097,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうと分かれば、乗る必要もありませぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "立ち去りましょう。"
-                            ]
+                                "If that's the case, there's no need to\ntake the bait. Let us leave."
+                            ],
+                            "_original": "そうと分かれば、乗る必要もありませぬ。\n立ち去りましょう。"
                         },
                         {
                             "code": 213,
@@ -5259,22 +5157,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いや、私は先に進む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必ずや実態を暴く。"
-                            ]
+                                "No, I'm going forward. I will expose the truth\nbehind this."
+                            ],
+                            "_original": "いや、私は先に進む。\n必ずや実態を暴く。"
                         },
                         {
                             "code": 101,
@@ -5284,15 +5177,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "し、しかし……"
-                            ]
+                                "B-But..."
+                            ],
+                            "_original": "し、しかし……"
                         },
                         {
                             "code": 101,
@@ -5302,22 +5197,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "安心しろ、巻き込みはしない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これ以上は約束が違うからな。"
-                            ]
+                                "Don't worry, I won't drag you into this. It'd go\nagainst our agreement."
+                            ],
+                            "_original": "安心しろ、巻き込みはしない。\nこれ以上は約束が違うからな。"
                         },
                         {
                             "code": 205,
@@ -5372,22 +5262,17 @@
                                 0,
                                 0,
                                 2,
-                                "原野"
-                            ]
+                                "Harano"
+                            ],
+                            "_original": "原野"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もし私が戻らなければ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "執政様への報告の任を引き継いでもらえると助かる。"
-                            ]
+                                "If I don't return... I'd appreciate it if you\ntook over reporting to the Executive."
+                            ],
+                            "_original": "もし私が戻らなければ……\n執政様への報告の任を引き継いでもらえると助かる。"
                         },
                         {
                             "code": 221,
@@ -5425,15 +5310,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "行っちゃいましたけど……"
-                            ]
+                                "He's already gone..."
+                            ],
+                            "_original": "行っちゃいましたけど……"
                         },
                         {
                             "code": 101,
@@ -5443,22 +5330,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "追おう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一人では危険だ！"
-                            ]
+                                "We have to follow him! It's too\ndangerous alone!"
+                            ],
+                            "_original": "追おう！\n一人では危険だ！"
                         },
                         {
                             "code": 101,
@@ -5468,22 +5350,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう言うと思いました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全くもう。"
-                            ]
+                                "I knew you'd say that. Honestly..."
+                            ],
+                            "_original": "そう言うと思いました。\n全くもう。"
                         },
                         {
                             "code": 101,
@@ -5493,22 +5370,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "外への道は塞がれておらぬようです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしものときは……退却も考慮を。"
-                            ]
+                                "The path outside doesn't seem to be\nblocked. If things go badly... consider\nretreating."
+                            ],
+                            "_original": "外への道は塞がれておらぬようです。\nもしものときは……退却も考慮を。"
                         },
                         {
                             "code": 101,
@@ -5518,15 +5390,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫だ、分かっている！"
-                            ]
+                                "It's fine, I know what I'm doing!"
+                            ],
+                            "_original": "大丈夫だ、分かっている！"
                         },
                         {
                             "code": 221,
@@ -5572,15 +5446,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]りゆう屋潜入調査\\C[0]が更新されました。"
-                            ]
+                                "The \\C[17]Reason Shop Infiltration Investigation\\C[0] event\nhas been updated."
+                            ],
+                            "_original": "イベントの\\C[17]りゆう屋潜入調査\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -5660,22 +5536,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "引き出しだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中にあった手紙は消えている……"
-                            ]
+                                "It's a drawer. The letter that was\ninside is gone..."
+                            ],
+                            "_original": "引き出しだ。\n中にあった手紙は消えている……"
                         },
                         {
                             "code": 0,
@@ -5755,15 +5626,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この部屋からは出ない方がよさそうだ……"
-                            ]
+                                "It seems best not to leave this room..."
+                            ],
+                            "_original": "この部屋からは出ない方がよさそうだ……"
                         },
                         {
                             "code": 205,
@@ -6201,22 +6074,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扉が開かなくなっている……"
-                            ]
+                                "Hmm. The door won't open..."
+                            ],
+                            "_original": "む。\n扉が開かなくなっている……"
                         },
                         {
                             "code": 205,
@@ -6331,22 +6199,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お酒だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてもいい香りがする。"
-                            ]
+                                "It's alcohol. It has a wonderful aroma."
+                            ],
+                            "_original": "お酒だ。\nとてもいい香りがする。"
                         },
                         {
                             "code": 0,

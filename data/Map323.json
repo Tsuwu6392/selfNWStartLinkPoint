@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "月見屋敷",
+    "displayName": "Moon-viewing Mansion",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -5880,29 +5880,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは月見屋敷。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鎖影衆と、それに認められた者だけが辿り着ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "隠された場所……"
-                            ]
+                                "This is the Moon-viewing Mansion. A\nhidden place only the Chain Shadow Clan\nand those they recognize can reach..."
+                            ],
+                            "_original": "ここは月見屋敷。\n鎖影衆と、それに認められた者だけが辿り着ける\n隠された場所……"
                         },
                         {
                             "code": 205,
@@ -5943,22 +5931,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……何のことはない、ただのがらんどうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪異も、その同類もあらず。"
-                            ]
+                                "...though in truth, it's just an empty\nspace. No apparitions, no kin of theirs\nto be found."
+                            ],
+                            "_original": "……何のことはない、ただのがらんどうだ。\n怪異も、その同類もあらず。"
                         },
                         {
                             "code": 101,
@@ -5968,22 +5951,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時に、忍び同士が談ずるだけの場にすぎぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからのことのようにな。"
-                            ]
+                                "At times, it's merely a place for\nshinobi to converse. Like about what's\nto come."
+                            ],
+                            "_original": "時に、忍び同士が談ずるだけの場にすぎぬ。\nこれからのことのようにな。"
                         },
                         {
                             "code": 221,
@@ -6060,15 +6038,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]交流：蛇心偽る布黒し\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Exchange: Deceitful Serpent, Veiled in\nBlack\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：蛇心偽る布黒し\\C[0]が更新されました。"
                         },
                         {
                             "code": 281,
@@ -6196,35 +6176,34 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戻るのか？"
-                            ]
+                                "What's wrong? Are you leaving?"
+                            ],
+                            "_original": "どうした？\n戻るのか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "戻らない"
+                                    "Return",
+                                    "Don't return"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "戻る",
+                                "戻らない"
                             ]
                         },
                         {
@@ -6250,15 +6229,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いいだろう。"
-                            ]
+                                "Very well."
+                            ],
+                            "_original": "いいだろう。"
                         },
                         {
                             "code": 250,
@@ -6318,15 +6299,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "次の機を待つ。"
-                            ]
+                                "Wait for the next opportunity."
+                            ],
+                            "_original": "次の機を待つ。"
                         },
                         {
                             "code": 0,
@@ -6349,8 +6332,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -7096,22 +7080,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よくぞ来てくれた、夜刀殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石は我らが伝達者──"
-                            ]
+                                "I'm glad you came, Yatō-dono. As expected of our\nmessenger―"
+                            ],
+                            "_original": "よくぞ来てくれた、夜刀殿。\n流石は我らが伝達者──"
                         },
                         {
                             "code": 205,
@@ -7175,22 +7154,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "真に重要な依頼は見逃さない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信じていたとも。"
-                            ]
+                                "You never miss a truly important request. I had\nfaith in you."
+                            ],
+                            "_original": "真に重要な依頼は見逃さない。\n信じていたとも。"
                         },
                         {
                             "code": 101,
@@ -7200,15 +7174,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "用件を話せ。"
-                            ]
+                                "Get to the point."
+                            ],
+                            "_original": "用件を話せ。"
                         },
                         {
                             "code": 101,
@@ -7218,22 +7194,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやおや、未だに世間話もできないようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "憐れなことだよ。"
-                            ]
+                                "Oh dear, still can't even make small talk. How\npitiful."
+                            ],
+                            "_original": "おやおや、未だに世間話もできないようだ。\n憐れなことだよ。"
                         },
                         {
                             "code": 204,
@@ -7328,15 +7299,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\N[10]、下がれ！"
-                            ]
+                                "……\\N[10], step back!"
+                            ],
+                            "_original": "……\\N[10]、下がれ！"
                         },
                         {
                             "code": 250,
@@ -7613,15 +7586,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何のつもりだ……"
-                            ]
+                                "What are you planning……"
+                            ],
+                            "_original": "何のつもりだ……"
                         },
                         {
                             "code": 101,
@@ -7631,22 +7606,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう殺気立つんじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "腑抜けていないか試しただけじゃないか。"
-                            ]
+                                "Now, now, no need to be so hostile. I was just\ntesting if you still had some spirit left."
+                            ],
+                            "_original": "そう殺気立つんじゃない。\n腑抜けていないか試しただけじゃないか。"
                         },
                         {
                             "code": 101,
@@ -7656,22 +7626,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何やら友達が増えたようだからねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、彼もまた君を使うだけの主なのか？"
-                            ]
+                                "Seems you've made a new friend. Or is he just\nanother master using you as a tool?"
+                            ],
+                            "_original": "何やら友達が増えたようだからねえ。\nいや、彼もまた君を使うだけの主なのか？"
                         },
                         {
                             "code": 250,
@@ -7804,15 +7769,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "くっ──"
-                            ]
+                                "Tch──"
+                            ],
+                            "_original": "くっ──"
                         },
                         {
                             "code": 205,
@@ -8066,22 +8033,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──本気か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば消すもやむなし。"
-                            ]
+                                "──You're serious, then. If so, I'll have\nto eliminate you."
+                            ],
+                            "_original": "──本気か。\nならば消すもやむなし。"
                         },
                         {
                             "code": 101,
@@ -8091,22 +8053,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "待て待て、話を聞いていないのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは確認だ。"
-                            ]
+                                "Wait, wait―weren't you listening? This was just\na test."
+                            ],
+                            "_original": "待て待て、話を聞いていないのか？\nこれは確認だ。"
                         },
                         {
                             "code": 101,
@@ -8116,15 +8073,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痴れ言を。"
-                            ]
+                                "Nonsense."
+                            ],
+                            "_original": "痴れ言を。"
                         },
                         {
                             "code": 101,
@@ -8134,15 +8093,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仲間を殺せば大天狗も黙っちゃいない。"
-                            ]
+                                "If you kill your ally, even the Great Tengu\nwon't stay silent."
+                            ],
+                            "_original": "仲間を殺せば大天狗も黙っちゃいない。"
                         },
                         {
                             "code": 101,
@@ -8152,15 +8113,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目的は\\N[10]か？"
-                            ]
+                                "Is \\N[10] your target?"
+                            ],
+                            "_original": "目的は\\N[10]か？"
                         },
                         {
                             "code": 101,
@@ -8170,22 +8133,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落ち着け。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう分かった。"
-                            ]
+                                "Calm down. I've already figured it out."
+                            ],
+                            "_original": "落ち着け。\nもう分かった。"
                         },
                         {
                             "code": 101,
@@ -8195,22 +8153,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やはり、あんたには私の助けが必要だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確信したよ。"
-                            ]
+                                "Indeed, you do need my help. I'm certain of it\nnow."
+                            ],
+                            "_original": "やはり、あんたには私の助けが必要だ。\n確信したよ。"
                         },
                         {
                             "code": 101,
@@ -8220,22 +8173,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前より厄介者ではあったが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いよいよ狂ったとしか思えぬ。"
-                            ]
+                                "You were always a nuisance, but… now\nyou've truly lost your mind."
+                            ],
+                            "_original": "以前より厄介者ではあったが……\nいよいよ狂ったとしか思えぬ。"
                         },
                         {
                             "code": 242,
@@ -8252,22 +8200,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "狂うのは私じゃあない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弄月妖術──"
-                            ]
+                                "The one who's lost their mind isn't me. Rogetsu\nsorcery―"
+                            ],
+                            "_original": "狂うのは私じゃあない。\n弄月妖術──"
                         },
                         {
                             "code": 213,
@@ -8293,15 +8236,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しまっ──"
-                            ]
+                                "Shit──"
+                            ],
+                            "_original": "しまっ──"
                         },
                         {
                             "code": 250,
@@ -8495,35 +8440,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『任務：混乱解除』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene \"Mission: Resolve the Chaos\"?\n\\C[17]*Any choice will be added to the recollections.*\\C[0]"
+                            ],
+                            "_original": "シーン『任務：混乱解除』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -8598,15 +8542,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【交流追加】\\C[0]"
-                            ]
+                                "\\C[16]【Add Interaction】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【交流追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "杖への\\C[27]ろくでもない贈り物\\C[0]が解放されました。"
-                            ]
+                                "A \\C[27]worthless gift for Staff\\C[0] has been unlocked."
+                            ],
+                            "_original": "杖への\\C[27]ろくでもない贈り物\\C[0]が解放されました。"
                         },
                         {
                             "code": 250,
@@ -8635,15 +8581,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：蛇心偽る布黒し\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Interaction: Deceitful Heart, Black\nCloth\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：蛇心偽る布黒し\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -9168,22 +9116,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いるのは分かっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "姿を現せ、弄月。"
-                            ]
+                                "…I know you're there. Show yourself,\nRogetsu."
+                            ],
+                            "_original": "……いるのは分かっている。\n姿を現せ、弄月。"
                         },
                         {
                             "code": 101,
@@ -9193,15 +9136,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやおや。"
-                            ]
+                                "Oh my, oh my."
+                            ],
+                            "_original": "おやおや。"
                         },
                         {
                             "code": 250,
@@ -9427,22 +9372,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ私を頼るのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜刀殿。"
-                            ]
+                                "Still relying on me, Staff-sama?"
+                            ],
+                            "_original": "まだ私を頼るのか？\n夜刀殿。"
                         },
                         {
                             "code": 205,
@@ -9511,15 +9451,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前を頼ったことなど一度もない。"
-                            ]
+                                "I've never relied on you."
+                            ],
+                            "_original": "お前を頼ったことなど一度もない。"
                         },
                         {
                             "code": 101,
@@ -9529,22 +9471,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嘯くじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰のおかげでそうなったと──"
-                            ]
+                                "Don't laugh. You know full well whose help got\nyou this far―"
+                            ],
+                            "_original": "嘯くじゃないか。\n誰のおかげでそうなったと──"
                         },
                         {
                             "code": 101,
@@ -9554,22 +9491,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勘違いしているようだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前も……そして、\\N[10]も。"
-                            ]
+                                "You're mistaken. You… and \\N[10] both are."
+                            ],
+                            "_original": "勘違いしているようだな。\nお前も……そして、\\N[10]も。"
                         },
                         {
                             "code": 205,
@@ -9626,15 +9558,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まずは説明してもらう。"
-                            ]
+                                "First, explain yourself."
+                            ],
+                            "_original": "まずは説明してもらう。"
                         },
                         {
                             "code": 101,
@@ -9644,15 +9578,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の目的を\\N[10]に、か。"
-                            ]
+                                "You want me to tell \\N[10] my purpose?"
+                            ],
+                            "_original": "私の目的を\\N[10]に、か。"
                         },
                         {
                             "code": 205,
@@ -9707,22 +9643,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は夜刀殿の助けになりたかっただけさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "企みなど何もない。"
-                            ]
+                                "I only wanted to help you, Staff-sama. I had no\nulterior motives."
+                            ],
+                            "_original": "私は夜刀殿の助けになりたかっただけさ。\n企みなど何もない。"
                         },
                         {
                             "code": 205,
@@ -9763,15 +9694,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでは伝わらぬ。"
-                            ]
+                                "That won't suffice."
+                            ],
+                            "_original": "それでは伝わらぬ。"
                         },
                         {
                             "code": 101,
@@ -9781,22 +9714,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すべて話せと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く、無粋な……"
-                            ]
+                                "You want the whole truth? Tsk, how unrefined…"
+                            ],
+                            "_original": "すべて話せと？\n全く、無粋な……"
                         },
                         {
                             "code": 213,
@@ -9827,22 +9755,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気づいていると思うが、夜刀殿はただの「杖」だ。"
-                            ]
+                                "\\N[10]. You've probably noticed―Staff is just a\n'Staff.'"
+                            ],
+                            "_original": "\\N[10]。\n気づいていると思うが、夜刀殿はただの「杖」だ。"
                         },
                         {
                             "code": 101,
@@ -9852,22 +9775,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道具としてしか生きられない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっとそう扱われ、染みついてしまっている。"
-                            ]
+                                "She can only live as a tool. She's been treated\nthat way for so long, it's all she knows."
+                            ],
+                            "_original": "道具としてしか生きられない。\nずっとそう扱われ、染みついてしまっている。"
                         },
                         {
                             "code": 101,
@@ -9877,8 +9795,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -9895,29 +9814,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "憐れだろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は心の底から思った──これは侮蔑じゃあない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に、同輩を助けたかったのさ。"
-                            ]
+                                "Pathetic, isn't it? I truly believed―this isn't\nmockery. I genuinely wanted to help a comrade."
+                            ],
+                            "_original": "憐れだろう？\n私は心の底から思った──これは侮蔑じゃあない。\n本当に、同輩を助けたかったのさ。"
                         },
                         {
                             "code": 101,
@@ -9927,29 +9834,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だから、あんたを利用した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "道具の分際で愛着を持ちつつあったようだからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "杖は、\\N[10]に。"
-                            ]
+                                "So I used you. She'd grown attached, despite\nbeing nothing but a tool. The Staff… to \\N[10]."
+                            ],
+                            "_original": "だから、あんたを利用した。\n道具の分際で愛着を持ちつつあったようだからね。\n杖は、\\N[10]に。"
                         },
                         {
                             "code": 101,
@@ -9959,29 +9854,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "要するに背中を押したんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命令されて動くだけではなく、自分から求めるように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "効果は覿面だったろう？"
-                            ]
+                                "In short, I gave her a push. To act not just on\norders, but to seek you out herself. The results\nwere obvious, weren't they?"
+                            ],
+                            "_original": "要するに背中を押したんだ。\n命令されて動くだけではなく、自分から求めるように。\n効果は覿面だったろう？"
                         },
                         {
                             "code": 101,
@@ -9998,15 +9881,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これまでのことを思い返す……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奇妙な術と、落命ヶ浜でのこと。"
-                            ]
+                                "She reflects on everything that's happened… the\nstrange techniques, the events at Deathfall\nBeach."
+                            ],
+                            "_original": "これまでのことを思い返す……\n奇妙な術と、落命ヶ浜でのこと。"
                         },
                         {
                             "code": 101,
@@ -10023,15 +9900,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どちらも弄月の策だったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "杖は彼女の思い通りに行動した。"
-                            ]
+                                "Were both of those Rogetsu's schemes? The Staff\nhad acted exactly as she wanted."
+                            ],
+                            "_original": "どちらも弄月の策だったのか。\n杖は彼女の思い通りに行動した。"
                         },
                         {
                             "code": 101,
@@ -10048,15 +9919,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、それは……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弄月の「杖」になったようなものだ。"
-                            ]
+                                "But that meant… she'd become Rogetsu's 'Staff.'"
+                            ],
+                            "_original": "しかし、それは……\n弄月の「杖」になったようなものだ。"
                         },
                         {
                             "code": 242,
@@ -10082,15 +9947,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愚か。"
-                            ]
+                                "Foolish."
+                            ],
+                            "_original": "愚か。"
                         },
                         {
                             "code": 101,
@@ -10100,22 +9967,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな言い方はあんまりじゃないか、夜刀殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はあんたを応援しているというのに。"
-                            ]
+                                "That's no way to talk, Staff-sama. I was rooting\nfor you."
+                            ],
+                            "_original": "そんな言い方はあんまりじゃないか、夜刀殿。\n私はあんたを応援しているというのに。"
                         },
                         {
                             "code": 101,
@@ -10125,22 +9987,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今一度言う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は勘違いしている。"
-                            ]
+                                "Let me say it again. You're mistaken."
+                            ],
+                            "_original": "今一度言う。\nお前は勘違いしている。"
                         },
                         {
                             "code": 101,
@@ -10150,22 +10007,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鎖影衆の忍びだというのに、何も知らぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ……私の方が格上ということか。"
-                            ]
+                                "A Chain Shadow Clan ninja, yet you know\nnothing. Well… I suppose that makes me\nyour superior."
+                            ],
+                            "_original": "鎖影衆の忍びだというのに、何も知らぬ。\nまあ……私の方が格上ということか。"
                         },
                         {
                             "code": 101,
@@ -10175,15 +10027,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだって？"
-                            ]
+                                "What did you say?"
+                            ],
+                            "_original": "なんだって？"
                         },
                         {
                             "code": 101,
@@ -10193,22 +10047,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はそもそも「杖」ではない──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "否、そうであった時期があるのは認める。"
-                            ]
+                                "[Origin]\nI was never just a 'Staff'―well, I'll\nadmit there was a time when I was."
+                            ],
+                            "_original": "私はそもそも「杖」ではない──\n否、そうであった時期があるのは認める。"
                         },
                         {
                             "code": 101,
@@ -10218,22 +10067,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、とうに違う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私には、私を認めてくれた家族がいる。"
-                            ]
+                                "But that's long past. I have a family\nnow who acknowledges me."
+                            ],
+                            "_original": "だが、とうに違う。\n私には、私を認めてくれた家族がいる。"
                         },
                         {
                             "code": 101,
@@ -10243,22 +10087,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして──\\N[10]への思いも己のものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の企みなど無関係。"
-                            ]
+                                "And… my feelings for \\N[10] are my own. Your\nschemes mean nothing."
+                            ],
+                            "_original": "そして──\\N[10]への思いも己のものだ。\nお前の企みなど無関係。"
                         },
                         {
                             "code": 205,
@@ -10321,22 +10160,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたに……家族？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなもの……"
-                            ]
+                                "You… have a family? Such a thing…"
+                            ],
+                            "_original": "あんたに……家族？\nそんなもの……"
                         },
                         {
                             "code": 101,
@@ -10353,15 +10187,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かーっかっかっか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "儂らを呼んだか！？"
-                            ]
+                                "Kaahahahaha! Did someone call for the Elders!?"
+                            ],
+                            "_original": "かーっかっかっか！\n儂らを呼んだか！？"
                         },
                         {
                             "code": 205,
@@ -10530,22 +10358,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "呼ばれれば現れねばな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "期待に応えてこその儂らじゃ！"
-                            ]
+                                "If you call, we must appear! It's only\nright to meet expectations!"
+                            ],
+                            "_original": "呼ばれれば現れねばな！\n期待に応えてこその儂らじゃ！"
                         },
                         {
                             "code": 205,
@@ -10594,15 +10417,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽんぽこお供"
-                            ]
+                                "Ponpoko Attendant"
+                            ],
+                            "_original": "ぽんぽこお供"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぽん～！"
-                            ]
+                                "Poof~!"
+                            ],
+                            "_original": "ぽん～！"
                         },
                         {
                             "code": 101,
@@ -10612,22 +10437,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばっちゃん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり潜んでいたか。"
-                            ]
+                                "Grandma... So you were hiding after all."
+                            ],
+                            "_original": "ばっちゃん……\nやはり潜んでいたか。"
                         },
                         {
                             "code": 101,
@@ -10637,15 +10457,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんたは、妖狸隠神……"
-                            ]
+                                "You're... the Mystic Tanuki of the Hidden\nGods..."
+                            ],
+                            "_original": "あんたは、妖狸隠神……"
                         },
                         {
                             "code": 205,
@@ -10717,15 +10539,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子と呼ぶがよいぞ、弄月ちゃんよ。"
-                            ]
+                                "Call me Sonoko, Rogetsu-chan."
+                            ],
+                            "_original": "存子と呼ぶがよいぞ、弄月ちゃんよ。"
                         },
                         {
                             "code": 205,
@@ -10780,29 +10604,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "困るな、存子殿……この月見屋敷、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "忍びとその客以外の訪問はご法度だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜刀殿に呼ばれたわけではないんだろう？"
-                            ]
+                                "This is a problem, Sonoko-dono... This\nMoon-viewing Mansion forbids visitors other than\nshinobi and their clients. You weren't called by\nStaff-dono, were you?"
+                            ],
+                            "_original": "困るな、存子殿……この月見屋敷、\n忍びとその客以外の訪問はご法度だよ。\n夜刀殿に呼ばれたわけではないんだろう？"
                         },
                         {
                             "code": 101,
@@ -10812,22 +10624,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂は杖ちゃんの家族じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客どころの話ではないぞ！"
-                            ]
+                                "I'm Staff-chan's family. This ain't\nabout being a client!"
+                            ],
+                            "_original": "儂は杖ちゃんの家族じゃ。\n客どころの話ではないぞ！"
                         },
                         {
                             "code": 205,
@@ -10876,15 +10683,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽんぽこお供"
-                            ]
+                                "Ponpoko Attendant"
+                            ],
+                            "_original": "ぽんぽこお供"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "杖ちゃん～！"
-                            ]
+                                "Staff-chan~!"
+                            ],
+                            "_original": "杖ちゃん～！"
                         },
                         {
                             "code": 101,
@@ -10894,22 +10703,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よもや、私と隠神存子の関係を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らぬわけはあるまい。"
-                            ]
+                                "Surely you must know about my\nrelationship with the Hidden God Sonoko."
+                            ],
+                            "_original": "よもや、私と隠神存子の関係を\n知らぬわけはあるまい。"
                         },
                         {
                             "code": 205,
@@ -10950,22 +10754,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜行岩屋で拾われた──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてしばらく共に過ごした。"
-                            ]
+                                "You were picked up at Night Walking Cave―then\nspent some time together."
+                            ],
+                            "_original": "夜行岩屋で拾われた──\nそしてしばらく共に過ごした。"
                         },
                         {
                             "code": 101,
@@ -10975,22 +10774,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その間、あんたの人格に変化などなかったはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は知っているぞ。"
-                            ]
+                                "During that time, there was no change in your\npersonality. I know that for a fact."
+                            ],
+                            "_original": "その間、あんたの人格に変化などなかったはずだ。\n私は知っているぞ。"
                         },
                         {
                             "code": 101,
@@ -11000,15 +10794,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "杖ちゃんは元から無口なだけじゃよ、弄月ちゃん。"
-                            ]
+                                "Staff-chan was just quiet from the\nstart, Rogetsu-chan."
+                            ],
+                            "_original": "杖ちゃんは元から無口なだけじゃよ、弄月ちゃん。"
                         },
                         {
                             "code": 205,
@@ -11049,15 +10845,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何？"
-                            ]
+                                "What?"
+                            ],
+                            "_original": "何？"
                         },
                         {
                             "code": 101,
@@ -11067,22 +10865,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ見ておるだけでは分からんじゃろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし共に過ごせばすぐに分かる。"
-                            ]
+                                "Just watching won't tell ya. But spend\ntime with her, and you'll see right\nquick."
+                            ],
+                            "_original": "ただ見ておるだけでは分からんじゃろう。\nしかし共に過ごせばすぐに分かる。"
                         },
                         {
                             "code": 205,
@@ -11131,22 +10924,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうじゃろ、\\N[10]！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "杖ちゃんは意外と感情豊かじゃ！"
-                            ]
+                                "Ain't that right, \\N[10]? Staff-chan's\nactually quite emotional!"
+                            ],
+                            "_original": "そうじゃろ、\\N[10]！\n杖ちゃんは意外と感情豊かじゃ！"
                         },
                         {
                             "code": 101,
@@ -11163,15 +10951,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子の言葉に同意した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分も勘違いしていた──"
-                            ]
+                                "I agreed with Sonoko's words. I'd been mistaken\ntoo―"
+                            ],
+                            "_original": "存子の言葉に同意した。\n自分も勘違いしていた──"
                         },
                         {
                             "code": 101,
@@ -11188,15 +10970,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "杖は意思なき道具などではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何を考えているのか読み取るのが難しいだけの女性だ。"
-                            ]
+                                "Staff wasn't some mindless tool. She was a woman\nwhose thoughts were simply hard to read."
+                            ],
+                            "_original": "杖は意思なき道具などではない。\n何を考えているのか読み取るのが難しいだけの女性だ。"
                         },
                         {
                             "code": 242,
@@ -11213,22 +10989,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、では……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が勘違いしていただけだというのか？"
-                            ]
+                                "Th-then... are you saying I was the only one who\nmisunderstood?"
+                            ],
+                            "_original": "で、では……\n私が勘違いしていただけだというのか？"
                         },
                         {
                             "code": 101,
@@ -11238,15 +11009,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだと言っている。"
-                            ]
+                                "That's what I'm saying."
+                            ],
+                            "_original": "そうだと言っている。"
                         },
                         {
                             "code": 205,
@@ -11287,15 +11060,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、私は……"
-                            ]
+                                "I... I was..."
+                            ],
+                            "_original": "わ、私は……"
                         },
                         {
                             "code": 213,
@@ -11326,22 +11101,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……私は本当に心配していたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それならそうだとなぜ言ってくれない……"
-                            ]
+                                "...I was genuinely worried. If that's the case,\nwhy didn't you just say so..."
+                            ],
+                            "_original": "……私は本当に心配していたんだ。\nそれならそうだとなぜ言ってくれない……"
                         },
                         {
                             "code": 101,
@@ -11351,22 +11121,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やり方が回りくどすぎる──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通に聞かれれば答えている。"
-                            ]
+                                "Your approach was too roundabout. If\nyou'd just asked normally, I would've\nanswered."
+                            ],
+                            "_original": "やり方が回りくどすぎる──\n普通に聞かれれば答えている。"
                         },
                         {
                             "code": 101,
@@ -11376,15 +11141,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんということだ……"
-                            ]
+                                "What a mess..."
+                            ],
+                            "_original": "なんということだ……"
                         },
                         {
                             "code": 101,
@@ -11394,22 +11161,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かっかっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優しい友達じゃのう、杖ちゃん。"
-                            ]
+                                "Kahahaha! You've got a kind friend\nthere, Staff-chan."
+                            ],
+                            "_original": "かっかっか。\n優しい友達じゃのう、杖ちゃん。"
                         },
                         {
                             "code": 101,
@@ -11419,22 +11181,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "優しいか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面倒なだけだ。"
-                            ]
+                                "Kind? She's just a nuisance."
+                            ],
+                            "_original": "優しいか？\n面倒なだけだ。"
                         },
                         {
                             "code": 101,
@@ -11444,22 +11201,17 @@
                                 0,
                                 0,
                                 2,
-                                "弄月"
-                            ]
+                                "Rogetsu"
+                            ],
+                            "_original": "弄月"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜刀殿……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はあんたのことが結構好きなんだぞ……"
-                            ]
+                                "Staff-dono... I actually like you quite a bit..."
+                            ],
+                            "_original": "夜刀殿……\n私はあんたのことが結構好きなんだぞ……"
                         },
                         {
                             "code": 101,
@@ -11469,22 +11221,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそうでもない。"
-                            ]
+                                "Is that so. I don't feel the same."
+                            ],
+                            "_original": "そうか。\n私はそうでもない。"
                         },
                         {
                             "code": 101,
@@ -11494,15 +11241,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ、仲良くせんか！"
-                            ]
+                                "C'mon, get along!"
+                            ],
+                            "_original": "これ、仲良くせんか！"
                         },
                         {
                             "code": 205,
@@ -11723,15 +11472,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]交流：蛇心偽る布黒し\\C[0]が更新されました。"
-                            ]
+                                "Event \\C[17]Bond: A Snake's Heart, a False Black Cloth\\C[0]\nhas been updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：蛇心偽る布黒し\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,

@@ -2570,9 +2570,6 @@ Game_Party.prototype.gainSp = function(sp) {
 
 Game_Actor.prototype.gainSp = function(sp) {
     $skillTreeData.gainSp(this.actorId(), sp);
-    if ($skillTreeData.sp(this.actorId()) > MaxSp) {
-        $skillTreeData.setSp(this.actorId(), MaxSp);
-    }
 };
 
 

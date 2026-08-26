@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "真白神社",
+    "displayName": "Mashiro Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3615,22 +3615,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本殿西のこの空間は清殿と呼ばれます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは──"
-                            ]
+                                "This space west of the main hall is\ncalled the Purification Hall. Here──"
+                            ],
+                            "_original": "本殿西のこの空間は清殿と呼ばれます。\nここでは──"
                         },
                         {
                             "code": 205,
@@ -3671,22 +3666,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──こほん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、神もマナが必要だということです。"
-                            ]
+                                "──Ahem. Well, I suppose even gods need\nmana."
+                            ],
+                            "_original": "──こほん。\nまあ、神もマナが必要だということです。"
                         },
                         {
                             "code": 101,
@@ -3696,29 +3686,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちなみに清殿地下には身体を清める場所、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すなわちお風呂があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自由に利用していただいて構いません。"
-                            ]
+                                "By the way, beneath the Purification\nHall there is a place to cleanse the\nbody, in other words, a bath. Feel free\nto use it."
+                            ],
+                            "_original": "ちなみに清殿地下には身体を清める場所、\nすなわちお風呂があります。\n自由に利用していただいて構いません。"
                         },
                         {
                             "code": 221,
@@ -3879,15 +3857,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鏡がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分が映っている。"
-                            ]
+                                "This is a mirror. I am reflected."
+                            ],
+                            "_original": "鏡がある。\n自分が映っている。"
                         },
                         {
                             "code": 0,
@@ -3974,8 +3946,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座布団が積まれている。"
-                            ]
+                                "Cushions are piled up."
+                            ],
+                            "_original": "座布団が積まれている。"
                         },
                         {
                             "code": 0,
@@ -4094,29 +4067,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[10]様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ナズナ様は、あなた様に大変な好意を抱いている様子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ですので──この清殿について、もう少し詳しくお話します。"
-                            ]
+                                "\\N[10]-sama. Nazuna-sama seems to hold great affection\nfor you. Therefore―I will tell you a bit more\nabout this Seiden."
+                            ],
+                            "_original": "\\N[10]様。\nナズナ様は、あなた様に大変な好意を抱いている様子。\nですので──この清殿について、もう少し詳しくお話します。"
                         },
                         {
                             "code": 101,
@@ -4126,29 +4087,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっきりと言ってしまうと、ここは同衾の場です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうしてマナのやり取りが行われる際に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "神にもまたマナが捧げられる。"
-                            ]
+                                "To put it bluntly, this is a place for sharing a\nbed. And when mana is exchanged in that manner,\nmana is also offered to the deity."
+                            ],
+                            "_original": "はっきりと言ってしまうと、ここは同衾の場です。\nそうしてマナのやり取りが行われる際に、\n神にもまたマナが捧げられる。"
                         },
                         {
                             "code": 231,
@@ -4174,22 +4123,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……神とはすなわちナズナ様のことですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今はその点についてはお気になさらず。"
-                            ]
+                                "...That deity is Nazuna-sama, but for now,\nplease don't concern yourself with that detail."
+                            ],
+                            "_original": "……神とはすなわちナズナ様のことですが、\n今はその点についてはお気になさらず。"
                         },
                         {
                             "code": 101,
@@ -4199,22 +4143,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ともあれ──おかしく感じてしまうかもしれませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これもまた神事。とても大切なことなのです。"
-                            ]
+                                "In any case―you may find it strange, but this\ntoo is a sacred ritual. It is a very important\nmatter."
+                            ],
+                            "_original": "ともあれ──おかしく感じてしまうかもしれませんが、\nこれもまた神事。とても大切なことなのです。"
                         },
                         {
                             "code": 101,
@@ -4224,22 +4163,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神社には長らく私一人しかいませんでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "当然、神へと送るマナもない。"
-                            ]
+                                "For a long time, I was the only one at the\nshrine. Naturally, there was no mana to send to\nthe deity."
+                            ],
+                            "_original": "神社には長らく私一人しかいませんでした。\n当然、神へと送るマナもない。"
                         },
                         {
                             "code": 101,
@@ -4249,22 +4183,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし今は──違うでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このような機会は、今やそうそうありません。"
-                            ]
+                                "But now―that's different, isn't it? Such\nopportunities are not so common anymore."
+                            ],
+                            "_original": "しかし今は──違うでしょう？\nこのような機会は、今やそうそうありません。"
                         },
                         {
                             "code": 101,
@@ -4274,42 +4203,34 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ですので、例えばの話ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ナズナ様とそういったことになった折には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この清殿の存在を思い出していただければ。"
-                            ]
+                                "So, for instance, if you happen to engage in\nthat sort of thing with Nazuna-sama, I would\nappreciate it if you remembered the existence of\nthis Seiden."
+                            ],
+                            "_original": "ですので、例えばの話ですが、\nナズナ様とそういったことになった折には、\nこの清殿の存在を思い出していただければ。"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "分かった",
-                                    "テンが清殿を使う気はないのか"
+                                    "Understood.",
+                                    "Does Ten not intend to use the Seiden?"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "分かった",
+                                "テンが清殿を使う気はないのか"
                             ]
                         },
                         {
@@ -4328,22 +4249,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "よろしくお願いいたします。"
-                            ]
+                                "Thank you. I look forward to your cooperation."
+                            ],
+                            "_original": "ありがとうございます。\nよろしくお願いいたします。"
                         },
                         {
                             "code": 0,
@@ -4382,22 +4298,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それは──つまり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私が、あなた様と？"
-                            ]
+                                "That is―in other words. Me, with you?"
+                            ],
+                            "_original": "それは──つまり。\n私が、あなた様と？"
                         },
                         {
                             "code": 231,
@@ -4423,29 +4334,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私如きでは釣り合いませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あなた様には。"
-                            ]
+                                "Heh. Someone like me is not worthy of you."
+                            ],
+                            "_original": "ふふ。\n私如きでは釣り合いませんよ。\nあなた様には。"
                         },
                         {
                             "code": 0,
@@ -4475,29 +4374,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[10]様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ハクトウ様は、あなた様に大変な好意を抱いている様子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ですので──この清殿について、もう少し詳しくお話します。"
-                            ]
+                                "\\N[10]-sama. Hakutou-sama seems to hold great affection\nfor you. Therefore―I will tell you a bit more\nabout this Seiden."
+                            ],
+                            "_original": "\\N[10]様。\nハクトウ様は、あなた様に大変な好意を抱いている様子。\nですので──この清殿について、もう少し詳しくお話します。"
                         },
                         {
                             "code": 101,
@@ -4507,29 +4394,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっきりと言ってしまうと、ここは同衾の場です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうしてマナのやり取りが行われる際に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "神にもまたマナが捧げられる。"
-                            ]
+                                "To put it plainly, this is the place for sharing a bed.\nAnd when the exchange of Mana takes place here,\nthe gods also receive their share."
+                            ],
+                            "_original": "はっきりと言ってしまうと、ここは同衾の場です。\nそうしてマナのやり取りが行われる際に、\n神にもまたマナが捧げられる。"
                         },
                         {
                             "code": 231,
@@ -4555,22 +4430,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おかしく感じてしまうかもしれませんが、これもまた神事。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とても大切なことなのです。"
-                            ]
+                                "You may find it strange, but this too is a\nsacred ritual. It is a very important matter."
+                            ],
+                            "_original": "おかしく感じてしまうかもしれませんが、これもまた神事。\nとても大切なことなのです。"
                         },
                         {
                             "code": 101,
@@ -4580,22 +4450,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神社には長らく私一人しかいませんでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "当然、神へと送るマナもない。"
-                            ]
+                                "For a long time, I was the only one at the\nshrine. Naturally, there was no mana to send to\nthe deity."
+                            ],
+                            "_original": "神社には長らく私一人しかいませんでした。\n当然、神へと送るマナもない。"
                         },
                         {
                             "code": 101,
@@ -4605,22 +4470,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし今は──違うでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このような機会は、今やそうそうありません。"
-                            ]
+                                "But now―that's different, isn't it? Such\nopportunities are not so common anymore."
+                            ],
+                            "_original": "しかし今は──違うでしょう？\nこのような機会は、今やそうそうありません。"
                         },
                         {
                             "code": 101,
@@ -4630,42 +4490,34 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ですので、例えばの話ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ハクトウ様とそういったことになった折には、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この清殿の存在を思い出していただければ。"
-                            ]
+                                "So, for instance, if you were to engage in intimacy with Hakutou-sama,\nI would appreciate if you recall the existence of this Seiden."
+                            ],
+                            "_original": "ですので、例えばの話ですが、\nハクトウ様とそういったことになった折には、\nこの清殿の存在を思い出していただければ。"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "分かった",
-                                    "テンが清殿を使う気はないのか"
+                                    "Understood.",
+                                    "Does Ten not intend to use Seiden?"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "分かった",
+                                "テンが清殿を使う気はないのか"
                             ]
                         },
                         {
@@ -4684,22 +4536,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "よろしくお願いいたします。"
-                            ]
+                                "Thank you. I look forward to your cooperation."
+                            ],
+                            "_original": "ありがとうございます。\nよろしくお願いいたします。"
                         },
                         {
                             "code": 0,
@@ -4738,22 +4585,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それは──つまり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私が、あなた様と？"
-                            ]
+                                "That is―in other words. Me, with you?"
+                            ],
+                            "_original": "それは──つまり。\n私が、あなた様と？"
                         },
                         {
                             "code": 231,
@@ -4779,29 +4621,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私如きでは釣り合いませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あなた様には。"
-                            ]
+                                "Heh. Someone like me is not worthy of you."
+                            ],
+                            "_original": "ふふ。\n私如きでは釣り合いませんよ。\nあなた様には。"
                         },
                         {
                             "code": 0,
@@ -4885,15 +4715,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]清殿神事\\C[0] 達成！"
-                            ]
+                                "\\C[17]Seiden Ritual\\C[0] Completed!"
+                            ],
+                            "_original": "\\C[17]清殿神事\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -4922,22 +4754,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【拠点強化】\\C[0]"
-                            ]
+                                "\\C[16]【Base Upgrade】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【拠点強化】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "清殿を利用できるようになりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多くのマナを捧げれば、ご利益があるかもしれません……"
-                            ]
+                                "You can now use the Seiden. If you offer a lot\nof mana, you may receive some blessings..."
+                            ],
+                            "_original": "清殿を利用できるようになりました。\n多くのマナを捧げれば、ご利益があるかもしれません……"
                         },
                         {
                             "code": 0,
@@ -5075,15 +4902,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……清殿は、少なくとも静かではある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桜悳の修行に相応しいかどうか聞いてみよう。"
-                            ]
+                                "...Seiden is, at least, quiet. Let's ask if it's\nsuitable for Outoku's training."
+                            ],
+                            "_original": "……清殿は、少なくとも静かではある。\n桜悳の修行に相応しいかどうか聞いてみよう。"
                         },
                         {
                             "code": 281,
@@ -5118,35 +4939,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『猫は動くものを追う』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene『Cats Chase Moving Things』?\n\\C[17]※Either choice will record the scene in the memories.\\C[0]"
+                            ],
+                            "_original": "シーン『猫は動くものを追う』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "Watch",
+                                    "Don't watch"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -5318,8 +5138,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして──"
-                            ]
+                                "And──"
+                            ],
+                            "_original": "そして──"
                         },
                         {
                             "code": 222,
@@ -5334,8 +5155,9 @@
                                 0,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Outoku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
@@ -5371,15 +5193,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とても気まずい空気が流れていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当たり前である。"
-                            ]
+                                "An extremely awkward atmosphere hung in the air.\nNaturally."
+                            ],
+                            "_original": "とても気まずい空気が流れていた。\n当たり前である。"
                         },
                         {
                             "code": 101,
@@ -5396,22 +5212,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桜悳はあのあとも微動だにしなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その間に自分は桜悳の顔を丁寧に拭き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綺麗な状態に戻すことに成功した。"
-                            ]
+                                "After that, Outoku didn't move a muscle. In\nthe meantime, I carefully wiped her face and\nsucceeded in restoring it to a clean state."
+                            ],
+                            "_original": "桜悳はあのあとも微動だにしなかった。\nその間に自分は桜悳の顔を丁寧に拭き、\n綺麗な状態に戻すことに成功した。"
                         },
                         {
                             "code": 101,
@@ -5428,15 +5231,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……したが、それでなかったことにはならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただただ謝罪するほかない。"
-                            ]
+                                "……But that doesn't mean it didn't happen. I have\nno choice but to apologize."
+                            ],
+                            "_original": "……したが、それでなかったことにはならない。\nただただ謝罪するほかない。"
                         },
                         {
                             "code": 101,
@@ -5446,22 +5243,17 @@
                                 0,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Outoku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "構いませぬ。"
-                            ]
+                                "It's fine. I don't mind."
+                            ],
+                            "_original": "いいのです。\n構いませぬ。"
                         },
                         {
                             "code": 101,
@@ -5471,22 +5263,17 @@
                                 0,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Outoku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すべては拙僧の未熟さが招いたこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ、精進が必要だと教えてもらいました。"
-                            ]
+                                "All of this was caused by my own immaturity.\nRather, I have learned that I need to train\nharder."
+                            ],
+                            "_original": "すべては拙僧の未熟さが招いたこと。\nむしろ、精進が必要だと教えてもらいました。"
                         },
                         {
                             "code": 101,
@@ -5496,22 +5283,17 @@
                                 0,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Outoku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "斯様なざまで人を指導しようなど笑止千万。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出直してまいります。"
-                            ]
+                                "To try to guide others in such a state is\nutterly laughable. I will take my leave and come\nback anew."
+                            ],
+                            "_original": "斯様なざまで人を指導しようなど笑止千万。\n出直してまいります。"
                         },
                         {
                             "code": 221,
@@ -5606,15 +5388,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言い残し、桜悳は去った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この後、二人の間にしこりが残ることはなかった。"
-                            ]
+                                "Leaving those words, Outoku departed. After\nthis, no hard feelings remained between the two."
+                            ],
+                            "_original": "そう言い残し、桜悳は去った。\nこの後、二人の間にしこりが残ることはなかった。"
                         },
                         {
                             "code": 101,
@@ -5631,15 +5407,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、いずれ正式な謝罪が必要だろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを切り出せるいい機会を待とう……"
-                            ]
+                                "However, an official apology will likely be\nnecessary at some point. Let's wait for a good\nopportunity to bring it up……"
+                            ],
+                            "_original": "しかし、いずれ正式な謝罪が必要だろう。\nそれを切り出せるいい機会を待とう……"
                         },
                         {
                             "code": 242,
@@ -5738,15 +5508,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]交流：欲もまた然り\\C[0]が更新されました。"
-                            ]
+                                "The event's \\C[17]Exchange: Desires Also Follow Suit\\C[0] has\nbeen updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：欲もまた然り\\C[0]が更新されました。"
                         },
                         {
                             "code": 0,
@@ -5874,20 +5646,24 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは清殿だ……"
-                            ]
+                                "This is Seiden……"
+                            ],
+                            "_original": "ここは清殿だ……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "横になる"
+                                    "Lie down"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "横になる"
                             ]
                         },
                         {
@@ -6078,35 +5854,34 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "シーン『これは神事』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Would you like to view the scene \"This is a\nsacred rite\"? \\C[17]Either choice will be recorded in\nthe recollection.\\C[0]"
+                            ],
+                            "_original": "シーン『これは神事』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -6390,35 +6165,34 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "シーン『特有のアレ』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Would you like to view the scene \"That Unique\nThing\"? \\C[17]Either choice will be recorded in the\nrecollection.\\C[0]"
+                            ],
+                            "_original": "シーン『特有のアレ』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -6713,35 +6487,34 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "シーン『桜悳に殺される』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Would you like to view the scene \"Killed by\nOutoku\"? \\C[17]Either choice will be recorded in\nthe recollection.\\C[0]"
+                            ],
+                            "_original": "シーン『桜悳に殺される』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -7016,35 +6789,34 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "シーン『初回無料サービス』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Would you like to view the scene \"First Free\nService\"? \\C[17]Either choice will be recorded in the\nrecollection.\\C[0]"
+                            ],
+                            "_original": "シーン『初回無料サービス』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Do Not View"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -7320,35 +7092,34 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "シーン『忍びが見せたいもの』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Would you like to view the scene \"What the Ninja\nWants to Show\"? \\C[17]Either choice will be recorded\nin the recollection.\\C[0]"
+                            ],
+                            "_original": "シーン『忍びが見せたいもの』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 5,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -7621,35 +7392,34 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "シーン『妖狸隠神一本釣り』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Would you like to view the scene \"Mystic Tanuki\nHidden God One-Shot Catch\"? \\C[17]Either choice will\nbe recorded in the recollection.\\C[0]"
+                            ],
+                            "_original": "シーン『妖狸隠神一本釣り』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -7870,35 +7640,34 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "シーン『最高のものにする』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Would you like to view the scene \"Make It the\nBest\"? \\C[17]Either choice will be recorded in the\nrecollection.\\C[0]"
+                            ],
+                            "_original": "シーン『最高のものにする』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -8380,8 +8149,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "……何も起こらなかった。"
-                            ]
+                                "……Nothing happened."
+                            ],
+                            "_original": "……何も起こらなかった。"
                         },
                         {
                             "code": 0,
@@ -8408,12 +8178,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "仲間の下着を取り出すif(s[430])"
+                                    "Take out a companion's underwear.if(s[430])"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "仲間の下着を取り出すif(s[430])"
                             ]
                         },
                         {
@@ -8446,12 +8219,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ち去る"
+                                    "Leave"
                                 ],
                                 0,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "立ち去る"
                             ]
                         },
                         {
@@ -8582,35 +8358,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『その一面（完全版）』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Do you want to view the scene \"That One Side\n(Complete Version)\"? \\C[17] *Regardless of which\noption you choose, it will be recorded in the\nrecollections.\\C[0]"
+                            ],
+                            "_original": "シーン『その一面（完全版）』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Do not view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {

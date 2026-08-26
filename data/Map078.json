@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "カンムイ小径",
+    "displayName": "Kanmui Trail",
     "encounterList": [],
     "encounterStep": 30,
     "height": 47,
@@ -7838,28 +7838,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この井戸は下りられそうだ。"
-                            ]
+                                "This well looks like we can go down it."
+                            ],
+                            "_original": "この井戸は下りられそうだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "下りる",
-                                    "下りない"
+                                    "Go down",
+                                    "Don't go down"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "下りる",
+                                "下りない"
                             ]
                         },
                         {
@@ -7992,22 +7998,17 @@
                                 0,
                                 0,
                                 2,
-                                "沢田"
-                            ]
+                                "Sawada"
+                            ],
+                            "_original": "沢田"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このカンムイ小径に危険な怪異はいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち柴組が頑張っているからだ！"
-                            ]
+                                "There are no dangerous anomalies on this Divine\nPath. That's because we, the Shiba-gumi, are\nworking hard!"
+                            ],
+                            "_original": "このカンムイ小径に危険な怪異はいない。\n私たち柴組が頑張っているからだ！"
                         },
                         {
                             "code": 101,
@@ -8017,22 +8018,17 @@
                                 0,
                                 0,
                                 2,
-                                "沢田"
-                            ]
+                                "Sawada"
+                            ],
+                            "_original": "沢田"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何せ人通りの多い道だからな、安全でなければ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君たちも安心して歩くといい。"
-                            ]
+                                "After all, this is a path with heavy foot\ntraffic, so it must be safe. You all should feel\nfree to walk here."
+                            ],
+                            "_original": "何せ人通りの多い道だからな、安全でなければ。\n君たちも安心して歩くといい。"
                         },
                         {
                             "code": 123,
@@ -8101,22 +8097,17 @@
                                 0,
                                 0,
                                 2,
-                                "沢田"
-                            ]
+                                "Sawada"
+                            ],
+                            "_original": "沢田"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの橋を渡った先にある井戸には近づかない方がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙な噂が絶えない曰く付きでね……"
-                            ]
+                                "You'd better not go near the well past that\nbridge. It's got a bad reputation, with strange\nrumors never ceasing..."
+                            ],
+                            "_original": "そこの橋を渡った先にある井戸には近づかない方がいい。\n妙な噂が絶えない曰く付きでね……"
                         },
                         {
                             "code": 0,
@@ -8186,15 +8177,17 @@
                                 0,
                                 0,
                                 2,
-                                "松崎"
-                            ]
+                                "Matsuzaki"
+                            ],
+                            "_original": "松崎"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お寿司食べたい、食べたいお寿司……"
-                            ]
+                                "I want to eat sushi, I want to eat sushi..."
+                            ],
+                            "_original": "お寿司食べたい、食べたいお寿司……"
                         },
                         {
                             "code": 101,
@@ -8204,22 +8197,17 @@
                                 0,
                                 0,
                                 2,
-                                "松崎"
-                            ]
+                                "Matsuzaki"
+                            ],
+                            "_original": "松崎"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……雫村のお寿司って有名でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから食べてみようと思ったらなんか値段が高くて……"
-                            ]
+                                "......Shizuku Village's sushi is famous, right?\nSo I thought I'd try it, but the prices were\nkind of high..."
+                            ],
+                            "_original": "……雫村のお寿司って有名でしょ？\nだから食べてみようと思ったらなんか値段が高くて……"
                         },
                         {
                             "code": 101,
@@ -8229,22 +8217,17 @@
                                 0,
                                 0,
                                 2,
-                                "松崎"
-                            ]
+                                "Matsuzaki"
+                            ],
+                            "_original": "松崎"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しょうがないから自分で魚を釣って握ってやろうかなと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単そうな料理だし、私でもできるに違いないわ。"
-                            ]
+                                "So I figured I'd just catch some fish myself and\npress it into nigiri. It seems like an easy\ndish, so even I should be able to do it."
+                            ],
+                            "_original": "しょうがないから自分で魚を釣って握ってやろうかなと。\n簡単そうな料理だし、私でもできるに違いないわ。"
                         },
                         {
                             "code": 123,
@@ -8313,22 +8296,17 @@
                                 0,
                                 0,
                                 2,
-                                "松崎"
-                            ]
+                                "Matsuzaki"
+                            ],
+                            "_original": "松崎"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お寿司食べたい、食べたいお寿司……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだ、私もお寿司屋さんになろう！"
-                            ]
+                                "I want to eat sushi, sushi I want to eat...\nThat's it, I'll become a sushi chef too!"
+                            ],
+                            "_original": "お寿司食べたい、食べたいお寿司……\nそうだ、私もお寿司屋さんになろう！"
                         },
                         {
                             "code": 0,
@@ -8398,22 +8376,17 @@
                                 0,
                                 0,
                                 2,
-                                "景悳"
-                            ]
+                                "Keitoku"
+                            ],
+                            "_original": "景悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、旅の方。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雫村へ行かれるのですか？"
-                            ]
+                                "Oh, a traveler. Are you heading to Shizuku\nVillage?"
+                            ],
+                            "_original": "おや、旅の方。\n雫村へ行かれるのですか？"
                         },
                         {
                             "code": 101,
@@ -8423,22 +8396,17 @@
                                 0,
                                 0,
                                 2,
-                                "景悳"
-                            ]
+                                "Keitoku"
+                            ],
+                            "_original": "景悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "であればその先、星宝寺にもぜひ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歓迎いたしますよ。"
-                            ]
+                                "If so, please do stop by Seihōji Temple ahead.\nYou are most welcome."
+                            ],
+                            "_original": "であればその先、星宝寺にもぜひ。\n歓迎いたしますよ。"
                         },
                         {
                             "code": 123,
@@ -8507,22 +8475,17 @@
                                 0,
                                 0,
                                 2,
-                                "景悳"
-                            ]
+                                "Keitoku"
+                            ],
+                            "_original": "景悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "滝然山の星宝寺……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その参道は、雫村より続いているのです。"
-                            ]
+                                "The Star Treasure Temple on Mount Takigama...\nits approach path continues from Shizuku\nVillage."
+                            ],
+                            "_original": "滝然山の星宝寺……\nその参道は、雫村より続いているのです。"
                         },
                         {
                             "code": 0,
@@ -8592,15 +8555,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桶の中に魚が。"
-                            ]
+                                "There's a fish in the bucket."
+                            ],
+                            "_original": "桶の中に魚が。"
                         },
                         {
                             "code": 0,

@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "ナーヴィガー号",
+    "displayName": "Navigator",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3441,15 +3441,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ到着の時間だそうですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起きてください！"
-                            ]
+                                "It seems it's almost time to arrive!\nPlease wake up!"
+                            ],
+                            "_original": "そろそろ到着の時間だそうですよ！\n起きてください！"
                         },
                         {
                             "code": 213,
@@ -3475,15 +3469,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、さっさと身支度を整えて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな格好で上陸するつもりですか？"
-                            ]
+                                "Come on, get yourself ready quickly...\nAre you really planning to go ashore\ndressed like that?"
+                            ],
+                            "_original": "ほら、さっさと身支度を整えて……\nそんな格好で上陸するつもりですか？"
                         },
                         {
                             "code": 108,
@@ -3563,22 +3551,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【プレイヤー設定】\\C[0]"
-                            ]
+                                "\\C[16]【Player Settings】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【プレイヤー設定】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたの姿を選択してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]姿はあとから変更できます。\\C[0]"
-                            ]
+                                "Please select your appearance. You can change\nyour \\C[17] appearance \\C[0] later."
+                            ],
+                            "_original": "あなたの姿を選択してください。\n\\C[17]姿はあとから変更できます。\\C[0]"
                         },
                         {
                             "code": 102,
@@ -4017,35 +4000,34 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっと目覚めましたか、やれやれ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全くもう、世話の焼ける。"
-                            ]
+                                "Finally awake, huh? Good grief... You really are\na handful."
+                            ],
+                            "_original": "やっと目覚めましたか、やれやれ……\n全くもう、世話の焼ける。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "おはよう",
-                                    "誰だ"
+                                    "Good morning.",
+                                    "Who are you?"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "おはよう",
+                                "誰だ"
                             ]
                         },
                         {
@@ -4080,22 +4062,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はい、おはようございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "……って、暢気に挨拶してる場合じゃないんですけど。"
-                            ]
+                                "Yes, good morning. ...But this isn't the time to\nbe casually greeting."
+                            ],
+                            "_original": "はい、おはようございます。\n……って、暢気に挨拶してる場合じゃないんですけど。"
                         },
                         {
                             "code": 0,
@@ -4134,22 +4111,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……まだ寝ぼけているようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激辛クッキーを口に押し込んでやりましょうか？"
-                            ]
+                                "...You still seem sleepy. Shall I shove a super\nspicy cookie into your mouth?"
+                            ],
+                            "_original": "……まだ寝ぼけているようですね。\n激辛クッキーを口に押し込んでやりましょうか？"
                         },
                         {
                             "code": 0,
@@ -4176,22 +4148,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この女性は\\C[17]ウーラ・ジェラート\\C[0]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて共に冒険した仲間──そしてこの度、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改めて共に旅立つことになった仲間だ。"
-                            ]
+                                "This woman is \\C[17]Uura Gelato\\C[0]. A companion with whom\nI once adventured―and now, a companion with whom\nI will set out once more."
+                            ],
+                            "_original": "この女性は\\C[17]ウーラ・ジェラート\\C[0]。\nかつて共に冒険した仲間──そしてこの度、\n改めて共に旅立つことになった仲間だ。"
                         },
                         {
                             "code": 231,
@@ -4217,22 +4176,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何ですか、人の顔をじろじろ見て。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか私のことを忘れたわけじゃないですよね？"
-                            ]
+                                "What are you staring at my face for? You haven't\nforgotten about me, have you?"
+                            ],
+                            "_original": "何ですか、人の顔をじろじろ見て。\nまさか私のことを忘れたわけじゃないですよね？"
                         },
                         {
                             "code": 101,
@@ -4242,22 +4196,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それとも自分のことを忘れたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと名前を言ってみてください。"
-                            ]
+                                "Or did you forget about yourself? Try saying\nyour name."
+                            ],
+                            "_original": "それとも自分のことを忘れたんですか？\nちょっと名前を言ってみてください。"
                         },
                         {
                             "code": 101,
@@ -4274,8 +4223,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の名前は……"
-                            ]
+                                "My name is..."
+                            ],
+                            "_original": "自分の名前は……"
                         },
                         {
                             "code": 118,
@@ -4315,21 +4265,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]……で間違いなかっただろうか？"
-                            ]
+                                "It was \\N[10]..., wasn't it?"
+                            ],
+                            "_original": "\\N[10]……で間違いなかっただろうか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "間違いない",
-                                    "間違っている"
+                                    "That's right.",
+                                    "That's wrong."
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "間違いない",
+                                "間違っている"
                             ]
                         },
                         {
@@ -4364,22 +4319,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……大丈夫っぽいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほら、前にいろいろあったので心配になるんですよ。"
-                            ]
+                                "...Seems like you're fine. See, I get worried\nbecause of everything that happened before."
+                            ],
+                            "_original": "……大丈夫っぽいですね。\nほら、前にいろいろあったので心配になるんですよ。"
                         },
                         {
                             "code": 231,
@@ -4405,22 +4355,17 @@
                                 2,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さてと、それじゃあ行きましょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "遅れないようにしないと！"
-                            ]
+                                "Well then, let's go. We mustn't be late!"
+                            ],
+                            "_original": "さてと、それじゃあ行きましょ。\n遅れないようにしないと！"
                         },
                         {
                             "code": 221,
@@ -4602,22 +4547,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・\\C[17]矢印キー：\\C[0]移動"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・\\C[17]Ｚキー　：\\C[0]調べる、話しかける"
-                            ]
+                                "・\\C[17]Arrow Keys: \\C[0]Move ・\\C[17]Z Key: \\C[0]Examine, Talk"
+                            ],
+                            "_original": "・\\C[17]矢印キー：\\C[0]移動\n・\\C[17]Ｚキー　：\\C[0]調べる、話しかける"
                         },
                         {
                             "code": 0,
@@ -4836,15 +4776,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "簡素なベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意外なことに寝心地は悪くない。"
-                            ]
+                                "A simple bed. Surprisingly, it's not\nuncomfortable."
+                            ],
+                            "_original": "簡素なベッドだ。\n意外なことに寝心地は悪くない。"
                         },
                         {
                             "code": 101,
@@ -4854,22 +4788,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Uura"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと、何してるんですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また寝るとか言い出さないでしょうね。"
-                            ]
+                                "Hey, what are you doing? You're not\ngoing to say you're going to sleep\nagain, are you?"
+                            ],
+                            "_original": "ちょっと、何してるんですか。\nまた寝るとか言い出さないでしょうね。"
                         },
                         {
                             "code": 123,
@@ -4945,15 +4874,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "簡素なベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意外なことに寝心地は悪くない。"
-                            ]
+                                "It's a simple bed. Surprisingly, it's not\nuncomfortable."
+                            ],
+                            "_original": "簡素なベッドだ。\n意外なことに寝心地は悪くない。"
                         },
                         {
                             "code": 0,
@@ -5141,8 +5064,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "簡素なベッドだ。"
-                            ]
+                                "It's a simple bed."
+                            ],
+                            "_original": "簡素なベッドだ。"
                         },
                         {
                             "code": 0,
@@ -5219,8 +5143,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小棚だ。"
-                            ]
+                                "It's a small shelf."
+                            ],
+                            "_original": "小棚だ。"
                         },
                         {
                             "code": 0,
@@ -5297,8 +5222,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小棚の上にいろいろなものが並んでいる。"
-                            ]
+                                "Various things are lined up on the small shelf."
+                            ],
+                            "_original": "小棚の上にいろいろなものが並んでいる。"
                         },
                         {
                             "code": 0,
@@ -5375,8 +5301,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
+                                "It's a barrel."
+                            ],
+                            "_original": "樽だ。"
                         },
                         {
                             "code": 0,
@@ -5453,8 +5380,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽だ。"
-                            ]
+                                "It's a barrel."
+                            ],
+                            "_original": "樽だ。"
                         },
                         {
                             "code": 0,

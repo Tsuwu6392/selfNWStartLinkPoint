@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "眠りの森",
+    "displayName": "Sleeping Forest",
     "encounterList": [
         {
             "troopId": 109,
@@ -12230,22 +12230,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美しい場所だな……"
-                            ]
+                                "Woah... What a beautiful place..."
+                            ],
+                            "_original": "おおっ。\n美しい場所だな……"
                         },
                         {
                             "code": 205,
@@ -12476,15 +12471,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テン殿、ここは？"
-                            ]
+                                "Ten-dono, where is this?"
+                            ],
+                            "_original": "テン殿、ここは？"
                         },
                         {
                             "code": 117,
@@ -12501,22 +12498,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]眠りの森\\C[0]といいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神社の境内ですが、魔物がいるためご注意を。"
-                            ]
+                                "This is \\C[17]Sleeping Forest\\C[0]. It's part of the shrine\ngrounds, but be careful―there are monsters here."
+                            ],
+                            "_original": "\\C[17]眠りの森\\C[0]といいます。\n神社の境内ですが、魔物がいるためご注意を。"
                         },
                         {
                             "code": 101,
@@ -12526,22 +12518,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どう考えても普通の森ではありませんよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か気をつけることは？"
-                            ]
+                                "No matter how you look at it, this isn't\nan ordinary forest, right? Is there\nanything we should be careful about?"
+                            ],
+                            "_original": "どう考えても普通の森ではありませんよね？\n何か気をつけることは？"
                         },
                         {
                             "code": 101,
@@ -12551,22 +12538,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物を除き、ここに危険はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あるのはただ一つの祈り。"
-                            ]
+                                "Apart from the monsters, there's no danger here.\nThere's only one thing to pray for."
+                            ],
+                            "_original": "魔物を除き、ここに危険はありません。\nあるのはただ一つの祈り。"
                         },
                         {
                             "code": 101,
@@ -12576,15 +12558,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "祈り、ですか。"
-                            ]
+                                "A prayer, you say?"
+                            ],
+                            "_original": "祈り、ですか。"
                         },
                         {
                             "code": 101,
@@ -12594,29 +12578,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テンと、あと存子も……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "歩きながらでいいのでいろいろ説明してくださいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちはまだ分からないことだらけなんです。"
-                            ]
+                                "Ten, and also Sonoko... Please explain\nthings to us as we walk. We still don't\nunderstand a lot about this place."
+                            ],
+                            "_original": "テンと、あと存子も……\n歩きながらでいいのでいろいろ説明してくださいよ。\nこっちはまだ分からないことだらけなんです。"
                         },
                         {
                             "code": 101,
@@ -12626,15 +12598,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任せておけい！"
-                            ]
+                                "Leave it to me!"
+                            ],
+                            "_original": "任せておけい！"
                         },
                         {
                             "code": 101,
@@ -12644,22 +12618,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カンムイの剣、ハクトウ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その詳細を知らなくてはならない。"
-                            ]
+                                "Kamui's Sword, Hakutō... I need to know\nthe details about it."
+                            ],
+                            "_original": "カンムイの剣、ハクトウ……\nその詳細を知らなくてはならない。"
                         },
                         {
                             "code": 117,
@@ -12692,15 +12661,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私とは別の存在だぞ。"
-                            ]
+                                "That's a separate existence from me."
+                            ],
+                            "_original": "私とは別の存在だぞ。"
                         },
                         {
                             "code": 101,
@@ -12710,15 +12681,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ですって。"
-                            ]
+                                "Is that so."
+                            ],
+                            "_original": "ですって。"
                         },
                         {
                             "code": 101,
@@ -12728,22 +12701,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対忘れてるだけですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ナズナってそういう感じですし。"
-                            ]
+                                "You've definitely just forgotten. That's\njust how Nazuna is."
+                            ],
+                            "_original": "絶対忘れてるだけですよ。\nナズナってそういう感じですし。"
                         },
                         {
                             "code": 117,
@@ -12760,15 +12728,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "忘れていない！"
-                            ]
+                                "I haven't forgotten!"
+                            ],
+                            "_original": "忘れていない！"
                         },
                         {
                             "code": 101,
@@ -12778,8 +12748,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -12803,15 +12774,17 @@
                                 2,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すべてお話ししますので、ご心配なきよう。"
-                            ]
+                                "I'll explain everything, so please don't worry."
+                            ],
+                            "_original": "すべてお話ししますので、ご心配なきよう。"
                         },
                         {
                             "code": 221,
@@ -14679,15 +14652,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いかがでしょうか、夕闇様。"
-                            ]
+                                "How do you find this, Yuuyami-sama?"
+                            ],
+                            "_original": "いかがでしょうか、夕闇様。"
                         },
                         {
                             "code": 101,
@@ -14697,15 +14672,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅん……"
-                            ]
+                                "Hmph..."
+                            ],
+                            "_original": "ふぅん……"
                         },
                         {
                             "code": 213,
@@ -14724,22 +14701,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漂ってるねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かすかに。"
-                            ]
+                                "It's lingering, isn't it? Faintly."
+                            ],
+                            "_original": "漂ってるねえ。\nかすかに。"
                         },
                         {
                             "code": 101,
@@ -14749,15 +14721,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え……"
-                            ]
+                                "Huh...?"
+                            ],
+                            "_original": "え……"
                         },
                         {
                             "code": 205,
@@ -14798,22 +14772,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、お前が気にするほどのものじゃあない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわに任せるがよい。"
-                            ]
+                                "But it's nothing for you to worry about.\nLeave it to me."
+                            ],
+                            "_original": "だが、お前が気にするほどのものじゃあない。\nわらわに任せるがよい。"
                         },
                         {
                             "code": 101,
@@ -14823,15 +14792,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆ、夕闇様。"
-                            ]
+                                "Y-Yuuyami-sama..."
+                            ],
+                            "_original": "ゆ、夕闇様。"
                         },
                         {
                             "code": 101,
@@ -14841,22 +14812,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "不安かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心配ないよ。"
-                            ]
+                                "Are you anxious? Don't be."
+                            ],
+                            "_original": "不安かい？\n心配ないよ。"
                         },
                         {
                             "code": 205,
@@ -14897,22 +14863,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かつて最も恐れられた怪異……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ歴史もかすれる頃か。"
-                            ]
+                                "The once most-feared anomaly... Perhaps\nits time in history is fading."
+                            ],
+                            "_original": "かつて最も恐れられた怪異……\nそろそろ歴史もかすれる頃か。"
                         },
                         {
                             "code": 246,
@@ -15024,15 +14985,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
-                            ]
+                                "Event \\C[17]Interaction: Yuuyami of the Crossroads of\nthe Lustrous Tail\\C[0] has been updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：艶尾の辻の夕闇\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,

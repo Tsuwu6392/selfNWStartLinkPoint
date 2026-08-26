@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "蛇の村",
+    "displayName": "Snake Village",
     "encounterList": [
         {
             "troopId": 186,
@@ -3690,22 +3690,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中は……汚い。"
-                            ]
+                                "It's a jar. The inside... is filthy."
+                            ],
+                            "_original": "壺だ。\n中は……汚い。"
                         },
                         {
                             "code": 101,
@@ -3715,22 +3710,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "触りたくないですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウーラさん、代わりに調べてください。"
-                            ]
+                                "I don't want to touch it. Ula-san,\nplease check it for me."
+                            ],
+                            "_original": "触りたくないですね。\nウーラさん、代わりに調べてください。"
                         },
                         {
                             "code": 101,
@@ -3740,15 +3730,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやです。"
-                            ]
+                                "No way."
+                            ],
+                            "_original": "いやです。"
                         },
                         {
                             "code": 123,
@@ -3817,15 +3809,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中が汚い壺だ！"
-                            ]
+                                "This filthy pot is dirty inside!"
+                            ],
+                            "_original": "中が汚い壺だ！"
                         },
                         {
                             "code": 101,
@@ -3835,15 +3829,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウーラさん。"
-                            ]
+                                "Ula-san."
+                            ],
+                            "_original": "ウーラさん。"
                         },
                         {
                             "code": 101,
@@ -3853,15 +3849,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやです。"
-                            ]
+                                "No, I don't want to."
+                            ],
+                            "_original": "いやです。"
                         },
                         {
                             "code": 0,
@@ -3931,29 +3929,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロの箱だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自然と劣化したのではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人為的に壊されたように見える。"
-                            ]
+                                "The box is in tatters. It doesn't look\nlike it wore out naturally―it was\ndeliberately destroyed."
+                            ],
+                            "_original": "ボロボロの箱だ。\n自然と劣化したのではなく、\n人為的に壊されたように見える。"
                         },
                         {
                             "code": 0,

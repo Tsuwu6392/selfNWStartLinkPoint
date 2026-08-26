@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "シュマリコタン",
+    "displayName": "Shumarikotan",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3314,22 +3314,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは扉のようだが……開かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵がかかっているのかな？"
-                            ]
+                                "This looks like a door... but it won't\nopen. Is it locked?"
+                            ],
+                            "_original": "これは扉のようだが……開かない。\n鍵がかかっているのかな？"
                         },
                         {
                             "code": 0,
@@ -3450,22 +3445,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物が住み着いた場所はこの先だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よし……"
-                            ]
+                                "The monsters must be living further\nahead. Alright..."
+                            ],
+                            "_original": "魔物が住み着いた場所はこの先だな。\nよし……"
                         },
                         {
                             "code": 250,
@@ -3532,22 +3522,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開かない。"
-                            ]
+                                "...Huh. It won't open."
+                            ],
+                            "_original": "……あれ。\n開かない。"
                         },
                         {
                             "code": 101,
@@ -3557,15 +3542,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍵がかかっているのでは？"
-                            ]
+                                "Is it locked?"
+                            ],
+                            "_original": "鍵がかかっているのでは？"
                         },
                         {
                             "code": 101,
@@ -3575,15 +3562,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、そんな感じでは……"
-                            ]
+                                "No, it doesn't feel like that..."
+                            ],
+                            "_original": "いや、そんな感じでは……"
                         },
                         {
                             "code": 250,
@@ -3789,22 +3778,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、開いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開きづらくなっていただけか。"
-                            ]
+                                "Ah, it opened. It was just stiff."
+                            ],
+                            "_original": "あっ、開いた。\n開きづらくなっていただけか。"
                         },
                         {
                             "code": 101,
@@ -3814,22 +3798,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相当放置されてるっぽいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫なんでしょうか。"
-                            ]
+                                "It seems pretty neglected. Will we be\nokay?"
+                            ],
+                            "_original": "相当放置されてるっぽいですね。\n大丈夫なんでしょうか。"
                         },
                         {
                             "code": 101,
@@ -3839,15 +3818,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大丈夫でなければ、より見過ごせませぬ。"
-                            ]
+                                "If we won't be, then we mustn't overlook\nit."
+                            ],
+                            "_original": "大丈夫でなければ、より見過ごせませぬ。"
                         },
                         {
                             "code": 101,
@@ -3857,15 +3838,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ！"
-                            ]
+                                "Indeed!"
+                            ],
+                            "_original": "うむ！"
                         },
                         {
                             "code": 101,
@@ -3875,15 +3858,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全く、お人好しな方々です。"
-                            ]
+                                "Honestly, you're all too kind for your\nown good."
+                            ],
+                            "_original": "全く、お人好しな方々です。"
                         },
                         {
                             "code": 101,
@@ -3893,15 +3878,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多少は見習え。"
-                            ]
+                                "You could stand to learn from them."
+                            ],
+                            "_original": "多少は見習え。"
                         },
                         {
                             "code": 221,
@@ -4220,15 +4207,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たわらだらけだ！"
-                            ]
+                                "It's packed with rice bales!"
+                            ],
+                            "_original": "たわらだらけだ！"
                         },
                         {
                             "code": 101,
@@ -4238,15 +4227,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい蓄えですね。"
-                            ]
+                                "That's an impressive stockpile."
+                            ],
+                            "_original": "すごい蓄えですね。"
                         },
                         {
                             "code": 0,
@@ -4316,15 +4307,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たわらだらけだ！"
-                            ]
+                                "It's packed with rice bales!"
+                            ],
+                            "_original": "たわらだらけだ！"
                         },
                         {
                             "code": 101,
@@ -4334,15 +4327,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい蓄えですね。"
-                            ]
+                                "That's an impressive stockpile."
+                            ],
+                            "_original": "すごい蓄えですね。"
                         },
                         {
                             "code": 0,
@@ -4412,15 +4407,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たわらだらけだ！"
-                            ]
+                                "It's packed with rice bales!"
+                            ],
+                            "_original": "たわらだらけだ！"
                         },
                         {
                             "code": 101,
@@ -4430,15 +4427,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい蓄えですね。"
-                            ]
+                                "That's an impressive stockpile."
+                            ],
+                            "_original": "すごい蓄えですね。"
                         },
                         {
                             "code": 0,
@@ -4508,15 +4507,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たわらだらけだ！"
-                            ]
+                                "It's packed with rice bales!"
+                            ],
+                            "_original": "たわらだらけだ！"
                         },
                         {
                             "code": 101,
@@ -4526,15 +4527,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい蓄えですね。"
-                            ]
+                                "That's an impressive stockpile."
+                            ],
+                            "_original": "すごい蓄えですね。"
                         },
                         {
                             "code": 0,
@@ -4604,15 +4607,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おけだらけだ！"
-                            ]
+                                "It's full of barrels!"
+                            ],
+                            "_original": "おけだらけだ！"
                         },
                         {
                             "code": 101,
@@ -4622,22 +4627,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魚が漬けられています。"
-                            ]
+                                "Oh. The fish are pickled."
+                            ],
+                            "_original": "おお。\n魚が漬けられています。"
                         },
                         {
                             "code": 101,
@@ -4647,15 +4647,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に開けない方が……"
-                            ]
+                                "It's better not to open them without\npermission..."
+                            ],
+                            "_original": "勝手に開けない方が……"
                         },
                         {
                             "code": 0,
@@ -4725,15 +4727,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おけだらけだ！"
-                            ]
+                                "It's full of barrels!"
+                            ],
+                            "_original": "おけだらけだ！"
                         },
                         {
                             "code": 101,
@@ -4743,22 +4747,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魚が漬けられています。"
-                            ]
+                                "Oh. The fish are pickled."
+                            ],
+                            "_original": "おお。\n魚が漬けられています。"
                         },
                         {
                             "code": 101,
@@ -4768,15 +4767,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に開けない方が……"
-                            ]
+                                "It's better not to open them without\npermission..."
+                            ],
+                            "_original": "勝手に開けない方が……"
                         },
                         {
                             "code": 0,
@@ -4846,15 +4847,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おけだらけだ！"
-                            ]
+                                "It's full of barrels!"
+                            ],
+                            "_original": "おけだらけだ！"
                         },
                         {
                             "code": 101,
@@ -4864,22 +4867,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魚が漬けられています。"
-                            ]
+                                "Oh. The fish are pickled."
+                            ],
+                            "_original": "おお。\n魚が漬けられています。"
                         },
                         {
                             "code": 101,
@@ -4889,15 +4887,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に開けない方が……"
-                            ]
+                                "It's better not to open them without\npermission..."
+                            ],
+                            "_original": "勝手に開けない方が……"
                         },
                         {
                             "code": 0,
@@ -4967,15 +4967,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つけものいし！"
-                            ]
+                                "It's pickled!"
+                            ],
+                            "_original": "つけものいし！"
                         },
                         {
                             "code": 0,

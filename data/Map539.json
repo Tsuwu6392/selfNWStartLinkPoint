@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "左雨家別邸 古川殿",
+    "displayName": "Sayuu Residence Annex - Furukawaden",
     "encounterList": [],
     "encounterStep": 30,
     "height": 29,
@@ -5119,28 +5119,34 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、神社に戻りたいのかい？"
-                            ]
+                                "Oh, do you want to return to the shrine?"
+                            ],
+                            "_original": "おや、神社に戻りたいのかい？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "戻らない"
+                                    "Return",
+                                    "Don't return"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "戻る",
+                                "戻らない"
                             ]
                         },
                         {
@@ -5166,15 +5172,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それじゃあ帰ろうか。"
-                            ]
+                                "Then let's go back."
+                            ],
+                            "_original": "それじゃあ帰ろうか。"
                         },
                         {
                             "code": 250,
@@ -5234,15 +5242,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また行きたくなったら声をかけてくれ。"
-                            ]
+                                "If you ever feel like going again, just\nlet me know."
+                            ],
+                            "_original": "また行きたくなったら声をかけてくれ。"
                         },
                         {
                             "code": 0,
@@ -5265,22 +5275,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気まぐれだね。"
-                            ]
+                                "Hmm. You're so whimsical."
+                            ],
+                            "_original": "ふむ。\n気まぐれだね。"
                         },
                         {
                             "code": 205,
@@ -5437,22 +5442,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "到着だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここが古川殿──左雨家の別邸だよ。"
-                            ]
+                                "We've arrived. This is Lord Furusawa―the\nSatou family's villa."
+                            ],
+                            "_original": "到着だ。\nここが古川殿──左雨家の別邸だよ。"
                         },
                         {
                             "code": 205,
@@ -5493,22 +5493,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つまり、私の所有物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遠慮せずに上がってくれ。"
-                            ]
+                                "In other words, it's my property. Don't\nhold back, come in."
+                            ],
+                            "_original": "つまり、私の所有物だ。\n遠慮せずに上がってくれ。"
                         },
                         {
                             "code": 221,
@@ -5860,22 +5855,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、悳白。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来ていたのか。"
-                            ]
+                                "Oh, Tokuhaku. So you were here."
+                            ],
+                            "_original": "おや、悳白。\n来ていたのか。"
                         },
                         {
                             "code": 101,
@@ -5885,15 +5875,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……これは珍しい。"
-                            ]
+                                "…This is unusual."
+                            ],
+                            "_original": "……これは珍しい。"
                         },
                         {
                             "code": 205,
@@ -6037,22 +6029,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淡雪殿……あなたはここを避けていたはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういう風の吹き回しでしょう。"
-                            ]
+                                "Usuyuki-sama… You were supposed to be avoiding\nthis place. What brings you here?"
+                            ],
+                            "_original": "淡雪殿……あなたはここを避けていたはず。\nどういう風の吹き回しでしょう。"
                         },
                         {
                             "code": 117,
@@ -6069,15 +6056,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見ての通り、というやつだね。"
-                            ]
+                                "Just as you see."
+                            ],
+                            "_original": "見ての通り、というやつだね。"
                         },
                         {
                             "code": 117,
@@ -6094,22 +6083,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿を案内したと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは、つまり……"
-                            ]
+                                "You brought \\N[10]-sama here? So that means…"
+                            ],
+                            "_original": "\\N[10]殿を案内したと？\nそれは、つまり……"
                         },
                         {
                             "code": 117,
@@ -6126,15 +6110,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういう君はなぜここに？"
-                            ]
+                                "And what about you? Why are you here?"
+                            ],
+                            "_original": "そういう君はなぜここに？"
                         },
                         {
                             "code": 117,
@@ -6151,22 +6137,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "知っているでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はたびたびここを訪れ、掃除しています。"
-                            ]
+                                "You know the answer. I often come here to clean."
+                            ],
+                            "_original": "知っているでしょう。\n私はたびたびここを訪れ、掃除しています。"
                         },
                         {
                             "code": 117,
@@ -6183,22 +6164,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、いつもお疲れ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかげでとても綺麗だ。"
-                            ]
+                                "Ah, as always, thank you for your hard work.\nIt's very clean thanks to you."
+                            ],
+                            "_original": "ああ、いつもお疲れ様。\nおかげでとても綺麗だ。"
                         },
                         {
                             "code": 117,
@@ -6215,22 +6191,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大したことはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは怪異の少ない場所ですから、荒れようもなく。"
-                            ]
+                                "It's nothing. This place has few spirits, so it\ndoesn't fall into disrepair."
+                            ],
+                            "_original": "大したことはありません。\nここは怪異の少ない場所ですから、荒れようもなく。"
                         },
                         {
                             "code": 231,
@@ -6256,15 +6227,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それより、あなたは\\N[10]殿を……"
-                            ]
+                                "More importantly, you and \\N[10]-sama…"
+                            ],
+                            "_original": "それより、あなたは\\N[10]殿を……"
                         },
                         {
                             "code": 117,
@@ -6297,22 +6270,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、まだそうと決まったわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから相談するつもりだ。"
-                            ]
+                                "No, it's not decided yet. I was planning to\ndiscuss it with them."
+                            ],
+                            "_original": "いや、まだそうと決まったわけではない。\nこれから相談するつもりだ。"
                         },
                         {
                             "code": 117,
@@ -6345,22 +6313,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\N[10]殿は私の友。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仮にそうなれば、複雑な気分になりますね……"
-                            ]
+                                "…\\N[10]-sama is my friend. If that were to happen, I'd\nfeel conflicted…"
+                            ],
+                            "_original": "……\\N[10]殿は私の友。\n仮にそうなれば、複雑な気分になりますね……"
                         },
                         {
                             "code": 101,
@@ -6370,29 +6333,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、ともあれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はこれで失礼します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "修行の最中ですので。"
-                            ]
+                                "Well, regardless. I'll take my leave now. I'm in\nthe middle of training."
+                            ],
+                            "_original": "まあ、ともあれ。\n私はこれで失礼します。\n修行の最中ですので。"
                         },
                         {
                             "code": 231,
@@ -6418,22 +6369,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]殿も、また。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは。"
-                            ]
+                                "\\N[10]-sama, until next time. Farewell."
+                            ],
+                            "_original": "\\N[10]殿も、また。\nそれでは。"
                         },
                         {
                             "code": 221,
@@ -6514,22 +6460,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、\\N[10]殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の悩みを聞いてもらえるかな。"
-                            ]
+                                "Now, \\N[10]-sama. Could you hear me out about my\ntroubles?"
+                            ],
+                            "_original": "さて、\\N[10]殿。\n私の悩みを聞いてもらえるかな。"
                         },
                         {
                             "code": 101,
@@ -6546,15 +6487,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悳白が立ち去ってすぐに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淡雪は真剣な面持ちでそう言った。"
-                            ]
+                                "As soon as Tokuhaku left, Usuyuki spoke with a\nserious expression."
+                            ],
+                            "_original": "悳白が立ち去ってすぐに、\n淡雪は真剣な面持ちでそう言った。"
                         },
                         {
                             "code": 101,
@@ -6571,22 +6506,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女ほどの人物を悩ませる物事を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分にどうにかできるものだろうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "緊張感を覚えながら、次の言葉を待つ。"
-                            ]
+                                "Could someone like me really help with whatever\nwas troubling someone of her stature? I waited\nfor her next words, feeling tense."
+                            ],
+                            "_original": "彼女ほどの人物を悩ませる物事を、\n自分にどうにかできるものだろうか。\n緊張感を覚えながら、次の言葉を待つ。"
                         },
                         {
                             "code": 101,
@@ -6596,15 +6518,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結論から言おう。"
-                            ]
+                                "Let me start with the conclusion."
+                            ],
+                            "_original": "結論から言おう。"
                         },
                         {
                             "code": 241,
@@ -6626,15 +6550,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君の子種が欲しい。"
-                            ]
+                                "I want your seed."
+                            ],
+                            "_original": "君の子種が欲しい。"
                         },
                         {
                             "code": 101,
@@ -6651,22 +6577,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──刹那、時間が止まった気がした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耳に響く言葉の意味を理解する前に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の言葉がやってくる。"
-                            ]
+                                "For a moment, it felt like time had stopped.\nBefore I could even process the meaning of the\nwords echoing in my ears, the next ones came."
+                            ],
+                            "_original": "──刹那、時間が止まった気がした。\n耳に響く言葉の意味を理解する前に、\n次の言葉がやってくる。"
                         },
                         {
                             "code": 101,
@@ -6676,22 +6589,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貰えないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はいかいいえで答えてくれ。"
-                            ]
+                                "Can I have it? Just answer yes or no."
+                            ],
+                            "_original": "貰えないかな？\nはいかいいえで答えてくれ。"
                         },
                         {
                             "code": 101,
@@ -6708,15 +6616,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何やら答えを求められているが、思考が追い付かず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "曖昧なうめき声のようなものしか口から出ない。"
-                            ]
+                                "I was being asked for an answer, but my thoughts\ncouldn't keep up. All that came out of my mouth\nwas a vague, incoherent groan."
+                            ],
+                            "_original": "何やら答えを求められているが、思考が追い付かず\n曖昧なうめき声のようなものしか口から出ない。"
                         },
                         {
                             "code": 101,
@@ -6726,8 +6628,9 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
@@ -6772,22 +6675,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すまない、冗談だ。"
-                            ]
+                                "…Just kidding. Sorry, that was a joke."
+                            ],
+                            "_original": "……なんてね。\nすまない、冗談だ。"
                         },
                         {
                             "code": 101,
@@ -6797,29 +6695,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、はいと答えてもらえていたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのまま先に進めたが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずは事情を説明するよ。"
-                            ]
+                                "Well, if you had said yes, I would've gone\nahead… But first, let me explain the situation."
+                            ],
+                            "_original": "まあ、はいと答えてもらえていたら\nそのまま先に進めたが……\nまずは事情を説明するよ。"
                         },
                         {
                             "code": 221,
@@ -6848,15 +6734,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "要約すると、淡雪は後継がいないことについて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悩んでいるようだ。"
-                            ]
+                                "In summary, Usuyuki seemed troubled by the lack\nof an heir."
+                            ],
+                            "_original": "要約すると、淡雪は後継がいないことについて\n悩んでいるようだ。"
                         },
                         {
                             "code": 101,
@@ -6873,15 +6753,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "将軍の右腕となる執政は代々左雨家の人間が務める。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ次の代を育成しなければならない。"
-                            ]
+                                "The position of Chief Administrator, the\ngeneral's right hand, has always been held by\nsomeone from the Sayu family. It was about time\nto raise the next generation."
+                            ],
+                            "_original": "将軍の右腕となる執政は代々左雨家の人間が務める。\nそろそろ次の代を育成しなければならない。"
                         },
                         {
                             "code": 101,
@@ -6898,22 +6772,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが、彼女には自分の子がいない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悳白という養子こそいるものの、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "血の繋がりのない彼は執政にはなれない。"
-                            ]
+                                "But she has no children of her own. Though she\nhas an adopted son, Tokuhaku, he cannot become\nChief Administrator due to the lack of a blood\nconnection."
+                            ],
+                            "_original": "だが、彼女には自分の子がいない。\n悳白という養子こそいるものの、\n血の繋がりのない彼は執政にはなれない。"
                         },
                         {
                             "code": 101,
@@ -6930,15 +6791,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆえに求めているのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子を成すための種を。"
-                            ]
+                                "Hence, she seeks a seed to conceive a child."
+                            ],
+                            "_original": "ゆえに求めているのだ。\n子を成すための種を。"
                         },
                         {
                             "code": 222,
@@ -6953,29 +6808,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……「マナ生まれ」は分かるね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "母体にマナを宿すという、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現代では主流の子供の作り方だ。"
-                            ]
+                                "…You know about \"Mana-born,\" right? It's the\nmodern, mainstream method of creating children\nby implanting mana into the mother."
+                            ],
+                            "_original": "……「マナ生まれ」は分かるね？\n母体にマナを宿すという、\n現代では主流の子供の作り方だ。"
                         },
                         {
                             "code": 101,
@@ -6985,22 +6828,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シキノワでは昔からこの方法が好まれていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鬨宮家の子、すなわち将軍様は全員マナ生まれだ。"
-                            ]
+                                "In Shikinoa, this method has long been\npreferred. All of the Katsuragi family's\nchildren―namely, the Shogun-sama―are Mana-born."
+                            ],
+                            "_original": "シキノワでは昔からこの方法が好まれていて、\n鬨宮家の子、すなわち将軍様は全員マナ生まれだ。"
                         },
                         {
                             "code": 101,
@@ -7010,22 +6848,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私もいずれはそうして後継を産むのだと思っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思っていたのだが……"
-                            ]
+                                "I always thought I'd have a successor that way\ntoo. I did… but…"
+                            ],
+                            "_original": "私もいずれはそうして後継を産むのだと思っていた。\n思っていたのだが……"
                         },
                         {
                             "code": 101,
@@ -7035,22 +6868,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……どこかで期待していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の子作りを。"
-                            ]
+                                "…somewhere inside, I was hoping for the normal\nway."
+                            ],
+                            "_original": "……どこかで期待していた。\n普通の子作りを。"
                         },
                         {
                             "code": 101,
@@ -7060,22 +6888,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうこうしている内に年を取ってきて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危うい段階になってしまった。"
-                            ]
+                                "And before I knew it, I got older… and now it's\ngetting dangerous."
+                            ],
+                            "_original": "そうこうしている内に年を取ってきて……\n危うい段階になってしまった。"
                         },
                         {
                             "code": 101,
@@ -7085,22 +6908,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "というわけで、最初に問いに繋がる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君の子種をくれないか？"
-                            ]
+                                "So, to circle back to my first question… would\nyou give me your seed?"
+                            ],
+                            "_original": "というわけで、最初に問いに繋がる。\n君の子種をくれないか？"
                         },
                         {
                             "code": 101,
@@ -7110,22 +6928,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら、私たちは既に……舟観砦で色々あったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとくらい……"
-                            ]
+                                "Come on, we've already… done a lot at Shūkan\nFortress, so… just a little…"
+                            ],
+                            "_original": "ほら、私たちは既に……舟観砦で色々あったし、\nちょっとくらい……"
                         },
                         {
                             "code": 101,
@@ -7135,22 +6948,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夫婦になってくれとまでは言わないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子作りだけしてくれれば……"
-                            ]
+                                "I'm not asking you to marry me. Just… help me\nhave a child."
+                            ],
+                            "_original": "夫婦になってくれとまでは言わないよ。\n子作りだけしてくれれば……"
                         },
                         {
                             "code": 101,
@@ -7167,15 +6975,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……冗談というのは「はいかいいえで答える」ことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その前の言葉はそうではなかったようだ。"
-                            ]
+                                "…Her earlier joke about answering with a simple\nyes or no wasn't actually a joke. The question\nbefore it was serious."
+                            ],
+                            "_original": "……冗談というのは「はいかいいえで答える」ことで、\nその前の言葉はそうではなかったようだ。"
                         },
                         {
                             "code": 101,
@@ -7192,15 +6994,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淡雪の悩みはかなり切実なもので、断りがたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし気安く頷けることでもない。"
-                            ]
+                                "Usuyuki's dilemma is desperate. It's hard to\nrefuse… but it's not something to agree to\nlightly either."
+                            ],
+                            "_original": "淡雪の悩みはかなり切実なもので、断りがたい。\nしかし気安く頷けることでもない。"
                         },
                         {
                             "code": 101,
@@ -7217,15 +7013,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半ば混乱しているこちらに淡雪がにじり寄る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐らく、彼女の中ではもう決まっている。"
-                            ]
+                                "As I sit here half-dazed, Usuyuki inches closer.\nIn her mind, it seems the decision is already\nmade."
+                            ],
+                            "_original": "半ば混乱しているこちらに淡雪がにじり寄る。\n恐らく、彼女の中ではもう決まっている。"
                         },
                         {
                             "code": 231,
@@ -7251,22 +7041,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気持ちよくしてあげるよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の口……悪くなかっただろう？"
-                            ]
+                                "I'll make you feel good, won't I? My mouth…\nwasn't bad, right?"
+                            ],
+                            "_original": "気持ちよくしてあげるよ？\n私の口……悪くなかっただろう？"
                         },
                         {
                             "code": 101,
@@ -7276,22 +7061,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試してみよう。"
-                            ]
+                                "Come on. Let's try it."
+                            ],
+                            "_original": "ほら。\n試してみよう。"
                         },
                         {
                             "code": 242,
@@ -7445,35 +7225,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『手始め』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View scene \"First Steps\"? \\C[17]*Any choice will be\nadded to memories.*\\C[0]"
+                            ],
+                            "_original": "シーン『手始め』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -7548,15 +7327,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：雨を継ぎ雪となる\\C[0]が更新されました。"
-                            ]
+                                "Event \\C[17]Bond: Inheriting Rain, Becoming Snow\\C[0] has\nbeen updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：雨を継ぎ雪となる\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -7967,22 +7748,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、\\N[10]殿。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は奥の部屋で……"
-                            ]
+                                "Now then, \\N[10]-dono. Today, in the inner\nroom..."
+                            ],
+                            "_original": "さあ、\\N[10]殿。\n今日は奥の部屋で……"
                         },
                         {
                             "code": 101,
@@ -7992,15 +7768,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "随分とお盛んですね……"
-                            ]
+                                "You seem quite lively..."
+                            ],
+                            "_original": "随分とお盛んですね……"
                         },
                         {
                             "code": 205,
@@ -8120,22 +7898,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "と、悳白？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに……光明先生！？"
-                            ]
+                                "W-Wait, Tokuhaku? And...\nKoumyou-sensei?!"
+                            ],
+                            "_original": "と、悳白？\nそれに……光明先生！？"
                         },
                         {
                             "code": 101,
@@ -8145,22 +7918,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やあ、淡雪。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お邪魔するよ──いろんな意味で。"
-                            ]
+                                "Ah, Usuyuki. Mind if I intrude― in every\nsense of the word?"
+                            ],
+                            "_original": "やあ、淡雪。\nお邪魔するよ──いろんな意味で。"
                         },
                         {
                             "code": 101,
@@ -8170,22 +7938,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、いや……ははは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうぞ。"
-                            ]
+                                "A-Ah, no... haha. P-Please, go ahead."
+                            ],
+                            "_original": "あ、いや……ははは。\nど、どうぞ。"
                         },
                         {
                             "code": 101,
@@ -8195,22 +7958,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっはっは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しい反応。"
-                            ]
+                                "Ahahaha. What a delightful reaction."
+                            ],
+                            "_original": "あっはっは。\n楽しい反応。"
                         },
                         {
                             "code": 221,
@@ -8375,22 +8133,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと、それで……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "光明先生はなぜここに？"
-                            ]
+                                "U-Um, so... why is Koumyou-sensei here?"
+                            ],
+                            "_original": "ええと、それで……\n光明先生はなぜここに？"
                         },
                         {
                             "code": 241,
@@ -8412,29 +8165,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に理由はないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "散歩していたら親切な僧侶に出会って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舟観の隠れた名所に案内してもらっただけさ。"
-                            ]
+                                "No particular reason. I was out for a\nwalk when a kind monk showed me to this\nhidden gem of Shuukan."
+                            ],
+                            "_original": "特に理由はないよ。\n散歩していたら親切な僧侶に出会って、\n舟観の隠れた名所に案内してもらっただけさ。"
                         },
                         {
                             "code": 101,
@@ -8444,15 +8185,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは名所というほどの場所ではありませんが……"
-                            ]
+                                "This isn't exactly a famous spot..."
+                            ],
+                            "_original": "ここは名所というほどの場所ではありませんが……"
                         },
                         {
                             "code": 101,
@@ -8462,15 +8205,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "左雨家の別邸なんだろう？"
-                            ]
+                                "Isn't this the Sauu family's villa?"
+                            ],
+                            "_original": "左雨家の別邸なんだろう？"
                         },
                         {
                             "code": 101,
@@ -8480,22 +8225,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古くは引退した執政が余生を過ごしていたようです。"
-                            ]
+                                "Well, yes. It used to be where retired\nofficials spent their final years."
+                            ],
+                            "_original": "まあ、はい。\n古くは引退した執政が余生を過ごしていたようです。"
                         },
                         {
                             "code": 101,
@@ -8505,22 +8245,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後継を作る場だと聞いたけど。"
-                            ]
+                                "Oh? I heard it was a place to make\nheirs."
+                            ],
+                            "_original": "へえ？\n後継を作る場だと聞いたけど。"
                         },
                         {
                             "code": 213,
@@ -8539,22 +8274,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "く、詳しいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悳白から聞いたのでしょうか。"
-                            ]
+                                "Y-You're well-informed. Did Tokuhaku\ntell you?"
+                            ],
+                            "_original": "く、詳しいですね。\n悳白から聞いたのでしょうか。"
                         },
                         {
                             "code": 101,
@@ -8564,22 +8294,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に作れそうかい？"
-                            ]
+                                "More or less. Any progress on that\nfront?"
+                            ],
+                            "_original": "まあね。\n無事に作れそうかい？"
                         },
                         {
                             "code": 101,
@@ -8589,15 +8314,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、ええと……"
-                            ]
+                                "N-No, um..."
+                            ],
+                            "_original": "いや、ええと……"
                         },
                         {
                             "code": 101,
@@ -8614,15 +8341,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……レステアは淡雪の目的まで把握しているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなか気まずい状況である。"
-                            ]
+                                "...Restear seems to know even Usuyuki's\nintentions. This is quite an awkward situation."
+                            ],
+                            "_original": "……レステアは淡雪の目的まで把握しているようだ。\nなかなか気まずい状況である。"
                         },
                         {
                             "code": 101,
@@ -8639,15 +8360,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話題を変えるために、二人の関係について"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "質問してみることにした。"
-                            ]
+                                "To change the subject, I decided to ask about\ntheir relationship."
+                            ],
+                            "_original": "話題を変えるために、二人の関係について\n質問してみることにした。"
                         },
                         {
                             "code": 101,
@@ -8657,22 +8372,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前にも話したが、光明先生は私の師だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣を教えてもらったのだよ。"
-                            ]
+                                "As I mentioned before, Koumyou-sensei is\nmy teacher. He taught me the sword."
+                            ],
+                            "_original": "以前にも話したが、光明先生は私の師だ。\n剣を教えてもらったのだよ。"
                         },
                         {
                             "code": 101,
@@ -8682,22 +8392,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "白刀流は知っているかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は当時、それを修め終えていて──"
-                            ]
+                                "Do you know of the Shirakatou style? I\nhad just finished mastering it back\nthen―"
+                            ],
+                            "_original": "白刀流は知っているかな？\n私は当時、それを修め終えていて──"
                         },
                         {
                             "code": 101,
@@ -8707,22 +8412,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とある経緯から、次の代の将軍の剣術指南役を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任されることになった。"
-                            ]
+                                "and due to certain circumstances, I was\ntasked with instructing the next shogun\nin swordsmanship."
+                            ],
+                            "_original": "とある経緯から、次の代の将軍の剣術指南役を\n任されることになった。"
                         },
                         {
                             "code": 101,
@@ -8732,15 +8432,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つまり、無玄様の師でもあるのだ。"
-                            ]
+                                "So, you were also Mugen-sama's teacher."
+                            ],
+                            "_original": "つまり、無玄様の師でもあるのだ。"
                         },
                         {
                             "code": 101,
@@ -8750,22 +8452,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、負けず嫌いのお友達もなぜかついてきてね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に鍛えたというわけさ。"
-                            ]
+                                "And then, for some reason, my\ncompetitive little friend tagged along.\nSo we trained together, that's all."
+                            ],
+                            "_original": "で、負けず嫌いのお友達もなぜかついてきてね。\n一緒に鍛えたというわけさ。"
                         },
                         {
                             "code": 101,
@@ -8775,22 +8472,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昔の君は本当に腕白だったねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……今も、その片鱗はあるみたいだけど。"
-                            ]
+                                "You were quite the handful back then...\nThough I suppose some of that hasn't\nchanged."
+                            ],
+                            "_original": "昔の君は本当に腕白だったねえ。\n……今も、その片鱗はあるみたいだけど。"
                         },
                         {
                             "code": 101,
@@ -8800,15 +8492,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、ははは。"
-                            ]
+                                "H-Haha..."
+                            ],
+                            "_original": "は、ははは。"
                         },
                         {
                             "code": 242,
@@ -8834,22 +8528,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、先生はまるで別人ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一見した雰囲気こそ変わりませんが──"
-                            ]
+                                "But, sensei, you seem like a completely\ndifferent person. Your appearance hasn't\nchanged much, but―"
+                            ],
+                            "_original": "しかし、先生はまるで別人ですね。\n一見した雰囲気こそ変わりませんが──"
                         },
                         {
                             "code": 101,
@@ -8859,22 +8548,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの頃は、殺気立っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、あるいは……悲しみに暮れていた。"
-                            ]
+                                "back then, you were filled with killing\nintent. Or perhaps... you were drowning\nin sorrow."
+                            ],
+                            "_original": "あの頃は、殺気立っていた。\nいや、あるいは……悲しみに暮れていた。"
                         },
                         {
                             "code": 101,
@@ -8884,22 +8568,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幼い君には、そう見えていたのか。"
-                            ]
+                                "Oh? That's how I seemed to young you?"
+                            ],
+                            "_original": "ほほう。\n幼い君には、そう見えていたのか。"
                         },
                         {
                             "code": 101,
@@ -8909,15 +8588,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の目は正しいですか？"
-                            ]
+                                "Was my impression correct?"
+                            ],
+                            "_original": "私の目は正しいですか？"
                         },
                         {
                             "code": 101,
@@ -8927,29 +8608,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだね。正しいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて私の世界は闇に包まれていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の色もなかったんだ。"
-                            ]
+                                "Yes, it was. My world was once shrouded\nin darkness, with no color at all."
+                            ],
+                            "_original": "そうだね。正しいよ。\nかつて私の世界は闇に包まれていて、\n何の色もなかったんだ。"
                         },
                         {
                             "code": 241,
@@ -8971,29 +8640,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──だけど、音があると知った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅の中で出会った素晴らしい仲間たちが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教えてくれた。"
-                            ]
+                                "―But then, I learned there was sound.\nThe wonderful companions I met on my\njourney taught me that."
+                            ],
+                            "_original": "──だけど、音があると知った。\n旅の中で出会った素晴らしい仲間たちが\n教えてくれた。"
                         },
                         {
                             "code": 101,
@@ -9003,22 +8660,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが\\N[10]殿なのですね。"
-                            ]
+                                "Heh. So that's \\N[10]-sama, then."
+                            ],
+                            "_original": "ふふ。\nそれが\\N[10]殿なのですね。"
                         },
                         {
                             "code": 101,
@@ -9028,22 +8680,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうわけで……"
-                            ]
+                                "Yeah, that's right..."
+                            ],
+                            "_original": "まあね。\nそういうわけで……"
                         },
                         {
                             "code": 241,
@@ -9065,22 +8712,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君が\\N[10]に手を出しているという事実に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はかなりもやっとするんだけど……"
-                            ]
+                                "Still, the fact that you've been getting\ninvolved with \\N[10]... I have to admit, it's\nbeen weighing on me."
+                            ],
+                            "_original": "君が\\N[10]に手を出しているという事実に、\n私はかなりもやっとするんだけど……"
                         },
                         {
                             "code": 213,
@@ -9111,29 +8753,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、こんな時代だし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後継が必要だというのも分かるし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も聞かなかったことにしよう。"
-                            ]
+                                "Well, these are strange times. I\nunderstand the need for an heir... I'll\npretend I didn't hear anything."
+                            ],
+                            "_original": "まあ、こんな時代だし。\n後継が必要だというのも分かるし……\n何も聞かなかったことにしよう。"
                         },
                         {
                             "code": 101,
@@ -9143,15 +8773,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、どうも。"
-                            ]
+                                "U-um, thank you."
+                            ],
+                            "_original": "ど、どうも。"
                         },
                         {
                             "code": 101,
@@ -9161,22 +8793,17 @@
                                 7,
                                 0,
                                 2,
-                                "レステア"
-                            ]
+                                "Restear"
+                            ],
+                            "_original": "レステア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、それじゃあ私はそろそろ行くよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の内に確かめておきたい場所がたくさんあるんだ。"
-                            ]
+                                "Anyway, I should be going soon. There\nare a lot of places I want to check\nwhile I still can."
+                            ],
+                            "_original": "さて、それじゃあ私はそろそろ行くよ。\n今の内に確かめておきたい場所がたくさんあるんだ。"
                         },
                         {
                             "code": 205,
@@ -9245,15 +8872,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お見送りしましょう。"
-                            ]
+                                "Let me see you off."
+                            ],
+                            "_original": "お見送りしましょう。"
                         },
                         {
                             "code": 205,
@@ -9294,22 +8923,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、悳白。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私がするよ。"
-                            ]
+                                "No, Tokuhaku. I'll do it."
+                            ],
+                            "_original": "いや、悳白。\n私がするよ。"
                         },
                         {
                             "code": 101,
@@ -9319,22 +8943,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが……"
-                            ]
+                                "Huh? But..."
+                            ],
+                            "_original": "え？\nですが……"
                         },
                         {
                             "code": 101,
@@ -9344,29 +8963,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと気分転換したいというか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく私が見送るから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君は\\N[10]殿をもてなしてくれ。"
-                            ]
+                                "I just want to clear my head a bit... In\nany case, I'll see him off, so you\nshould entertain \\N[10]-sama."
+                            ],
+                            "_original": "ちょっと気分転換したいというか……\nとにかく私が見送るから、\n君は\\N[10]殿をもてなしてくれ。"
                         },
                         {
                             "code": 101,
@@ -9376,22 +8983,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりました。"
-                            ]
+                                "O-oh. Understood."
+                            ],
+                            "_original": "は、はあ。\n分かりました。"
                         },
                         {
                             "code": 242,
@@ -9505,42 +9107,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『ただのホモ』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※このシーンには「男性同士」表現が含まれます。\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View scene \"Just Homosexual\"? \\C[17]*This scene\ncontains male-on-male content.*\\C[0] \\C[17]*Either choice\nwill be added to memories.*\\C[0]"
+                            ],
+                            "_original": "シーン『ただのホモ』を閲覧しますか？\n\\C[17]※このシーンには「男性同士」表現が含まれます。\\C[0]\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -9615,15 +9209,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【交流追加】\\C[0]"
-                            ]
+                                "\\C[16]【Add Interaction】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【交流追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "淡雪への\\C[27]ろくでもない贈り物\\C[0]が解放されました。"
-                            ]
+                                "Unlocked a \\C[27]worthless gift\\C[0] for Usuyuki."
+                            ],
+                            "_original": "淡雪への\\C[27]ろくでもない贈り物\\C[0]が解放されました。"
                         },
                         {
                             "code": 250,
@@ -9652,15 +9248,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：雨を継ぎ雪となる\\C[0]が更新されました。"
-                            ]
+                                "Event interaction \"From Rain to Snow\"\\C[17] has been\nupdated.\\C[0]"
+                            ],
+                            "_original": "イベントの\\C[17]交流：雨を継ぎ雪となる\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -10060,22 +9658,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒を飲めない淡雪が、酒に合う料理の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試食の仕事をどう切り抜けるか──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局、いい案は思い浮かばなかった。"
-                            ]
+                                "Usuyuki, who couldn't drink alcohol, had no idea\nhow to get through the job of tasting dishes\npaired with drinks. In the end, she couldn't\ncome up with a good solution."
+                            ],
+                            "_original": "酒を飲めない淡雪が、酒に合う料理の\n試食の仕事をどう切り抜けるか──\n結局、いい案は思い浮かばなかった。"
                         },
                         {
                             "code": 101,
@@ -10092,22 +9677,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、大量に飲む必要はないはずだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し味を確かめるくらいであれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "慣れればなんとかなるのではないかと提案した。"
-                            ]
+                                "But she reasoned that she wouldn't need to drink\nmuch. If she just had to check the flavor, maybe\nshe could manage with a little practice."
+                            ],
+                            "_original": "ただ、大量に飲む必要はないはずだ。\n少し味を確かめるくらいであれば、\n慣れればなんとかなるのではないかと提案した。"
                         },
                         {
                             "code": 101,
@@ -10124,8 +9696,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……それは大きな間違いだった。"
-                            ]
+                                "……That turned out to be a huge mistake."
+                            ],
+                            "_original": "……それは大きな間違いだった。"
                         },
                         {
                             "code": 222,
@@ -10203,22 +9776,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うう……\\N[10]どのぉ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり駄目だあ～。"
-                            ]
+                                "Ugh…\\N[10]-samaaa… I really can't do it~."
+                            ],
+                            "_original": "うう……\\N[10]どのぉ……\nやっぱり駄目だあ～。"
                         },
                         {
                             "code": 101,
@@ -10235,22 +9803,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "意を決した淡雪が、グラスの半分ほどの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒を飲んだ結果がこれである。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒に弱いどころの話ではない。"
-                            ]
+                                "The result of her determined attempt to drink\nhalf a glass of alcohol was this. It wasn't just\nthat she was bad with alcohol―it was far worse."
+                            ],
+                            "_original": "意を決した淡雪が、グラスの半分ほどの\n酒を飲んだ結果がこれである。\n酒に弱いどころの話ではない。"
                         },
                         {
                             "code": 101,
@@ -10267,22 +9822,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "古川殿への移動を提案した理由は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうことだったのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神社で醜態を晒すわけにはいかない。"
-                            ]
+                                "The reason she suggested moving to Furukawaden\nwas because of this very situation. She couldn't\nafford to disgrace herself at the shrine."
+                            ],
+                            "_original": "古川殿への移動を提案した理由は、\nこういうことだったのだ。\n神社で醜態を晒すわけにはいかない。"
                         },
                         {
                             "code": 101,
@@ -10292,15 +9834,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう飲めないよお～……"
-                            ]
+                                "I can't drink any moreee~…"
+                            ],
+                            "_original": "もう飲めないよお～……"
                         },
                         {
                             "code": 101,
@@ -10317,15 +9861,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淡雪は意外と子供っぽいところがあるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その極みのような状態になってしまっている。"
-                            ]
+                                "Usuyuki had a surprisingly childish side, and\nnow she was in the most extreme state of it."
+                            ],
+                            "_original": "淡雪は意外と子供っぽいところがあるが、\nその極みのような状態になってしまっている。"
                         },
                         {
                             "code": 101,
@@ -10342,15 +9880,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "執政の名誉を守らなくてはならない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酔いが醒めるまで、ここで待つとしよう……"
-                            ]
+                                "She had to uphold the dignity of the regency.\nUntil the drunkenness wore off, she would have\nto wait here…"
+                            ],
+                            "_original": "執政の名誉を守らなくてはならない。\n酔いが醒めるまで、ここで待つとしよう……"
                         },
                         {
                             "code": 101,
@@ -10360,22 +9892,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～ん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにか、別の飲み物……"
-                            ]
+                                "Mmm… is there… another drink…?"
+                            ],
+                            "_original": "う～ん……\nなにか、別の飲み物……"
                         },
                         {
                             "code": 101,
@@ -10385,22 +9912,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを飲もう……"
-                            ]
+                                "…Ah. I'll drink this…"
+                            ],
+                            "_original": "……あぁ。\nこれを飲もう……"
                         },
                         {
                             "code": 242,
@@ -10470,15 +9992,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そう言って淡雪が取り出したものは──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前に贈った夜伽鬼の甘酒だった。"
-                            ]
+                                "What Usuyuki pulled out was the Yotogi Oni's\nSweet Sake that had been given to her before."
+                            ],
+                            "_original": "そう言って淡雪が取り出したものは──\n以前に贈った夜伽鬼の甘酒だった。"
                         },
                         {
                             "code": 281,
@@ -10579,35 +10095,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『古川殿試食会』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene \"Furukawaden Tasting Party\"? \\C[17]*Any\nchoice will be added to memories.\\C[0]"
+                            ],
+                            "_original": "シーン『古川殿試食会』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -10682,15 +10197,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：雨を継ぎ雪となる\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Exchange: Rain Becomes Snow\\C[0] has been\nupdated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：雨を継ぎ雪となる\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -10964,22 +10481,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絃様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に来られていたとは……"
-                            ]
+                                "Gen-sama. I didn't expect you to arrive\nahead of me…"
+                            ],
+                            "_original": "絃様。\n先に来られていたとは……"
                         },
                         {
                             "code": 213,
@@ -11062,22 +10574,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遅かったわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構待ったわ。"
-                            ]
+                                "You're late. I've been waiting quite a\nwhile."
+                            ],
+                            "_original": "遅かったわね。\n結構待ったわ。"
                         },
                         {
                             "code": 101,
@@ -11087,22 +10594,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てっきり、あとから来られるものかと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに……お一人ですか？"
-                            ]
+                                "I assumed you'd come after me… And… are\nyou alone?"
+                            ],
+                            "_original": "てっきり、あとから来られるものかと……\nそれに……お一人ですか？"
                         },
                         {
                             "code": 101,
@@ -11112,22 +10614,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなわけないでしょ。忍びが待機してる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近、呼んだら来てくれるようになったのよね。"
-                            ]
+                                "Of course not. My ninjas are on standby.\nThey've started coming when I call for\nthem lately."
+                            ],
+                            "_original": "そんなわけないでしょ。忍びが待機してる。\n最近、呼んだら来てくれるようになったのよね。"
                         },
                         {
                             "code": 101,
@@ -11137,22 +10634,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうでしたか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安心しました。"
-                            ]
+                                "I see. That's a relief."
+                            ],
+                            "_original": "そうでしたか。\n安心しました。"
                         },
                         {
                             "code": 101,
@@ -11162,22 +10654,17 @@
                                 5,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "で、大事な話って何？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "城で話せない理由は？"
-                            ]
+                                "So, what's this important matter? Why\ncouldn't we discuss it at the castle?"
+                            ],
+                            "_original": "で、大事な話って何？\n城で話せない理由は？"
                         },
                         {
                             "code": 101,
@@ -11187,22 +10674,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お話しします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずはお茶を用意しましょう──"
-                            ]
+                                "I'll explain. First, let's prepare some\ntea―"
+                            ],
+                            "_original": "お話しします。\nまずはお茶を用意しましょう──"
                         },
                         {
                             "code": 242,
@@ -11324,8 +10806,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淡雪は後継について絃に話した……"
-                            ]
+                                "Usuyuki told Gen about the succession…"
+                            ],
+                            "_original": "淡雪は後継について絃に話した……"
                         },
                         {
                             "code": 222,
@@ -11438,22 +10921,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまえの考えは分かったわ。"
-                            ]
+                                "I see… I understand your reasoning."
+                            ],
+                            "_original": "なるほど……\nおまえの考えは分かったわ。"
                         },
                         {
                             "code": 117,
@@ -11470,22 +10948,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私もいつまでも現役ではいられません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絃様とは年の差もありますし……"
-                            ]
+                                "I can't stay active forever either. And there's\nthe age gap between us…"
+                            ],
+                            "_original": "私もいつまでも現役ではいられません。\n絃様とは年の差もありますし……"
                         },
                         {
                             "code": 117,
@@ -11518,29 +10991,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく、おまえに相応しい虎に少し近づけたと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってたところだったから残念だけど。"
-                            ]
+                                "True. I was just starting to think you'd finally\ngrown into a tiger worthy of me, but… well, it's\na shame."
+                            ],
+                            "_original": "そうね。\nようやく、おまえに相応しい虎に少し近づけたと\n思ってたところだったから残念だけど。"
                         },
                         {
                             "code": 117,
@@ -11573,22 +11034,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なんと身に余るお言葉でしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "涙が出そうです。"
-                            ]
+                                "…What an overwhelming compliment. I could cry."
+                            ],
+                            "_original": "……なんと身に余るお言葉でしょう。\n涙が出そうです。"
                         },
                         {
                             "code": 117,
@@ -11621,22 +11077,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、まだ先の話じゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに年老いてないでしょ。"
-                            ]
+                                "But it's still a ways off, right? You're not\nthat old yet."
+                            ],
+                            "_original": "でも、まだ先の話じゃない？\nそんなに年老いてないでしょ。"
                         },
                         {
                             "code": 117,
@@ -11669,22 +11120,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "職務に支障はありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子を成すには少々……"
-                            ]
+                                "I can still perform my duties, but… for bearing\na child, it's a bit…"
+                            ],
+                            "_original": "職務に支障はありませんが、\n子を成すには少々……"
                         },
                         {
                             "code": 117,
@@ -11701,15 +11147,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今すぐ産みたいってこと？"
-                            ]
+                                "You want to have one right now?"
+                            ],
+                            "_original": "今すぐ産みたいってこと？"
                         },
                         {
                             "code": 117,
@@ -11726,15 +11174,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、はい。"
-                            ]
+                                "Well, yes."
+                            ],
+                            "_original": "まあ、はい。"
                         },
                         {
                             "code": 117,
@@ -11751,15 +11201,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マナ生まれじゃ駄目なの？"
-                            ]
+                                "Can't you just use mana to create one?"
+                            ],
+                            "_original": "マナ生まれじゃ駄目なの？"
                         },
                         {
                             "code": 117,
@@ -11776,15 +11228,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それは……"
-                            ]
+                                "Th-that's…"
+                            ],
+                            "_original": "そ、それは……"
                         },
                         {
                             "code": 101,
@@ -11801,15 +11255,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一瞬、淡雪と目が合った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこに関しては彼女のわがままだ。"
-                            ]
+                                "For a moment, Usuyuki met her gaze. That was her\none selfish demand."
+                            ],
+                            "_original": "一瞬、淡雪と目が合った。\nそこに関しては彼女のわがままだ。"
                         },
                         {
                             "code": 242,
@@ -11849,22 +11297,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ああっ、そっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おまえって恋愛に憧れてたわね。"
-                            ]
+                                "…Ahh, right. You've always longed for love,\nhaven't you?"
+                            ],
+                            "_original": "……ああっ、そっか。\nおまえって恋愛に憧れてたわね。"
                         },
                         {
                             "code": 117,
@@ -11897,15 +11340,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっ……"
-                            ]
+                                "Wha―…"
+                            ],
+                            "_original": "なっ……"
                         },
                         {
                             "code": 117,
@@ -11938,22 +11383,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昔からそうなんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全然似合わなくて面白いわ。"
-                            ]
+                                "You have, since forever. It's amusing how it\ndoesn't suit you at all."
+                            ],
+                            "_original": "昔からそうなんでしょ？\n全然似合わなくて面白いわ。"
                         },
                         {
                             "code": 241,
@@ -11998,15 +11438,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なぜそれを……"
-                            ]
+                                "H-how did you…?"
+                            ],
+                            "_original": "な、なぜそれを……"
                         },
                         {
                             "code": 117,
@@ -12023,22 +11465,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "母上がよく言ってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前がこっそり読んでる本とかも持ってきてくれた。"
-                            ]
+                                "My mother used to tell me. She even brought me\nthe books you'd sneak off to read."
+                            ],
+                            "_original": "母上がよく言ってたわ。\nお前がこっそり読んでる本とかも持ってきてくれた。"
                         },
                         {
                             "code": 117,
@@ -12055,15 +11492,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あの腕白者……！"
-                            ]
+                                "That brat…!"
+                            ],
+                            "_original": "あ、あの腕白者……！"
                         },
                         {
                             "code": 117,
@@ -12080,22 +11519,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なによ、別に恥ずかしがることじゃないじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちは分かるし。"
-                            ]
+                                "What? There's nothing to be ashamed of. I get\nit."
+                            ],
+                            "_original": "なによ、別に恥ずかしがることじゃないじゃない？\n気持ちは分かるし。"
                         },
                         {
                             "code": 117,
@@ -12112,22 +11546,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、その……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい年して何をという感じが……"
-                            ]
+                                "N-no, it's just… at my age, it feels…"
+                            ],
+                            "_original": "いや、その……\nいい年して何をという感じが……"
                         },
                         {
                             "code": 117,
@@ -12144,22 +11573,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "些細な問題でしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもみたいに堂々としなさい。"
-                            ]
+                                "It's a minor issue. Act as bold as you always\ndo."
+                            ],
+                            "_original": "些細な問題でしょ。\nいつもみたいに堂々としなさい。"
                         },
                         {
                             "code": 117,
@@ -12176,8 +11600,9 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
@@ -12208,22 +11633,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\N[10]のことが好きなわけ？"
-                            ]
+                                "So? Do you like \\N[10]?"
+                            ],
+                            "_original": "それで？\n\\N[10]のことが好きなわけ？"
                         },
                         {
                             "code": 117,
@@ -12240,22 +11660,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…………\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふう……"
-                            ]
+                                "………… \\! Hah…"
+                            ],
+                            "_original": "…………\\!\nふう……"
                         },
                         {
                             "code": 117,
@@ -12288,15 +11703,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ふう。"
-                            ]
+                                "...Hah."
+                            ],
+                            "_original": "……ふう。"
                         },
                         {
                             "code": 241,
@@ -12334,22 +11751,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは正直なところ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ分かりません。"
-                            ]
+                                "To be honest... I still don't know."
+                            ],
+                            "_original": "それは正直なところ……\nまだ分かりません。"
                         },
                         {
                             "code": 117,
@@ -12382,22 +11794,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、そうなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残念だったわね、\\N[10]。"
-                            ]
+                                "Oh, is that so? Too bad, \\N[10]."
+                            ],
+                            "_original": "あら、そうなの。\n残念だったわね、\\N[10]。"
                         },
                         {
                             "code": 117,
@@ -12414,22 +11821,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに私は恋愛というものに憧れていますし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからこそ異性との間にできた子を望んでいます。"
-                            ]
+                                "It's true that I yearn for love, and that's why\nI desire a child born between a man and a woman."
+                            ],
+                            "_original": "確かに私は恋愛というものに憧れていますし、\nだからこそ異性との間にできた子を望んでいます。"
                         },
                         {
                             "code": 231,
@@ -12455,22 +11857,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……が、やはり本質は後継の方です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ってしまえば、私は\\N[10]殿を利用している。"
-                            ]
+                                "...But in the end, my true purpose is to produce\nan heir. In other words, I'm using you, \\N[10]-dono."
+                            ],
+                            "_original": "……が、やはり本質は後継の方です。\n言ってしまえば、私は\\N[10]殿を利用している。"
                         },
                         {
                             "code": 117,
@@ -12503,22 +11900,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういうところは淡雪っぽいわねえ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通に恋愛してみればいいのに。"
-                            ]
+                                "That's so like you, Usuyuki... Why not just fall\nin love normally?"
+                            ],
+                            "_original": "そういうところは淡雪っぽいわねえ……\n普通に恋愛してみればいいのに。"
                         },
                         {
                             "code": 231,
@@ -12544,22 +11936,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……それで、結局私に何を望むの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ不安だってことを話したかったわけじゃないわよね。"
-                            ]
+                                "...So, what do you want from me in the end? You\ndidn't just want to talk about your worries, did\nyou?"
+                            ],
+                            "_original": "……それで、結局私に何を望むの？\nただ不安だってことを話したかったわけじゃないわよね。"
                         },
                         {
                             "code": 117,
@@ -12592,15 +11979,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はどうすべきだと思いますか？"
-                            ]
+                                "What do you think I should do?"
+                            ],
+                            "_original": "私はどうすべきだと思いますか？"
                         },
                         {
                             "code": 117,
@@ -12633,15 +12022,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は？"
-                            ]
+                                "Huh?"
+                            ],
+                            "_original": "は？"
                         },
                         {
                             "code": 117,
@@ -12658,29 +12049,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "命令をください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "将軍様にマナ生まれで作れと言われれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は納得できます。"
-                            ]
+                                "Give me an order. If the General told me to make\na child with Manaborn, I could accept it."
+                            ],
+                            "_original": "命令をください。\n将軍様にマナ生まれで作れと言われれば、\n私は納得できます。"
                         },
                         {
                             "code": 117,
@@ -12713,15 +12092,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……自分で決められないの？"
-                            ]
+                                "...Can't you decide for yourself?"
+                            ],
+                            "_original": "……自分で決められないの？"
                         },
                         {
                             "code": 117,
@@ -12738,15 +12119,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恥ずかしながら。"
-                            ]
+                                "Unfortunately, no."
+                            ],
+                            "_original": "恥ずかしながら。"
                         },
                         {
                             "code": 117,
@@ -12763,8 +12146,9 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
@@ -12788,15 +12172,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絃がこちらを見た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意見を聞きたいのだろう。"
-                            ]
+                                "Gen looked this way. She probably wants my\nopinion."
+                            ],
+                            "_original": "絃がこちらを見た。\n意見を聞きたいのだろう。"
                         },
                         {
                             "code": 101,
@@ -12813,15 +12191,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分は淡雪との後継作りをどう思っているのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えを述べようとしたところ──"
-                            ]
+                                "She was about to state her thoughts on how she\nfelt about having an heir with Usuyuki―"
+                            ],
+                            "_original": "自分は淡雪との後継作りをどう思っているのか、\n考えを述べようとしたところ──"
                         },
                         {
                             "code": 242,
@@ -12854,22 +12226,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "駄目ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分で決めなさい。"
-                            ]
+                                "No. Decide for yourself."
+                            ],
+                            "_original": "駄目ね。\n自分で決めなさい。"
                         },
                         {
                             "code": 117,
@@ -12902,15 +12269,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え……"
-                            ]
+                                "Eh...?"
+                            ],
+                            "_original": "え……"
                         },
                         {
                             "code": 117,
@@ -12943,22 +12312,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]と話し合って考えなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命令よ。"
-                            ]
+                                "Talk it over with \\N[10] and think it through. That's\nan order."
+                            ],
+                            "_original": "\\N[10]と話し合って考えなさい。\n命令よ。"
                         },
                         {
                             "code": 101,
@@ -12968,22 +12332,17 @@
                                 2,
                                 0,
                                 2,
-                                "絃"
-                            ]
+                                "Gen"
+                            ],
+                            "_original": "絃"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はもう城に戻るから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあね。"
-                            ]
+                                "I'm returning to the castle now. See you."
+                            ],
+                            "_original": "私はもう城に戻るから。\nじゃあね。"
                         },
                         {
                             "code": 117,
@@ -13016,15 +12375,17 @@
                                 2,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、絃様！"
-                            ]
+                                "W-Wait, Gen-sama!"
+                            ],
+                            "_original": "い、絃様！"
                         },
                         {
                             "code": 242,
@@ -13208,35 +12569,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『執政は雌になる』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene \"The Ruler Becomes Female\"? \\C[17]*Any\nchoice will be added to memories.\\C[0]"
+                            ],
+                            "_original": "シーン『執政は雌になる』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -13311,15 +12671,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント完了】\\C[0]"
-                            ]
+                                "\\C[16]【Event Complete】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント完了】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]交流：雨を継ぎ雪となる\\C[0] 達成！"
-                            ]
+                                "\\C[17]Interaction: Rain Succeeds Snow\\C[0] achieved!"
+                            ],
+                            "_original": "\\C[17]交流：雨を継ぎ雪となる\\C[0] 達成！"
                         },
                         {
                             "code": 250,
@@ -13348,22 +12710,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【交流追加】\\C[0]"
-                            ]
+                                "\\C[16]【Add Interaction】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【交流追加】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "淡雪との\\C[27]清殿神事\\C[0]が解放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "清殿にて訪問を待ってみましょう……"
-                            ]
+                                "The \\C[27]Seiden Sacred Rite\\C[0] with Usuyuki has been\nunlocked. Try visiting her at Seiden..."
+                            ],
+                            "_original": "淡雪との\\C[27]清殿神事\\C[0]が解放されました。\n清殿にて訪問を待ってみましょう……"
                         },
                         {
                             "code": 250,
@@ -13651,8 +13008,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綺麗な壺だ。"
-                            ]
+                                "What a beautiful vase."
+                            ],
+                            "_original": "綺麗な壺だ。"
                         },
                         {
                             "code": 0,
@@ -13738,8 +13096,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "靴箱だ。"
-                            ]
+                                "It's a shoe locker."
+                            ],
+                            "_original": "靴箱だ。"
                         },
                         {
                             "code": 0,
@@ -13835,8 +13194,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "屋内用の履物がある。"
-                            ]
+                                "There are indoor shoes."
+                            ],
+                            "_original": "屋内用の履物がある。"
                         },
                         {
                             "code": 0,
@@ -13932,8 +13292,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シキノワ風の棚だ。"
-                            ]
+                                "This is a shelf of the Shikinoa Wind."
+                            ],
+                            "_original": "シキノワ風の棚だ。"
                         },
                         {
                             "code": 0,
@@ -14029,8 +13390,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シキノワ風の棚だ。"
-                            ]
+                                "This is a shelf of the Shikinoa Wind."
+                            ],
+                            "_original": "シキノワ風の棚だ。"
                         },
                         {
                             "code": 0,
@@ -14117,8 +13479,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シキノワ風の台所だ。"
-                            ]
+                                "This is the Shikino Wind kitchen."
+                            ],
+                            "_original": "シキノワ風の台所だ。"
                         },
                         {
                             "code": 0,
@@ -14195,8 +13558,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "炭を入れるための壺だ。"
-                            ]
+                                "A jar for holding charcoal."
+                            ],
+                            "_original": "炭を入れるための壺だ。"
                         },
                         {
                             "code": 0,
@@ -14273,8 +13637,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座布団が積まれている。"
-                            ]
+                                "There are stacked zabuton cushions."
+                            ],
+                            "_original": "座布団が積まれている。"
                         },
                         {
                             "code": 0,
@@ -14351,8 +13716,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座布団が積まれている。"
-                            ]
+                                "There are stacked zabuton cushions."
+                            ],
+                            "_original": "座布団が積まれている。"
                         },
                         {
                             "code": 0,
@@ -14407,3 +13773,4 @@
         null
     ]
 }
+

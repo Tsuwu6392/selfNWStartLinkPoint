@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "テストマップ",
+    "displayName": "Test Map",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4920,8 +4920,9 @@
                                 0,
                                 0,
                                 2,
-                                "シュウ"
-                            ]
+                                "Shuu"
+                            ],
+                            "_original": "シュウ"
                         },
                         {
                             "code": 401,
@@ -4935,13 +4936,17 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "レベル調整（50）",
-                                    "レベル調整（60）"
+                                    "Level Adjustment (50)",
+                                    "Level Adjustment (60)"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "レベル調整（50）",
+                                "レベル調整（60）"
                             ]
                         },
                         {
@@ -4979,35 +4984,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【レベル調整】\\C[0]"
-                            ]
+                                "\\C[16]【Level Adjustment】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【レベル調整】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全員のレベルを50にします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スキルツリーはすべて初期化されます。"
-                            ]
+                                "Sets everyone's level to 50. All skill trees\nwill be reset."
+                            ],
+                            "_original": "全員のレベルを50にします。\nスキルツリーはすべて初期化されます。"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "調整する",
-                                    "しない"
+                                    "Adjust",
+                                    "Don't adjust"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "調整する",
+                                "しない"
                             ]
                         },
                         {
@@ -5285,35 +5289,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【レベル調整】\\C[0]"
-                            ]
+                                "\\C[16]【Level Adjustment】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【レベル調整】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全員のレベルを60にします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スキルツリーはすべて初期化されます。"
-                            ]
+                                "Sets everyone's level to 60. All skill trees\nwill be reset."
+                            ],
+                            "_original": "全員のレベルを60にします。\nスキルツリーはすべて初期化されます。"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "調整する",
-                                    "しない"
+                                    "Adjust",
+                                    "Don't adjust"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "調整する",
+                                "しない"
                             ]
                         },
                         {
@@ -5566,12 +5569,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ち去る"
+                                    "Leave"
                                 ],
                                 0,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "立ち去る"
                             ]
                         },
                         {
@@ -5651,8 +5657,9 @@
                                 0,
                                 0,
                                 2,
-                                "シュウ"
-                            ]
+                                "Shuu"
+                            ],
+                            "_original": "シュウ"
                         },
                         {
                             "code": 401,
@@ -5666,12 +5673,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "不具合修正"
+                                    "Bug Fix"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "不具合修正"
                             ]
                         },
                         {
@@ -5709,15 +5719,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【不具合修正】\\C[0]"
-                            ]
+                                "\\C[16]【Bug Fix】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【不具合修正】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "修正する必要はありません。"
-                            ]
+                                "There is no need to fix it."
+                            ],
+                            "_original": "修正する必要はありません。"
                         },
                         {
                             "code": 0,
@@ -5734,12 +5746,15 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "立ち去る"
+                                    "Leave"
                                 ],
                                 0,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "立ち去る"
                             ]
                         },
                         {
@@ -7407,8 +7422,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "速く"
-                            ]
+                                "Faster"
+                            ],
+                            "_original": "速く"
                         },
                         {
                             "code": 357,
@@ -7562,8 +7578,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テストテストテスト"
-                            ]
+                                "Test test test"
+                            ],
+                            "_original": "テストテストテスト"
                         },
                         {
                             "code": 357,
@@ -7630,8 +7647,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐりぐり"
-                            ]
+                                "Grinding"
+                            ],
+                            "_original": "ぐりぐり"
                         },
                         {
                             "code": 357,
@@ -7785,8 +7803,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "射精"
-                            ]
+                                "Cum"
+                            ],
+                            "_original": "射精"
                         },
                         {
                             "code": 357,
@@ -8004,8 +8023,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "終了"
-                            ]
+                                "End"
+                            ],
+                            "_original": "終了"
                         },
                         {
                             "code": 117,
@@ -8448,8 +8468,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テキスト"
-                            ]
+                                "Text"
+                            ],
+                            "_original": "テキスト"
                         },
                         {
                             "code": 357,
@@ -8517,8 +8538,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テキスト"
-                            ]
+                                "Text"
+                            ],
+                            "_original": "テキスト"
                         },
                         {
                             "code": 357,
@@ -8591,21 +8613,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精"
-                            ]
+                                "Ejaculation"
+                            ],
+                            "_original": "射精"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "射精",
-                                    "いいえ"
+                                    "Ejaculate",
+                                    "No"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "射精",
+                                "いいえ"
                             ]
                         },
                         {
@@ -8748,8 +8775,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "テキスト"
-                            ]
+                                "Text"
+                            ],
+                            "_original": "テキスト"
                         },
                         {
                             "code": 0,
@@ -8871,12 +8899,18 @@
                                     "１",
                                     "２",
                                     "３",
-                                    "立ち去る"
+                                    "Leave"
                                 ],
                                 3,
                                 -1,
                                 1,
                                 1
+                            ],
+                            "_original": [
+                                null,
+                                null,
+                                null,
+                                "立ち去る"
                             ]
                         },
                         {
@@ -9080,8 +9114,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精"
-                            ]
+                                "Ejaculation"
+                            ],
+                            "_original": "射精"
                         },
                         {
                             "code": 357,
@@ -9155,8 +9190,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精"
-                            ]
+                                "Ejaculation"
+                            ],
+                            "_original": "射精"
                         },
                         {
                             "code": 357,
@@ -9317,8 +9353,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "責め"
-                            ]
+                                "Tease"
+                            ],
+                            "_original": "責め"
                         },
                         {
                             "code": 357,
@@ -9520,8 +9557,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精"
-                            ]
+                                "Ejaculation"
+                            ],
+                            "_original": "射精"
                         },
                         {
                             "code": 357,
@@ -9631,8 +9669,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精"
-                            ]
+                                "Ejaculation"
+                            ],
+                            "_original": "射精"
                         },
                         {
                             "code": 250,
@@ -9726,8 +9765,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "終了"
-                            ]
+                                "End"
+                            ],
+                            "_original": "終了"
                         },
                         {
                             "code": 117,
@@ -9973,14 +10013,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "パターン１",
-                                    "パターン２",
-                                    "終了"
+                                    "Pattern 1",
+                                    "Pattern 2",
+                                    "End"
                                 ],
                                 2,
                                 -1,
                                 1,
                                 1
+                            ],
+                            "_original": [
+                                "パターン１",
+                                "パターン２",
+                                "終了"
                             ]
                         },
                         {
@@ -10179,16 +10224,23 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "速度：普通",
-                                    "速度：遅い",
-                                    "速度：速い",
-                                    "射精",
-                                    "戻る"
+                                    "Speed: Normal",
+                                    "Speed: Slow",
+                                    "Speed: Fast",
+                                    "Ejaculate",
+                                    "Back"
                                 ],
                                 4,
                                 -1,
                                 1,
                                 1
+                            ],
+                            "_original": [
+                                "速度：普通",
+                                "速度：遅い",
+                                "速度：速い",
+                                "射精",
+                                "戻る"
                             ]
                         },
                         {
@@ -11048,16 +11100,23 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "速度：普通",
-                                    "速度：遅い",
-                                    "速度：速い",
-                                    "射精",
-                                    "戻る"
+                                    "Speed: Normal",
+                                    "Speed: Slow",
+                                    "Speed: Fast",
+                                    "Ejaculate",
+                                    "Back"
                                 ],
                                 4,
                                 -1,
                                 1,
                                 1
+                            ],
+                            "_original": [
+                                "速度：普通",
+                                "速度：遅い",
+                                "速度：速い",
+                                "射精",
+                                "戻る"
                             ]
                         },
                         {
@@ -12301,22 +12360,17 @@
                                 0,
                                 0,
                                 2,
-                                "イノ"
-                            ]
+                                "Ino"
+                            ],
+                            "_original": "イノ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一度こちら側から開けてしまえば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その後はどちら側からでも開けられそうですね。"
-                            ]
+                                "If we open it from this side once, then\nit seems it can be opened from either\nside afterwards."
+                            ],
+                            "_original": "一度こちら側から開けてしまえば、\nその後はどちら側からでも開けられそうですね。"
                         },
                         {
                             "code": 250,
@@ -12641,15 +12695,17 @@
                                 0,
                                 0,
                                 2,
-                                "イノ"
-                            ]
+                                "Ino"
+                            ],
+                            "_original": "イノ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちら側からでは開けられないようです。"
-                            ]
+                                "It seems it cannot be opened from this\nside."
+                            ],
+                            "_original": "こちら側からでは開けられないようです。"
                         },
                         {
                             "code": 0,
@@ -13150,15 +13206,17 @@
                                 0,
                                 0,
                                 2,
-                                "イノ"
-                            ]
+                                "Ino"
+                            ],
+                            "_original": "イノ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この鍵で開けられそうです。"
-                            ]
+                                "It looks like we can open it with this\nkey."
+                            ],
+                            "_original": "この鍵で開けられそうです。"
                         },
                         {
                             "code": 101,
@@ -13175,8 +13233,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]ラヴィニーの鍵\\C[0]を使った。"
-                            ]
+                                "\\C[3]Used Ravigny's key\\C[0]."
+                            ],
+                            "_original": "\\C[3]ラヴィニーの鍵\\C[0]を使った。"
                         },
                         {
                             "code": 250,
@@ -13338,15 +13397,17 @@
                                 0,
                                 0,
                                 2,
-                                "イノ"
-                            ]
+                                "Ino"
+                            ],
+                            "_original": "イノ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鍵がかかっていますね……"
-                            ]
+                                "It's locked..."
+                            ],
+                            "_original": "鍵がかかっていますね……"
                         },
                         {
                             "code": 0,
@@ -13568,15 +13629,17 @@
                                 0,
                                 0,
                                 2,
-                                "イノ"
-                            ]
+                                "Ino"
+                            ],
+                            "_original": "イノ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こちら側からでは開けられないようです。"
-                            ]
+                                "It seems it can't be opened from this\nside."
+                            ],
+                            "_original": "こちら側からでは開けられないようです。"
                         },
                         {
                             "code": 0,

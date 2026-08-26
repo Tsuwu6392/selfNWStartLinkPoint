@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "ホテル・シュクラーン",
+    "displayName": "Hotel Shukran",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4172,22 +4172,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ、ホテル・シュクラーンへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご予約のお客様ですか？"
-                            ]
+                                "Welcome to Hotel Shukran. Do you have a\nreservation?"
+                            ],
+                            "_original": "ようこそ、ホテル・シュクラーンへ。\nご予約のお客様ですか？"
                         },
                         {
                             "code": 101,
@@ -4197,22 +4192,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいえ、私たちは客ではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ宿泊客を確認したいだけです。"
-                            ]
+                                "No, we are not guests. We simply wish to\nconfirm the lodgers."
+                            ],
+                            "_original": "いいえ、私たちは客ではありません。\nただ宿泊客を確認したいだけです。"
                         },
                         {
                             "code": 101,
@@ -4222,22 +4212,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご宿泊のお客様を、ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "申し訳ございませんが、そういった情報は──"
-                            ]
+                                "The lodgers, you say? I'm afraid that sort of\ninformation is―"
+                            ],
+                            "_original": "ご宿泊のお客様を、ですか？\n申し訳ございませんが、そういった情報は──"
                         },
                         {
                             "code": 101,
@@ -4247,15 +4232,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「神の一族が命じる」。"
-                            ]
+                                "\"The Divine Clan commands it.\""
+                            ],
+                            "_original": "「神の一族が命じる」。"
                         },
                         {
                             "code": 250,
@@ -4286,15 +4273,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "──現在ご宿泊のお客様の情報はこちらになります。"
-                            ]
+                                "―Here is the information on our current lodgers."
+                            ],
+                            "_original": "──現在ご宿泊のお客様の情報はこちらになります。"
                         },
                         {
                             "code": 101,
@@ -4304,15 +4293,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます。"
-                            ]
+                                "Thank you."
+                            ],
+                            "_original": "ありがとうございます。"
                         },
                         {
                             "code": 204,
@@ -4363,22 +4354,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、皆様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "客室へと向かいましょう。"
-                            ]
+                                "Now, everyone. Let's head to the guest\nrooms."
+                            ],
+                            "_original": "さあ、皆様。\n客室へと向かいましょう。"
                         },
                         {
                             "code": 101,
@@ -4388,22 +4374,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、ええと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ザフラ殿、今のは……"
-                            ]
+                                "Uh, um... Lord Zafra, that just now\nwas..."
+                            ],
+                            "_original": "え、ええと。\nザフラ殿、今のは……"
                         },
                         {
                             "code": 101,
@@ -4413,22 +4394,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にナズナさんも気になったのですね。"
-                            ]
+                                "Oh? Even Nazuna-san noticed, huh?"
+                            ],
+                            "_original": "おや。\n流石にナズナさんも気になったのですね。"
                         },
                         {
                             "code": 101,
@@ -4438,15 +4414,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オルーサを操っていたような。"
-                            ]
+                                "It was like you were controlling Orsa."
+                            ],
+                            "_original": "オルーサを操っていたような。"
                         },
                         {
                             "code": 101,
@@ -4456,22 +4434,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれは、なんというか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特殊な命令です。"
-                            ]
+                                "That was... how to put it... a special\ncommand."
+                            ],
+                            "_original": "あれは、なんというか……\n特殊な命令です。"
                         },
                         {
                             "code": 101,
@@ -4481,22 +4454,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんなことができるなら、ロイドちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張る必要もないんじゃないか？"
-                            ]
+                                "If you can do that, then Lloyd-chan\nwouldn't need to work so hard, right?"
+                            ],
+                            "_original": "あんなことができるなら、ロイドちゃんが\n頑張る必要もないんじゃないか？"
                         },
                         {
                             "code": 101,
@@ -4506,22 +4474,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、命令には限りがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決して万能ではありません。"
-                            ]
+                                "No, the command has its limits. It's by\nno means omnipotent."
+                            ],
+                            "_original": "いえ、命令には限りがあります。\n決して万能ではありません。"
                         },
                         {
                             "code": 101,
@@ -4531,22 +4494,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の記憶が正しければ、あなたは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女王陛下にも命令を行使していたはずだ。"
-                            ]
+                                "If my memory serves, you also used a\ncommand on Her Majesty the Queen."
+                            ],
+                            "_original": "私の記憶が正しければ、あなたは\n女王陛下にも命令を行使していたはずだ。"
                         },
                         {
                             "code": 101,
@@ -4556,22 +4514,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出発前、取り乱した我が神を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠らせた時のことですね。"
-                            ]
+                                "Ah, you mean when I calmed our frantic\ngod before we departed."
+                            ],
+                            "_original": "出発前、取り乱した我が神を\n眠らせた時のことですね。"
                         },
                         {
                             "code": 101,
@@ -4581,15 +4534,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つ、つまり神にも通用する裏技なんですか？"
-                            ]
+                                "S-So it's like a cheat code that even\nworks on gods?"
+                            ],
+                            "_original": "つ、つまり神にも通用する裏技なんですか？"
                         },
                         {
                             "code": 101,
@@ -4599,22 +4554,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと、まあ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい。"
-                            ]
+                                "Uh, well... yes."
+                            ],
+                            "_original": "ええと、まあ……\nはい。"
                         },
                         {
                             "code": 101,
@@ -4624,15 +4574,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごい！"
-                            ]
+                                "Amazing!"
+                            ],
+                            "_original": "すごい！"
                         },
                         {
                             "code": 101,
@@ -4642,29 +4594,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……なぜそんなことができるのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "という話になるがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今更お前を疑いはしまいが。"
-                            ]
+                                "…That does raise the question of how\nyou're capable of such a thing. But I\nsuppose it's too late to doubt you now."
+                            ],
+                            "_original": "……なぜそんなことができるのか、\nという話になるがな。\n今更お前を疑いはしまいが。"
                         },
                         {
                             "code": 101,
@@ -4674,29 +4614,17 @@
                                 5,
                                 0,
                                 2,
-                                "ザフラ"
-                            ]
+                                "Zafra"
+                            ],
+                            "_original": "ザフラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "機会があればお話しします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ともあれ、今は客室に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朗報がありますので。"
-                            ]
+                                "I'll explain if the opportunity arises.\nFor now, let's go to the guest rooms. I\nhave good news."
+                            ],
+                            "_original": "機会があればお話しします。\nともあれ、今は客室に。\n朗報がありますので。"
                         },
                         {
                             "code": 101,
@@ -4706,22 +4634,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "朗報？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしや……"
-                            ]
+                                "Good news? Could it be…?"
+                            ],
+                            "_original": "朗報？\nもしや……"
                         },
                         {
                             "code": 221,
@@ -4868,35 +4791,34 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ、ホテル・シュクラーンへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お休みになられますか？"
-                            ]
+                                "Welcome to Hotel Shukran. Will you be staying\nthe night?"
+                            ],
+                            "_original": "ようこそ、ホテル・シュクラーンへ。\nお休みになられますか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "なられる",
-                                    "なられない"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "なられる",
+                                "なられない"
                             ]
                         },
                         {
@@ -4915,15 +4837,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "客室までご案内いたします。"
-                            ]
+                                "I'll show you to your room."
+                            ],
+                            "_original": "客室までご案内いたします。"
                         },
                         {
                             "code": 221,
@@ -4991,15 +4915,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
+                                "We look forward to your next visit."
+                            ],
+                            "_original": "またのお越しをお待ちしております。"
                         },
                         {
                             "code": 0,
@@ -5022,22 +4948,17 @@
                                 0,
                                 0,
                                 2,
-                                "オルーサ"
-                            ]
+                                "Orsa"
+                            ],
+                            "_original": "オルーサ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さようなら、お客様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またのお越しをお待ちしております。"
-                            ]
+                                "Goodbye, Customer. We look forward to your next\nvisit."
+                            ],
+                            "_original": "さようなら、お客様。\nまたのお越しをお待ちしております。"
                         },
                         {
                             "code": 0,
@@ -5689,15 +5610,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふしぎ！"
-                            ]
+                                "How strange!"
+                            ],
+                            "_original": "ふしぎ！"
                         },
                         {
                             "code": 0,

@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "鬨宮城",
+    "displayName": "Toki Palace",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4391,22 +4391,17 @@
                                 0,
                                 0,
                                 2,
-                                "宝島"
-                            ]
+                                "Takarajima"
+                            ],
+                            "_original": "宝島"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触るな！"
-                            ]
+                                "Hey! Don't touch!"
+                            ],
+                            "_original": "こら！\n触るな！"
                         },
                         {
                             "code": 205,
@@ -4455,15 +4450,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさい！"
-                            ]
+                                "Sorry!"
+                            ],
+                            "_original": "ごめんなさい！"
                         },
                         {
                             "code": 205,
@@ -4638,22 +4635,17 @@
                                 0,
                                 0,
                                 2,
-                                "宝島"
-                            ]
+                                "Takarajima"
+                            ],
+                            "_original": "宝島"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この転送剣を使用できるのはごく限られた者のみ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "要人とて認められぬぞ。"
-                            ]
+                                "Only a select few can use this transfer sword.\nNot even VIPs are permitted."
+                            ],
+                            "_original": "この転送剣を使用できるのはごく限られた者のみ。\n要人とて認められぬぞ。"
                         },
                         {
                             "code": 0,
@@ -4714,22 +4706,17 @@
                                 0,
                                 0,
                                 2,
-                                "宝島"
-                            ]
+                                "Takarajima"
+                            ],
+                            "_original": "宝島"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たちはこの転送剣を使用してよいとのこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……よほどの恩があるようだ。"
-                            ]
+                                "You may use this transfer sword. ...You must\nhave done quite a favor for them."
+                            ],
+                            "_original": "お前たちはこの転送剣を使用してよいとのこと。\n……よほどの恩があるようだ。"
                         },
                         {
                             "code": 0,

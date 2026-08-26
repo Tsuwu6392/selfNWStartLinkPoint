@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "眠りの森",
+    "displayName": "Sleeping Forest",
     "encounterList": [
         {
             "troopId": 109,
@@ -12624,22 +12624,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "首無しのお地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅむ、なんと無残な……"
-                            ]
+                                "It's a headless Jizo statue... Hmm, how\ntragic..."
+                            ],
+                            "_original": "首無しのお地蔵様だ。\nうぅむ、なんと無残な……"
                         },
                         {
                             "code": 0,

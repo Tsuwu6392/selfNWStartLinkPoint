@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "秋水京",
+    "displayName": "Shusuikyo",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3391,15 +3391,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之丞"
-                            ]
+                                "Ponnojo"
+                            ],
+                            "_original": "ぽん之丞"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いらっしゃいぽん～。"
-                            ]
+                                "Welcome, pon~."
+                            ],
+                            "_original": "いらっしゃいぽん～。"
                         },
                         {
                             "code": 101,
@@ -3409,22 +3411,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妖狸の店……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしやここは\\N[10]殿が言っていた……"
-                            ]
+                                "A Mystic Tanuki's shop... Could this be\nthe place that \\N[10]-sama mentioned...?"
+                            ],
+                            "_original": "妖狸の店……\nもしやここは\\N[10]殿が言っていた……"
                         },
                         {
                             "code": 101,
@@ -3441,15 +3438,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぽん次郎の商売敵の店で間違いないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "店主と思しき妖狸に事情を説明した。"
-                            ]
+                                "It's definitely the shop of Ponjirou's business\nrival. We explained the situation to the Mystic\nTanuki who seemed to be the shopkeeper."
+                            ],
+                            "_original": "ぽん次郎の商売敵の店で間違いないだろう。\n店主と思しき妖狸に事情を説明した。"
                         },
                         {
                             "code": 221,
@@ -3485,29 +3476,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之丞"
-                            ]
+                                "Ponnojo"
+                            ],
+                            "_original": "ぽん之丞"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほほ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お客さん方、ぽん次郎の知り合いなんだぽん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "怖がりのあいつにも妖狸以外の友達ができたぽんね～。"
-                            ]
+                                "Hoho~. So you're acquaintances of Ponjirou, pon?\nThat scaredy-cat even got friends other than\nMystic Tanuki, pon~."
+                            ],
+                            "_original": "ほほ～。\nお客さん方、ぽん次郎の知り合いなんだぽん？\n怖がりのあいつにも妖狸以外の友達ができたぽんね～。"
                         },
                         {
                             "code": 101,
@@ -3517,22 +3496,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この店の状況を知りたいらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "経営はうまくいっているか？"
-                            ]
+                                "It seems they want to know about this\nshop. Is business going well?"
+                            ],
+                            "_original": "この店の状況を知りたいらしい。\n経営はうまくいっているか？"
                         },
                         {
                             "code": 205,
@@ -3581,29 +3555,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之丞"
-                            ]
+                                "Ponnojo"
+                            ],
+                            "_original": "ぽん之丞"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪くはないぽん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "順風満帆って感じでもないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マナにもどんぐりにも困ってないぽん。"
-                            ]
+                                "Not bad, pon! Not exactly smooth sailing, but\nwe're not short on mana or acorns, pon."
+                            ],
+                            "_original": "悪くはないぽん！\n順風満帆って感じでもないけど、\nマナにもどんぐりにも困ってないぽん。"
                         },
                         {
                             "code": 101,
@@ -3613,15 +3575,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どんぐり。"
-                            ]
+                                "Acorns."
+                            ],
+                            "_original": "どんぐり。"
                         },
                         {
                             "code": 101,
@@ -3631,22 +3595,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それはよかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では、あとは……"
-                            ]
+                                "That's good. Then, all that's left..."
+                            ],
+                            "_original": "それはよかった。\nでは、あとは……"
                         },
                         {
                             "code": 101,
@@ -3656,22 +3615,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神社の妖狸に報告するだけだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\N[10]、任せたぞ。"
-                            ]
+                                "Just report to the Mystic Tanuki at the\nshrine. \\N[10], I'll leave it to you."
+                            ],
+                            "_original": "神社の妖狸に報告するだけだな。\n\\N[10]、任せたぞ。"
                         },
                         {
                             "code": 101,
@@ -3681,22 +3635,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之丞"
-                            ]
+                                "Ponnojo"
+                            ],
+                            "_original": "ぽん之丞"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、ちょっと待ってぽん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぽん次郎にこれを届けてほしいぽん。"
-                            ]
+                                "Oh, wait a moment, pon. I'd like you to deliver\nthis to Ponjirou, pon."
+                            ],
+                            "_original": "あ、ちょっと待ってぽん。\nぽん次郎にこれを届けてほしいぽん。"
                         },
                         {
                             "code": 101,
@@ -3706,22 +3655,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "肉球の印影？"
-                            ]
+                                "What's this? A paw print seal?"
+                            ],
+                            "_original": "これは？\n肉球の印影？"
                         },
                         {
                             "code": 101,
@@ -3731,22 +3675,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之丞"
-                            ]
+                                "Ponnojo"
+                            ],
+                            "_original": "ぽん之丞"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "僕たちの手紙のようなものぽん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見せたらたぶん伝わるぽん。"
-                            ]
+                                "It's like a letter for us, pon. Show it and\nthey'll probably get it, pon."
+                            ],
+                            "_original": "僕たちの手紙のようなものぽん。\n見せたらたぶん伝わるぽん。"
                         },
                         {
                             "code": 101,
@@ -3756,22 +3695,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうなのか、なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "任せてくれ、しっかり届けるぞ！"
-                            ]
+                                "Is that so? I see. Leave it to me, I'll\ndeliver it properly!"
+                            ],
+                            "_original": "そうなのか、なるほど。\n任せてくれ、しっかり届けるぞ！"
                         },
                         {
                             "code": 221,
@@ -3859,15 +3793,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]ぽん次郎の商売敵\\C[0]が更新されました。"
-                            ]
+                                "The event for \\C[17]Ponjirou's business rival\\C[0] has been\nupdated."
+                            ],
+                            "_original": "イベントの\\C[17]ぽん次郎の商売敵\\C[0]が更新されました。"
                         },
                         {
                             "code": 122,
@@ -3915,29 +3851,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之丞"
-                            ]
+                                "Ponnojo"
+                            ],
+                            "_original": "ぽん之丞"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここはお客さんが欲しいものを僕が見つけてきて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それを売る感じの店なんだぽん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから急に来られても売れるものはないぽん、ごめんぽん～。"
-                            ]
+                                "This is the kind of shop where I find what\ncustomers want and sell it, pon. So even if you\nshow up suddenly, I don't have anything to sell,\nsorry pon~."
+                            ],
+                            "_original": "ここはお客さんが欲しいものを僕が見つけてきて\nそれを売る感じの店なんだぽん。\nだから急に来られても売れるものはないぽん、ごめんぽん～。"
                         },
                         {
                             "code": 0,
@@ -4008,29 +3932,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之丞"
-                            ]
+                                "Ponnojo"
+                            ],
+                            "_original": "ぽん之丞"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはお客さんが欲しいものを僕が見つけてきて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを売る感じの店なんだぽん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから急に来られても売れるものはないぽん、ごめんぽん～。"
-                            ]
+                                "This is a shop where I find stuff customers want\nand sell them, pon. So if you show up all of a\nsudden, I've got nothing to sell, sorry pon~."
+                            ],
+                            "_original": "ここはお客さんが欲しいものを僕が見つけてきて\nそれを売る感じの店なんだぽん。\nだから急に来られても売れるものはないぽん、ごめんぽん～。"
                         },
                         {
                             "code": 0,
@@ -4211,15 +4123,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "物陰につぼ！"
-                            ]
+                                "Hide in the shadows!"
+                            ],
+                            "_original": "物陰につぼ！"
                         },
                         {
                             "code": 0,
@@ -4289,15 +4203,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たらい！"
-                            ]
+                                "Washtub!"
+                            ],
+                            "_original": "たらい！"
                         },
                         {
                             "code": 0,
@@ -4367,15 +4283,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごちゃごちゃだ！"
-                            ]
+                                "What a mess!"
+                            ],
+                            "_original": "ごちゃごちゃだ！"
                         },
                         {
                             "code": 0,
@@ -4445,22 +4363,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬼だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "強い怪異の象徴だ！"
-                            ]
+                                "It's an Oni! A symbol of a powerful\nanomaly!"
+                            ],
+                            "_original": "鬼だ。\n強い怪異の象徴だ！"
                         },
                         {
                             "code": 0,
@@ -4530,15 +4443,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だるま！"
-                            ]
+                                "Daruma!"
+                            ],
+                            "_original": "だるま！"
                         },
                         {
                             "code": 0,
@@ -4608,15 +4523,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しょいかご！"
-                            ]
+                                "Carry basket!"
+                            ],
+                            "_original": "しょいかご！"
                         },
                         {
                             "code": 0,
@@ -4686,15 +4603,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おけ！"
-                            ]
+                                "OK!"
+                            ],
+                            "_original": "おけ！"
                         },
                         {
                             "code": 0,
@@ -4764,15 +4683,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼ！"
-                            ]
+                                "There!"
+                            ],
+                            "_original": "つぼ！"
                         },
                         {
                             "code": 0,
@@ -4851,15 +4772,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "土足厳禁！"
-                            ]
+                                "No shoes allowed!"
+                            ],
+                            "_original": "土足厳禁！"
                         },
                         {
                             "code": 0,
@@ -4939,15 +4862,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "にぐるま！"
-                            ]
+                                "Niguruma!"
+                            ],
+                            "_original": "にぐるま！"
                         },
                         {
                             "code": 0,

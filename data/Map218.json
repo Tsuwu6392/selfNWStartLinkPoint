@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "アプノコンル",
+    "displayName": "Apunokonru",
     "encounterList": [
         {
             "troopId": 126,
@@ -12278,15 +12278,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おやおや。"
-                            ]
+                                "Oh my, oh my."
+                            ],
+                            "_original": "おやおや。"
                         },
                         {
                             "code": 205,
@@ -12552,22 +12554,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこです？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは。"
-                            ]
+                                "Where is this place?"
+                            ],
+                            "_original": "どこです？\nここは。"
                         },
                         {
                             "code": 117,
@@ -12584,22 +12581,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]ウパシモシリ\\C[0]……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シキノワの離島です。"
-                            ]
+                                "\\C[17]Upashimoshiri\\C[0]... It's a remote island of\nShikinoa."
+                            ],
+                            "_original": "\\C[17]ウパシモシリ\\C[0]……\nシキノワの離島です。"
                         },
                         {
                             "code": 117,
@@ -12616,22 +12608,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シキノワではあるのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の国まで移動してしまったのかと。"
-                            ]
+                                "So it is still Shikinoa. I thought we might have\nbeen taken to another country."
+                            ],
+                            "_original": "シキノワではあるのですね。\n他の国まで移動してしまったのかと。"
                         },
                         {
                             "code": 241,
@@ -12653,22 +12640,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いやいや、そんなことよりも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞きたいことが山ほどあるんですけど。"
-                            ]
+                                "...No, no, that's not the point. There's\na mountain of things I want to ask."
+                            ],
+                            "_original": "……いやいや、そんなことよりも。\n聞きたいことが山ほどあるんですけど。"
                         },
                         {
                             "code": 117,
@@ -12685,15 +12667,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうでしょうね。"
-                            ]
+                                "I'm sure there are."
+                            ],
+                            "_original": "そうでしょうね。"
                         },
                         {
                             "code": 101,
@@ -12703,15 +12687,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここがどこかというのも気にはなるがな。"
-                            ]
+                                "I am curious about where we are, though."
+                            ],
+                            "_original": "ここがどこかというのも気にはなるがな。"
                         },
                         {
                             "code": 101,
@@ -12721,29 +12707,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともかく状況を整理したい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何から話せばよいものか分からぬほどに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "事態は混迷していましょう。"
-                            ]
+                                "In any case, I'd like to organize the\nsituation. Things are so chaotic, I\ndon't even know where to begin."
+                            ],
+                            "_original": "ともかく状況を整理したい。\n何から話せばよいものか分からぬほどに\n事態は混迷していましょう。"
                         },
                         {
                             "code": 101,
@@ -12753,22 +12727,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厭い根の親玉を討ち漏らしちゃったんですかね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たち……"
-                            ]
+                                "Did we fail to take down the Ancient\nRoot of Calamity's boss?"
+                            ],
+                            "_original": "厭い根の親玉を討ち漏らしちゃったんですかね？\n私たち……"
                         },
                         {
                             "code": 101,
@@ -12778,15 +12747,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはないわ。"
-                            ]
+                                "That's not it."
+                            ],
+                            "_original": "それはないわ。"
                         },
                         {
                             "code": 232,
@@ -12850,22 +12821,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私、すぐに確かめたから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魂の沼の状況を。"
-                            ]
+                                "I checked right away. The state of Soul Swamp."
+                            ],
+                            "_original": "私、すぐに確かめたから。\n魂の沼の状況を。"
                         },
                         {
                             "code": 117,
@@ -12898,22 +12864,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すぐにというのは、私たちが逃げたあとすぐに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "という意味ですか？"
-                            ]
+                                "Right away meaning immediately after we escaped?"
+                            ],
+                            "_original": "すぐにというのは、私たちが逃げたあとすぐに\nという意味ですか？"
                         },
                         {
                             "code": 117,
@@ -12930,22 +12891,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうよ、ばっちゃんの声を聞いて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "封印を解いて、地上の厭い根の様子を見に行ったの。"
-                            ]
+                                "Yes, after hearing Grandma's voice... I undid\nthe seal and went to see the state of the\nAncient Root above ground."
+                            ],
+                            "_original": "そうよ、ばっちゃんの声を聞いて……\n封印を解いて、地上の厭い根の様子を見に行ったの。"
                         },
                         {
                             "code": 101,
@@ -12955,15 +12911,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうじゃった？"
-                            ]
+                                "And?"
+                            ],
+                            "_original": "どうじゃった？"
                         },
                         {
                             "code": 101,
@@ -12973,22 +12931,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厭い根は綺麗さっぱり消滅してた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなの、八衢榕が消えない限りあり得ないわ。"
-                            ]
+                                "The Ancient Root was completely gone. That\nwouldn't happen unless the Yachimata Banyan\nitself was destroyed."
+                            ],
+                            "_original": "厭い根は綺麗さっぱり消滅してた。\nあんなの、八衢榕が消えない限りあり得ないわ。"
                         },
                         {
                             "code": 101,
@@ -12998,15 +12951,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、将軍様は誤った報告を受けた……と？"
-                            ]
+                                "So the General received a false\nreport... is that it?"
+                            ],
+                            "_original": "では、将軍様は誤った報告を受けた……と？"
                         },
                         {
                             "code": 101,
@@ -13016,22 +12971,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうではありません。"
-                            ]
+                                "No. That's not it."
+                            ],
+                            "_original": "いいえ。\nそうではありません。"
                         },
                         {
                             "code": 232,
@@ -13095,22 +13045,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実は、少し前のこと──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舟観砦のとある隊士が口を滑らせまして。"
-                            ]
+                                "Actually, a little while ago―one of the soldiers\nat Shipwatch Fort let something slip."
+                            ],
+                            "_original": "実は、少し前のこと──\n舟観砦のとある隊士が口を滑らせまして。"
                         },
                         {
                             "code": 117,
@@ -13127,15 +13072,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ？"
-                            ]
+                                "Hmm?"
+                            ],
+                            "_original": "ふむ？"
                         },
                         {
                             "code": 117,
@@ -13168,29 +13115,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆様を捕らえることは事前に決まっていたようなのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すなわち、八衢榕の件は後付けの出まかせ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偽りの口実に過ぎません。"
-                            ]
+                                "It seems capturing all of you was planned in\nadvance. In other words, the Ancient Root\nincident was a fabricated excuse. A lie to\njustify it."
+                            ],
+                            "_original": "皆様を捕らえることは事前に決まっていたようなのです。\nすなわち、八衢榕の件は後付けの出まかせ。\n偽りの口実に過ぎません。"
                         },
                         {
                             "code": 101,
@@ -13200,22 +13135,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、どういうことなんですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私たちを捕まえることに何の意味があるんです？"
-                            ]
+                                "W-What does that mean? What's the point\nin capturing us?"
+                            ],
+                            "_original": "ど、どういうことなんですか。\n私たちを捕まえることに何の意味があるんです？"
                         },
                         {
                             "code": 231,
@@ -13241,15 +13171,17 @@
                                 2,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこまでは私には……"
-                            ]
+                                "That much, I don't know..."
+                            ],
+                            "_original": "そこまでは私には……"
                         },
                         {
                             "code": 101,
@@ -13259,8 +13191,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -13277,15 +13210,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わらわからも一つ情報を教えてやろうか。"
-                            ]
+                                "How about I share one piece of\ninformation with you all?"
+                            ],
+                            "_original": "わらわからも一つ情報を教えてやろうか。"
                         },
                         {
                             "code": 232,
@@ -13349,22 +13284,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "久々に存分に力を振るえて気分がよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店では加減しないといけないからねえ。"
-                            ]
+                                "It feels good to finally use my full power\nagain. At the shop, I have to hold back, you\nsee."
+                            ],
+                            "_original": "久々に存分に力を振るえて気分がよい。\n店では加減しないといけないからねえ。"
                         },
                         {
                             "code": 117,
@@ -13381,15 +13311,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇さん。"
-                            ]
+                                "Yuuyami-san."
+                            ],
+                            "_original": "夕闇さん。"
                         },
                         {
                             "code": 101,
@@ -13399,22 +13331,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この人もついてきてたみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつの間にか。"
-                            ]
+                                "She came along with us too, somehow. I\ndidn't even notice."
+                            ],
+                            "_original": "この人もついてきてたみたい。\nいつの間にか。"
                         },
                         {
                             "code": 101,
@@ -13424,22 +13351,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ、夕闇。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか隊士らを魅了なぞしとらんじゃろうな。"
-                            ]
+                                "Hey, Yuuyami. You didn't go and charm\nthe soldiers or anything, did you?"
+                            ],
+                            "_original": "これ、夕闇。\nまさか隊士らを魅了なぞしとらんじゃろうな。"
                         },
                         {
                             "code": 117,
@@ -13472,22 +13394,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ああ、狸がいるのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くも気分が悪くなってきた。"
-                            ]
+                                "...Ah, there's a tanuki here. I'm already\nstarting to feel sick."
+                            ],
+                            "_original": "……ああ、狸がいるのか。\n早くも気分が悪くなってきた。"
                         },
                         {
                             "code": 101,
@@ -13497,15 +13414,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "仲が悪いのか？"
-                            ]
+                                "Are you two not on good terms?"
+                            ],
+                            "_original": "仲が悪いのか？"
                         },
                         {
                             "code": 101,
@@ -13515,15 +13434,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "喧嘩するほどというやつじゃ。"
-                            ]
+                                "We're not on bad enough terms to fight."
+                            ],
+                            "_original": "喧嘩するほどというやつじゃ。"
                         },
                         {
                             "code": 231,
@@ -13549,22 +13470,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふざけるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わらわはお前の顔すらも見たくない。"
-                            ]
+                                "Don't make me laugh. I don't even want to look\nat your face."
+                            ],
+                            "_original": "ふざけるな。\nわらわはお前の顔すらも見たくない。"
                         },
                         {
                             "code": 101,
@@ -13574,15 +13490,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かっかっか。"
-                            ]
+                                "Kahahaha."
+                            ],
+                            "_original": "かっかっか。"
                         },
                         {
                             "code": 117,
@@ -13599,22 +13517,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなた方の関係はさておき。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報とは何ですか？"
-                            ]
+                                "Setting aside your relationship, what\ninformation are you talking about?"
+                            ],
+                            "_original": "あなた方の関係はさておき。\n情報とは何ですか？"
                         },
                         {
                             "code": 117,
@@ -13647,22 +13560,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……最近、都の東の関所から隊士が戻ってきてねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厭い根の危険性を説いたと共に、先代将軍の復帰を願った。"
-                            ]
+                                "...Recently, a guard returned from the eastern\ncheckpoint of the capital. He spoke of the\ndanger posed by the Ancient Root of Calamity and\nwished for the return of the Former Shogun."
+                            ],
+                            "_original": "……最近、都の東の関所から隊士が戻ってきてねえ。\n厭い根の危険性を説いたと共に、先代将軍の復帰を願った。"
                         },
                         {
                             "code": 101,
@@ -13672,15 +13580,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "東の関所というと、分かち谷の……"
-                            ]
+                                "The eastern checkpoint... that would be\nDivided Valley..."
+                            ],
+                            "_original": "東の関所というと、分かち谷の……"
                         },
                         {
                             "code": 231,
@@ -13706,22 +13616,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前から、そういう声は各地で聞いたものさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の将軍は頼りない、先代に帰ってきてほしい、と。"
-                            ]
+                                "We've heard such voices from all over for a\nwhile now. The current shogun is unreliable,\nthey want the former one back."
+                            ],
+                            "_original": "以前から、そういう声は各地で聞いたものさ。\n今の将軍は頼りない、先代に帰ってきてほしい、と。"
                         },
                         {
                             "code": 101,
@@ -13731,22 +13636,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが、あの件で決定的になった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "民の不安は高まり……現将軍への不信感は募る一方だ。"
-                            ]
+                                "And that incident made it decisive. The people's\nunease has grown... and distrust of the current\nshogun only deepens."
+                            ],
+                            "_original": "それが、あの件で決定的になった。\n民の不安は高まり……現将軍への不信感は募る一方だ。"
                         },
                         {
                             "code": 101,
@@ -13756,22 +13656,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーっと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その話、今のことに何か関係あります？"
-                            ]
+                                "Uh... how does this relate to what's\nhappening now?"
+                            ],
+                            "_original": "えーっと……\nその話、今のことに何か関係あります？"
                         },
                         {
                             "code": 101,
@@ -13781,29 +13676,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あるとも。分からんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかく不安の根源たる八衢榕が討たれたというのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現将軍と執政はそれを大々的に否定した。"
-                            ]
+                                "It does. Can't you see? Even though the\nYachimata Banyan, the very root of their\nanxiety, was supposedly defeated, the current\nshogun and his administration outright denied\nit."
+                            ],
+                            "_original": "あるとも。分からんか？\nせっかく不安の根源たる八衢榕が討たれたというのに、\n現将軍と執政はそれを大々的に否定した。"
                         },
                         {
                             "code": 101,
@@ -13813,29 +13696,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、それどころか──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "八衢榕が解放されたとまで言った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかしな話だろう？"
-                            ]
+                                "No, worse than that―they even claimed the\nYachimata Banyan had been *released*. Doesn't\nthat sound absurd?"
+                            ],
+                            "_original": "いや、それどころか──\n八衢榕が解放されたとまで言った。\nおかしな話だろう？"
                         },
                         {
                             "code": 101,
@@ -13845,22 +13716,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに……妙だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺たちを糾弾すれば、自身の立場まで危ぶまれかねない。"
-                            ]
+                                "True... it doesn't make sense. If they\ndenounce us, they risk undermining their\nown position."
+                            ],
+                            "_original": "確かに……妙だ。\n俺たちを糾弾すれば、自身の立場まで危ぶまれかねない。"
                         },
                         {
                             "code": 231,
@@ -13886,22 +13752,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "となると、むしろ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不安を煽ることが奴らの目的なのかもしれないねえ。"
-                            ]
+                                "So perhaps... their real goal is to stoke that\nvery anxiety."
+                            ],
+                            "_original": "となると、むしろ……\n不安を煽ることが奴らの目的なのかもしれないねえ。"
                         },
                         {
                             "code": 101,
@@ -13911,22 +13772,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だとすれば、大敵を討ったと話すであろう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "拙僧らの存在は確かに不都合でしょうが……"
-                            ]
+                                "If that's the case, then our\nexistence―those who claim to have slain\nthe great enemy―would indeed be\ninconvenient..."
+                            ],
+                            "_original": "だとすれば、大敵を討ったと話すであろう\n拙僧らの存在は確かに不都合でしょうが……"
                         },
                         {
                             "code": 117,
@@ -13943,15 +13799,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……先代の将軍様はどんな方だったのですか？"
-                            ]
+                                "...What kind of person was the Former Shogun?"
+                            ],
+                            "_original": "……先代の将軍様はどんな方だったのですか？"
                         },
                         {
                             "code": 117,
@@ -13984,22 +13842,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]鬨宮無玄（ときみやむげん）\\C[0]──類稀な傑物、名将だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれより優れた人間をわらわは知らん。"
-                            ]
+                                "\\C[17]Tokimiya Mugen\\C[0]―a peerless genius, a legendary\ngeneral. I've never known anyone better than\nhim."
+                            ],
+                            "_original": "\\C[17]鬨宮無玄（ときみやむげん）\\C[0]──類稀な傑物、名将だよ。\nあれより優れた人間をわらわは知らん。"
                         },
                         {
                             "code": 101,
@@ -14009,15 +13862,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あなたがそこまで褒めますか。"
-                            ]
+                                "W-Wow, you'd praise him that highly?"
+                            ],
+                            "_original": "あ、あなたがそこまで褒めますか。"
                         },
                         {
                             "code": 101,
@@ -14027,22 +13882,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰に尋ねたとて同じような答えが返ってくるでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの方は本当に立派で、英雄と呼ぶに相応しい。"
-                            ]
+                                "Anyone you ask would give the same\nanswer. He was truly admirable, worthy\nof being called a hero."
+                            ],
+                            "_original": "誰に尋ねたとて同じような答えが返ってくるでしょう。\nあの方は本当に立派で、英雄と呼ぶに相応しい。"
                         },
                         {
                             "code": 101,
@@ -14052,15 +13902,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……同意する。"
-                            ]
+                                "...I agree."
+                            ],
+                            "_original": "……同意する。"
                         },
                         {
                             "code": 117,
@@ -14093,22 +13945,17 @@
                                 2,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "杖ちゃんまで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よほどですね。"
-                            ]
+                                "Even Staff-chan? That's saying something."
+                            ],
+                            "_original": "杖ちゃんまで。\nよほどですね。"
                         },
                         {
                             "code": 101,
@@ -14118,29 +13965,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "個人的に好きではないという意見はあるかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしシキノワの民であれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの方の実力は認めざるを得ない。"
-                            ]
+                                "Some might personally dislike him. But\nany citizen of Shikinoa would have to\nacknowledge his ability."
+                            ],
+                            "_original": "個人的に好きではないという意見はあるかもしれません。\nしかしシキノワの民であれば、\nあの方の実力は認めざるを得ない。"
                         },
                         {
                             "code": 101,
@@ -14150,22 +13985,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暴走した柴鬼を止めたのが決定的じゃったのう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "儂らでも諦めかけとったというのに。"
-                            ]
+                                "What sealed it was when he stopped that\nrampaging Shibai. Even we had nearly\ngiven up."
+                            ],
+                            "_original": "暴走した柴鬼を止めたのが決定的じゃったのう。\n儂らでも諦めかけとったというのに。"
                         },
                         {
                             "code": 101,
@@ -14175,22 +14005,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにいるシキノワ人全員が褒めたたえるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人徳に疑う余地はないようだ。"
-                            ]
+                                "Every Shikinoan here praises him.\nThere's no room to doubt his character."
+                            ],
+                            "_original": "ここにいるシキノワ人全員が褒めたたえるか。\nその人徳に疑う余地はないようだ。"
                         },
                         {
                             "code": 101,
@@ -14200,15 +14025,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぜひとも会ってみたいわね。"
-                            ]
+                                "I'd love to meet him."
+                            ],
+                            "_original": "ぜひとも会ってみたいわね。"
                         },
                         {
                             "code": 117,
@@ -14241,22 +14068,17 @@
                                 2,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今の将軍が憐れになるほど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子は何を思い、今回の騒動を起こしたのか？"
-                            ]
+                                "It makes the current shogun look pitiful... What\nwas he thinking, causing this uproar?"
+                            ],
+                            "_original": "今の将軍が憐れになるほど……\nあの子は何を思い、今回の騒動を起こしたのか？"
                         },
                         {
                             "code": 101,
@@ -14266,15 +14088,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ところで。"
-                            ]
+                                "...Speaking of which."
+                            ],
+                            "_original": "……ところで。"
                         },
                         {
                             "code": 242,
@@ -14399,29 +14223,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先ほどからひと言も言葉を発しておりませぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大丈夫でしょうか？"
-                            ]
+                                "Nazuna-san. You haven't said a word this whole\ntime. Are you alright?"
+                            ],
+                            "_original": "ナズナさん。\n先ほどからひと言も言葉を発しておりませぬ。\n大丈夫でしょうか？"
                         },
                         {
                             "code": 101,
@@ -14431,15 +14243,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、そういえば。"
-                            ]
+                                "Oh, now that you mention it..."
+                            ],
+                            "_original": "ああ、そういえば。"
                         },
                         {
                             "code": 117,
@@ -14456,8 +14270,9 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -14474,22 +14289,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "傷ついておるようじゃな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "致し方ないか。"
-                            ]
+                                "She seems hurt... Can't be helped, I\nsuppose."
+                            ],
+                            "_original": "傷ついておるようじゃな……\n致し方ないか。"
                         },
                         {
                             "code": 101,
@@ -14499,22 +14309,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナさん、弱そうですからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪意を向けられたり裏切られることとかに。"
-                            ]
+                                "Nazuna-san does seem fragile. She must\nbe sensitive to malice or betrayal."
+                            ],
+                            "_original": "ナズナさん、弱そうですからね。\n悪意を向けられたり裏切られることとかに。"
                         },
                         {
                             "code": 117,
@@ -14547,22 +14352,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拙僧らは正しいことしているはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気に病む必要はありませぬ。"
-                            ]
+                                "We are doing the right thing. There's no need to\nworry."
+                            ],
+                            "_original": "拙僧らは正しいことしているはず。\n気に病む必要はありませぬ。"
                         },
                         {
                             "code": 101,
@@ -14572,22 +14372,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "此度の件も、いずれ真相は分かりましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたは迷わず、信じる道を進めばよい。"
-                            ]
+                                "The truth behind this incident will come to\nlight in time. You need only follow the path you\nbelieve in without hesitation."
+                            ],
+                            "_original": "此度の件も、いずれ真相は分かりましょう。\nあなたは迷わず、信じる道を進めばよい。"
                         },
                         {
                             "code": 117,
@@ -14604,22 +14399,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……うぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "桜悳殿……"
-                            ]
+                                "…Ugh. Sakura Toku…"
+                            ],
+                            "_original": "……うぅ。\n桜悳殿……"
                         },
                         {
                             "code": 101,
@@ -14629,15 +14419,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっ、喋ったわ。"
-                            ]
+                                "Ah, she spoke."
+                            ],
+                            "_original": "あっ、喋ったわ。"
                         },
                         {
                             "code": 101,
@@ -14647,15 +14439,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石は桜悳様。"
-                            ]
+                                "As expected of Sakura Toku-sama."
+                            ],
+                            "_original": "流石は桜悳様。"
                         },
                         {
                             "code": 101,
@@ -14665,22 +14459,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桜悳ちゃんの言う通りじゃ、ナズナよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "儂らはできることをしていこうぞ。"
-                            ]
+                                "Sakura Toku-chan is right, Nazuna. We'll\ndo what we can."
+                            ],
+                            "_original": "桜悳ちゃんの言う通りじゃ、ナズナよ。\n儂らはできることをしていこうぞ。"
                         },
                         {
                             "code": 241,
@@ -14702,22 +14491,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ……そうだな……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うん……"
-                            ]
+                                "R-Right… Yeah…"
+                            ],
+                            "_original": "そ……そうだな……\nうん……"
                         },
                         {
                             "code": 231,
@@ -14743,22 +14527,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともかく……八衢榕は討ったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平和にはなった！"
-                            ]
+                                "Anyway… we did defeat the Ancient Root of\nCalamity, Yachimata Banyan. Peace has returned!"
+                            ],
+                            "_original": "ともかく……八衢榕は討ったんだ。\n平和にはなった！"
                         },
                         {
                             "code": 117,
@@ -14775,15 +14554,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ、まさに。"
-                            ]
+                                "Indeed, exactly."
+                            ],
+                            "_original": "ええ、まさに。"
                         },
                         {
                             "code": 117,
@@ -14816,22 +14597,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし……次に私ができることとは何だろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰郷の石も取り上げられ、神社に戻ることもできない。"
-                            ]
+                                "But… what should I do next? My Stone of Return\nwas taken, and I can't go back to the shrine."
+                            ],
+                            "_original": "しかし……次に私ができることとは何だろう？\n帰郷の石も取り上げられ、神社に戻ることもできない。"
                         },
                         {
                             "code": 101,
@@ -14841,22 +14617,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこが困るところですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淡雪さんもなかなか意地が悪い。"
-                            ]
+                                "That's the problem. Usuyuki is quite\nstubborn."
+                            ],
+                            "_original": "そこが困るところですね。\n淡雪さんもなかなか意地が悪い。"
                         },
                         {
                             "code": 101,
@@ -14866,22 +14637,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "テンのことが気がかりだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "将軍はあいつを見逃すだろうか？"
-                            ]
+                                "I'm worried about Ten. Will the general\nlet her go?"
+                            ],
+                            "_original": "テンのことが気がかりだ。\n将軍はあいつを見逃すだろうか？"
                         },
                         {
                             "code": 117,
@@ -14914,22 +14680,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうでしょうね……何を考えているのか分からぬ以上、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何をするかもまた分かりませぬ。"
-                            ]
+                                "Who can say…? If we don't know what she's\nthinking, we can't predict what she'll do."
+                            ],
+                            "_original": "どうでしょうね……何を考えているのか分からぬ以上、\n何をするかもまた分かりませぬ。"
                         },
                         {
                             "code": 117,
@@ -14946,15 +14707,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツヅリ、私たちは封じ牢に戻れないのか？"
-                            ]
+                                "Tsuzuri, can't we return to the Sealed Prison?"
+                            ],
+                            "_original": "ツヅリ、私たちは封じ牢に戻れないのか？"
                         },
                         {
                             "code": 101,
@@ -14964,22 +14727,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戻れるわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど、そうすると向こう側も追ってこれるわけで……"
-                            ]
+                                "We can. But if we do, they'll just\nfollow us through…"
+                            ],
+                            "_original": "戻れるわよ。\nだけど、そうすると向こう側も追ってこれるわけで……"
                         },
                         {
                             "code": 101,
@@ -14989,22 +14747,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうならないように今は道を閉じたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開けてほしいなら開けるわ。"
-                            ]
+                                "That's why I sealed the path for now. If\nyou want it open, I can open it."
+                            ],
+                            "_original": "そうならないように今は道を閉じたの。\n開けてほしいなら開けるわ。"
                         },
                         {
                             "code": 101,
@@ -15014,22 +14767,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナズナさんは隊士と戦いたくないのでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戻っても捕まるだけですよ。"
-                            ]
+                                "Nazuna doesn't want to fight the guards,\nright? If you go back, you'll just get\ncaptured."
+                            ],
+                            "_original": "ナズナさんは隊士と戦いたくないのでしょう？\n戻っても捕まるだけですよ。"
                         },
                         {
                             "code": 231,
@@ -15055,22 +14803,17 @@
                                 2,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話し合いたいのだが、無理なのか……"
-                            ]
+                                "U-Uh… I'd like to talk it out, but is that\nimpossible…?"
+                            ],
+                            "_original": "う、うーん。\n話し合いたいのだが、無理なのか……"
                         },
                         {
                             "code": 101,
@@ -15080,22 +14823,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……いずれにせよ、拠点となる場所が必要でしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは休むこともできません。"
-                            ]
+                                "…Regardless, we need a base of\noperations. We can't rest here."
+                            ],
+                            "_original": "……いずれにせよ、拠点となる場所が必要でしょう。\nここでは休むこともできません。"
                         },
                         {
                             "code": 101,
@@ -15105,22 +14843,17 @@
                                 4,
                                 0,
                                 2,
-                                "悳白"
-                            ]
+                                "Tokuhaku"
+                            ],
+                            "_original": "悳白"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し南に進めば村があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まずはそこを目指しませんか？"
-                            ]
+                                "There's a village a little to the south.\nShould we head there first?"
+                            ],
+                            "_original": "少し南に進めば村があります。\nまずはそこを目指しませんか？"
                         },
                         {
                             "code": 101,
@@ -15130,22 +14863,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は疲れたので眠りたいです。"
-                            ]
+                                "Sounds good. I'm tired, so I want to\nsleep."
+                            ],
+                            "_original": "いいですね。\n私は疲れたので眠りたいです。"
                         },
                         {
                             "code": 101,
@@ -15155,15 +14883,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "暢気なことを。"
-                            ]
+                                "How carefree."
+                            ],
+                            "_original": "暢気なことを。"
                         },
                         {
                             "code": 101,
@@ -15173,15 +14903,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夕闇も来るのか？"
-                            ]
+                                "Yuuyami, are you coming too?"
+                            ],
+                            "_original": "夕闇も来るのか？"
                         },
                         {
                             "code": 101,
@@ -15191,22 +14923,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……村までは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは殺風景でわらわに相応しくない。"
-                            ]
+                                "…Until the village. This place is too\nbleak for me."
+                            ],
+                            "_original": "……村までは。\nここは殺風景でわらわに相応しくない。"
                         },
                         {
                             "code": 101,
@@ -15216,22 +14943,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かっかっか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "共に歩くのは久々じゃのう！"
-                            ]
+                                "Kahahaha! It's been a while since we've\nwalked together!"
+                            ],
+                            "_original": "かっかっか！\n共に歩くのは久々じゃのう！"
                         },
                         {
                             "code": 101,
@@ -15241,15 +14963,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鬱陶しい……"
-                            ]
+                                "Annoying…"
+                            ],
+                            "_original": "鬱陶しい……"
                         },
                         {
                             "code": 242,
@@ -15381,22 +15105,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "転送剣がある。しかし……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これまで訪れた場所には移動できないようだ。"
-                            ]
+                                "I have a teleportation sword. But… it\nseems I can't go anywhere I've been\nbefore."
+                            ],
+                            "_original": "転送剣がある。しかし……\nこれまで訪れた場所には移動できないようだ。"
                         },
                         {
                             "code": 101,
@@ -15406,29 +15125,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは離島だそうだからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "距離にもよるが、基本的に海を隔てると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "転送剣では移動できなくなる。"
-                            ]
+                                "This is a remote island, after all.\nDepending on the distance, teleportation\nswords usually can't cross the sea."
+                            ],
+                            "_original": "ここは離島だそうだからな。\n距離にもよるが、基本的に海を隔てると\n転送剣では移動できなくなる。"
                         },
                         {
                             "code": 101,
@@ -15438,22 +15145,17 @@
                                 7,
                                 0,
                                 2,
-                                "ツヅリ"
-                            ]
+                                "Tsuzuri"
+                            ],
+                            "_original": "ツヅリ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来た道を開ければ実質移動できるけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも開けないんでしょ？"
-                            ]
+                                "We could technically go back by\nreopening the path we came through, but…\nyou can't, right?"
+                            ],
+                            "_original": "来た道を開ければ実質移動できるけどね。\nでも開けないんでしょ？"
                         },
                         {
                             "code": 101,
@@ -15463,22 +15165,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追われる趣味はありません。"
-                            ]
+                                "That's right. I have no interest in\nbeing chased."
+                            ],
+                            "_original": "はい。\n追われる趣味はありません。"
                         },
                         {
                             "code": 101,
@@ -15488,15 +15185,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、仕方ないか……"
-                            ]
+                                "Well… I guess there's nothing we can do…"
+                            ],
+                            "_original": "まあ、仕方ないか……"
                         },
                         {
                             "code": 111,
@@ -15534,22 +15233,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]帰郷の石\\C[0]を取り上げられてしまったため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しばらくの間、真白神社へ戻ることはできません。"
-                            ]
+                                "Since your \\C[3]Stone of Return\\C[0] has been taken, you\nwon't be able to return to the Pure White Shrine\nfor a while."
+                            ],
+                            "_original": "\\C[3]帰郷の石\\C[0]を取り上げられてしまったため、\nしばらくの間、真白神社へ戻ることはできません。"
                         },
                         {
                             "code": 101,
@@ -15566,22 +15260,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また転送剣の機能が制限され、しばらくの間"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウパシモシリ以外の転送剣のもとには移動できません。"
-                            ]
+                                "Additionally, the teleportation sword's\nfunctions are restricted, so you won't be able\nto travel to any teleportation sword locations\nother than Upashimoshiri for a while."
+                            ],
+                            "_original": "また転送剣の機能が制限され、しばらくの間\nウパシモシリ以外の転送剣のもとには移動できません。"
                         },
                         {
                             "code": 101,
@@ -15598,22 +15287,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これより戦闘で全滅してしまったときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この転送剣のもとに戻ります。"
-                            ]
+                                "From now on, if you're wiped out in battle,\nyou'll return to this teleportation sword's\nlocation."
+                            ],
+                            "_original": "これより戦闘で全滅してしまったときは、\nこの転送剣のもとに戻ります。"
                         },
                         {
                             "code": 0,
@@ -17477,22 +17161,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焚火の跡だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ温かい……"
-                            ]
+                                "These are the remains of a campfire.\nStill warm..."
+                            ],
+                            "_original": "焚火の跡だ。\nまだ温かい……"
                         },
                         {
                             "code": 0,
@@ -17884,15 +17563,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雪に埋もれた亡骸だ……"
-                            ]
+                                "It's a corpse buried in the snow..."
+                            ],
+                            "_original": "雪に埋もれた亡骸だ……"
                         },
                         {
                             "code": 0,
@@ -17962,15 +17643,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雪まき！"
-                            ]
+                                "Snowball fight!"
+                            ],
+                            "_original": "雪まき！"
                         },
                         {
                             "code": 0,

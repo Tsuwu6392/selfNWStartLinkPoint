@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "狭間塚関所",
+    "displayName": "Hazamazuka Checkpoint",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6014,22 +6014,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは……通れそうにない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柴組の隊士に相談してみよう。"
-                            ]
+                                "This... I don't think we can get\nthrough. Let's ask the patrol officers\nfor help."
+                            ],
+                            "_original": "これは……通れそうにない。\n柴組の隊士に相談してみよう。"
                         },
                         {
                             "code": 0,
@@ -6400,22 +6395,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところに柴組が……"
-                            ]
+                                "Huh? A Shibagumi outpost here...?"
+                            ],
+                            "_original": "あれ？\nこんなところに柴組が……"
                         },
                         {
                             "code": 205,
@@ -6498,15 +6488,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの隊士殿、何をしているんだ？"
-                            ]
+                                "Hey, officer over there, what are you\ndoing?"
+                            ],
+                            "_original": "そこの隊士殿、何をしているんだ？"
                         },
                         {
                             "code": 213,
@@ -6570,15 +6562,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たちは……？"
-                            ]
+                                "Who are you lot?"
+                            ],
+                            "_original": "お前たちは……？"
                         },
                         {
                             "code": 205,
@@ -6627,15 +6621,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はナズナ・ハクトウ！"
-                            ]
+                                "I'm Nazuna Hakutō!"
+                            ],
+                            "_original": "私はナズナ・ハクトウ！"
                         },
                         {
                             "code": 101,
@@ -6645,15 +6641,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "名前を聞いてるんじゃないと思いますけど。"
-                            ]
+                                "I don't think that's what he's asking."
+                            ],
+                            "_original": "名前を聞いてるんじゃないと思いますけど。"
                         },
                         {
                             "code": 101,
@@ -6663,22 +6661,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "拙僧らは将軍様の許可を得てやってきた者です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話は……流石にここまでは届いておりませぬか。"
-                            ]
+                                "We have come with the Shogun's\npermission. Surely word of us has\nreached even here...?"
+                            ],
+                            "_original": "拙僧らは将軍様の許可を得てやってきた者です。\n話は……流石にここまでは届いておりませぬか。"
                         },
                         {
                             "code": 101,
@@ -6688,22 +6681,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "届いてはいないが、まあ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜刀がいるということは、嘘ではないのだろう。"
-                            ]
+                                "It hasn't, but... well, if Staff is with you,\nit's probably true."
+                            ],
+                            "_original": "届いてはいないが、まあ……\n夜刀がいるということは、嘘ではないのだろう。"
                         },
                         {
                             "code": 101,
@@ -6713,22 +6701,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜刀って、杖殿のことだよな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また杖殿のおかげで話が通じた！"
-                            ]
+                                "Staff? You mean Staff-sama, right? Once\nagain, Staff-sama's reputation saves the\nday!"
+                            ],
+                            "_original": "夜刀って、杖殿のことだよな？\nまた杖殿のおかげで話が通じた！"
                         },
                         {
                             "code": 101,
@@ -6738,8 +6721,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -6756,15 +6740,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしや、これを見越して杖を同行させたのか？"
-                            ]
+                                "Did the Shogun send Staff along\nexpecting this?"
+                            ],
+                            "_original": "もしや、これを見越して杖を同行させたのか？"
                         },
                         {
                             "code": 101,
@@ -6774,22 +6760,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石は将軍様、先を見据えておられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝しなくてはなりませぬ。"
-                            ]
+                                "As expected of the Shogun, always\nthinking ahead. We are in his debt."
+                            ],
+                            "_original": "流石は将軍様、先を見据えておられる。\n感謝しなくてはなりませぬ。"
                         },
                         {
                             "code": 101,
@@ -6799,15 +6780,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それで、なぜここに？"
-                            ]
+                                "So, why are you here?"
+                            ],
+                            "_original": "それで、なぜここに？"
                         },
                         {
                             "code": 101,
@@ -6817,22 +6800,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私たちの行動の理由、もう何回も話してますよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんざりしてきました。"
-                            ]
+                                "We've explained our reasons for being\nhere countless times. I'm getting tired\nof repeating myself."
+                            ],
+                            "_original": "私たちの行動の理由、もう何回も話してますよね。\nうんざりしてきました。"
                         },
                         {
                             "code": 101,
@@ -6842,15 +6820,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "要約すると、厭い根の問題の解決のためだ。"
-                            ]
+                                "In short, we're here to deal with the\ncursed roots."
+                            ],
+                            "_original": "要約すると、厭い根の問題の解決のためだ。"
                         },
                         {
                             "code": 101,
@@ -6860,22 +6840,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあそうだろうな、それ以外に東に来る理由がない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか観光ではあるまいし。"
-                            ]
+                                "Yeah, that makes sense. There's no other reason\nto come east. It's not like you're here for\nsightseeing."
+                            ],
+                            "_original": "まあそうだろうな、それ以外に東に来る理由がない。\nまさか観光ではあるまいし。"
                         },
                         {
                             "code": 101,
@@ -6885,15 +6860,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたはここで何を？"
-                            ]
+                                "And what are you doing here?"
+                            ],
+                            "_original": "あなたはここで何を？"
                         },
                         {
                             "code": 101,
@@ -6903,22 +6880,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、厭い根の討伐だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分で言うのもなんだが、ここの隊士は皆手練れでな。"
-                            ]
+                                "Exterminating the cursed roots, of course. Not\nto brag, but every officer here is a seasoned\nveteran."
+                            ],
+                            "_original": "もちろん、厭い根の討伐だ。\n自分で言うのもなんだが、ここの隊士は皆手練れでな。"
                         },
                         {
                             "code": 101,
@@ -6928,22 +6900,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最前線で東より迫る悪を討ち、都を守る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが私たちの任務。"
-                            ]
+                                "We strike down the evil approaching from the\neast at the front lines and protect the capital.\nThat's our duty."
+                            ],
+                            "_original": "最前線で東より迫る悪を討ち、都を守る。\nそれが私たちの任務。"
                         },
                         {
                             "code": 101,
@@ -6953,22 +6920,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお……なんて立派なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたはとても素晴らしい隊士だ！"
-                            ]
+                                "Wow... how noble! You're an amazing\nofficer!"
+                            ],
+                            "_original": "おお……なんて立派なんだ。\nあなたはとても素晴らしい隊士だ！"
                         },
                         {
                             "code": 101,
@@ -6978,15 +6940,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふはは、ありがとう。"
-                            ]
+                                "Hahaha, thank you."
+                            ],
+                            "_original": "ふはは、ありがとう。"
                         },
                         {
                             "code": 101,
@@ -6996,15 +6960,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最近、冠鎮に厭い根が現れましたが……"
-                            ]
+                                "Recently, cursed roots have appeared in\nCrown Town..."
+                            ],
+                            "_original": "最近、冠鎮に厭い根が現れましたが……"
                         },
                         {
                             "code": 101,
@@ -7014,29 +6980,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、その件は聞いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厭い根どもは底から湧き出るからな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここをすり抜けるものがどうしても存在する……"
-                            ]
+                                "Ah, I've heard about that. The cursed roots well\nup from below, so some always slip through..."
+                            ],
+                            "_original": "ああ、その件は聞いた。\n厭い根どもは底から湧き出るからな、\nここをすり抜けるものがどうしても存在する……"
                         },
                         {
                             "code": 205,
@@ -7084,22 +7038,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずっと、そんなことは起こらなかったのだが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近頃は手に負えなくなってきた。"
-                            ]
+                                "It never used to happen, but lately, it's gotten\nout of hand."
+                            ],
+                            "_original": "ずっと、そんなことは起こらなかったのだが。\n近頃は手に負えなくなってきた。"
                         },
                         {
                             "code": 101,
@@ -7109,15 +7058,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……やはり、根元から断たなくては。"
-                            ]
+                                "...We really need to cut them off at the\nsource."
+                            ],
+                            "_original": "……やはり、根元から断たなくては。"
                         },
                         {
                             "code": 205,
@@ -7158,29 +7109,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たちがどこまで行くのかは知らないが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この先の道も険しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで少し休んでいくといい。"
-                            ]
+                                "I don't know how far you're going, but the road\nahead is treacherous. You should rest here for a\nwhile."
+                            ],
+                            "_original": "お前たちがどこまで行くのかは知らないが、\nこの先の道も険しい。\nここで少し休んでいくといい。"
                         },
                         {
                             "code": 221,
@@ -7456,22 +7395,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先に進みたいのなら、建物の中にいる五百森と話せ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私では先にある門を開けない。"
-                            ]
+                                "If you want to proceed, talk to Iomori inside\nthe building. I can't open the gate ahead."
+                            ],
+                            "_original": "先に進みたいのなら、建物の中にいる五百森と話せ。\n私では先にある門を開けない。"
                         },
                         {
                             "code": 0,
@@ -7491,29 +7425,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうした、休まずに進むつもりか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それもいいが……いずれにせよ、建物の中にいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "五百森とは話すべきだ。"
-                            ]
+                                "What's wrong? Planning to push forward without\nresting? That's fine, but... either way, you\nshould talk to Iomori inside the building."
+                            ],
+                            "_original": "どうした、休まずに進むつもりか？\nそれもいいが……いずれにせよ、建物の中にいる\n五百森とは話すべきだ。"
                         },
                         {
                             "code": 101,
@@ -7523,22 +7445,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なぜなら、奴でなければこの先の門を開けない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つまり先に進めないからな。"
-                            ]
+                                "Because only he can open the gate ahead. In\nother words, you can't proceed without him."
+                            ],
+                            "_original": "なぜなら、奴でなければこの先の門を開けない。\nつまり先に進めないからな。"
                         },
                         {
                             "code": 123,
@@ -7668,22 +7585,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここを守らないと、危険な厭い根が都に押し寄せてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけは避けなくてはならない。"
-                            ]
+                                "If we don't defend this place, dangerous cursed\nroots will flood the capital. We must prevent\nthat at all costs."
+                            ],
+                            "_original": "ここを守らないと、危険な厭い根が都に押し寄せてしまう。\nそれだけは避けなくてはならない。"
                         },
                         {
                             "code": 0,
@@ -8144,15 +8056,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敵は……"
-                            ]
+                                "The enemy is..."
+                            ],
+                            "_original": "敵は……"
                         },
                         {
                             "code": 101,
@@ -8162,15 +8076,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あっちです。"
-                            ]
+                                "Over there."
+                            ],
+                            "_original": "あっちです。"
                         },
                         {
                             "code": 205,
@@ -8461,15 +8377,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隊士殿、無事か！？"
-                            ]
+                                "Are you all right, comrade?"
+                            ],
+                            "_original": "隊士殿、無事か！？"
                         },
                         {
                             "code": 205,
@@ -8510,22 +8428,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心して、大丈夫だったみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "……ちなみに彼女は後小路、私は五百森。"
-                            ]
+                                "Relax, it seems we're fine. …By the way, she's\nUshirokoji, and I'm Iomori."
+                            ],
+                            "_original": "安心して、大丈夫だったみたい。\n……ちなみに彼女は後小路、私は五百森。"
                         },
                         {
                             "code": 205,
@@ -8574,15 +8487,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はナズナ・ハクトウ！"
-                            ]
+                                "I'm Nazuna Hakutō!"
+                            ],
+                            "_original": "私はナズナ・ハクトウ！"
                         },
                         {
                             "code": 101,
@@ -8592,15 +8507,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはもういいですって。"
-                            ]
+                                "We already know that."
+                            ],
+                            "_original": "それはもういいですって。"
                         },
                         {
                             "code": 204,
@@ -8629,22 +8546,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厭い根は一撃で仕留めた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう安全だ。"
-                            ]
+                                "I took down the Blight Root in one strike. It's\nsafe now."
+                            ],
+                            "_original": "厭い根は一撃で仕留めた。\nもう安全だ。"
                         },
                         {
                             "code": 101,
@@ -8654,22 +8566,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手練れというのは本当だったようですね。"
-                            ]
+                                "Oh? So the rumors about your skill are\ntrue."
+                            ],
+                            "_original": "ほほう。\n手練れというのは本当だったようですね。"
                         },
                         {
                             "code": 101,
@@ -8679,15 +8586,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だが……"
-                            ]
+                                "But…"
+                            ],
+                            "_original": "だが……"
                         },
                         {
                             "code": 101,
@@ -8697,22 +8606,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……だが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "首から下が、同志の姿をしていた。"
-                            ]
+                                "…But. From the neck down, it looked like one of\nour own."
+                            ],
+                            "_original": "……だが。\n首から下が、同志の姿をしていた。"
                         },
                         {
                             "code": 205,
@@ -8753,15 +8657,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え……？"
-                            ]
+                                "What…?"
+                            ],
+                            "_original": "え……？"
                         },
                         {
                             "code": 101,
@@ -8771,15 +8677,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか、榕絡みに……"
-                            ]
+                                "Could it be… the Banyan Tangler…?"
+                            ],
+                            "_original": "まさか、榕絡みに……"
                         },
                         {
                             "code": 101,
@@ -8789,8 +8697,9 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
@@ -8807,15 +8716,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……あの時と同じ厭い根か。"
-                            ]
+                                "…The same kind of Blight Root as last\ntime."
+                            ],
+                            "_original": "……あの時と同じ厭い根か。"
                         },
                         {
                             "code": 101,
@@ -8825,22 +8736,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女は、東の地を偵察していた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "門を開けられる隊士の一人だったのだ。"
-                            ]
+                                "She was scouting the eastern lands. One of the\ngatekeepers who could open the gates."
+                            ],
+                            "_original": "彼女は、東の地を偵察していた。\n門を開けられる隊士の一人だったのだ。"
                         },
                         {
                             "code": 101,
@@ -8850,22 +8756,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事に戻ってきたと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう思ったのだが……"
-                            ]
+                                "I thought she'd returned safely…"
+                            ],
+                            "_original": "無事に戻ってきたと……\nそう思ったのだが……"
                         },
                         {
                             "code": 101,
@@ -8875,22 +8776,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……少し休みなさい、後小路。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表には私が立つから。"
-                            ]
+                                "…Take a break, Ushirokoji. I'll stand watch."
+                            ],
+                            "_original": "……少し休みなさい、後小路。\n表には私が立つから。"
                         },
                         {
                             "code": 101,
@@ -8900,15 +8796,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ。"
-                            ]
+                                "Ahh."
+                            ],
+                            "_original": "ああ。"
                         },
                         {
                             "code": 205,
@@ -9003,22 +8901,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いったい……いったいいつまで続くのだろうな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような戦いが……"
-                            ]
+                                "Just how long… how much longer will this kind of\nbattle go on…?"
+                            ],
+                            "_original": "いったい……いったいいつまで続くのだろうな？\nこのような戦いが……"
                         },
                         {
                             "code": 101,
@@ -9028,15 +8921,17 @@
                                 0,
                                 0,
                                 2,
-                                "後小路"
-                            ]
+                                "Ushirokoji"
+                            ],
+                            "_original": "後小路"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……無玄様がおられれば。"
-                            ]
+                                "…If only Mugen-sama were here."
+                            ],
+                            "_original": "……無玄様がおられれば。"
                         },
                         {
                             "code": 205,
@@ -9276,22 +9171,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんなさいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "休息どころか、不安にさせるようなものを見せてしまった。"
-                            ]
+                                "I'm sorry. Instead of rest, I've shown you\nsomething unsettling."
+                            ],
+                            "_original": "ごめんなさいね。\n休息どころか、不安にさせるようなものを見せてしまった。"
                         },
                         {
                             "code": 205,
@@ -9332,22 +9222,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "謝らないでくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた方は皆、尊敬に値する。"
-                            ]
+                                "Don't apologize. You're all worthy of\nrespect."
+                            ],
+                            "_original": "謝らないでくれ。\nあなた方は皆、尊敬に値する。"
                         },
                         {
                             "code": 101,
@@ -9357,22 +9242,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よくあるのですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうことは。"
-                            ]
+                                "Does this happen often?"
+                            ],
+                            "_original": "よくあるのですか？\nこういうことは。"
                         },
                         {
                             "code": 101,
@@ -9382,22 +9262,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいえ、初めて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "厭い根たちはどんどん強く、狡猾になっている気がする。"
-                            ]
+                                "No, it's the first time. The Blight Roots seem\nto be growing stronger and more cunning."
+                            ],
+                            "_original": "いいえ、初めて。\n厭い根たちはどんどん強く、狡猾になっている気がする。"
                         },
                         {
                             "code": 101,
@@ -9407,15 +9282,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "狡猾……ですか。"
-                            ]
+                                "More cunning…?"
+                            ],
+                            "_original": "狡猾……ですか。"
                         },
                         {
                             "code": 101,
@@ -9425,15 +9302,17 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……\\C[17]鐘突き\\C[0]の仕業か？"
-                            ]
+                                "……\\C[17]Bellthruster\\C[0]'s doing?"
+                            ],
+                            "_original": "……\\C[17]鐘突き\\C[0]の仕業か？"
                         },
                         {
                             "code": 101,
@@ -9443,22 +9322,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鐘突き？"
-                            ]
+                                "Hm? Bellthruster?"
+                            ],
+                            "_original": "ん？\n鐘突き？"
                         },
                         {
                             "code": 101,
@@ -9468,22 +9342,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれを見逃してきたのが、そもそもの間違いだったのか……"
-                            ]
+                                "Maybe. Perhaps letting it escape was our first\nmistake…"
+                            ],
+                            "_original": "そうかもしれない。\nあれを見逃してきたのが、そもそもの間違いだったのか……"
                         },
                         {
                             "code": 205,
@@ -9524,22 +9393,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともあれ、門は開かれた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に進むことを止めはしない。"
-                            ]
+                                "Either way, the gate is open. We won't stop\nmoving forward."
+                            ],
+                            "_original": "ともあれ、門は開かれた。\n先に進むことを止めはしない。"
                         },
                         {
                             "code": 205,
@@ -9580,22 +9444,17 @@
                                 0,
                                 0,
                                 2,
-                                "五百森"
-                            ]
+                                "Iomori"
+                            ],
+                            "_original": "五百森"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけど、気をつけて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたたちまであんな姿にならないでね。"
-                            ]
+                                "But be careful. Don't end up like that."
+                            ],
+                            "_original": "だけど、気をつけて。\nあなたたちまであんな姿にならないでね。"
                         },
                         {
                             "code": 221,
@@ -9643,22 +9502,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に進もう。"
-                            ]
+                                "Right. Let's move on."
+                            ],
+                            "_original": "よし。\n先に進もう。"
                         },
                         {
                             "code": 101,
@@ -9668,22 +9522,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんか冷静ですね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私ちょっと怖くなってきてるんですけど……"
-                            ]
+                                "Y-You're all so calm... I-I'm getting\nkinda scared here..."
+                            ],
+                            "_original": "な、なんか冷静ですね……\n私ちょっと怖くなってきてるんですけど……"
                         },
                         {
                             "code": 101,
@@ -9693,22 +9542,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはよくありませぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐れは魂を弱め、厭い根を有利にさせてしまいます。"
-                            ]
+                                "That is most unusual. Fear weakens the\nsoul and gives the Blight Roots an\nadvantage."
+                            ],
+                            "_original": "それはよくありませぬ。\n恐れは魂を弱め、厭い根を有利にさせてしまいます。"
                         },
                         {
                             "code": 101,
@@ -9718,29 +9562,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウーラ殿、先に進むのが嫌なら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神社で待機してもらっても大丈夫だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰も責めないぞ。"
-                            ]
+                                "Ula-dono, if you don't want to go on,\nyou can wait at the shrine. No one will\nblame you."
+                            ],
+                            "_original": "ウーラ殿、先に進むのが嫌なら\n神社で待機してもらっても大丈夫だ。\n誰も責めないぞ。"
                         },
                         {
                             "code": 101,
@@ -9750,29 +9582,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いやいや。一緒に行きますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にだって、こう……あなたほどではないですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああいうのを許せない正義感はあります！"
-                            ]
+                                "N-No, no! I'll go with you. I-I mean, I\nhave a sense of justice too, even if\nit's not as strong as yours! I can't\njust let that kind of thing slide!"
+                            ],
+                            "_original": "い、いやいや。一緒に行きますよ。\n私にだって、こう……あなたほどではないですけど、\nああいうのを許せない正義感はあります！"
                         },
                         {
                             "code": 101,
@@ -9782,15 +9602,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ、流石はウーラ殿だ！"
-                            ]
+                                "Ooh, that's the Ula-dono I know!"
+                            ],
+                            "_original": "おおっ、流石はウーラ殿だ！"
                         },
                         {
                             "code": 101,
@@ -9800,22 +9622,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手練れの隊士が憑かれるほどの厭い根の生息地……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "油断するなよ。"
-                            ]
+                                "A nest of Blight Roots strong enough to\npossess veteran guards... Don't let your\nguard down."
+                            ],
+                            "_original": "手練れの隊士が憑かれるほどの厭い根の生息地……\n油断するなよ。"
                         },
                         {
                             "code": 101,
@@ -9825,15 +9642,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん！"
-                            ]
+                                "Of course!"
+                            ],
+                            "_original": "もちろん！"
                         },
                         {
                             "code": 221,

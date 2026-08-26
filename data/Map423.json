@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "門のブルジュ",
+    "displayName": "Gate Burj",
     "encounterList": [
         {
             "troopId": 224,
@@ -5262,22 +5262,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ場所だ。"
-                            ]
+                                "Huh? It's the same place."
+                            ],
+                            "_original": "あれ？\n同じ場所だ。"
                         },
                         {
                             "code": 101,
@@ -5287,22 +5282,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "否定。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "階下へと移動しました。"
-                            ]
+                                "Negative. We have moved to the floor below."
+                            ],
+                            "_original": "否定。\n階下へと移動しました。"
                         },
                         {
                             "code": 101,
@@ -5312,15 +5302,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ。"
-                            ]
+                                "Oh!"
+                            ],
+                            "_original": "おおっ。"
                         },
                         {
                             "code": 101,
@@ -5330,22 +5322,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じ構造が続くタイプか。"
-                            ]
+                                "Hmm. So it's the type where the same\nstructure repeats."
+                            ],
+                            "_original": "ふむ。\n同じ構造が続くタイプか。"
                         },
                         {
                             "code": 221,
@@ -5937,22 +5924,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "崩れたような記号が書かれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういう文字があるのか、壊れているのか……"
-                            ]
+                                "There are symbols that look broken. I\nwonder if this is how the writing is\nsupposed to be, or if it's just\ndamaged..."
+                            ],
+                            "_original": "崩れたような記号が書かれている。\nこういう文字があるのか、壊れているのか……"
                         },
                         {
                             "code": 0,

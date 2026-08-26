@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼剣",
+        "name": "▼Sword",
         "note": "",
         "params": [
             0,
@@ -31,12 +31,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼剣"
+        }
     },
     {
         "id": 2,
         "animationId": 162,
-        "description": "剣：不出来な刀。\n\\C[24]武器スキル：\\C[0]なし",
+        "description": "Sword: A poorly made blade. \\C[24]Weapon Skill: \\C[0]None",
         "etypeId": 1,
         "traits": [
             {
@@ -51,8 +54,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鈍刀",
-        "note": "<dPlnText:粗悪ななまくら\n怪異討ちの武器としては心許ない\n　\n斬れぬ刀に価値はない\n早めに買い替えた方がよい\n　\n特殊な効果は持たない>",
+        "name": "Dull Sword",
+        "note": "<dPlnText:A crude, dull blade. Unreliable as a weapon for hunting\naberrations. A sword that cannot cut has no value. Best to\nreplace it sooner rather than later. It has no special\neffects.>",
         "params": [
             0,
             0,
@@ -64,12 +67,16 @@
             0
         ],
         "price": 4,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "鈍刀",
+            "description": "剣：不出来な刀。\n\\C[24]武器スキル：\\C[0]なし"
+        }
     },
     {
         "id": 3,
         "animationId": 162,
-        "description": "剣：シキノワの一般的な武器。\n\\C[24]武器スキル：\\C[0]袈裟斬り",
+        "description": "Sword: A common weapon in Shikinowa. \\C[24]Weapon Skill: \\C[0]Diagonal Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -94,8 +101,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "無銘打刀",
-        "note": "<dPlnText:刀と呼ばれる剣の一種\n東国ではありふれた武器\n　\n異邦人には並々ならぬ切れ味を期待されるが\n普通の刀は、さほどでもない\n　\n特殊な効果は持たない>",
+        "name": "Unsigned Sword",
+        "note": "<dPlnText:A type of sword called a katana. A common weapon in the\neastern lands. Outsiders often expect extraordinary\nsharpness from them, but an ordinary katana is nothing\nspecial. It has no special effects.>",
         "params": [
             0,
             0,
@@ -107,12 +114,16 @@
             0
         ],
         "price": 30,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "無銘打刀",
+            "description": "剣：シキノワの一般的な武器。\n\\C[24]武器スキル：\\C[0]袈裟斬り"
+        }
     },
     {
         "id": 4,
         "animationId": 162,
-        "description": "剣：シキノワの都で売られている土産物。\n\\C[24]武器スキル：\\C[0]袈裟斬り",
+        "description": "Sword: A souvenir sold in the capital of Shikinowa. \\C[24]Weapon Skill: \\C[0]Diagonal Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -137,8 +148,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "秋水京土産刀",
-        "note": "<dPlnText:東国の刀\n土産物だが、よく斬れる\n　\n一部の冒険者などは、やけに刀を好む\nこれは、そんな需要を見通したものだ\n　\n特殊な効果は持たない>",
+        "name": "Shusui Kyoto Souvenir Sword",
+        "note": "<dPlnText:An eastern katana. A souvenir, but it cuts well. Some\nadventurers are oddly fond of katanas. This one was made\nwith that demand in mind. It has no special effects.>",
         "params": [
             0,
             0,
@@ -150,12 +161,16 @@
             0
         ],
         "price": 200,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "秋水京土産刀",
+            "description": "剣：シキノワの都で売られている土産物。\n\\C[24]武器スキル：\\C[0]袈裟斬り"
+        }
     },
     {
         "id": 5,
         "animationId": 162,
-        "description": "剣：砕けた陽鉄から鍛えられた刀。\n\\C[24]武器スキル：\\C[0]袈裟斬り",
+        "description": "Sword: A blade forged from shattered Yotetsu. \\C[24]Weapon Skill: \\C[0]Diagonal Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -180,8 +195,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "陽鉄屑刀",
-        "note": "<dPlnText:東の果てで見られる刀\n妖狸が作り出すという\n　\n陽鉄は命刻山の恵みであり\n砕けていても、上質な武器の素材となる\n　\n特殊な効果は持たない>",
+        "name": "Yotetsu Scrap Sword",
+        "note": "<dPlnText:A katana found at the eastern edge. Said to be crafted by\nmystic tanuki. Yotetsu is a blessing from Meikoku Mountain,\nand even in fragments, it serves as high-quality weapon\nmaterial. It has no special effects.>",
         "params": [
             0,
             0,
@@ -193,12 +208,16 @@
             0
         ],
         "price": 500,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "陽鉄屑刀",
+            "description": "剣：砕けた陽鉄から鍛えられた刀。\n\\C[24]武器スキル：\\C[0]袈裟斬り"
+        }
     },
     {
         "id": 6,
         "animationId": 162,
-        "description": "剣：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]袈裟斬り",
+        "description": "Sword: A weapon crafted in Upashimoshiri since ancient times. \\C[24]Weapon Skill:\n\\C[0]Diagonal Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -223,8 +242,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "祭事の剣",
-        "note": "<dPlnText:ウパシモシリで見られる武器\n白と黒の柄が特徴\n　\n遥か昔、カンムイの名も知られぬ頃\n雪の郷では魂を称える祭りがあった\n　\nそれは神事として語り継がれ\nセセクの名のもとに、祭具もなお\n失われずに遺る\n　\n特殊な効果は持たない>",
+        "name": "Ritual Sword",
+        "note": "<dPlnText:A weapon found in Upashimoshiri. Distinguished by its white-and-black hilt.\nLong ago, before the name of Kamuy was even known, there was a festival in\nthe snowy village to honor souls. It has been passed down as a sacred rite,\nand under the name of Seseku, even the ceremonial tools remain,\nundiminished. It has no special effects.>",
         "params": [
             0,
             0,
@@ -236,12 +255,16 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "祭事の剣",
+            "description": "剣：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]袈裟斬り"
+        }
     },
     {
         "id": 7,
         "animationId": 162,
-        "description": "剣：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し",
+        "description": "Sword: A weapon wielded by warriors of the Divine Faction. \\C[24]Weapon Skill: \\C[0]Divine\nHealing",
         "etypeId": 1,
         "traits": [
             {
@@ -266,8 +289,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "アドシアンソード",
-        "note": "<dPlnText:ラムルアラムの武器\nアスワドの戦士たちの装備品\n　\n過酷な砂漠を生き延びるため\n神の慈悲、癒しの祈りが込められている\n　\n特殊な効果は持たない>",
+        "name": "Adosian Sword",
+        "note": "<dPlnText:A weapon from Ramul Alam. Gear of the Aswad Warriors. To\nsurvive the harsh desert, it is imbued with the god's mercy\nand healing prayers. It has no special effects.>",
         "params": [
             0,
             0,
@@ -279,7 +302,11 @@
             0
         ],
         "price": 2500,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "アドシアンソード",
+            "description": "剣：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し"
+        }
     },
     {
         "id": 8,
@@ -398,7 +425,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼剣：レア",
+        "name": "▼Sword: Rare",
         "note": "",
         "params": [
             0,
@@ -411,12 +438,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼剣：レア"
+        }
     },
     {
         "id": 12,
         "animationId": 162,
-        "description": "剣：名だたる刀匠の駄作。\n\\C[24]武器スキル：\\C[0]冷まし",
+        "description": "Sword: A failure from a renowned swordsmith. \\C[24]Weapon Skill: \\C[0]Cooling",
         "etypeId": 1,
         "traits": [
             {
@@ -446,8 +476,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "空風",
-        "note": "<NameColor:23>\n<dPlnText:かの刀匠、穂武良春火の作\n号は「からかぜ」と読む\n　\nその一振りは空風の如く熱を冷まし\n敵の戦意をたちまちに削ぐ\n　\n特異な剣と言えるだろうが\n鬼才は満足に至らなかった\n　\n以下の特殊効果を持つ\n・会心率3％上昇>",
+        "name": "Sky Wind",
+        "note": "<NameColor:23>\n<dPlnText:A work by the renowned swordsmith, Hohara Haruhi. Its name is read as\nKarakaze. That single stroke cools the heat like an empty wind, and\nswiftly saps the enemy's will to fight. It could be called an exceptional\nblade, but the master genius was not fully satisfied. Has the following\nspecial effects: ・Critical rate +3%>",
         "params": [
             0,
             0,
@@ -459,12 +489,16 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "空風",
+            "description": "剣：名だたる刀匠の駄作。\n\\C[24]武器スキル：\\C[0]冷まし"
+        }
     },
     {
         "id": 13,
         "animationId": 307,
-        "description": "\\C[24]【ナズナ専用】\\C[0]剣：真白神社に祀られている神器。\n\\C[24]武器スキル：\\C[0]悪斬",
+        "description": "\\C[24][Nazuna Only]\\C[0]Sword: A sacred treasure enshrined at Pure White Shrine. \\C[24]Weapon\nSkill: \\C[0]Evil Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -489,8 +523,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "カンムイの剣",
-        "note": "<追加武器タイプ:7>\n<NameColor:23>\n<dPlnText:真白神社の宝物\nかの大怪異の遺骨の一片\n　\nカンムイはかつて雲を裂き、稲妻を起こした\n骸にすらも、その片鱗が遺る\n　\n来る嵐は神鳴るいかずち\n東に蔓延る穢れを討つのだ\n　\n以下の特殊効果を持つ\n・攻撃に雷属性付与>",
+        "name": "Kamui's Sword",
+        "note": "<追加武器タイプ:7>\n<NameColor:23>\n<dPlnText:A treasure of the Pure White Shrine. A fragment of the bone of that great\naberration. Kamuy once rent the clouds and called down lightning. Even in\nits remains, a trace of that power lingers. The coming storm is a divine\nthunderbolt, striking down the corruption spreading in the east. Has the\nfollowing special effects: ・Adds lightning attribute to attacks>",
         "params": [
             0,
             0,
@@ -502,12 +536,16 @@
             32
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "カンムイの剣",
+            "description": "\\C[24]【ナズナ専用】\\C[0]剣：真白神社に祀られている神器。\n\\C[24]武器スキル：\\C[0]悪斬"
+        }
     },
     {
         "id": 14,
         "animationId": 162,
-        "description": "剣：足袋蛇の長の得物の片割れ。\n\\C[24]武器スキル：\\C[0]這う牙",
+        "description": "Sword: One half of the chief of the Tabigami Snake's paired weapons. \\C[24]Weapon\nSkill: \\C[0]Creeping Fang",
         "etypeId": 1,
         "traits": [
             {
@@ -537,8 +575,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "龍断ちの一隻",
-        "note": "<NameColor:23>\n<dPlnText:歪み伸びる奇妙な太刀\nその刃は蛇に似ている\n　\n八人の野心は同族すべてを犠牲としたが\nただ一人、執念のみで生き延びた者がいる\n　\n奈落の底の、九人目の蛇\n今や名をも捨てた憎悪の化身は\nもとより裏切りなど望まなかった\n　\n以下の特殊効果を持つ\n・攻撃に闇属性付与\n・会心率15％上昇>",
+        "name": "Dragon Slayer",
+        "note": "<NameColor:23>\n<dPlnText:A strange, distorted and elongated tachi. Its blade resembles a serpent.\nThe ambitions of eight sacrificed all their kin, but one survived on sheer\nobsession alone. At the bottom of the abyss, the ninth serpent, now an\nincarnation of hatred that has cast aside even its name, never desired\nbetrayal in the first place. Has the following special effects: ・Adds dark\nattribute to attacks ・Critical rate +15%>",
         "params": [
             0,
             0,
@@ -550,12 +588,16 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "龍断ちの一隻",
+            "description": "剣：足袋蛇の長の得物の片割れ。\n\\C[24]武器スキル：\\C[0]這う牙"
+        }
     },
     {
         "id": 15,
         "animationId": 162,
-        "description": "剣：鵺の力をも切るという剣。\n\\C[24]武器スキル：\\C[0]袈裟斬り",
+        "description": "Sword: A blade said to be capable of cutting even the Nue's power. \\C[24]Weapon Skill:\n\\C[0]Diagonal Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -580,8 +622,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鵺切",
-        "note": "<NameColor:23>\n<dPlnText:漂泊の力を断った剣\n同時に己の漂泊も失われた\n　\n今や特殊な能力を持たない武器だが\n紛れもなく穂武良春火の傑作であり\nその切れ味こそが特殊と言える\n　\n特殊な効果は持たない>",
+        "name": "Nue Slayer",
+        "note": "<NameColor:23>\n<dPlnText:A sword that severed the power of wandering. At the same time, its own\nwandering was also lost. It is now a weapon without special abilities, but\nit is without a doubt a masterpiece by Hohara Haruhi, and its sharpness\nitself could be called its specialty. It has no special effects.>",
         "params": [
             0,
             0,
@@ -593,12 +635,16 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "鵺切",
+            "description": "剣：鵺の力をも切るという剣。\n\\C[24]武器スキル：\\C[0]袈裟斬り"
+        }
     },
     {
         "id": 16,
         "animationId": 162,
-        "description": "剣：左雨家に代々伝わる武器。\n\\C[24]武器スキル：\\C[0]鋭い刺突",
+        "description": "Sword: A weapon passed down through the Sayuu family for generations. \\C[24]Weapon\nSkill: \\C[0]Sharp Thrust",
         "etypeId": 1,
         "traits": [
             {
@@ -623,8 +669,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "黒雨",
-        "note": "<BoostEX:CR, 20>\n<NameColor:23>\n<dPlnText:将軍家の執政が振るう武器\n号は「こくう」と読む\n　\n穂武良一族からの贈り物、あるいは呪い\n　\n異様に鋭い切っ先は、時に\n乱心の主の息の根をも止める\nそんな覚悟を思い抱かせる\n　\n以下の特殊効果を持つ\n・会心ダメージ20％上昇>",
+        "name": "Black Rain",
+        "note": "<BoostEX:CR, 20>\n<NameColor:23>\n<dPlnText:A weapon wielded by the regent of the Shogun Clan. Its name is read as\nKokuu. A gift from the Hohara clan―or perhaps a curse. Its unnaturally\nkeen point sometimes puts an end to the maddened master's very breath. It\nmakes one ponder that resolve. Has the following special effects: ・Critical\ndamage +20%>",
         "params": [
             0,
             0,
@@ -636,12 +682,16 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "黒雨",
+            "description": "剣：左雨家に代々伝わる武器。\n\\C[24]武器スキル：\\C[0]鋭い刺突"
+        }
     },
     {
         "id": 17,
         "animationId": 162,
-        "description": "剣：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの斬撃",
+        "description": "Sword: A weapon sold as a souvenir for tourists. \\C[24]Weapon Skill: \\C[0]Al-Helm's Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -706,8 +756,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "アル・ヘルムの剣",
-        "note": "<NameColor:23>\n<dPlnText:人派の技術で生み出された装備品\nルーフにより真価を発揮する\n　\n滅びに対抗するための武器であり\n高い性能も、決して過剰ではない\n　\nなぜだか記念品として扱われている\n思いもよらぬことだ\n　\n以下の特殊効果を持つ\n・全能力値3％上昇>",
+        "name": "Al-Helm's Sword",
+        "note": "<NameColor:23>\n<dPlnText:Equipment created by the technology of the Human Faction. Its true value is\nrealized through Roof. A weapon to oppose destruction, and even its high\nperformance is by no means excessive. For some reason, it's treated as a\ncommemorative item. Quite unexpected. Has the following special effects:\n・All stats +3%>",
         "params": [
             0,
             0,
@@ -719,7 +769,11 @@
             0
         ],
         "price": 6000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "アル・ヘルムの剣",
+            "description": "剣：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの斬撃"
+        }
     },
     {
         "id": 18,
@@ -838,7 +892,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼剣：エピック",
+        "name": "▼Sword: Epic",
         "note": "",
         "params": [
             0,
@@ -851,12 +905,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼剣：エピック"
+        }
     },
     {
         "id": 22,
         "animationId": 575,
-        "description": "剣：実体のない刃を持つ武器。\n\\C[24]武器スキル：\\C[0]デミルーメン",
+        "description": "Sword: A weapon with an incorporeal blade. \\C[24]Weapon Skill: \\C[0]Demilumen",
         "etypeId": 1,
         "traits": [
             {
@@ -886,8 +943,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "レーザーブレード",
-        "note": "<NameColor:31>\n<dPlnText:ヌシより得た装備品\n高い性能を宿す\n　\nオルーサの兵器として作られたものだが\n今は便利な明かりとなっていた\n　\n以下の特殊効果を持つ\n・攻撃に光属性付与\n・攻撃力5％上昇>",
+        "name": "Laser Blade",
+        "note": "<NameColor:31>\n<dPlnText:Equipment obtained from the Master. It houses high performance. It was made\nas a weapon of Orsa, but now it served as a convenient light source. Has\nthe following special effects: ・Adds light attribute to attacks ・Attack +5%>",
         "params": [
             0,
             0,
@@ -899,7 +956,11 @@
             0
         ],
         "price": 3000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "レーザーブレード",
+            "description": "剣：実体のない刃を持つ武器。\n\\C[24]武器スキル：\\C[0]デミルーメン"
+        }
     },
     {
         "id": 23,
@@ -1183,7 +1244,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼剣：レジェンド",
+        "name": "▼Sword: Legend",
         "note": "",
         "params": [
             0,
@@ -1196,12 +1257,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼剣：レジェンド"
+        }
     },
     {
         "id": 32,
         "animationId": 162,
-        "description": "剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Sword: A weapon offered during the Forging Ritual. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -1231,8 +1295,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "真白御剣",
-        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率10％上昇\n・会心ダメージ10％上昇>",
+        "name": "Pure White Sacred Sword",
+        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:A weapon passed down at the Pure White Shrine. Offered during the Forging\nRite. Hakutō's sword, so powerful that it was said to break with every\nbattle. In the Forging Rite, gratitude is offered to the god who protects\nthe people, and a worthy new weapon is presented. Has the following special\neffects: ・Critical rate +10% ・Critical damage +10%>",
         "params": [
             0,
             0,
@@ -1244,12 +1308,16 @@
             0
         ],
         "price": 4000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "真白御剣",
+            "description": "剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 33,
         "animationId": 162,
-        "description": "剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Sword: A weapon harboring the soul of the Four-Soul Anomaly, Hyakuro Saiki.\n\\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -1284,8 +1352,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "百王太刀",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力10％上昇\n・防御力20％上昇>",
+        "name": "Hundred Kings' Sword",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nits power. Shiba Dōji, in life, forged many weapons, and every one of them\nwas an excellent piece. Has the following special effects: ・Adds ice\nattribute to attacks ・Attack +10% ・Defense +20%>",
         "params": [
             0,
             0,
@@ -1297,12 +1365,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "百王太刀",
+            "description": "剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 34,
         "animationId": 162,
-        "description": "剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Sword: A weapon harboring the soul of the Four-Soul Anomaly, Goo Yuuyami. \\C[24]Weapon\nSkill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -1337,8 +1409,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "艶尾炎剣",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力10％上昇\n・魔防力20％上昇>",
+        "name": "Gleaming Tail Flame Sword",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nits power. Tales of Yuuyami are particularly numerous among the Four-Soul\nAberrations. So much so that it captivated the masses. Has the following\nspecial effects: ・Adds fire attribute to attacks ・Magic attack +10% ・Magic\ndefense +20%>",
         "params": [
             0,
             0,
@@ -1350,12 +1422,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "艶尾炎剣",
+            "description": "剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 35,
         "animationId": 162,
-        "description": "剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Sword: A weapon harboring the soul of the Four-Soul Anomaly, Mystic Tanuki\nInugami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -1390,8 +1466,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "八八刃",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP10％上昇\n・心気20％上昇>",
+        "name": "Eighty-Eight Blade",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nits power. Once, people feared the darkness of night, but at some point, a\ncheerful chant dispelled it. Has the following special effects: ・Adds earth\nattribute to attacks ・Max HP +10% ・Spirit +20%>",
         "params": [
             0,
             0,
@@ -1403,12 +1479,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "八八刃",
+            "description": "剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 36,
         "animationId": 162,
-        "description": "剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Sword: A weapon harboring the soul of the Four-Soul Anomaly, Nue. \\C[24]Weapon Skill:\n\\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -1433,8 +1513,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "不詳の剣",
-        "note": "<NameColor:2>\n<BoostEX:WT, 1, 10>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・全攻撃の威力10％上昇>",
+        "name": "Unknown Sword",
+        "note": "<NameColor:2>\n<BoostEX:WT, 1, 10>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits\na fragment of its power. The very existence of Nue has long\nbeen doubted, but she was certainly there. Has the following\nspecial effects: ・All attack power +10%>",
         "params": [
             0,
             0,
@@ -1446,7 +1526,11 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "不詳の剣",
+            "description": "剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 37,
@@ -1598,7 +1682,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼短剣",
+        "name": "▼Dagger",
         "note": "",
         "params": [
             0,
@@ -1611,12 +1695,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "▼短剣"
+        }
     },
     {
         "id": 42,
         "animationId": 162,
-        "description": "短剣：護身用の短い刀。\n\\C[24]武器スキル：\\C[0]鋭い刺突",
+        "description": "Dagger: A short blade for self-defense. \\C[24]Weapon Skill: \\C[0]Sharp Thrust",
         "etypeId": 1,
         "traits": [
             {
@@ -1646,8 +1733,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "短刀",
-        "note": "<dPlnText:懐に忍ばせる短刀\n護身用として持つ者が多い\n　\n隙を突き、急所を狙えば\n怪異にも致命傷を与えられる\n　\n以下の特殊効果を持つ\n・会心率1％上昇>",
+        "name": "Short Sword",
+        "note": "<dPlnText:A short sword kept in the bosom. Many carry it for\nself-defense. If you seize an opening and strike a vital\nspot, it can deal a fatal blow even to aberrations. Has the\nfollowing special effects: ・Critical rate +1%>",
         "params": [
             0,
             0,
@@ -1659,12 +1746,16 @@
             0
         ],
         "price": 30,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "短刀",
+            "description": "短剣：護身用の短い刀。\n\\C[24]武器スキル：\\C[0]鋭い刺突"
+        }
     },
     {
         "id": 43,
         "animationId": 162,
-        "description": "短剣：忍びが持つものとして売られている武器。\n\\C[24]武器スキル：\\C[0]鋭い刺突",
+        "description": "Dagger: A weapon sold as something a shinobi would carry. \\C[24]Weapon Skill: \\C[0]Sharp\nThrust",
         "etypeId": 1,
         "traits": [
             {
@@ -1694,8 +1785,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "忍びの短刀",
-        "note": "<dPlnText:東国の短刀\n土産物だが、よく斬れる\n　\n一部の冒険者などは忍者を誤解し\n手品師か何かだと思っている\n　\n以下の特殊効果を持つ\n・会心率1％上昇>",
+        "name": "Ninja's Short Sword",
+        "note": "<dPlnText:An eastern short sword. A souvenir, but it cuts well. Some\nadventurers misunderstand ninja, thinking they are magicians\nor something. Has the following special effects: ・Critical\nrate +1%>",
         "params": [
             0,
             0,
@@ -1707,12 +1798,16 @@
             0
         ],
         "price": 200,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "忍びの短刀",
+            "description": "短剣：忍びが持つものとして売られている武器。\n\\C[24]武器スキル：\\C[0]鋭い刺突"
+        }
     },
     {
         "id": 44,
         "animationId": 162,
-        "description": "短剣：砕けた陽鉄から鍛えられた短刀。\n\\C[24]武器スキル：\\C[0]鋭い刺突",
+        "description": "Dagger: A short blade forged from shattered Yotetsu. \\C[24]Weapon Skill: \\C[0]Sharp Thrust",
         "etypeId": 1,
         "traits": [
             {
@@ -1742,8 +1837,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "陽鉄屑短刀",
-        "note": "<dPlnText:東の果てで見られる短刀\n妖狸が作り出すという\n　\n陽鉄は命刻山の恵みであり\n砕けていても、上質な武器の素材となる\n　\n以下の特殊効果を持つ\n・会心率2％上昇>",
+        "name": "Yotetsu Scrap Short Sword",
+        "note": "<dPlnText:A short sword found at the eastern edge. Said to be crafted by mystic\ntanuki. Yotetsu is a blessing from Meikoku Mountain, and even in fragments,\nit serves as high-quality weapon material. Has the following special\neffects: ・Critical rate +2%>",
         "params": [
             0,
             0,
@@ -1755,12 +1850,16 @@
             0
         ],
         "price": 500,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "陽鉄屑短刀",
+            "description": "短剣：砕けた陽鉄から鍛えられた短刀。\n\\C[24]武器スキル：\\C[0]鋭い刺突"
+        }
     },
     {
         "id": 45,
         "animationId": 162,
-        "description": "短剣：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]鋭い刺突",
+        "description": "Dagger: A weapon crafted in Upashimoshiri since ancient times. \\C[24]Weapon Skill:\n\\C[0]Sharp Thrust",
         "etypeId": 1,
         "traits": [
             {
@@ -1790,8 +1889,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "祭事の短剣",
-        "note": "<dPlnText:ウパシモシリで見られる武器\n白と黒の柄が特徴\n　\n遥か昔、カンムイの名も知られぬ頃\n雪の郷では魂を称える祭りがあった\n　\nそれは神事として語り継がれ\nセセクの名のもとに、祭具もなお\n失われずに遺る\n　\n以下の特殊効果を持つ\n・会心率3％上昇>",
+        "name": "Ritual Dagger",
+        "note": "<dPlnText:A weapon found in Upashimoshiri. Distinguished by its white-and-black hilt.\nLong ago, before the name of Kamuy was even known, there was a festival in\nthe snowy village to honor souls. It has been passed down as a sacred rite,\nand under the name of Seseku, even the ceremonial tools remain,\nundiminished. Has the following special effects: ・Critical rate +3%>",
         "params": [
             0,
             0,
@@ -1803,12 +1902,16 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "祭事の短剣",
+            "description": "短剣：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]鋭い刺突"
+        }
     },
     {
         "id": 46,
         "animationId": 162,
-        "description": "短剣：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し",
+        "description": "Dagger: A weapon wielded by warriors of the Divine Faction. \\C[24]Weapon Skill: \\C[0]Divine\nHealing",
         "etypeId": 1,
         "traits": [
             {
@@ -1838,8 +1941,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "アドシアンダガー",
-        "note": "<dPlnText:ラムルアラムの武器\nアスワドの戦士たちの装備品\n　\n過酷な砂漠を生き延びるため\n神の慈悲、癒しの祈りが込められている\n　\n以下の特殊効果を持つ\n・会心率5％上昇>",
+        "name": "Adosian Dagger",
+        "note": "<dPlnText:A weapon from Ramul Alam. Gear of the Aswad Warriors. To\nsurvive the harsh desert, it is imbued with the god's mercy\nand healing prayers. Has the following special effects:\n・Critical rate +5%>",
         "params": [
             0,
             0,
@@ -1851,7 +1954,11 @@
             0
         ],
         "price": 2500,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "アドシアンダガー",
+            "description": "短剣：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し"
+        }
     },
     {
         "id": 47,
@@ -2003,7 +2110,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼短剣：レア",
+        "name": "▼Dagger: Rare",
         "note": "",
         "params": [
             0,
@@ -2016,12 +2123,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "▼短剣：レア"
+        }
     },
     {
         "id": 52,
         "animationId": 162,
-        "description": "短剣：不気味な刀。折れているが、まだ使える。\n\\C[24]武器スキル：\\C[0]不浄臍帯",
+        "description": "Dagger: An eerie blade. It's broken, but still usable. \\C[24]Weapon Skill: \\C[0]Impure\nUmbilical Cord",
         "etypeId": 1,
         "traits": [
             {
@@ -2051,8 +2161,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "折れた奇喰",
-        "note": "<NameColor:23>\n<dPlnText:半ばで折れてしまっている刀\n号は「くしぐい」と読む\n　\n穂武良一族が遺した呪物の類で\n星宝寺の僧、道悳に守られていた\n　\n冒涜され、今や見る影もなし\n　\n以下の特殊効果を持つ\n・毎ターンHP4％回復>",
+        "name": "Broken Kikui",
+        "note": "<NameColor:23>\n<dPlnText:A katana broken in half. Its name is read as Kushigui. A cursed object\nleft by the Hohara clan, it was guarded by the monk Dōtoku of Seihō Temple.\nDefiled, it is now but a shadow of its former self. Has the following\nspecial effects: ・Recover 4% HP each turn>",
         "params": [
             0,
             0,
@@ -2064,12 +2174,16 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "折れた奇喰",
+            "description": "短剣：不気味な刀。折れているが、まだ使える。\n\\C[24]武器スキル：\\C[0]不浄臍帯"
+        }
     },
     {
         "id": 53,
         "animationId": 162,
-        "description": "短剣：足袋蛇一族の武器。\n\\C[24]武器スキル：\\C[0]抉り",
+        "description": "Dagger: A weapon of the Tabi Snake clan. \\C[24]Weapon Skill: \\C[0]Gouge",
         "etypeId": 1,
         "traits": [
             {
@@ -2099,8 +2213,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "足袋蛇の波打ち刃",
-        "note": "<NameColor:23>\n<dPlnText:足袋蛇一族の遺物\n波打つ刃が特徴\n　\nかつて人と怪異が睨み合う時代\n谷の底に、足のある蛇がいた\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・会心率3％上昇>",
+        "name": "Tabi Snake's Rippling Blade",
+        "note": "<NameColor:23>\n<dPlnText:A relic of the Tabihebi clan. Characterized by its undulating blade. In an\nage when humans and aberrations stood in opposition, there was a snake with\nlegs in the valley depths. Has the following special effects: ・Adds ice\nattribute to attacks ・Critical rate +3%>",
         "params": [
             0,
             0,
@@ -2112,12 +2226,16 @@
             0
         ],
         "price": 2000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "足袋蛇の波打ち刃",
+            "description": "短剣：足袋蛇一族の武器。\n\\C[24]武器スキル：\\C[0]抉り"
+        }
     },
     {
         "id": 54,
         "animationId": 162,
-        "description": "短剣：神の都を離れた一団の暗殺武器。\n\\C[24]武器スキル：\\C[0]暗殺",
+        "description": "Dagger: An assassination weapon of a group that left the Divine Capital. \\C[24]Weapon\nSkill: \\C[0]Assassination",
         "etypeId": 1,
         "traits": [
             {
@@ -2147,8 +2265,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "虚無派の刃",
-        "note": "<NameColor:23>\n<dPlnText:漆黒の短剣\n光を反射せず、闇に紛れる\n　\n神を讃える民と、そうありながらも\n人の可能性をも信じた民\n両者の調和を認められぬ者の行方は\n日の当たる場所にはなかった\n　\n以下の特殊効果を持つ\n・会心率25％上昇>",
+        "name": "Void Faction Blade",
+        "note": "<NameColor:23>\n<dPlnText:A jet-black dagger. It reflects no light and blends into darkness. A people\nwho praised the gods, and yet also believed in human potential― the one who\ncould not accept the harmony of both found no place in the light. Has the\nfollowing special effects: ・Critical rate +25%>",
         "params": [
             0,
             0,
@@ -2160,12 +2278,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "虚無派の刃",
+            "description": "短剣：神の都を離れた一団の暗殺武器。\n\\C[24]武器スキル：\\C[0]暗殺"
+        }
     },
     {
         "id": 55,
         "animationId": 162,
-        "description": "短剣：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの斬撃",
+        "description": "Dagger: A weapon sold as a tourist souvenir. \\C[24]Weapon Skill: \\C[0]Al-Helm's Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -2235,8 +2357,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "アル・ヘルムの短剣",
-        "note": "<NameColor:23>\n<dPlnText:人派の技術で生み出された装備品\nルーフにより真価を発揮する\n　\n滅びに対抗するための武器であり\n高い性能も、決して過剰ではない\n　\nなぜだか記念品として扱われている\n思いもよらぬことだ\n　\n以下の特殊効果を持つ\n・全能力値3％上昇\n・会心率3％上昇>",
+        "name": "Al-Helm's Dagger",
+        "note": "<NameColor:23>\n<dPlnText:Equipment created by the technology of the Human Faction. Its true value is\nrealized through Roof. A weapon to oppose destruction, and even its high\nperformance is by no means excessive. For some reason, it's treated as a\ncommemorative item. Quite unexpected. Has the following special effects:\n・All stats +3% ・Critical rate +3%>",
         "params": [
             0,
             0,
@@ -2248,7 +2370,11 @@
             0
         ],
         "price": 6000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "アル・ヘルムの短剣",
+            "description": "短剣：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの斬撃"
+        }
     },
     {
         "id": 56,
@@ -2433,7 +2559,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼短剣：エピック",
+        "name": "▼Dagger: Epic",
         "note": "",
         "params": [
             0,
@@ -2446,12 +2572,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "▼短剣：エピック"
+        }
     },
     {
         "id": 62,
         "animationId": 162,
-        "description": "短剣：命刻山の鬼の角。\n\\C[24]武器スキル：\\C[0]なし",
+        "description": "Dagger: The horn of an Oni from Meikoku Mountain. \\C[24]Weapon Skill: \\C[0]None",
         "etypeId": 1,
         "traits": [
             {
@@ -2471,8 +2600,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "頂の鬼の角",
-        "note": "<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n角は熱く、炎の力を帯びている\nそれは日を浴びて得た恩恵である\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・攻撃力20％上昇>",
+        "name": "Oni Horn of the Summit",
+        "note": "<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of its power. The\nhorn is hot, bearing the power of flame. It is a blessing gained from\nbasking in the sun. Has the following special effects: ・Adds fire attribute\nto attacks ・Attack +20%>",
         "params": [
             0,
             0,
@@ -2484,7 +2613,11 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "頂の鬼の角",
+            "description": "短剣：命刻山の鬼の角。\n\\C[24]武器スキル：\\C[0]なし"
+        }
     },
     {
         "id": 63,
@@ -2768,7 +2901,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼短剣：レジェンド",
+        "name": "▼Dagger: Legend",
         "note": "",
         "params": [
             0,
@@ -2781,12 +2914,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "▼短剣：レジェンド"
+        }
     },
     {
         "id": 72,
         "animationId": 162,
-        "description": "短剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Dagger: A weapon offered in the Forging Ritual. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -2816,8 +2952,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "真白御短剣",
-        "note": "<BoostEX:CR, 15>\n<NameColor:2>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率15％上昇\n・会心ダメージ15％上昇>",
+        "name": "True White Sacred Dagger",
+        "note": "<BoostEX:CR, 15>\n<NameColor:2>\n<dPlnText:A weapon passed down at the Pure White Shrine. Offered during the Forging\nRite. Hakutō's sword, so powerful that it was said to break with every\nbattle. In the Forging Rite, gratitude is offered to the god who protects\nthe people, and a worthy new weapon is presented. Has the following special\neffects: ・Critical rate +15% ・Critical damage +15%>",
         "params": [
             0,
             0,
@@ -2829,12 +2965,16 @@
             0
         ],
         "price": 4000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "真白御短剣",
+            "description": "短剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 73,
         "animationId": 162,
-        "description": "短剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Monster, Hyakuo Shiba\nOni. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -2874,8 +3014,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "百王短刀",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力10％上昇\n・防御力20％上昇\n・会心率5％上昇>",
+        "name": "Hundred Kings' Dagger",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nits power. Shiba Dōji, in life, forged many weapons, and every one of them\nwas an excellent piece. Has the following special effects: ・Adds ice\nattribute to attacks ・Attack +10% ・Defense +20% ・Critical rate +5%>",
         "params": [
             0,
             0,
@@ -2887,12 +3027,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "百王短刀",
+            "description": "短剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 74,
         "animationId": 162,
-        "description": "短剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Monster, Five-tailed\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -2932,8 +3076,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "艶尾炎短剣",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力10％上昇\n・魔防力20％上昇\n・会心率5％上昇>",
+        "name": "Glossy Tail Flame Dagger",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a fragment of that\npower. Yuuyami's tales are especially numerous among the Four-Soul\nMonsters. To such an extent that she captivated the masses. Has the\nfollowing special effects: ・Adds Fire element to attacks. ・Magic Attack\n+10% ・Magic Defense +20% ・Critical rate +5%>",
         "params": [
             0,
             0,
@@ -2945,12 +3089,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "艶尾炎短剣",
+            "description": "短剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 75,
         "animationId": 194,
-        "description": "短剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Monster, Mystic Tanuki\nKakushigami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -2990,8 +3138,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "八八針",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP10％上昇\n・心気20％上昇\n・会心率5％上昇>",
+        "name": "Eight-Eight Needle",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a fragment of that\npower. Once, people feared the darkness of night, but at some point, a\ncheerful folk song dispelled it. Has the following special effects: ・Adds\nEarth element to attacks. ・Max HP +10% ・Spirit +20% ・Critical rate +5%>",
         "params": [
             0,
             0,
@@ -3003,12 +3151,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "八八針",
+            "description": "短剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 76,
         "animationId": 162,
-        "description": "短剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Monster, Nue. \\C[24]Weapon\nSkill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -3038,8 +3190,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "不詳の短剣",
-        "note": "<NameColor:2>\n<BoostEX:WT, 2, 10>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・会心率5％上昇\n・全攻撃の威力10％上昇>",
+        "name": "Unknown Dagger",
+        "note": "<NameColor:2>\n<BoostEX:WT, 2, 10>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a\nfragment of that power. The existence of the Nue has long\nbeen doubted, but she was certainly there. Has the following\nspecial effects: ・Critical rate +5% ・All attack power +10%>",
         "params": [
             0,
             0,
@@ -3051,7 +3203,11 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "不詳の短剣",
+            "description": "短剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 77,
@@ -3203,7 +3359,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼大剣",
+        "name": "▼Greatsword",
         "note": "",
         "params": [
             0,
@@ -3216,12 +3372,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼大剣"
+        }
     },
     {
         "id": 82,
         "animationId": 178,
-        "description": "大剣：巨大な木刀。\n\\C[24]武器スキル：\\C[0]振り回し",
+        "description": "Greatsword: A huge wooden sword. \\C[24]Weapon Skill: \\C[0]Sweep",
         "etypeId": 1,
         "traits": [
             {
@@ -3246,8 +3405,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "大木刀",
-        "note": "<dPlnText:両手でも持て余す巨大な木刀\n力自慢の怪異が扱う\n　\n重量に見合う威力を発揮するが\n敏捷性は損なわれるだろう\n　\n特殊な効果は持たない>",
+        "name": "Great Wooden Sword",
+        "note": "<dPlnText:An enormous wooden sword that's too big to wield with both\nhands. Used by a monster that prides itself on strength. It\ndelivers power matching its weight, but Agility will likely\nbe compromised. Has no special effects.>",
         "params": [
             0,
             0,
@@ -3259,12 +3418,16 @@
             0
         ],
         "price": 30,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "大木刀",
+            "description": "大剣：巨大な木刀。\n\\C[24]武器スキル：\\C[0]振り回し"
+        }
     },
     {
         "id": 83,
         "animationId": 178,
-        "description": "大剣：鬼が振るうとされる鉈。\n\\C[24]武器スキル：\\C[0]振り回し",
+        "description": "Greatsword: A billhook said to be wielded by Oni. \\C[24]Weapon Skill: \\C[0]Sweep",
         "etypeId": 1,
         "traits": [
             {
@@ -3289,8 +3452,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "大鉈",
-        "note": "<dPlnText:東国の怪異、鬼の得物\nそう宣伝される土産物\n　\n売り文句が正しいとは思えないが\nそれはさておき、武器にはなる\n　\n特殊な効果は持たない>",
+        "name": "Great Hatchet",
+        "note": "<dPlnText:A souvenir marketed as the weapon of the Eastern monster,\nthe Oni. The sales pitch seems dubious, but that aside, it\ncan serve as a weapon. Has no special effects.>",
         "params": [
             0,
             0,
@@ -3302,12 +3465,16 @@
             0
         ],
         "price": 200,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "大鉈",
+            "description": "大剣：鬼が振るうとされる鉈。\n\\C[24]武器スキル：\\C[0]振り回し"
+        }
     },
     {
         "id": 84,
         "animationId": 178,
-        "description": "大剣：砕けた陽鉄から鍛えられた大太刀。\n\\C[24]武器スキル：\\C[0]振り回し",
+        "description": "Greatsword: An odachi forged from shattered Yotetsu. \\C[24]Weapon Skill: \\C[0]Sweep",
         "etypeId": 1,
         "traits": [
             {
@@ -3332,8 +3499,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "陽鉄屑大太刀",
-        "note": "<dPlnText:東の果てで見られる大太刀\n妖狸が作り出すという\n　\n陽鉄は命刻山の恵みであり\n砕けていても、上質な武器の素材となる\n　\n特殊な効果は持たない>",
+        "name": "Yotetsu Scrap Greatsword",
+        "note": "<dPlnText:A greatsword found at the eastern edge. Said to be crafted\nby Mystic Tanuki. Yotetsu is a blessing of Meikoku Mountain,\nand even broken, it serves as high-quality weapon material.\nHas no special effects.>",
         "params": [
             0,
             0,
@@ -3345,12 +3512,16 @@
             0
         ],
         "price": 500,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "陽鉄屑大太刀",
+            "description": "大剣：砕けた陽鉄から鍛えられた大太刀。\n\\C[24]武器スキル：\\C[0]振り回し"
+        }
     },
     {
         "id": 85,
         "animationId": 178,
-        "description": "大剣：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]振り回し",
+        "description": "Greatsword: A weapon crafted in Upashimoshiri since ancient times. \\C[24]Weapon Skill:\n\\C[0]Sweep",
         "etypeId": 1,
         "traits": [
             {
@@ -3375,8 +3546,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "祭事の大剣",
-        "note": "<dPlnText:ウパシモシリで見られる武器\n白と黒の柄が特徴\n　\n遥か昔、カンムイの名も知られぬ頃\n雪の郷では魂を称える祭りがあった\n　\nそれは神事として語り継がれ\nセセクの名のもとに、祭具もなお\n失われずに遺る\n　\n特殊な効果は持たない>",
+        "name": "Ceremonial Greatsword",
+        "note": "<dPlnText:A weapon found in Upashimoshiri. Characterized by its white and black hilt.\nLong ago, when even the name of Kamuy was unknown, there was a festival in\nthe snowy village that honored souls. It has been passed down as a sacred\nrite, and under the name of Seseku, the ritual implements still remain, not\nlost. Has no special effects.>",
         "params": [
             0,
             0,
@@ -3388,12 +3559,16 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "祭事の大剣",
+            "description": "大剣：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]振り回し"
+        }
     },
     {
         "id": 86,
         "animationId": 178,
-        "description": "大剣：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し",
+        "description": "Greatsword: A weapon used by warriors of the Divine faction. \\C[24]Weapon Skill:\n\\C[0]Divine Healing",
         "etypeId": 1,
         "traits": [
             {
@@ -3418,8 +3593,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "アドシアンブレード",
-        "note": "<dPlnText:ラムルアラムの武器\nアスワドの戦士たちの装備品\n　\n過酷な砂漠を生き延びるため\n神の慈悲、癒しの祈りが込められている\n　\n特殊な効果は持たない>",
+        "name": "Adosian Blade",
+        "note": "<dPlnText:A weapon of Ramul Alam. Equipment of the Aswad Warriors. To\nsurvive the harsh desert, it is imbued with divine mercy and\nhealing prayers. Has no special effects.>",
         "params": [
             0,
             0,
@@ -3431,7 +3606,11 @@
             0
         ],
         "price": 2500,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "アドシアンブレード",
+            "description": "大剣：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し"
+        }
     },
     {
         "id": 87,
@@ -3583,7 +3762,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼大剣：レア",
+        "name": "▼Greatsword: Rare",
         "note": "",
         "params": [
             0,
@@ -3596,12 +3775,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼大剣：レア"
+        }
     },
     {
         "id": 92,
         "animationId": 178,
-        "description": "大剣：武器のような形になった岩の塊。\n\\C[24]武器スキル：\\C[0]なし",
+        "description": "Greatsword: A lump of rock shaped like a weapon. \\C[24]Weapon Skill: \\C[0]None",
         "etypeId": 1,
         "traits": [
             {
@@ -3621,8 +3803,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "巨岩の縁",
-        "note": "<NameColor:23>\n<dPlnText:巨岩が砕け、偶然にも武器となったもの\n剣に似た形をしている\n　\nこれも何かの縁だろう\n頼ればよい。笑顔も消える重さだが\n　\n以下の特殊効果を持つ\n・素早さ50％低下>",
+        "name": "Giant Rock's Edge",
+        "note": "<NameColor:23>\n<dPlnText:A weapon formed by chance from a shattered boulder. It\nresembles a sword. This too must be some kind of fate. You\ncan rely on it―though its weight will wipe the smile off\nyour face. Has the following special effects: ・Agility -50%>",
         "params": [
             0,
             0,
@@ -3634,12 +3816,16 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "巨岩の縁",
+            "description": "大剣：武器のような形になった岩の塊。\n\\C[24]武器スキル：\\C[0]なし"
+        }
     },
     {
         "id": 93,
         "animationId": 178,
-        "description": "大剣：盾としても機能する大剣。\n\\C[24]武器スキル：\\C[0]防御態勢",
+        "description": "Greatsword: A greatsword that also functions as a shield. \\C[24]Weapon Skill:\n\\C[0]Defensive Stance",
         "etypeId": 1,
         "traits": [
             {
@@ -3669,8 +3855,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "守りの大剣",
-        "note": "<NameColor:23>\n<dPlnText:変形の機構を備えた異国の武器\n突き立てれば大きな盾となる\n　\n古くから、ウパシモシリの沿岸には\n海の外のものが多く流れ着く\n神の糸が紡ぐ縁なのだろう\n　\n以下の特殊効果を持つ\n・被物理ダメージ10％軽減>",
+        "name": "Greatsword of Protection",
+        "note": "<NameColor:23>\n<dPlnText:A foreign weapon with a transformation mechanism. When thrust into the\nground, it becomes a large shield. Since ancient times, many things from\nbeyond the sea have washed ashore along the coast of Upashimoshiri. It must\nbe a bond spun by Divine Thread. Has the following special effects:\n・Physical damage taken -10%>",
         "params": [
             0,
             0,
@@ -3682,12 +3868,16 @@
             0
         ],
         "price": 2000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "守りの大剣",
+            "description": "大剣：盾としても機能する大剣。\n\\C[24]武器スキル：\\C[0]防御態勢"
+        }
     },
     {
         "id": 94,
         "animationId": 178,
-        "description": "大剣：極彩色に輝く武器。\n\\C[24]武器スキル：\\C[0]ルーメンチャージ",
+        "description": "Greatsword: A weapon that shines in vivid colors. \\C[24]Weapon Skill: \\C[0]Lumen Charge",
         "etypeId": 1,
         "traits": [
             {
@@ -3717,8 +3907,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "一番星",
-        "note": "<NameColor:23>\n<dPlnText:機械的な様式の大剣\n無意味に輝きを放つ\n　\n神の都の向かい側にある森は\n紛れもなくアスワドの空であり\nそこに輝くすべてが星である\n　\n以下の特殊効果を持つ\n・暗闇無効化>",
+        "name": "First Star",
+        "note": "<NameColor:23>\n<dPlnText:A greatsword of mechanical design. It emits a meaningless glow. The forest\nopposite the Divine Capital is unquestionably the sky of Aswad, and\neverything that shines there is a star. Has the following special effects:\n・Nullifies Darkness.>",
         "params": [
             0,
             0,
@@ -3730,12 +3920,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "一番星",
+            "description": "大剣：極彩色に輝く武器。\n\\C[24]武器スキル：\\C[0]ルーメンチャージ"
+        }
     },
     {
         "id": 95,
         "animationId": 162,
-        "description": "大剣：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの斬撃",
+        "description": "Greatsword: A weapon sold as a tourist souvenir. \\C[24]Weapon Skill: \\C[0]Al-Helm's Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -3800,8 +3994,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "アル・ヘルムの大剣",
-        "note": "<NameColor:23>\n<dPlnText:人派の技術で生み出された装備品\nルーフにより真価を発揮する\n　\n滅びに対抗するための武器であり\n高い性能も、決して過剰ではない\n　\nなぜだか記念品として扱われている\n思いもよらぬことだ\n　\n以下の特殊効果を持つ\n・全能力値3％上昇>",
+        "name": "Al-Helm's Greatsword",
+        "note": "<NameColor:23>\n<dPlnText:Equipment created with human faction technology. Its true value is realized\nthrough Roof. It is a weapon to oppose annihilation, and even its high\nperformance is by no means excessive. For some reason, it's treated as a\nsouvenir. Quite unexpected. Has the following special effects: ・All stats\n+3%>",
         "params": [
             0,
             0,
@@ -3813,7 +4007,11 @@
             0
         ],
         "price": 6000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "アル・ヘルムの大剣",
+            "description": "大剣：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの斬撃"
+        }
     },
     {
         "id": 96,
@@ -3998,7 +4196,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼大剣：エピック",
+        "name": "▼Greatsword: Epic",
         "note": "",
         "params": [
             0,
@@ -4011,12 +4209,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼大剣：エピック"
+        }
     },
     {
         "id": 102,
         "animationId": 162,
-        "description": "大剣：人斬りの亡霊が持つ太刀。\n\\C[24]武器スキル：\\C[0]血に飢えた刃",
+        "description": "Greatsword: A tachi carried by the ghost of a killer. \\C[24]Weapon Skill: \\C[0]Blood-Hungry\nBlade",
         "etypeId": 1,
         "traits": [
             {
@@ -4046,8 +4247,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "血斬り",
-        "note": "<BoostEX:CR, 20>\n<NameColor:31>\n<dPlnText:ヌシの魂から編み出したもの\nその力の片鱗を継承する\n　\n古の殺人剣を修めた人斬りは血に狂い\nより斬り甲斐のあるものを求めていた\n　\n以下の特殊効果を持つ\n・攻撃力5％上昇\n・会心ダメージ20％上昇>",
+        "name": "Blood Cutter",
+        "note": "<BoostEX:CR, 20>\n<NameColor:31>\n<dPlnText:Woven from the soul of the Master. It inherits a fragment of that power.\nThe killer who mastered the ancient murder sword was driven mad by blood,\nand sought ever more worthy targets to cut. Has the following special\neffects: ・Attack +5% ・Critical damage +20%>",
         "params": [
             0,
             0,
@@ -4059,7 +4260,11 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "血斬り",
+            "description": "大剣：人斬りの亡霊が持つ太刀。\n\\C[24]武器スキル：\\C[0]血に飢えた刃"
+        }
     },
     {
         "id": 103,
@@ -4343,7 +4548,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼大剣：レジェンド",
+        "name": "▼Greatsword: Legend",
         "note": "",
         "params": [
             0,
@@ -4356,12 +4561,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼大剣：レジェンド"
+        }
     },
     {
         "id": 112,
         "animationId": 178,
-        "description": "大剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Greatsword: A weapon offered in the Forging Ritual. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -4391,8 +4599,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "真白大御剣",
-        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率10％上昇\n・会心ダメージ10％上昇>",
+        "name": "True White Great Sacred Sword",
+        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:A weapon passed down at the Pure White Shrine. Offered during the Forging\nRitual. Hakutō's sword, so powerful that it is said to have broken in every\nbattle. In the Forging Ritual, thanks are given to the god who protects the\npeople, and a worthy new weapon is presented. Has the following special\neffects: ・Critical rate +10% ・Critical damage +10%>",
         "params": [
             0,
             0,
@@ -4404,12 +4612,16 @@
             0
         ],
         "price": 4000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "真白大御剣",
+            "description": "大剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 113,
         "animationId": 178,
-        "description": "大剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Monster, Hyakuo Shiba\nOni. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -4444,8 +4656,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "百王大太刀",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力10％上昇\n・防御力20％上昇>",
+        "name": "Hundred Kings' Greatsword",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a fragment of that\npower. In life, Shiba Dōji crafted many weapons, and every one of them was\na masterpiece. Has the following special effects: ・Adds Ice element to\nattacks. ・Attack +10% ・Defense +20%>",
         "params": [
             0,
             0,
@@ -4457,12 +4669,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "百王大太刀",
+            "description": "大剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 114,
         "animationId": 178,
-        "description": "大剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Monster, Five-tailed\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -4497,8 +4713,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "艶尾炎大剣",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力10％上昇\n・魔防力20％上昇>",
+        "name": "Glossy Tail Flame Greatsword",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a fragment of that\npower. Yuuyami's tales are especially numerous among the Four-Soul\nMonsters. To such an extent that she captivated the masses. Has the\nfollowing special effects: ・Adds Fire element to attacks. ・Magic Attack\n+10% ・Magic Defense +20%>",
         "params": [
             0,
             0,
@@ -4510,12 +4726,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "艶尾炎大剣",
+            "description": "大剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 115,
         "animationId": 178,
-        "description": "大剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Monster, Mystic\nTanuki Kakushigami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -4550,8 +4770,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "八八重刃",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP10％上昇\n・心気20％上昇>",
+        "name": "Eight-Eight Heavy Blade",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a fragment of that\npower. Once, people feared the darkness of night, but at some point, a\ncheerful folk song dispelled it. Has the following special effects: ・Adds\nEarth element to attacks. ・Max HP +10% ・Spirit +20%>",
         "params": [
             0,
             0,
@@ -4563,12 +4783,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "八八重刃",
+            "description": "大剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 116,
         "animationId": 162,
-        "description": "大剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Monster, Nue. \\C[24]Weapon\nSkill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -4593,8 +4817,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "不詳の大剣",
-        "note": "<NameColor:2>\n<BoostEX:WT, 3, 10>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・全攻撃の威力10％上昇>",
+        "name": "Unknown Greatsword",
+        "note": "<NameColor:2>\n<BoostEX:WT, 3, 10>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a\nfragment of that power. The existence of the Nue has long\nbeen doubted, but she was certainly there. Has the following\nspecial effects: ・All attack power +10%>",
         "params": [
             0,
             0,
@@ -4606,7 +4830,11 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "不詳の大剣",
+            "description": "大剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 117,
@@ -4758,7 +4986,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼杖",
+        "name": "▼Staff",
         "note": "",
         "params": [
             0,
@@ -4771,12 +4999,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "▼杖"
+        }
     },
     {
         "id": 122,
         "animationId": 183,
-        "description": "杖：登山用の杖。\n\\C[24]武器スキル：\\C[0]癒し",
+        "description": "Staff: A walking stick for mountain climbing. \\C[24]Weapon Skill: \\C[0]Heal",
         "etypeId": 1,
         "traits": [
             {
@@ -4801,8 +5032,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "登山の杖",
-        "note": "<dPlnText:登山のための杖\n万人向けで、扱いやすい\n　\n武器ではないため打撃力に乏しいが\n触媒として使えるため、素質ある者であれば\n魔力の操作に役立つ\n　\n特殊な効果は持たない>",
+        "name": "Hiking Staff",
+        "note": "<dPlnText:A staff for mountain climbing. Easy to use and suitable for everyone. It's\nnot a weapon, so its striking power is poor, but it can be used as a\ncatalyst, so for those with aptitude, it helps in manipulating magic. Has\nno special effects.>",
         "params": [
             0,
             0,
@@ -4814,12 +5045,16 @@
             20
         ],
         "price": 200,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "登山の杖",
+            "description": "杖：登山用の杖。\n\\C[24]武器スキル：\\C[0]癒し"
+        }
     },
     {
         "id": 123,
         "animationId": 183,
-        "description": "杖：砕けた陽鉄から鍛えられた杖。\n\\C[24]武器スキル：\\C[0]癒し",
+        "description": "Staff: A staff forged from shattered Yotetsu. \\C[24]Weapon Skill: \\C[0]Heal",
         "etypeId": 1,
         "traits": [
             {
@@ -4844,8 +5079,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "陽鉄屑杖",
-        "note": "<dPlnText:東の果てで見られる杖\n妖狸が作り出すという\n　\n陽鉄は命刻山の恵みであり\n砕けていても、上質な武器の素材となる\n　\n特殊な効果は持たない>",
+        "name": "Yotetsu Scrap Staff",
+        "note": "<dPlnText:A staff found at the eastern edge. Said to be crafted by\nMystic Tanuki. Yotetsu is a blessing of Meikoku Mountain,\nand even broken, it serves as high-quality weapon material.\nHas no special effects.>",
         "params": [
             0,
             0,
@@ -4857,12 +5092,16 @@
             40
         ],
         "price": 500,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "陽鉄屑杖",
+            "description": "杖：砕けた陽鉄から鍛えられた杖。\n\\C[24]武器スキル：\\C[0]癒し"
+        }
     },
     {
         "id": 124,
         "animationId": 183,
-        "description": "杖：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]癒し",
+        "description": "Staff: A weapon made in Upashimoshiri since ancient times. \\C[24]Weapon Skill: \\C[0]Heal",
         "etypeId": 1,
         "traits": [
             {
@@ -4887,8 +5126,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "祭事の杖",
-        "note": "<dPlnText:ウパシモシリで見られる武器\n白と黒の柄が特徴\n　\n遥か昔、カンムイの名も知られぬ頃\n雪の郷では魂を称える祭りがあった\n　\nそれは神事として語り継がれ\nセセクの名のもとに、祭具もなお\n失われずに遺る\n　\n特殊な効果は持たない>",
+        "name": "Ceremonial Staff",
+        "note": "<dPlnText:A weapon found in Upashimoshiri. Characterized by its white and black hilt.\nLong ago, when even the name of Kamuy was unknown, there was a festival in\nthe snowy village that honored souls. It has been passed down as a sacred\nrite, and under the name of Seseku, the ritual implements still remain, not\nlost. Has no special effects.>",
         "params": [
             0,
             0,
@@ -4900,12 +5139,16 @@
             66
         ],
         "price": 1000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "祭事の杖",
+            "description": "杖：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]癒し"
+        }
     },
     {
         "id": 125,
         "animationId": 183,
-        "description": "杖：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し",
+        "description": "Staff: A weapon wielded by warriors of the Divine Faction. \\C[24]Weapon Skill: \\C[0]Divine\nHealing",
         "etypeId": 1,
         "traits": [
             {
@@ -4930,8 +5173,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "アドシアンロッド",
-        "note": "<dPlnText:ラムルアラムの武器\nアスワドの戦士たちの装備品\n　\n過酷な砂漠を生き延びるため\n神の慈悲、癒しの祈りが込められている\n　\n特殊な効果は持たない>",
+        "name": "Adsian Rod",
+        "note": "<dPlnText:A weapon of Ramul Alam. Equipment of the Aswad Warriors. To\nsurvive the harsh desert, it is imbued with divine mercy and\nhealing prayers. Has no special effects.>",
         "params": [
             0,
             0,
@@ -4943,7 +5186,11 @@
             165
         ],
         "price": 2500,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "アドシアンロッド",
+            "description": "杖：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し"
+        }
     },
     {
         "id": 126,
@@ -5128,7 +5375,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼杖：レア",
+        "name": "▼Staff: Rare",
         "note": "",
         "params": [
             0,
@@ -5141,12 +5388,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼杖：レア"
+        }
     },
     {
         "id": 132,
         "animationId": 183,
-        "description": "杖：高名な僧侶の杖の模造品。\n\\C[24]武器スキル：\\C[0]慈悲",
+        "description": "Staff: A replica of a famous monk's staff.\n\\C[24]Weapon Skill:\\C[0] Mercy",
         "etypeId": 1,
         "traits": [
             {
@@ -5176,8 +5426,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "星教錫杖",
-        "note": "<NameColor:23>\n<dPlnText:星教の錫杖\n道派の僧侶が行脚の際に持つ\n　\n道悳は、すべての命への贖罪のため\nひたすらに歩き、善行に励んだ\n　\n以下の特殊効果を持つ\n・毎ターンSP5％回復>",
+        "name": "Seikyou Shakujou",
+        "note": "<NameColor:23>\n<dPlnText:A Seikyou Shakujou\nCarried by monks of the Doutoku sect during their pilgrimages\n　\nDoutoku, seeking atonement for all life,\nwalked single-mindedly and devoted herself to good deeds\n　\nPossesses the following special effects\n・Recovers 5% SP every turn>",
         "params": [
             0,
             20,
@@ -5189,12 +5439,16 @@
             30
         ],
         "price": 1000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "星教錫杖",
+            "description": "杖：高名な僧侶の杖の模造品。\n\\C[24]武器スキル：\\C[0]慈悲"
+        }
     },
     {
         "id": 133,
         "animationId": 183,
-        "description": "杖：怪異、ムジナの道具の一つ。\n\\C[24]武器スキル：\\C[0]化かし火花",
+        "description": "Staff: One of the tools of the mystic beast, Mujina. \\C[24]Weapon Skill: \\C[0]Trick Spark",
         "etypeId": 1,
         "traits": [
             {
@@ -5224,8 +5478,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ムジナの枝",
-        "note": "<NameColor:23>\n<dPlnText:ムジナのいたずら道具\n扱いやすい触媒でもある\n　\n一見、ただの木の枝のようだが\n無数の悪意が込められた、笑えぬ玩具である\n　\n以下の特殊効果を持つ\n・混乱無効化>",
+        "name": "Mujina Branch",
+        "note": "<NameColor:23>\n<dPlnText:A prank tool of Mujina. Also serves as an easy-to-use catalyst. At first\nglance, it looks like just a tree branch, but it is a laughable toy filled\nwith countless malicious intents. Has the following special effects:\n・Nullifies Confusion.>",
         "params": [
             0,
             20,
@@ -5237,12 +5491,16 @@
             20
         ],
         "price": 2000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "ムジナの枝",
+            "description": "杖：怪異、ムジナの道具の一つ。\n\\C[24]武器スキル：\\C[0]化かし火花"
+        }
     },
     {
         "id": 134,
         "animationId": 183,
-        "description": "杖：豪華な作りの杖。\n\\C[24]武器スキル：\\C[0]蘇生",
+        "description": "Staff: A staff with luxurious craftsmanship. \\C[24]Weapon Skill: \\C[0]Revive",
         "etypeId": 1,
         "traits": [
             {
@@ -5272,8 +5530,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "禁術の杖",
-        "note": "<NameColor:23>\n<dPlnText:黒地に金が映える杖\n古びてなお豪華絢爛\n　\nかつて神の一族は死を超越したが\n新たな技術は、それすらも陳腐化させ\n人々は死と無縁になった\n　\n以下の特殊効果を持つ\n・即死無効化>",
+        "name": "Forbidden Arts Staff",
+        "note": "<NameColor:23>\n<dPlnText:A staff with gold accents on a black background. Though old, it remains\nmagnificently ornate. Once, the Divine Clan transcended death, but new\ntechnologies rendered even that obsolete, and people became free from\ndeath. Has the following special effects: ・Nullifies Instant Death.>",
         "params": [
             0,
             0,
@@ -5285,12 +5543,16 @@
             180
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "禁術の杖",
+            "description": "杖：豪華な作りの杖。\n\\C[24]武器スキル：\\C[0]蘇生"
+        }
     },
     {
         "id": 135,
         "animationId": 162,
-        "description": "杖：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの魔法斬撃",
+        "description": "Staff: A weapon sold as a tourist souvenir. \\C[24]Weapon Skill: \\C[0]Al-Helm's Magic Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -5355,8 +5617,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "アル・ヘルムの杖",
-        "note": "<NameColor:23>\n<dPlnText:人派の技術で生み出された装備品\nルーフにより真価を発揮する\n　\n滅びに対抗するための武器であり\n高い性能も、決して過剰ではない\n　\nなぜだか記念品として扱われている\n思いもよらぬことだ\n　\n以下の特殊効果を持つ\n・全能力値3％上昇>",
+        "name": "Al-Helm's Staff",
+        "note": "<NameColor:23>\n<dPlnText:Equipment created with human faction technology. Its true value is realized\nthrough Roof. It is a weapon to oppose annihilation, and even its high\nperformance is by no means excessive. For some reason, it's treated as a\nsouvenir. Quite unexpected. Has the following special effects: ・All stats\n+3%>",
         "params": [
             0,
             0,
@@ -5368,7 +5630,11 @@
             300
         ],
         "price": 6000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "アル・ヘルムの杖",
+            "description": "杖：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの魔法斬撃"
+        }
     },
     {
         "id": 136,
@@ -5553,7 +5819,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼杖：エピック",
+        "name": "▼Staff: Epic",
         "note": "",
         "params": [
             0,
@@ -5566,12 +5832,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼杖：エピック"
+        }
     },
     {
         "id": 142,
         "animationId": 183,
-        "description": "杖：美しい白が特徴の杖。\n\\C[24]武器スキル：\\C[0]魂力",
+        "description": "Staff: A staff characterized by its beautiful white color. \\C[24]Weapon Skill: \\C[0]Soul\nPower",
         "etypeId": 1,
         "traits": [
             {
@@ -5606,8 +5875,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "白い結晶の杖",
-        "note": "<NameColor:31>\n<dPlnText:ヌシより得た装備品\n高い性能を宿す\n　\nルーフとは魂を意味する\nかつてレタルでは、その真白の力を\n自由自在に扱ったのだ\n　\n以下の特殊効果を持つ\n・被光属性ダメージ20％軽減\n・忘却無効化>",
+        "name": "White Crystal Staff",
+        "note": "<NameColor:31>\n<dPlnText:Equipment obtained from the Master. It possesses high\nperformance. Roof means soul. In ancient Retar, they freely\nwielded that pure white power. Has the following special\neffects: ・Light damage taken -20% ・Nullifies Amnesia.>",
         "params": [
             0,
             0,
@@ -5619,7 +5888,11 @@
             0
         ],
         "price": 3000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "白い結晶の杖",
+            "description": "杖：美しい白が特徴の杖。\n\\C[24]武器スキル：\\C[0]魂力"
+        }
     },
     {
         "id": 143,
@@ -5903,7 +6176,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼杖：レジェンド",
+        "name": "▼Staff: Legendary",
         "note": "",
         "params": [
             0,
@@ -5916,12 +6189,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼杖：レジェンド"
+        }
     },
     {
         "id": 152,
         "animationId": 183,
-        "description": "杖：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Staff: A weapon offered during the Training Ritual. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -5951,8 +6227,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "真白御杖",
-        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率10％上昇\n・会心ダメージ10％上昇>",
+        "name": "Pure White Imperial Staff",
+        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:A weapon passed down at the Pure White Shrine. Offered during the Forging\nRitual. Hakutō's sword, so powerful that it is said to have broken in every\nbattle. In the Forging Ritual, thanks are given to the god who protects the\npeople, and a worthy new weapon is presented. Has the following special\neffects: ・Critical rate +10% ・Critical damage +10%>",
         "params": [
             0,
             0,
@@ -5964,12 +6240,16 @@
             100
         ],
         "price": 4000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "真白御杖",
+            "description": "杖：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 153,
         "animationId": 183,
-        "description": "杖：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Staff: A weapon that houses the soul of the Four-Soul Mystic Beast, Hyakurō\nSaiki. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -6004,8 +6284,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "百王錫杖",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力10％上昇\n・防御力20％上昇>",
+        "name": "Hundred Kings' Bishop's Staff",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a fragment of that\npower. In life, Shiba Dōji crafted many weapons, and every one of them was\na masterpiece. Has the following special effects: ・Adds Ice element to\nattacks. ・Attack +10% ・Defense +20%>",
         "params": [
             0,
             0,
@@ -6017,12 +6297,16 @@
             150
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "百王錫杖",
+            "description": "杖：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 154,
         "animationId": 183,
-        "description": "杖：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Staff: A weapon that houses the soul of the Four-Soul Mystic Beast, Itsutsu\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -6057,8 +6341,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "艶尾炎杖",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力10％上昇\n・魔防力20％上昇>",
+        "name": "Gorgeous Tail Flame Staff",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Monster. It inherits a fragment of that\npower. Yuuyami's tales are especially numerous among the Four-Soul\nMonsters. To such an extent that she captivated the masses. Has the\nfollowing special effects: ・Adds Fire element to attacks. ・Magic Attack\n+10% ・Magic Defense +20%>",
         "params": [
             0,
             0,
@@ -6070,12 +6354,16 @@
             150
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "艶尾炎杖",
+            "description": "杖：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 155,
         "animationId": 183,
-        "description": "杖：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Staff: A weapon that houses the soul of the Four-Soul Mystic Beast, Mystic\nTanuki Ongami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -6110,8 +6398,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "八八枝",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP10％上昇\n・心気20％上昇>",
+        "name": "Eighty-Eight Branches",
+        "note": "<NameColor:2>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Long ago, people feared the darkness of night, but at some\npoint, a cheerful chant dispelled it. It has the following special effects:\n・Adds Earth element to attacks. ・Max HP +10%. ・Spirit +20%.>",
         "params": [
             0,
             0,
@@ -6123,12 +6411,16 @@
             150
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "八八枝",
+            "description": "杖：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 156,
         "animationId": 162,
-        "description": "杖：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Staff: A weapon that houses the soul of the Four-Soul Mystic Beast, Nue. \\C[24]Weapon\nSkill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -6153,8 +6445,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "不詳の杖",
-        "note": "<NameColor:2>\n<BoostEX:WT, 4, 10>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・全攻撃の威力10％上昇>",
+        "name": "Staff of Unknown Origin",
+        "note": "<NameColor:2>\n<BoostEX:WT, 4, 10>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits\na fragment of that power. The existence of Nue has long been\ndoubted, but she was indeed there. It has the following\nspecial effects: ・All attack power +10%.>",
         "params": [
             0,
             0,
@@ -6166,7 +6458,11 @@
             280
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "不詳の杖",
+            "description": "杖：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 157,
@@ -6318,7 +6614,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼妖具",
+        "name": "▼Mystic Tool",
         "note": "",
         "params": [
             0,
@@ -6331,12 +6627,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "▼妖具"
+        }
     },
     {
         "id": 162,
         "animationId": 189,
-        "description": "妖具：怪異の力が込められているという石。\n\\C[24]武器スキル：\\C[0]怪気撃ち",
+        "description": "Mystic Tool: A stone said to be imbued with the power of mystic beasts. \\C[24]Weapon\nSkill: \\C[0]Mystic Shot",
         "etypeId": 1,
         "traits": [
             {
@@ -6366,8 +6665,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "怪気の石",
-        "note": "<dPlnText:東国にある少し珍しい石\n怪異の力を宿すらしい\n　\n魔法の触媒として扱う石は\nパルガドールなどでも見られるため\n土産物には適さないかもしれない\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化>",
+        "name": "Strange Qi Stone",
+        "note": "<dPlnText:A somewhat rare stone found in the eastern lands. It is said to house the\npower of anomalies. Stones used as magic catalysts can also be found in\nplaces like Palgadore, so it might not be suitable as a souvenir. It has\nthe following special effects: ・Normal attack changes to magic attack.>",
         "params": [
             0,
             0,
@@ -6379,12 +6678,16 @@
             0
         ],
         "price": 200,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "怪気の石",
+            "description": "妖具：怪異の力が込められているという石。\n\\C[24]武器スキル：\\C[0]怪気撃ち"
+        }
     },
     {
         "id": 163,
         "animationId": 189,
-        "description": "妖具：砕けた陽鉄から鍛えられた妖具。\n\\C[24]武器スキル：\\C[0]怪気撃ち",
+        "description": "Mystic Tool: A mystic tool forged from shattered Yotetsu. \\C[24]Weapon Skill: \\C[0]Mystic\nShot",
         "etypeId": 1,
         "traits": [
             {
@@ -6414,8 +6717,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "陽鉄屑妖具",
-        "note": "<dPlnText:東の果てで見られる妖具\n妖狸が作り出すという\n　\n陽鉄は命刻山の恵みであり\n砕けていても、上質な武器の素材となる\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化>",
+        "name": "Yotetsu Scrap Mystic Tool",
+        "note": "<dPlnText:Mystic tools found at the eastern edge, said to be crafted by mystic\ntanuki. Yotetsu is a blessing of Meikoku Mountain; even when broken, it\nserves as high-quality weapon material. It has the following special\neffects: ・Normal attack changes to magic attack.>",
         "params": [
             0,
             0,
@@ -6427,12 +6730,16 @@
             0
         ],
         "price": 500,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "陽鉄屑妖具",
+            "description": "妖具：砕けた陽鉄から鍛えられた妖具。\n\\C[24]武器スキル：\\C[0]怪気撃ち"
+        }
     },
     {
         "id": 164,
         "animationId": 189,
-        "description": "妖具：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]怪気撃ち",
+        "description": "Mystic Tool: A weapon made in Upashimoshiri since ancient times. \\C[24]Weapon Skill:\n\\C[0]Mystic Shot",
         "etypeId": 1,
         "traits": [
             {
@@ -6462,8 +6769,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "祭事の珠",
-        "note": "<dPlnText:ウパシモシリで見られる武器\n白と黒の柄が特徴\n　\n遥か昔、カンムイの名も知られぬ頃\n雪の郷では魂を称える祭りがあった\n　\nそれは神事として語り継がれ\nセセクの名のもとに、祭具もなお\n失われずに遺る\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化>",
+        "name": "Ceremonial Orb",
+        "note": "<dPlnText:A weapon found in Upashimoshiri, characterized by its white and black\nhandle. Long ago, before the name of Kamuy was even known, there was a\nfestival in the Snow Village that honored souls. It has been passed down as\na sacred rite, and under the name of Sesek, the ceremonial implements still\nremain, not lost to time. It has the following special effects: ・Normal\nattack changes to magic attack.>",
         "params": [
             0,
             0,
@@ -6475,12 +6782,16 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "祭事の珠",
+            "description": "妖具：遥か昔からウパシモシリで作られる武器。\n\\C[24]武器スキル：\\C[0]怪気撃ち"
+        }
     },
     {
         "id": 165,
         "animationId": 189,
-        "description": "妖具：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し",
+        "description": "Mystic Tool: A weapon wielded by warriors of the Divine Faction. \\C[24]Weapon Skill:\n\\C[0]Divine Healing",
         "etypeId": 1,
         "traits": [
             {
@@ -6510,8 +6821,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "アドシアンストーン",
-        "note": "<dPlnText:ラムルアラムの武器\nアスワドの戦士たちの装備品\n　\n過酷な砂漠を生き延びるため\n神の慈悲、癒しの祈りが込められている\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化>",
+        "name": "Adsian Stone",
+        "note": "<dPlnText:A weapon of Ramul Alam, equipment of the Aswad warriors. To\nsurvive the harsh desert, it is imbued with divine mercy and\nhealing prayers. It has the following special effects:\n・Normal attack changes to magic attack.>",
         "params": [
             0,
             0,
@@ -6523,7 +6834,11 @@
             0
         ],
         "price": 2500,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "アドシアンストーン",
+            "description": "妖具：神派の戦士が扱う武器。\n\\C[24]武器スキル：\\C[0]神の癒し"
+        }
     },
     {
         "id": 166,
@@ -6708,7 +7023,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼妖具：レア",
+        "name": "▼Mystic Tool: Rare",
         "note": "",
         "params": [
             0,
@@ -6721,12 +7036,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼妖具：レア"
+        }
     },
     {
         "id": 172,
         "animationId": 189,
-        "description": "妖具：マナが変質し残った物体。\n\\C[24]武器スキル：\\C[0]穢れた怪気撃ち",
+        "description": "Mystic Tool: An object left behind after mana has been altered. \\C[24]Weapon Skill:\n\\C[0]Defiled Mystic Shot",
         "etypeId": 1,
         "traits": [
             {
@@ -6756,8 +7074,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "穢れ石",
-        "note": "<NameColor:23>\n<dPlnText:マナが変質し固まったもの\n穢れており、闇属性を持つ\n　\n鐘突き洞は酷く澱んだ吹き溜まりだが\nそれは厭い根のものではなく、人の怨嗟だ\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・攻撃に闇属性付与>",
+        "name": "Tainted Stone",
+        "note": "<NameColor:23>\n<dPlnText:Mana that has transformed and solidified. It is tainted and possesses Dark\nelement. The Bell-Striking Cave is a heavily stagnant pool, but it is not\nthe root of resentment―it is human grudge. It has the following special\neffects: ・Normal attack changes to magic attack. ・Adds Dark element to\nattacks.>",
         "params": [
             0,
             0,
@@ -6769,12 +7087,16 @@
             0
         ],
         "price": 1000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "穢れ石",
+            "description": "妖具：マナが変質し残った物体。\n\\C[24]武器スキル：\\C[0]穢れた怪気撃ち"
+        }
     },
     {
         "id": 173,
         "animationId": 189,
-        "description": "妖具：東の果てで見つかるという宝石。\n\\C[24]武器スキル：\\C[0]おすそ分け",
+        "description": "Mystic Tool: A gem said to be found at the eastern edge. \\C[24]Weapon Skill: \\C[0]Share",
         "etypeId": 1,
         "traits": [
             {
@@ -6809,8 +7131,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "暁の流星",
-        "note": "<NameColor:23>\n<dPlnText:命刻山山頂に落ちる星の欠片\n握りしめると気力が溢れる\n　\n縁起物の類で武器とは言い難いが\nとかくありがたく、元気が出る\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・最大SP50％上昇>",
+        "name": "Dawn Meteor",
+        "note": "<NameColor:23>\n<dPlnText:A fragment of a star that falls on the peak of Meikoku Mountain. When\ngrasped, it overflows with energy. It's more of a lucky charm than a\nweapon, but nonetheless it's grateful and energizing. It has the following\nspecial effects: ・Normal attack changes to magic attack. ・Max SP +50%.>",
         "params": [
             0,
             0,
@@ -6822,12 +7144,16 @@
             20
         ],
         "price": 2000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "暁の流星",
+            "description": "妖具：東の果てで見つかるという宝石。\n\\C[24]武器スキル：\\C[0]おすそ分け"
+        }
     },
     {
         "id": 174,
         "animationId": 189,
-        "description": "妖具：真っ白な宝玉。\n\\C[24]武器スキル：\\C[0]真白誅滅",
+        "description": "Mystic Tool: A pure white jewel. \\C[24]Weapon Skill: \\C[0]Pure White Extermination",
         "etypeId": 1,
         "traits": [
             {
@@ -6862,8 +7188,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "レタルの宝玉",
-        "note": "<NameColor:23>\n<dPlnText:どこまでも白い宝玉\nその色が濁ることはない\n　\nレタルの痕跡が砂漠で見られるのは\n二つの国に、確かな絆があったため\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・毎ターンTP25増加>",
+        "name": "Retal's Jewel",
+        "note": "<NameColor:23>\n<dPlnText:A pure white jewel that never loses its color. The traces of Retar can be\nseen in the desert because there was a strong bond between the two nations.\nIt has the following special effects: ・Normal attack changes to magic\nattack. ・Gain 25 TP each turn.>",
         "params": [
             0,
             20,
@@ -6875,12 +7201,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "レタルの宝玉",
+            "description": "妖具：真っ白な宝玉。\n\\C[24]武器スキル：\\C[0]真白誅滅"
+        }
     },
     {
         "id": 175,
         "animationId": 162,
-        "description": "妖具：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの魔法斬撃",
+        "description": "Mystic Tool: A weapon sold as a tourist souvenir. \\C[24]Weapon Skill: \\C[0]Al-Helm's Magic\nSlash",
         "etypeId": 1,
         "traits": [
             {
@@ -6945,8 +7275,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "アル・ヘルムの輝石",
-        "note": "<NameColor:23>\n<dPlnText:人派の技術で生み出された装備品\nルーフにより真価を発揮する\n　\n滅びに対抗するための武器であり\n高い性能も、決して過剰ではない\n　\nなぜだか記念品として扱われている\n思いもよらぬことだ\n　\n以下の特殊効果を持つ\n・全能力値3％上昇>",
+        "name": "Al-Helm's Glowing Stone",
+        "note": "<NameColor:23>\n<dPlnText:Equipment created with Jinpa technology, which reveals its true value\nthrough Ruh. It is a weapon meant to counter destruction, and its high\nperformance is by no means excessive. For some reason, it is treated as a\nsouvenir―unexpected. It has the following special effects: ・All stats +3%.>",
         "params": [
             0,
             0,
@@ -6958,7 +7288,11 @@
             0
         ],
         "price": 6000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "アル・ヘルムの輝石",
+            "description": "妖具：観光の記念品となっている武器。\n\\C[24]武器スキル：\\C[0]アル・ヘルムの魔法斬撃"
+        }
     },
     {
         "id": 176,
@@ -7143,7 +7477,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼妖具：エピック",
+        "name": "▼Mystic Tool: Epic",
         "note": "",
         "params": [
             0,
@@ -7156,12 +7490,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼妖具：エピック"
+        }
     },
     {
         "id": 182,
         "animationId": 189,
-        "description": "妖具：とてつもない速さを得られる物体。\n\\C[24]武器スキル：\\C[0]湧き立ち",
+        "description": "Mystic Tool: An object that grants incredible speed. \\C[24]Weapon Skill: \\C[0]Surge",
         "etypeId": 1,
         "traits": [
             {
@@ -7191,8 +7528,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "ウルトラスピード",
-        "note": "<NameColor:31>\n<dPlnText:ヌシより得た装備品\n高い性能を宿す\n　\nいついかなる時代にもそれは存在し\nいつまでも変わらず、宿敵である\n　\n以下の特殊効果を持つ\n・素早さ100％上昇>",
+        "name": "Ultraspeed",
+        "note": "<NameColor:31>\n<dPlnText:Equipment obtained from Nushi. It possesses high\nperformance. It exists in every era, and remains the same\neternal nemesis. It has the following special effects:\n・Agility +100%.>",
         "params": [
             0,
             0,
@@ -7204,7 +7541,11 @@
             0
         ],
         "price": 3000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "ウルトラスピード",
+            "description": "妖具：とてつもない速さを得られる物体。\n\\C[24]武器スキル：\\C[0]湧き立ち"
+        }
     },
     {
         "id": 183,
@@ -7488,7 +7829,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼妖具：レジェンド",
+        "name": "▼Demon Tool: Legend",
         "note": "",
         "params": [
             0,
@@ -7501,12 +7842,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼妖具：レジェンド"
+        }
     },
     {
         "id": 192,
         "animationId": 189,
-        "description": "妖具：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Mystic Armament: A weapon offered in the Refinement Ritual. \\C[24]Weapon Skill: \\C[0]Pure\nWhite Blessing",
         "etypeId": 1,
         "traits": [
             {
@@ -7541,8 +7885,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "真白御鏡",
-        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・会心率10％上昇\n・会心ダメージ10％上昇>",
+        "name": "Pure White Sacred Mirror",
+        "note": "<BoostEX:CR, 10>\n<NameColor:2>\n<dPlnText:A weapon passed down at Pure White Shrine, offered in the Forging Ritual.\nHakutō's sword, due to its great power, was said to break after every\nbattle. In the Forging Ritual, they give thanks to the god who protects the\npeople and offer a new suitable weapon. It has the following special\neffects: ・Normal attack changes to magic attack. ・Critical rate +10%.\n・Critical damage +10%.>",
         "params": [
             0,
             0,
@@ -7554,12 +7898,16 @@
             0
         ],
         "price": 4000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "真白御鏡",
+            "description": "妖具：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 193,
         "animationId": 189,
-        "description": "妖具：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Mystic Armament: A weapon housing the soul of the Four-Soul Aberration,\nHyakuousai no Oni. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -7599,8 +7947,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "百王宝玉",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・攻撃に氷属性付与\n・攻撃力10％上昇\n・防御力20％上昇>",
+        "name": "Hundred Kings' Jewel",
+        "note": "<NameColor:2>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Shiba Dōji, in life, forged many weapons, all of them\nmasterpieces. It has the following special effects: ・Normal attack changes\nto magic attack. ・Adds Ice element to attacks. ・Attack +10%. ・Defense +20%.>",
         "params": [
             0,
             0,
@@ -7612,12 +7960,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "百王宝玉",
+            "description": "妖具：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 194,
         "animationId": 189,
-        "description": "妖具：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Mystic Armament: A weapon housing the soul of the Four-Soul Aberration, Gobi\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -7657,8 +8009,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "艶尾炎妖具",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・攻撃に炎属性付与\n・魔攻力10％上昇\n・魔防力20％上昇>",
+        "name": "Charming Tail Flame Demon Tool",
+        "note": "<NameColor:2>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Among the Four-Soul Anomalies, tales of Yuuyami are\nparticularly numerous; she captivated the masses that much. It has the\nfollowing special effects: ・Normal attack changes to magic attack. ・Adds\nFire element to attacks. ・Magic Attack +10%. ・Magic Defense +20%.>",
         "params": [
             0,
             0,
@@ -7670,12 +8022,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "艶尾炎妖具",
+            "description": "妖具：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 195,
         "animationId": 189,
-        "description": "妖具：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Mystic Armament: A weapon housing the soul of the Four-Soul Aberration, Mystic\nTanuki Kakushigami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -7715,8 +8071,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "八八石",
-        "note": "<NameColor:2>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・攻撃に地属性付与\n・最大HP10％上昇\n・心気20％上昇>",
+        "name": "Eighty-Eight Stone",
+        "note": "<NameColor:2>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Long ago, people feared the darkness of night, but at some\npoint, a cheerful chant dispelled it. It has the following special effects:\n・Normal attack changes to magic attack. ・Adds Earth element to attacks.\n・Max HP +10%. ・Spirit +20%.>",
         "params": [
             0,
             0,
@@ -7728,12 +8084,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "八八石",
+            "description": "妖具：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 196,
         "animationId": 162,
-        "description": "妖具：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Mystic Armament: A weapon housing the soul of the Four-Soul Aberration, Nue.\n\\C[24]Weapon Skill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -7763,8 +8123,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "不詳の妖具",
-        "note": "<NameColor:2>\n<BoostEX:WT, 5, 10>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・全攻撃の威力10％上昇>",
+        "name": "Unknown Demon Tool",
+        "note": "<NameColor:2>\n<BoostEX:WT, 5, 10>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. The existence of Nue has long been doubted, but she was indeed\nthere. It has the following special effects: ・Normal attack changes to\nmagic attack. ・All attack power +10%.>",
         "params": [
             0,
             0,
@@ -7776,7 +8136,11 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "不詳の妖具",
+            "description": "妖具：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 197,
@@ -7928,7 +8292,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼パッシブ用",
+        "name": "▼Passive Skills",
         "note": "",
         "params": [
             0,
@@ -7941,7 +8305,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼パッシブ用"
+        }
     },
     {
         "id": 202,
@@ -7956,7 +8323,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "基礎修練",
+        "name": "Basic Training",
         "note": "",
         "params": [
             0,
@@ -7969,7 +8336,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "基礎修練"
+        }
     },
     {
         "id": 203,
@@ -7978,7 +8348,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "妖狐覚醒Ⅰ",
+        "name": "Fox Spirit Awakening I",
         "note": "",
         "params": [
             0,
@@ -7991,7 +8361,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "妖狐覚醒Ⅰ"
+        }
     },
     {
         "id": 204,
@@ -8000,7 +8373,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "妖狐覚醒Ⅱ",
+        "name": "Fox Awakening II",
         "note": "",
         "params": [
             0,
@@ -8013,7 +8386,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "妖狐覚醒Ⅱ"
+        }
     },
     {
         "id": 205,
@@ -8033,7 +8409,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "妖狐覚醒Ⅲ",
+        "name": "Fox Awakening III",
         "note": "",
         "params": [
             0,
@@ -8046,7 +8422,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "妖狐覚醒Ⅲ"
+        }
     },
     {
         "id": 206,
@@ -8055,7 +8434,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "鋭い刃Ⅰ",
+        "name": "Sharp Blade I",
         "note": "<BoostEX:CR, 10>",
         "params": [
             0,
@@ -8068,7 +8447,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "鋭い刃Ⅰ"
+        }
     },
     {
         "id": 207,
@@ -8077,7 +8459,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "鋭い刃Ⅱ",
+        "name": "Sharp Blade II",
         "note": "<BoostEX:CR, 20>",
         "params": [
             0,
@@ -8090,7 +8472,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "鋭い刃Ⅱ"
+        }
     },
     {
         "id": 208,
@@ -8099,7 +8484,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "ハクトウの火Ⅰ",
+        "name": "Hakutō's Fire I",
         "note": "<BoostEX:EL, 2, 10>",
         "params": [
             0,
@@ -8112,7 +8497,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "ハクトウの火Ⅰ"
+        }
     },
     {
         "id": 209,
@@ -8121,7 +8509,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "ハクトウの火Ⅱ",
+        "name": "Hakutō's Fire II",
         "note": "<BoostEX:EL, 2, 20>",
         "params": [
             0,
@@ -8134,7 +8522,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "ハクトウの火Ⅱ"
+        }
     },
     {
         "id": 210,
@@ -8149,7 +8540,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "一本気Ⅰ",
+        "name": "Single-Minded I",
         "note": "",
         "params": [
             0,
@@ -8162,7 +8553,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "一本気Ⅰ"
+        }
     },
     {
         "id": 211,
@@ -8177,7 +8571,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "一本気Ⅱ",
+        "name": "Single-Minded II",
         "note": "",
         "params": [
             0,
@@ -8190,7 +8584,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "一本気Ⅱ"
+        }
     },
     {
         "id": 212,
@@ -8199,7 +8596,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "起死回生",
+        "name": "Rally",
         "note": "<CS_下限HP:50,104>",
         "params": [
             0,
@@ -8212,7 +8609,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "起死回生"
+        }
     },
     {
         "id": 213,
@@ -8221,7 +8621,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "神楽共鳴",
+        "name": "Kagura Resonance",
         "note": "<StateTurn102:1>",
         "params": [
             0,
@@ -8234,7 +8634,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "神楽共鳴"
+        }
     },
     {
         "id": 214,
@@ -8243,7 +8646,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "疾風返し",
+        "name": "Gale Counter",
         "note": "<反撃拡張:疾風返し>",
         "params": [
             0,
@@ -8256,7 +8659,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "疾風返し"
+        }
     },
     {
         "id": 215,
@@ -8265,7 +8671,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "疾風の構え",
+        "name": "Gale Stance",
         "note": "<addStateBeforeBattle:103>",
         "params": [
             0,
@@ -8278,7 +8684,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "疾風の構え"
+        }
     },
     {
         "id": 216,
@@ -8287,7 +8696,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "常在戦場",
+        "name": "Battle-Ready",
         "note": "<addStateBeforeBattle:155>",
         "params": [
             0,
@@ -8300,7 +8709,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "常在戦場"
+        }
     },
     {
         "id": 217,
@@ -8408,7 +8820,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "必要な体力Ⅰ",
+        "name": "Required HP I",
         "note": "",
         "params": [
             100,
@@ -8421,7 +8833,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "必要な体力Ⅰ"
+        }
     },
     {
         "id": 221,
@@ -8430,7 +8845,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "必要な体力Ⅱ",
+        "name": "Required HP II",
         "note": "",
         "params": [
             200,
@@ -8443,7 +8858,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "必要な体力Ⅱ"
+        }
     },
     {
         "id": 222,
@@ -8458,7 +8876,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "必要な体力Ⅲ",
+        "name": "Required HP III",
         "note": "",
         "params": [
             0,
@@ -8471,7 +8889,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "必要な体力Ⅲ"
+        }
     },
     {
         "id": 223,
@@ -8480,7 +8901,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "動じない心Ⅰ",
+        "name": "Unwavering Heart I",
         "note": "",
         "params": [
             0,
@@ -8493,7 +8914,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "動じない心Ⅰ"
+        }
     },
     {
         "id": 224,
@@ -8502,7 +8926,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "動じない心Ⅱ",
+        "name": "Unwavering Heart II",
         "note": "",
         "params": [
             0,
@@ -8515,7 +8939,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "動じない心Ⅱ"
+        }
     },
     {
         "id": 225,
@@ -8545,7 +8972,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "動じない心Ⅲ",
+        "name": "Unwavering Heart III",
         "note": "",
         "params": [
             0,
@@ -8558,7 +8985,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "動じない心Ⅲ"
+        }
     },
     {
         "id": 226,
@@ -8567,7 +8997,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "最善手Ⅰ",
+        "name": "Best Move I",
         "note": "<BoostEX:PH, 10>",
         "params": [
             0,
@@ -8580,7 +9010,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "最善手Ⅰ"
+        }
     },
     {
         "id": 227,
@@ -8589,7 +9022,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "最善手Ⅱ",
+        "name": "Best Move II",
         "note": "<BoostEX:PH, 20>",
         "params": [
             0,
@@ -8602,7 +9035,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "最善手Ⅱ"
+        }
     },
     {
         "id": 228,
@@ -8622,7 +9058,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "当然の資質Ⅰ",
+        "name": "Natural Talent I",
         "note": "",
         "params": [
             0,
@@ -8635,7 +9071,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "当然の資質Ⅰ"
+        }
     },
     {
         "id": 229,
@@ -8655,7 +9094,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "当然の資質Ⅱ",
+        "name": "Natural Talent II",
         "note": "",
         "params": [
             0,
@@ -8668,7 +9107,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "当然の資質Ⅱ"
+        }
     },
     {
         "id": 230,
@@ -8677,7 +9119,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "耐え忍ぶ時",
+        "name": "Time of Endurance",
         "note": "<CS_下限HP:40,115>",
         "params": [
             0,
@@ -8690,7 +9132,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "耐え忍ぶ時"
+        }
     },
     {
         "id": 231,
@@ -8699,7 +9144,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "大胆な一手",
+        "name": "Bold Move",
         "note": "<BoostEX:SKI, 67, 20>",
         "params": [
             0,
@@ -8712,7 +9157,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "大胆な一手"
+        }
     },
     {
         "id": 232,
@@ -8721,7 +9169,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "確かな読み",
+        "name": "Accurate Reading",
         "note": "<SPRevision:E,13,1>",
         "params": [
             0,
@@ -8734,7 +9182,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "確かな読み"
+        }
     },
     {
         "id": 233,
@@ -8743,7 +9194,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "盤石の布陣",
+        "name": "Solid Formation",
         "note": "<StateTurn110:3>",
         "params": [
             0,
@@ -8756,7 +9207,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "盤石の布陣"
+        }
     },
     {
         "id": 234,
@@ -8765,7 +9219,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "先攻にて失礼",
+        "name": "Pardon the First Strike",
         "note": "<addStateBeforeBattle:106>",
         "params": [
             0,
@@ -8778,7 +9232,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "先攻にて失礼"
+        }
     },
     {
         "id": 235,
@@ -8892,7 +9349,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "一景",
+        "name": "One Vision",
         "note": "",
         "params": [
             0,
@@ -8905,7 +9362,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "一景"
+        }
     },
     {
         "id": 239,
@@ -8914,7 +9374,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "怪異の本覚Ⅰ",
+        "name": "Mystic Awakening I",
         "note": "",
         "params": [
             0,
@@ -8927,7 +9387,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "怪異の本覚Ⅰ"
+        }
     },
     {
         "id": 240,
@@ -8936,7 +9399,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "怪異の本覚Ⅱ",
+        "name": "Mystic Awakening II",
         "note": "",
         "params": [
             0,
@@ -8949,7 +9412,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "怪異の本覚Ⅱ"
+        }
     },
     {
         "id": 241,
@@ -8964,7 +9430,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "怪異の本覚Ⅲ",
+        "name": "Mystic Awakening III",
         "note": "<BoostEX:MG, 10>",
         "params": [
             0,
@@ -8977,7 +9443,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "怪異の本覚Ⅲ"
+        }
     },
     {
         "id": 242,
@@ -8986,7 +9455,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "悟りⅠ",
+        "name": "Enlightenment I",
         "note": "",
         "params": [
             0,
@@ -8999,7 +9468,10 @@
             20
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "悟りⅠ"
+        }
     },
     {
         "id": 243,
@@ -9008,7 +9480,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "悟りⅡ",
+        "name": "Enlightenment II",
         "note": "",
         "params": [
             0,
@@ -9021,7 +9493,10 @@
             30
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "悟りⅡ"
+        }
     },
     {
         "id": 244,
@@ -9041,7 +9516,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "悟りⅢ",
+        "name": "Enlightenment III",
         "note": "",
         "params": [
             0,
@@ -9054,7 +9529,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "悟りⅢ"
+        }
     },
     {
         "id": 245,
@@ -9074,7 +9552,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "寂滅Ⅰ",
+        "name": "Cessation I",
         "note": "",
         "params": [
             0,
@@ -9087,7 +9565,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "寂滅Ⅰ"
+        }
     },
     {
         "id": 246,
@@ -9107,7 +9588,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "寂滅Ⅱ",
+        "name": "Cessation II",
         "note": "",
         "params": [
             0,
@@ -9120,7 +9601,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "寂滅Ⅱ"
+        }
     },
     {
         "id": 247,
@@ -9129,7 +9613,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "一来",
+        "name": "One Coming",
         "note": "<反撃拡張:一来>",
         "params": [
             0,
@@ -9142,7 +9626,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "一来"
+        }
     },
     {
         "id": 248,
@@ -9151,7 +9638,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "雷の行",
+        "name": "Way of Thunder",
         "note": "<addStateBeforeBattle:120>",
         "params": [
             0,
@@ -9164,7 +9651,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "雷の行"
+        }
     },
     {
         "id": 249,
@@ -9173,7 +9663,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "風の行",
+        "name": "Way of Wind",
         "note": "<addStateBeforeBattle:121>",
         "params": [
             0,
@@ -9186,7 +9676,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "風の行"
+        }
     },
     {
         "id": 250,
@@ -9195,7 +9688,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "光の行",
+        "name": "Way of Light",
         "note": "<addStateBeforeBattle:122>",
         "params": [
             0,
@@ -9208,7 +9701,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "光の行"
+        }
     },
     {
         "id": 251,
@@ -9316,7 +9812,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "労働力Ⅰ",
+        "name": "Labor Power I",
         "note": "",
         "params": [
             0,
@@ -9329,7 +9825,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "労働力Ⅰ"
+        }
     },
     {
         "id": 255,
@@ -9338,7 +9837,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "労働力Ⅱ",
+        "name": "Labor Power II",
         "note": "",
         "params": [
             0,
@@ -9351,7 +9850,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "労働力Ⅱ"
+        }
     },
     {
         "id": 256,
@@ -9371,7 +9873,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "労働力Ⅲ",
+        "name": "Labor Power III",
         "note": "",
         "params": [
             0,
@@ -9384,7 +9886,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "労働力Ⅲ"
+        }
     },
     {
         "id": 257,
@@ -9409,7 +9914,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "鬱憤解消Ⅰ",
+        "name": "Frustration Relief I",
         "note": "",
         "params": [
             0,
@@ -9422,7 +9927,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "鬱憤解消Ⅰ"
+        }
     },
     {
         "id": 258,
@@ -9447,7 +9955,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "鬱憤解消Ⅱ",
+        "name": "Frustration Relief II",
         "note": "",
         "params": [
             0,
@@ -9460,7 +9968,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "鬱憤解消Ⅱ"
+        }
     },
     {
         "id": 259,
@@ -9485,7 +9996,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "鬱憤解消Ⅲ",
+        "name": "Frustration Relief III",
         "note": "",
         "params": [
             0,
@@ -9498,7 +10009,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "鬱憤解消Ⅲ"
+        }
     },
     {
         "id": 260,
@@ -9507,7 +10021,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "道具改造Ⅰ",
+        "name": "Tool Modification I",
         "note": "<BoostEX:SKI, 152, 20>\n<BoostEX:SKI, 153, 20>",
         "params": [
             0,
@@ -9520,7 +10034,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "道具改造Ⅰ"
+        }
     },
     {
         "id": 261,
@@ -9529,7 +10046,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "道具改造Ⅱ",
+        "name": "Tool Modification II",
         "note": "<BoostEX:SKI, 154, 20>\n<BoostEX:SKI, 155, 20>",
         "params": [
             0,
@@ -9542,7 +10059,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "道具改造Ⅱ"
+        }
     },
     {
         "id": 262,
@@ -9557,7 +10077,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "納期直前",
+        "name": "Deadline Approaching",
         "note": "",
         "params": [
             0,
@@ -9570,7 +10090,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "納期直前"
+        }
     },
     {
         "id": 263,
@@ -9579,7 +10102,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "労働万歳",
+        "name": "Hail Labor",
         "note": "<CS_上限HP:80,130>",
         "params": [
             0,
@@ -9592,7 +10115,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "労働万歳"
+        }
     },
     {
         "id": 264,
@@ -9601,7 +10127,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "残業",
+        "name": "Overtime",
         "note": "<CS_下限HP:40,131>",
         "params": [
             0,
@@ -9614,7 +10140,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "残業"
+        }
     },
     {
         "id": 265,
@@ -9623,7 +10152,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "回復工作",
+        "name": "Recovery Work",
         "note": "<StateTurn126:2>",
         "params": [
             0,
@@ -9636,7 +10165,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "回復工作"
+        }
     },
     {
         "id": 266,
@@ -9645,7 +10177,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "ストレス発散",
+        "name": "Stress Relief",
         "note": "<反撃拡張:ストレス発散>",
         "params": [
             0,
@@ -9658,7 +10190,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "ストレス発散"
+        }
     },
     {
         "id": 267,
@@ -9667,7 +10202,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "高速処理",
+        "name": "High-Speed Processing",
         "note": "<addStateBeforeBattle:128>",
         "params": [
             0,
@@ -9680,7 +10215,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "高速処理"
+        }
     },
     {
         "id": 268,
@@ -9794,7 +10332,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "隠し刃Ⅰ",
+        "name": "Hidden Blade I",
         "note": "",
         "params": [
             0,
@@ -9807,7 +10345,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "隠し刃Ⅰ"
+        }
     },
     {
         "id": 272,
@@ -9822,7 +10363,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "隠し刃Ⅱ",
+        "name": "Hidden Blade II",
         "note": "",
         "params": [
             0,
@@ -9835,7 +10376,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "隠し刃Ⅱ"
+        }
     },
     {
         "id": 273,
@@ -9855,7 +10399,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "狗走Ⅰ",
+        "name": "Hound Dash I",
         "note": "",
         "params": [
             0,
@@ -9868,7 +10412,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "狗走Ⅰ"
+        }
     },
     {
         "id": 274,
@@ -9888,7 +10435,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "狗走Ⅱ",
+        "name": "Hound Dash II",
         "note": "",
         "params": [
             0,
@@ -9901,7 +10448,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "狗走Ⅱ"
+        }
     },
     {
         "id": 275,
@@ -9921,7 +10471,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "狗走Ⅲ",
+        "name": "Hound Dash III",
         "note": "",
         "params": [
             0,
@@ -9934,7 +10484,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "狗走Ⅲ"
+        }
     },
     {
         "id": 276,
@@ -9949,7 +10502,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "心得Ⅰ",
+        "name": "Insight I",
         "note": "<BoostEX:CR, 4>",
         "params": [
             0,
@@ -9962,7 +10515,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "心得Ⅰ"
+        }
     },
     {
         "id": 277,
@@ -9977,7 +10533,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "心得Ⅱ",
+        "name": "Insight II",
         "note": "<BoostEX:CR, 6>",
         "params": [
             0,
@@ -9990,7 +10546,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "心得Ⅱ"
+        }
     },
     {
         "id": 278,
@@ -10005,7 +10564,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "心得Ⅲ",
+        "name": "Insight III",
         "note": "<BoostEX:CR, 10>",
         "params": [
             0,
@@ -10018,7 +10577,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "心得Ⅲ"
+        }
     },
     {
         "id": 279,
@@ -10038,7 +10600,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "夜行Ⅰ",
+        "name": "Night Walk I",
         "note": "",
         "params": [
             0,
@@ -10051,7 +10613,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "夜行Ⅰ"
+        }
     },
     {
         "id": 280,
@@ -10071,7 +10636,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "夜行Ⅱ",
+        "name": "Night Walk II",
         "note": "",
         "params": [
             0,
@@ -10084,7 +10649,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "夜行Ⅱ"
+        }
     },
     {
         "id": 281,
@@ -10093,7 +10661,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "遁走",
+        "name": "Flee",
         "note": "<CS_下限HP:50,143>",
         "params": [
             0,
@@ -10106,7 +10674,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "遁走"
+        }
     },
     {
         "id": 282,
@@ -10115,7 +10686,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "深草兎歩",
+        "name": "Deep Grass Hare Step",
         "note": "<addStateBeforeBattle:134>",
         "params": [
             0,
@@ -10128,7 +10699,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "深草兎歩"
+        }
     },
     {
         "id": 283,
@@ -10137,7 +10711,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "奇襲",
+        "name": "Surprise Attack",
         "note": "<addStateBeforeBattle:140>",
         "params": [
             0,
@@ -10150,7 +10724,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "奇襲"
+        }
     },
     {
         "id": 284,
@@ -10159,7 +10736,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "空蝉",
+        "name": "Empty Cicada",
         "note": "<addStateBeforeBattle:141>",
         "params": [
             0,
@@ -10172,7 +10749,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "空蝉"
+        }
     },
     {
         "id": 285,
@@ -10321,7 +10901,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "継承Ⅰ",
+        "name": "Inheritance I",
         "note": "",
         "params": [
             0,
@@ -10334,7 +10914,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "継承Ⅰ"
+        }
     },
     {
         "id": 289,
@@ -10384,7 +10967,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "継承Ⅱ",
+        "name": "Inheritance II",
         "note": "",
         "params": [
             0,
@@ -10397,7 +10980,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "継承Ⅱ"
+        }
     },
     {
         "id": 290,
@@ -10447,7 +11033,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "継承Ⅲ",
+        "name": "Inheritance III",
         "note": "",
         "params": [
             0,
@@ -10460,7 +11046,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "継承Ⅲ"
+        }
     },
     {
         "id": 291,
@@ -10469,7 +11058,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "魔力炸裂Ⅰ",
+        "name": "Mana Burst I",
         "note": "<BoostEX:MG, 10>",
         "params": [
             0,
@@ -10482,7 +11071,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "魔力炸裂Ⅰ"
+        }
     },
     {
         "id": 292,
@@ -10491,7 +11083,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "魔力炸裂Ⅱ",
+        "name": "Mana Burst II",
         "note": "<BoostEX:MG, 20>",
         "params": [
             0,
@@ -10504,7 +11096,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "魔力炸裂Ⅱ"
+        }
     },
     {
         "id": 293,
@@ -10519,7 +11114,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "大きな尻尾Ⅰ",
+        "name": "Big Tail I",
         "note": "",
         "params": [
             0,
@@ -10532,7 +11127,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "大きな尻尾Ⅰ"
+        }
     },
     {
         "id": 294,
@@ -10547,7 +11145,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "大きな尻尾Ⅱ",
+        "name": "Big Tail II",
         "note": "",
         "params": [
             0,
@@ -10560,7 +11158,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "大きな尻尾Ⅱ"
+        }
     },
     {
         "id": 295,
@@ -10575,7 +11176,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "無風Ⅰ",
+        "name": "Windless I",
         "note": "",
         "params": [
             0,
@@ -10588,7 +11189,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "無風Ⅰ"
+        }
     },
     {
         "id": 296,
@@ -10603,7 +11207,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "無風Ⅱ",
+        "name": "Windless II",
         "note": "",
         "params": [
             0,
@@ -10616,7 +11220,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "無風Ⅱ"
+        }
     },
     {
         "id": 297,
@@ -10625,7 +11232,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "狸の宴Ⅰ",
+        "name": "Tanuki's Feast I",
         "note": "<CS_上限HP:0,152>",
         "params": [
             0,
@@ -10638,7 +11245,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "狸の宴Ⅰ"
+        }
     },
     {
         "id": 298,
@@ -10647,7 +11257,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "狸の宴Ⅱ",
+        "name": "Tanuki's Feast II",
         "note": "<CS_上限MP:0,153>",
         "params": [
             0,
@@ -10660,7 +11270,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "狸の宴Ⅱ"
+        }
     },
     {
         "id": 299,
@@ -10669,7 +11282,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "ぽんぽこ酔気Ⅰ",
+        "name": "Ponpoko Drunk I",
         "note": "",
         "params": [
             0,
@@ -10682,7 +11295,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "ぽんぽこ酔気Ⅰ"
+        }
     },
     {
         "id": 300,
@@ -10691,7 +11307,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "ぽんぽこ酔気Ⅱ",
+        "name": "Ponpoko Drunk II",
         "note": "<StateTurn150:-1>",
         "params": [
             0,
@@ -10704,7 +11320,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "ぽんぽこ酔気Ⅱ"
+        }
     },
     {
         "id": 301,
@@ -10713,7 +11332,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "ぽんぽこ酔気Ⅲ",
+        "name": "Ponpoko Drunk III",
         "note": "<StateTurn149:2>",
         "params": [
             0,
@@ -10726,7 +11345,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "ぽんぽこ酔気Ⅲ"
+        }
     },
     {
         "id": 302,
@@ -10735,7 +11357,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "怪異行燈",
+        "name": "Eerie Lantern",
         "note": "<addStateBeforeBattle:145>",
         "params": [
             0,
@@ -10748,7 +11370,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "怪異行燈"
+        }
     },
     {
         "id": 303,
@@ -11032,7 +11657,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼特殊パッシブ用",
+        "name": "▼For Special Passive",
         "note": "",
         "params": [
             0,
@@ -11045,7 +11670,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼特殊パッシブ用"
+        }
     },
     {
         "id": 312,
@@ -11060,7 +11688,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "修行の成果Ⅰ",
+        "name": "Fruits of Training I",
         "note": "",
         "params": [
             0,
@@ -11073,7 +11701,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "修行の成果Ⅰ"
+        }
     },
     {
         "id": 313,
@@ -11088,7 +11719,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "修行の成果Ⅱ",
+        "name": "Fruits of Training II",
         "note": "",
         "params": [
             0,
@@ -11101,7 +11732,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "修行の成果Ⅱ"
+        }
     },
     {
         "id": 314,
@@ -11116,7 +11750,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "白刀流皆伝",
+        "name": "White Sword Style Mastery",
         "note": "",
         "params": [
             0,
@@ -11129,7 +11763,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "白刀流皆伝"
+        }
     },
     {
         "id": 315,
@@ -11144,7 +11781,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "奥義解放",
+        "name": "Secret Art Unlock",
         "note": "",
         "params": [
             0,
@@ -11157,7 +11794,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "奥義解放"
+        }
     },
     {
         "id": 316,
@@ -11166,7 +11806,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "祝福",
+        "name": "Blessing",
         "note": "<DD最大HP:prev * \\V[481]>\n<DD最大MP:prev * \\V[481]>\n<DD攻撃力:prev * \\V[481]>\n<DD防御力:prev * \\V[481]>\n<DD魔法力:prev * \\V[481]>\n<DD魔法防御:prev * \\V[481]>\n<DD敏捷性:prev * \\V[481]>\n<DD運:prev * \\V[481]>",
         "params": [
             4,
@@ -11179,7 +11819,10 @@
             1
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "祝福"
+        }
     },
     {
         "id": 317,
@@ -11331,7 +11974,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼高難易度強化",
+        "name": "▼High Difficulty Enhancement",
         "note": "",
         "params": [
             0,
@@ -11344,12 +11987,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼高難易度強化"
+        }
     },
     {
         "id": 322,
         "animationId": 162,
-        "description": "剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Sword: A weapon offered during the Forging Rite. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -11379,8 +12025,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "真白御剣+1",
-        "note": "<OrderId:40>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率15％上昇\n・会心ダメージ15％上昇>",
+        "name": "True White Sacred Sword +1",
+        "note": "<OrderId:40>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:A weapon passed down at Pure White Shrine, offered in the Forging Ritual.\nHakutō's sword, due to its great power, was said to break after every\nbattle. In the Forging Ritual, they give thanks to the god who protects the\npeople and offer a new suitable weapon. It has the following special\neffects: ・Critical rate +15%. ・Critical damage +15%.>",
         "params": [
             0,
             0,
@@ -11392,12 +12038,16 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "真白御剣+1",
+            "description": "剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 323,
         "animationId": 162,
-        "description": "短剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Dagger: A weapon offered during the Forging Rite. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -11427,8 +12077,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "真白御短剣+1",
-        "note": "<OrderId:80>\n<BoostEX:CR, 20>\n<NameColor:27>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率20％上昇\n・会心ダメージ20％上昇>",
+        "name": "True White Sacred Dagger +1",
+        "note": "<OrderId:80>\n<BoostEX:CR, 20>\n<NameColor:27>\n<dPlnText:A weapon passed down at Pure White Shrine, offered in the Forging Ritual.\nHakutō's sword, due to its great power, was said to break after every\nbattle. In the Forging Ritual, they give thanks to the god who protects the\npeople and offer a new suitable weapon. It has the following special\neffects: ・Critical rate +20%. ・Critical damage +20%.>",
         "params": [
             0,
             0,
@@ -11440,12 +12090,16 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "真白御短剣+1",
+            "description": "短剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 324,
         "animationId": 178,
-        "description": "大剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Greatsword: A weapon offered during the Forging Rite. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -11475,8 +12129,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "真白大御剣+1",
-        "note": "<OrderId:120>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率15％上昇\n・会心ダメージ15％上昇>",
+        "name": "True White Great Sacred Sword +1",
+        "note": "<OrderId:120>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:A weapon passed down at Pure White Shrine, offered in the Forging Ritual.\nHakutō's sword, due to its great power, was said to break after every\nbattle. In the Forging Ritual, they give thanks to the god who protects the\npeople and offer a new suitable weapon. It has the following special\neffects: ・Critical rate +15%. ・Critical damage +15%.>",
         "params": [
             0,
             0,
@@ -11488,12 +12142,16 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "真白大御剣+1",
+            "description": "大剣：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 325,
         "animationId": 183,
-        "description": "杖：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Staff: A weapon offered during the Forging Rite. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -11523,8 +12181,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "真白御杖+1",
-        "note": "<OrderId:160>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・会心率15％上昇\n・会心ダメージ15％上昇>",
+        "name": "True White Sacred Staff +1",
+        "note": "<OrderId:160>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:A weapon passed down at Pure White Shrine, offered in the Forging Ritual.\nHakutō's sword, due to its great power, was said to break after every\nbattle. In the Forging Ritual, they give thanks to the god who protects the\npeople and offer a new suitable weapon. It has the following special\neffects: ・Critical rate +15%. ・Critical damage +15%.>",
         "params": [
             0,
             0,
@@ -11536,12 +12194,16 @@
             220
         ],
         "price": 10000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "真白御杖+1",
+            "description": "杖：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 326,
         "animationId": 189,
-        "description": "妖具：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益",
+        "description": "Mystic Tool: A weapon offered during the Forging Rite. \\C[24]Weapon Skill: \\C[0]Pure White\nBlessing",
         "etypeId": 1,
         "traits": [
             {
@@ -11576,8 +12238,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "真白御鏡+1",
-        "note": "<OrderId:200>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:真白神社に伝わる武器\n鍛錬神事にて捧げられる\n　\nハクトウの剣は、その力のあまり\n戦のたびに折れていたという\n　\n鍛錬神事では、民を守る神に感謝し\nふさわしい武器を新たに贈る\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・会心率15％上昇\n・会心ダメージ15％上昇>",
+        "name": "True White Sacred Mirror +1",
+        "note": "<OrderId:200>\n<BoostEX:CR, 15>\n<NameColor:27>\n<dPlnText:A weapon passed down at Pure White Shrine, offered in the Forging Ritual.\nHakutō's sword, due to its great power, was said to break after every\nbattle. In the Forging Ritual, they give thanks to the god who protects the\npeople and offer a new suitable weapon. It has the following special\neffects: ・Normal attack changes to magic attack. ・Critical rate +15%.\n・Critical damage +15%.>",
         "params": [
             0,
             0,
@@ -11589,7 +12251,11 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "真白御鏡+1",
+            "description": "妖具：鍛錬神事にて捧げられる武器。\n\\C[24]武器スキル：\\C[0]真白御利益"
+        }
     },
     {
         "id": 327,
@@ -11627,7 +12293,7 @@
     {
         "id": 328,
         "animationId": 162,
-        "description": "剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Sword: A weapon that houses the soul of the Four-Soul Aberration, Hyakuou\nShibaki. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -11662,8 +12328,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "百王太刀+1",
-        "note": "<OrderId:40>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力20％上昇\n・防御力30％上昇>",
+        "name": "Hundred Kings Blade +1",
+        "note": "<OrderId:40>\n<NameColor:27>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Shiba Dōji, in life, forged many weapons, all of them\nmasterpieces. It has the following special effects: ・Adds Ice element to\nattacks. ・Attack +20%. ・Defense +30%.>",
         "params": [
             0,
             0,
@@ -11675,12 +12341,16 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "百王太刀+1",
+            "description": "剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 329,
         "animationId": 162,
-        "description": "剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Sword: A weapon that houses the soul of the Four-Soul Aberration, Five-Tailed\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -11715,8 +12385,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "艶尾炎剣+1",
-        "note": "<OrderId:40>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力20％上昇\n・魔防力30％上昇>",
+        "name": "Alluring Flame Sword +1",
+        "note": "<OrderId:40>\n<NameColor:27>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Among the Four-Soul Anomalies, tales of Yuuyami are\nparticularly numerous; she captivated the masses that much. It has the\nfollowing special effects: ・Adds Fire element to attacks. ・Magic Attack\n+20%. ・Magic Defense +30%.>",
         "params": [
             0,
             0,
@@ -11728,12 +12398,16 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "艶尾炎剣+1",
+            "description": "剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 330,
         "animationId": 162,
-        "description": "剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Sword: A weapon that houses the soul of the Four-Soul Aberration, Mystic Tanuki\nKakuregami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -11768,8 +12442,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "八八刃+1",
-        "note": "<OrderId:40>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP20％上昇\n・心気30％上昇>",
+        "name": "Eight Eight Blade +1",
+        "note": "<OrderId:40>\n<NameColor:27>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Long ago, people feared the darkness of night, but at some\npoint, a cheerful chant dispelled it. It has the following special effects:\n・Adds Earth element to attacks. ・Max HP +20%. ・Spirit +30%.>",
         "params": [
             0,
             0,
@@ -11781,12 +12455,16 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "八八刃+1",
+            "description": "剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 331,
         "animationId": 162,
-        "description": "剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Sword: A weapon that houses the soul of the Four-Soul Aberration, Nue. \\C[24]Weapon\nSkill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -11811,8 +12489,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "不詳の剣+1",
-        "note": "<OrderId:40>\n<NameColor:27>\n<BoostEX:WT, 1, 20>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・全攻撃の威力20％上昇>",
+        "name": "Mysterious Sword +1",
+        "note": "<OrderId:40>\n<NameColor:27>\n<BoostEX:WT, 1, 20>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits\na fragment of that power. The existence of Nue has long been\ndoubted, but she was indeed there. It has the following\nspecial effects: ・All attack power +20%.>",
         "params": [
             0,
             0,
@@ -11824,7 +12502,11 @@
             0
         ],
         "price": 10000,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "不詳の剣+1",
+            "description": "剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 332,
@@ -11862,7 +12544,7 @@
     {
         "id": 333,
         "animationId": 162,
-        "description": "短剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Aberration, Hyakuou\nShibaki. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -11902,8 +12584,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "百王短刀+1",
-        "note": "<OrderId:80>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力20％上昇\n・防御力30％上昇\n・会心率5％上昇>",
+        "name": "Hundred Kings Short Blade +1",
+        "note": "<OrderId:80>\n<NameColor:27>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Shiba Dōji, in life, forged many weapons, all of them\nmasterpieces. It has the following special effects: ・Adds Ice element to\nattacks. ・Attack +20%. ・Defense +30%. ・Critical rate +5%.>",
         "params": [
             0,
             0,
@@ -11915,12 +12597,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "百王短刀+1",
+            "description": "短剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 334,
         "animationId": 162,
-        "description": "短剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Aberration, Five-Tailed\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -11960,8 +12646,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "艶尾炎短剣+1",
-        "note": "<OrderId:80>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力20％上昇\n・魔防力30％上昇\n・会心率5％上昇>",
+        "name": "Alluring Flame Short Sword +1",
+        "note": "<OrderId:80>\n<NameColor:27>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Among the Four-Soul Anomalies, tales of Yuuyami are\nparticularly numerous; she captivated the masses that much. It has the\nfollowing special effects: ・Adds Fire element to attacks. ・Magic Attack\n+20%. ・Magic Defense +30%. ・Critical rate +5%.>",
         "params": [
             0,
             0,
@@ -11973,12 +12659,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "艶尾炎短剣+1",
+            "description": "短剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 335,
         "animationId": 194,
-        "description": "短剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Aberration, Mystic Tanuki\nKakuregami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -12018,8 +12708,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "八八針+1",
-        "note": "<OrderId:80>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP20％上昇\n・心気30％上昇\n・会心率5％上昇>",
+        "name": "Eight Eight Needle +1",
+        "note": "<OrderId:80>\n<NameColor:27>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Long ago, people feared the darkness of night, but at some\npoint, a cheerful chant dispelled it. It has the following special effects:\n・Adds Earth element to attacks. ・Max HP +20%. ・Spirit +30%. ・Critical rate\n+5%.>",
         "params": [
             0,
             0,
@@ -12031,12 +12721,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "八八針+1",
+            "description": "短剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 336,
         "animationId": 162,
-        "description": "短剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Dagger: A weapon that houses the soul of the Four-Soul Aberration, Nue. \\C[24]Weapon\nSkill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -12066,8 +12760,8 @@
             }
         ],
         "iconIndex": 96,
-        "name": "不詳の短剣+1",
-        "note": "<OrderId:80>\n<NameColor:27>\n<BoostEX:WT, 2, 20>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・会心率5％上昇\n・全攻撃の威力20％上昇>",
+        "name": "Mysterious Short Sword +1",
+        "note": "<OrderId:80>\n<NameColor:27>\n<BoostEX:WT, 2, 20>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits\na fragment of that power. The existence of Nue has long been\ndoubted, but she was indeed there. It has the following\nspecial effects: ・Critical rate +5%. ・All attack power +20%.>",
         "params": [
             0,
             0,
@@ -12079,7 +12773,11 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "不詳の短剣+1",
+            "description": "短剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 337,
@@ -12117,7 +12815,7 @@
     {
         "id": 338,
         "animationId": 178,
-        "description": "大剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Aberration, Hyakuou\nShibaki. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -12152,8 +12850,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "百王大太刀+1",
-        "note": "<OrderId:120>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力20％上昇\n・防御力30％上昇>",
+        "name": "Hundred Kings Great Blade +1",
+        "note": "<OrderId:120>\n<NameColor:27>\n<dPlnText:Crafted from the souls of the Four-Soul Anomaly. It inherits a fragment of\nthat power. Shiba Dōji, in life, forged many weapons, all of them\nmasterpieces. It has the following special effects: ・Adds Ice element to\nattacks. ・Attack +20%. ・Defense +30%.>",
         "params": [
             0,
             0,
@@ -12165,12 +12863,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "百王大太刀+1",
+            "description": "大剣：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 339,
         "animationId": 178,
-        "description": "大剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Aberration,\nFive-Tailed Yuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -12205,8 +12907,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "艶尾炎大剣+1",
-        "note": "<OrderId:120>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力20％上昇\n・魔防力30％上昇>",
+        "name": "Alluring Flame Great Sword +1",
+        "note": "<OrderId:120>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. The tales of Yuuyami are especially numerous among the Four-Soul\nAbominations; so much so that they captivated the masses. It possesses the\nfollowing special effects: ・Adds Fire attribute to attacks. ・Magic Attack\n+20% ・Magic Defense +30%>",
         "params": [
             0,
             0,
@@ -12218,12 +12920,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "艶尾炎大剣+1",
+            "description": "大剣：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 340,
         "animationId": 178,
-        "description": "大剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Aberration, Mystic\nTanuki Kakuregami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -12258,8 +12964,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "八八重刃+1",
-        "note": "<OrderId:120>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP20％上昇\n・心気30％上昇>",
+        "name": "Eight Eight Heavy Blade +1",
+        "note": "<OrderId:120>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. People once feared the darkness of night, but at some point, a\nlively chant dispelled it. It possesses the following special effects:\n・Adds Earth attribute to attacks. ・Max HP +20% ・Spirit +30%>",
         "params": [
             0,
             0,
@@ -12271,12 +12977,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "八八重刃+1",
+            "description": "大剣：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 341,
         "animationId": 162,
-        "description": "大剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Greatsword: A weapon that houses the soul of the Four-Soul Aberration, Nue.\n\\C[24]Weapon Skill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -12301,8 +13011,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "不詳の大剣+1",
-        "note": "<OrderId:120>\n<NameColor:27>\n<BoostEX:WT, 3, 20>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・全攻撃の威力20％上昇>",
+        "name": "Mysterious Great Sword +1",
+        "note": "<OrderId:120>\n<NameColor:27>\n<BoostEX:WT, 3, 20>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits\na fragment of its power. The existence of Nue has long been\ndoubted, but she was indeed there. It possesses the\nfollowing special effects: ・All attack power +20%>",
         "params": [
             0,
             0,
@@ -12314,7 +13024,11 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "不詳の大剣+1",
+            "description": "大剣：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 342,
@@ -12352,7 +13066,7 @@
     {
         "id": 343,
         "animationId": 183,
-        "description": "杖：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Staff: A weapon that houses the soul of the Four-Soul Aberration, Hyakuou\nShibaki. \\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -12387,8 +13101,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "百王錫杖+1",
-        "note": "<OrderId:160>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・攻撃に氷属性付与\n・攻撃力20％上昇\n・防御力30％上昇>",
+        "name": "Hundred Kings Scepter +1",
+        "note": "<OrderId:160>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. Shiba Douji crafted many weapons in life, and every one of them\nwas a masterpiece. It possesses the following special effects: ・Adds Ice\nattribute to attacks. ・Attack +20% ・Defense +30%>",
         "params": [
             0,
             0,
@@ -12400,12 +13114,16 @@
             380
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "百王錫杖+1",
+            "description": "杖：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 344,
         "animationId": 183,
-        "description": "杖：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Staff: A weapon that houses the soul of the Four-Soul Aberration, Five-Tailed\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -12440,8 +13158,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "艶尾炎杖+1",
-        "note": "<OrderId:160>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・攻撃に炎属性付与\n・魔攻力20％上昇\n・魔防力30％上昇>",
+        "name": "Alluring Flame Staff +1",
+        "note": "<OrderId:160>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. The tales of Yuuyami are especially numerous among the Four-Soul\nAbominations; so much so that they captivated the masses. It possesses the\nfollowing special effects: ・Adds Fire attribute to attacks. ・Magic Attack\n+20% ・Magic Defense +30%>",
         "params": [
             0,
             0,
@@ -12453,12 +13171,16 @@
             380
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "艶尾炎杖+1",
+            "description": "杖：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 345,
         "animationId": 183,
-        "description": "杖：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Staff: A weapon that houses the soul of the Four-Soul Aberration, Mystic Tanuki\nKakuregami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -12493,8 +13215,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "八八枝+1",
-        "note": "<OrderId:160>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・攻撃に地属性付与\n・最大HP20％上昇\n・心気30％上昇>",
+        "name": "Eight Eight Branch +1",
+        "note": "<OrderId:160>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. People once feared the darkness of night, but at some point, a\nlively chant dispelled it. It possesses the following special effects:\n・Adds Earth attribute to attacks. ・Max HP +20% ・Spirit +30%>",
         "params": [
             0,
             0,
@@ -12506,12 +13228,16 @@
             380
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "八八枝+1",
+            "description": "杖：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 346,
         "animationId": 162,
-        "description": "杖：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Staff: A weapon housing the soul of the Unknown Monster, Nue. \\C[24]Weapon Skill:\n\\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -12536,8 +13262,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "不詳の杖+1",
-        "note": "<OrderId:160>\n<NameColor:27>\n<BoostEX:WT, 4, 20>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・全攻撃の威力20％上昇>",
+        "name": "Staff of Ill Omen +1",
+        "note": "<OrderId:160>\n<NameColor:27>\n<BoostEX:WT, 4, 20>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits\na fragment of its power. The existence of Nue has long been\ndoubted, but she was indeed there. It possesses the\nfollowing special effects: ・All attack power +20%>",
         "params": [
             0,
             0,
@@ -12549,7 +13275,11 @@
             380
         ],
         "price": 5000,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "不詳の杖+1",
+            "description": "杖：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 347,
@@ -12587,7 +13317,7 @@
     {
         "id": 348,
         "animationId": 189,
-        "description": "妖具：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化",
+        "description": "Mystic Tool: A weapon housing the soul of the Unknown Monster, Hyakuo Shaki.\n\\C[24]Weapon Skill: \\C[0]Fortification",
         "etypeId": 1,
         "traits": [
             {
@@ -12627,8 +13357,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "百王宝玉+1",
-        "note": "<OrderId:200>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n柴童子は生前、数多の武器を拵えており\nそれらのいずれも逸品である\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・攻撃に氷属性付与\n・攻撃力20％上昇\n・防御力30％上昇>",
+        "name": "Hundred King Jewel +1",
+        "note": "<OrderId:200>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. Shiba Douji crafted many weapons in life, and every one of them\nwas a masterpiece. It possesses the following special effects: ・Normal\nattacks change to magic attacks. ・Adds Ice attribute to attacks. ・Attack\n+20% ・Defense +30%>",
         "params": [
             0,
             0,
@@ -12640,12 +13370,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "百王宝玉+1",
+            "description": "妖具：四魂怪異、百王柴鬼の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]堅牢化"
+        }
     },
     {
         "id": 349,
         "animationId": 189,
-        "description": "妖具：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火",
+        "description": "Mystic Tool: A weapon housing the soul of the Unknown Monster, Five-Tailed\nYuuyami. \\C[24]Weapon Skill: \\C[0]Bewitching Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -12685,8 +13419,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "艶尾炎妖具+1",
-        "note": "<OrderId:200>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n夕闇の談は四魂怪異の中でもとりわけ多い\nそれほどまでに、大衆を魅了したのだ\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・攻撃に炎属性付与\n・魔攻力20％上昇\n・魔防力30％上昇>",
+        "name": "Flame Tail Enchantment +1",
+        "note": "<OrderId:200>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. The tales of Yuuyami are especially numerous among the Four-Soul\nAbominations; so much so that they captivated the masses. It possesses the\nfollowing special effects: ・Normal attacks change to magic attacks. ・Adds\nFire attribute to attacks. ・Magic Attack +20% ・Magic Defense +30%>",
         "params": [
             0,
             0,
@@ -12698,12 +13432,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "艶尾炎妖具+1",
+            "description": "妖具：四魂怪異、五尾夕闇の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]妖し艶火"
+        }
     },
     {
         "id": 350,
         "animationId": 189,
-        "description": "妖具：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動",
+        "description": "Mystic Tool: A weapon housing the soul of the Unknown Monster, Mystic Tanuki\nKakuregami. \\C[24]Weapon Skill: \\C[0]Eighty-Eight Uproar",
         "etypeId": 1,
         "traits": [
             {
@@ -12743,8 +13481,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "八八石+1",
-        "note": "<OrderId:200>\n<NameColor:27>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\nかつて人は夜の闇を恐れていたが\nいつからか、愉快な音頭がそれを払った\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・攻撃に地属性付与\n・最大HP20％上昇\n・心気30％上昇>",
+        "name": "Eighty-Eight Stone +1",
+        "note": "<OrderId:200>\n<NameColor:27>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. People once feared the darkness of night, but at some point, a\nlively chant dispelled it. It possesses the following special effects:\n・Normal attacks change to magic attacks. ・Adds Earth attribute to attacks.\n・Max HP +20% ・Spirit +30%>",
         "params": [
             0,
             0,
@@ -12756,12 +13494,16 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "八八石+1",
+            "description": "妖具：四魂怪異、妖狸隠神の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]八八大騒動"
+        }
     },
     {
         "id": 351,
         "animationId": 162,
-        "description": "妖具：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣",
+        "description": "Mystic Tool: A weapon housing the soul of the Unknown Monster, Nue. \\C[24]Weapon\nSkill: \\C[0]Serpent's Chain Sword",
         "etypeId": 1,
         "traits": [
             {
@@ -12791,8 +13533,8 @@
             }
         ],
         "iconIndex": 118,
-        "name": "不詳の妖具+1",
-        "note": "<OrderId:200>\n<NameColor:27>\n<BoostEX:WT, 5, 20>\n<dPlnText:四魂怪異の魂から編み出したもの\nその力の片鱗を継承する\n　\n鵺の存在など、もはや疑われて久しいが\n彼女は確かにそこにいたのだ\n　\n以下の特殊効果を持つ\n・通常攻撃が魔法攻撃に変化\n・全攻撃の威力20％上昇>",
+        "name": "Ill Omen Enchantment +1",
+        "note": "<OrderId:200>\n<NameColor:27>\n<BoostEX:WT, 5, 20>\n<dPlnText:Woven from the soul of a Four-Soul Abomination. It inherits a fragment of\nits power. The existence of Nue has long been doubted, but she was indeed\nthere. It possesses the following special effects: ・Normal attacks change\nto magic attacks. ・All attack power +20%>",
         "params": [
             0,
             0,
@@ -12804,7 +13546,11 @@
             0
         ],
         "price": 5000,
-        "wtypeId": 5
+        "wtypeId": 5,
+        "_original": {
+            "name": "不詳の妖具+1",
+            "description": "妖具：四魂怪異、鵺の魂を宿す武器。\n\\C[24]武器スキル：\\C[0]蛟の連剣"
+        }
     },
     {
         "id": 352,
@@ -13781,7 +14527,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼特殊な装備",
+        "name": "▼Special Equipment",
         "note": "",
         "params": [
             0,
@@ -13794,12 +14540,15 @@
             0
         ],
         "price": 0,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "▼特殊な装備"
+        }
     },
     {
         "id": 382,
         "animationId": 81,
-        "description": "特殊：水を放つ装置。\n\\C[24]武器スキル：\\C[0]大放水",
+        "description": "Special: A device that releases water. \\C[24]Weapon Skill: \\C[0]Great Flood",
         "etypeId": 1,
         "traits": [
             {
@@ -13824,8 +14573,8 @@
             }
         ],
         "iconIndex": 104,
-        "name": "放水装置",
-        "note": "<NameColor:23>\n<dPlnText:緊急時の鎮圧用装備\n水を生成し、それを放つ\n　\nアル・ヘルムのオルーサ兵は水に弱く\n特に旧型は、機能停止する\n　\n以下の特殊効果を持つ\n・攻撃に水属性付与>",
+        "name": "Water Discharge Device",
+        "note": "<NameColor:23>\n<dPlnText:Emergency suppression equipment. Generates water and discharges it. Orsa\nsoldiers of Al-Helm are weak to water; especially the older models, which\ncease functioning. It possesses the following special effects: ・Adds Water\nattribute to attacks.>",
         "params": [
             0,
             0,
@@ -13837,12 +14586,16 @@
             0
         ],
         "price": 3000,
-        "wtypeId": 6
+        "wtypeId": 6,
+        "_original": {
+            "name": "放水装置",
+            "description": "特殊：水を放つ装置。\n\\C[24]武器スキル：\\C[0]大放水"
+        }
     },
     {
         "id": 383,
         "animationId": 248,
-        "description": "特殊：爆発物を発射する特殊な武器。\n\\C[24]武器スキル：\\C[0]一斉爆破",
+        "description": "Special: A special weapon that fires explosives. \\C[24]Weapon Skill: \\C[0]Mass Detonation",
         "etypeId": 1,
         "traits": [
             {
@@ -13867,8 +14620,8 @@
             }
         ],
         "iconIndex": 104,
-        "name": "波動ランチャー",
-        "note": "<NameColor:23>\n<dPlnText:アル・ヘルムの武器\n爆発物を発射できる\n　\n人派の技術者が提案した装備品\n神派の戦士には受け入れがたかった\n　\n以下の特殊効果を持つ\n・攻撃に波動属性付与>",
+        "name": "Wave Launcher",
+        "note": "<NameColor:23>\n<dPlnText:Al-Helm weaponry. Capable of launching explosives. Equipment\nproposed by Human Faction engineers; it was difficult for\nDivine Faction warriors to accept. It possesses the\nfollowing special effects: ・Adds Wave attribute to attacks.>",
         "params": [
             0,
             0,
@@ -13880,7 +14633,11 @@
             0
         ],
         "price": 3000,
-        "wtypeId": 6
+        "wtypeId": 6,
+        "_original": {
+            "name": "波動ランチャー",
+            "description": "特殊：爆発物を発射する特殊な武器。\n\\C[24]武器スキル：\\C[0]一斉爆破"
+        }
     },
     {
         "id": 384,
@@ -14461,7 +15218,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼パッシブ用２",
+        "name": "▼Passive 2",
         "note": "",
         "params": [
             0,
@@ -14474,7 +15231,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "▼パッシブ用２"
+        }
     },
     {
         "id": 402,
@@ -14489,7 +15249,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "傷狙い",
+        "name": "Target Wound",
         "note": "",
         "params": [
             0,
@@ -14502,7 +15262,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "傷狙い"
+        }
     },
     {
         "id": 403,
@@ -14517,7 +15280,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "見極めⅠ",
+        "name": "Discernment I",
         "note": "",
         "params": [
             0,
@@ -14530,7 +15293,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "見極めⅠ"
+        }
     },
     {
         "id": 404,
@@ -14545,7 +15311,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "見極めⅡ",
+        "name": "Discernment II",
         "note": "",
         "params": [
             0,
@@ -14558,7 +15324,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "見極めⅡ"
+        }
     },
     {
         "id": 405,
@@ -14573,7 +15342,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "無尽蔵Ⅰ",
+        "name": "Inexhaustible I",
         "note": "",
         "params": [
             0,
@@ -14586,7 +15355,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "無尽蔵Ⅰ"
+        }
     },
     {
         "id": 406,
@@ -14601,7 +15373,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "無尽蔵Ⅱ",
+        "name": "Inexhaustible II",
         "note": "",
         "params": [
             0,
@@ -14614,7 +15386,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "無尽蔵Ⅱ"
+        }
     },
     {
         "id": 407,
@@ -14669,7 +15444,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "熟慮Ⅰ",
+        "name": "Deliberation I",
         "note": "",
         "params": [
             0,
@@ -14682,7 +15457,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "熟慮Ⅰ"
+        }
     },
     {
         "id": 408,
@@ -14737,7 +15515,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "熟慮Ⅱ",
+        "name": "Deliberation II",
         "note": "",
         "params": [
             0,
@@ -14750,7 +15528,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "熟慮Ⅱ"
+        }
     },
     {
         "id": 409,
@@ -14805,7 +15586,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "熟慮Ⅲ",
+        "name": "Deliberation III",
         "note": "",
         "params": [
             0,
@@ -14818,7 +15599,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "熟慮Ⅲ"
+        }
     },
     {
         "id": 410,
@@ -14827,7 +15611,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "長期戦略Ⅰ",
+        "name": "Long-Term Strategy I",
         "note": "<CS_上限HP:0,225>",
         "params": [
             0,
@@ -14840,7 +15624,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "長期戦略Ⅰ"
+        }
     },
     {
         "id": 411,
@@ -14849,7 +15636,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "長期戦略Ⅱ",
+        "name": "Long-Term Strategy II",
         "note": "<CS_上限MP:0,226>",
         "params": [
             0,
@@ -14862,7 +15649,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "長期戦略Ⅱ"
+        }
     },
     {
         "id": 412,
@@ -14871,7 +15661,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "窮地の策",
+        "name": "Desperate Plan",
         "note": "<BoostEX:SKI, 802, 50>",
         "params": [
             0,
@@ -14884,7 +15674,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "窮地の策"
+        }
     },
     {
         "id": 413,
@@ -14893,7 +15686,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "理解",
+        "name": "Understanding",
         "note": "<SPRevision:E,13,1>",
         "params": [
             0,
@@ -14906,7 +15699,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "理解"
+        }
     },
     {
         "id": 414,
@@ -14915,7 +15711,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "秘剣の機",
+        "name": "Secret Sword Chance",
         "note": "<addStateBeforeBattle:221>",
         "params": [
             0,
@@ -14928,7 +15724,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "秘剣の機"
+        }
     },
     {
         "id": 415,
@@ -15042,7 +15841,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "上々Ⅰ",
+        "name": "Superb I",
         "note": "",
         "params": [
             0,
@@ -15055,7 +15854,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "上々Ⅰ"
+        }
     },
     {
         "id": 419,
@@ -15070,7 +15872,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "上々Ⅱ",
+        "name": "Superb II",
         "note": "",
         "params": [
             0,
@@ -15083,7 +15885,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "上々Ⅱ"
+        }
     },
     {
         "id": 420,
@@ -15103,7 +15908,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "健康体Ⅰ",
+        "name": "Healthy Body I",
         "note": "",
         "params": [
             0,
@@ -15116,7 +15921,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "健康体Ⅰ"
+        }
     },
     {
         "id": 421,
@@ -15136,7 +15944,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "健康体Ⅱ",
+        "name": "Healthy Body II",
         "note": "",
         "params": [
             0,
@@ -15149,7 +15957,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "健康体Ⅱ"
+        }
     },
     {
         "id": 422,
@@ -15158,7 +15969,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "夕闇時Ⅰ",
+        "name": "Yuuyami Time I",
         "note": "",
         "params": [
             0,
@@ -15171,7 +15982,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "夕闇時Ⅰ"
+        }
     },
     {
         "id": 423,
@@ -15180,7 +15994,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "夕闇時Ⅱ",
+        "name": "Yuuyami Time II",
         "note": "",
         "params": [
             0,
@@ -15193,7 +16007,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "夕闇時Ⅱ"
+        }
     },
     {
         "id": 424,
@@ -15202,7 +16019,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "高嶺の花",
+        "name": "Unreachable Flower",
         "note": "<ManaShield:30>",
         "params": [
             0,
@@ -15215,7 +16032,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "高嶺の花"
+        }
     },
     {
         "id": 425,
@@ -15224,7 +16044,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "上機嫌",
+        "name": "Good Mood",
         "note": "<CS_上限HP:50,231>",
         "params": [
             0,
@@ -15237,7 +16057,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "上機嫌"
+        }
     },
     {
         "id": 426,
@@ -15246,7 +16069,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "美貌",
+        "name": "Beauty",
         "note": "<StateTurn227:5>",
         "params": [
             0,
@@ -15259,7 +16082,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "美貌"
+        }
     },
     {
         "id": 427,
@@ -15268,7 +16094,7 @@
         "etypeId": 1,
         "traits": [],
         "iconIndex": 0,
-        "name": "魅了体質",
+        "name": "Charming Constitution",
         "note": "<反撃拡張:妖狐魅了>",
         "params": [
             0,
@@ -15281,7 +16107,10 @@
             0
         ],
         "price": 0,
-        "wtypeId": 0
+        "wtypeId": 0,
+        "_original": {
+            "name": "魅了体質"
+        }
     },
     {
         "id": 428,

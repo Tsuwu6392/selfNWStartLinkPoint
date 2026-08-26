@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "聖刻遺跡",
+    "displayName": "Sacred Inscription Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -8296,29 +8296,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前にはたくさんの仲間がいるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その中に想い人──あるいは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既に結ばれた者がいたとする。"
-                            ]
+                                "You must have many comrades. Among them,\nperhaps there is someone you love―or\neven someone you've already bound\nyourself to."
+                            ],
+                            "_original": "お前にはたくさんの仲間がいるだろう。\nその中に想い人──あるいは、\n既に結ばれた者がいたとする。"
                         },
                         {
                             "code": 101,
@@ -8328,22 +8316,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、どうやら神は求めているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神だけを愛し、添い遂げることを。"
-                            ]
+                                "And yet, it seems the gods demand this:\nthat you love only them, and spend your\nlife with them alone."
+                            ],
+                            "_original": "しかし、どうやら神は求めているようだ。\n神だけを愛し、添い遂げることを。"
                         },
                         {
                             "code": 118,
@@ -8360,36 +8343,36 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、問おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は誰と共に生き、そして死ぬ？"
-                            ]
+                                "So, I ask you. With whom will you live,\nand with whom will you die?"
+                            ],
+                            "_original": "さて、問おう。\nお前は誰と共に生き、そして死ぬ？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "愛する人",
-                                    "神",
-                                    "仲間の意見を聞く"
+                                    "The one I love",
+                                    "God",
+                                    "Listen to my comrades' opinions"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "愛する人",
+                                "神",
+                                "仲間の意見を聞く"
                             ]
                         },
                         {
@@ -8408,22 +8391,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神ではなく、想い人を選ぶのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほど。"
-                            ]
+                                "You choose your beloved over the gods,\ndo you? I see."
+                            ],
+                            "_original": "神ではなく、想い人を選ぶのか。\nなるほど。"
                         },
                         {
                             "code": 101,
@@ -8433,22 +8411,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく分かった──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進め。"
-                            ]
+                                "Understood―proceed."
+                            ],
+                            "_original": "よく分かった──\n先に進め。"
                         },
                         {
                             "code": 250,
@@ -8522,22 +8495,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "想い人ではなく、神を選ぶのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほど。"
-                            ]
+                                "You choose the gods over your beloved,\ndo you? I see."
+                            ],
+                            "_original": "想い人ではなく、神を選ぶのか。\nなるほど。"
                         },
                         {
                             "code": 101,
@@ -8547,22 +8515,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく分かった──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進め。"
-                            ]
+                                "Understood―proceed."
+                            ],
+                            "_original": "よく分かった──\n先に進め。"
                         },
                         {
                             "code": 250,
@@ -8625,15 +8588,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最後は神か愛する人か、ですか。"
-                            ]
+                                "So it comes down to the gods or the one\nyou love, huh?"
+                            ],
+                            "_original": "最後は神か愛する人か、ですか。"
                         },
                         {
                             "code": 101,
@@ -8643,22 +8608,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神如きがわらわの魅了を超えられるとは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "思えないんだけどねえ。"
-                            ]
+                                "As if some god could ever surpass my\ncharm."
+                            ],
+                            "_original": "神如きがわらわの魅了を超えられるとは\n思えないんだけどねえ。"
                         },
                         {
                             "code": 101,
@@ -8668,15 +8628,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そういう話ではないと思うが……"
-                            ]
+                                "I don't think that's the point..."
+                            ],
+                            "_original": "そういう話ではないと思うが……"
                         },
                         {
                             "code": 101,
@@ -8686,15 +8648,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[10]殿を奪われたくない……"
-                            ]
+                                "I don't want to lose \\N[10]-sama..."
+                            ],
+                            "_original": "\\N[10]殿を奪われたくない……"
                         },
                         {
                             "code": 101,
@@ -8704,15 +8668,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うわっ、めちゃくちゃ泣いてる！"
-                            ]
+                                "Whoa, she's crying so hard!"
+                            ],
+                            "_original": "うわっ、めちゃくちゃ泣いてる！"
                         },
                         {
                             "code": 101,
@@ -8722,22 +8688,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おおナズナよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "可哀想に。"
-                            ]
+                                "Oh, Nazuna. How pitiful."
+                            ],
+                            "_original": "おおナズナよ。\n可哀想に。"
                         },
                         {
                             "code": 101,
@@ -8747,15 +8708,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最低ですよ\\N[10]さん。"
-                            ]
+                                "You're the worst, \\N[10]-san."
+                            ],
+                            "_original": "最低ですよ\\N[10]さん。"
                         },
                         {
                             "code": 101,
@@ -8765,15 +8728,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……助言する気はあるか？"
-                            ]
+                                "...Do you have any advice to offer?"
+                            ],
+                            "_original": "……助言する気はあるか？"
                         },
                         {
                             "code": 119,

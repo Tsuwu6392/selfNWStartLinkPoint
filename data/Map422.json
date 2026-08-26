@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "門のブルジュ",
+    "displayName": "Gate Burj",
     "encounterList": [
         {
             "troopId": 224,
@@ -5385,15 +5385,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれは……？"
-                            ]
+                                "What's that…?"
+                            ],
+                            "_original": "あれは……？"
                         },
                         {
                             "code": 213,
@@ -5457,22 +5459,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブルジュの魔物です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "状態値測定……"
-                            ]
+                                "It's a monster from Blurju. Scanning status…"
+                            ],
+                            "_original": "ブルジュの魔物です。\n状態値測定……"
                         },
                         {
                             "code": 101,
@@ -5482,15 +5479,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、魔物なのか！"
-                            ]
+                                "A-a monster?!"
+                            ],
+                            "_original": "ま、魔物なのか！"
                         },
                         {
                             "code": 101,
@@ -5500,22 +5499,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "結果：古の呪いの影響。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "交戦非推奨。"
-                            ]
+                                "Results: Affected by an ancient curse. Engaging\nis not recommended."
+                            ],
+                            "_original": "結果：古の呪いの影響。\n交戦非推奨。"
                         },
                         {
                             "code": 250,
@@ -5583,15 +5577,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……と言われても、あちらはやる気満々ですよ。"
-                            ]
+                                "…Even if you say that, they're clearly\nready to fight."
+                            ],
+                            "_original": "……と言われても、あちらはやる気満々ですよ。"
                         },
                         {
                             "code": 101,
@@ -5601,15 +5597,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "負けないぞ！"
-                            ]
+                                "I won't lose!"
+                            ],
+                            "_original": "負けないぞ！"
                         },
                         {
                             "code": 205,
@@ -5805,15 +5803,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし！"
-                            ]
+                                "Alright!"
+                            ],
+                            "_original": "よし！"
                         },
                         {
                             "code": 101,
@@ -5823,29 +5823,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "驚きました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呪われた魔物に祝福もなく打ち勝つとは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさしく勇士に相応しい実力です。"
-                            ]
+                                "I'm impressed. To defeat a cursed monster\nwithout even a Blessing… That's truly the power\nof a hero."
+                            ],
+                            "_original": "驚きました。\n呪われた魔物に祝福もなく打ち勝つとは、\nまさしく勇士に相応しい実力です。"
                         },
                         {
                             "code": 101,
@@ -5855,15 +5843,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[10]は戦ってませんけど。"
-                            ]
+                                "\\N[10] didn't even fight, though."
+                            ],
+                            "_original": "\\N[10]は戦ってませんけど。"
                         },
                         {
                             "code": 101,
@@ -5873,15 +5863,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "勇士の仲間もまた勇士だそうですから。"
-                            ]
+                                "They say the companions of a hero are\nheroes in their own right."
+                            ],
+                            "_original": "勇士の仲間もまた勇士だそうですから。"
                         },
                         {
                             "code": 101,
@@ -5891,22 +5883,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あなたであれば、本当に神の命を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "果たせるかもしれません。"
-                            ]
+                                "With you, we might truly be able to fulfill the\nwill of the gods."
+                            ],
+                            "_original": "あなたであれば、本当に神の命を\n果たせるかもしれません。"
                         },
                         {
                             "code": 101,
@@ -5916,22 +5903,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵を倒してほしいというやつか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんまりよく覚えとらんが……"
-                            ]
+                                "So you want us to take out the enemy,\nhuh? Don't really remember the details…"
+                            ],
+                            "_original": "敵を倒してほしいというやつか。\nあんまりよく覚えとらんが……"
                         },
                         {
                             "code": 101,
@@ -5941,22 +5923,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さて、引き続き最下部を目指しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔物の対処につきましてはよろしくお願いします。"
-                            ]
+                                "Now, let's continue toward the lowest level.\nI'll be counting on you to handle any monsters\nwe encounter."
+                            ],
+                            "_original": "さて、引き続き最下部を目指しましょう。\n魔物の対処につきましてはよろしくお願いします。"
                         },
                         {
                             "code": 101,
@@ -5966,15 +5943,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "任せてくれ！"
-                            ]
+                                "Leave it to me!"
+                            ],
+                            "_original": "任せてくれ！"
                         },
                         {
                             "code": 221,

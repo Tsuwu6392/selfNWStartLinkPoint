@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "夢幻回廊",
+    "displayName": "Dream Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 39,
@@ -5923,22 +5923,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここからは少し難しくなってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "炎の動きをよく見るんよ。"
-                            ]
+                                "From here on, it gets a little tougher. Watch\nthe flames' movements carefully."
+                            ],
+                            "_original": "ここからは少し難しくなってくる。\n炎の動きをよく見るんよ。"
                         },
                         {
                             "code": 212,
@@ -6059,22 +6054,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ余裕はあるかえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次が最後だよ。"
-                            ]
+                                "Still feeling confident? This next one's the\nlast."
+                            ],
+                            "_original": "まだ余裕はあるかえ？\n次が最後だよ。"
                         },
                         {
                             "code": 281,
@@ -6597,22 +6587,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あーあ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "炎に触れたら大変なことになるって聞かんかったん？"
-                            ]
+                                "Oh no... Didn't you hear that touching the\nflames would be a huge problem?"
+                            ],
+                            "_original": "あーあ……\n炎に触れたら大変なことになるって聞かんかったん？"
                         },
                         {
                             "code": 101,
@@ -6622,22 +6607,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで三回目。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと教育せんとねえ。"
-                            ]
+                                "This is the third time. I really need to teach\nyou a lesson."
+                            ],
+                            "_original": "これで三回目。\nちょっと教育せんとねえ。"
                         },
                         {
                             "code": 242,
@@ -6702,35 +6682,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーン『わっちの助け』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※このシーンは閲覧済みです。\\C[0]"
-                            ]
+                                "View the scene \"My Help\"? \\C[17]*This scene has\nalready been viewed.\\C[0]"
+                            ],
+                            "_original": "シーン『わっちの助け』を閲覧しますか？\n\\C[17]※このシーンは閲覧済みです。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -6833,42 +6812,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シーン『わっちの助け』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※このシーンには「飲尿」表現が含まれます。\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene \"My Help\"? \\C[17]*This scene contains\n\"drinking urine\" content.\\C[0] \\C[17]*Any choice will be\nadded to the memories.\\C[0]"
+                            ],
+                            "_original": "シーン『わっちの助け』を閲覧しますか？\n\\C[17]※このシーンには「飲尿」表現が含まれます。\\C[0]\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -7055,22 +7026,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのねえ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと油断しすぎとらん？"
-                            ]
+                                "Hey now… aren't you getting a little *too*\ncareless?"
+                            ],
+                            "_original": "あのねえ……\nちょっと油断しすぎとらん？"
                         },
                         {
                             "code": 101,
@@ -7080,22 +7046,17 @@
                                 0,
                                 0,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これで六回目だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇も呆れるだろうねえ……"
-                            ]
+                                "This makes six times, you know. Even Yuuyami\nwould be impressed…"
+                            ],
+                            "_original": "これで六回目だよ。\n夕闇も呆れるだろうねえ……"
                         },
                         {
                             "code": 221,
@@ -7156,22 +7117,17 @@
                                 0,
                                 1,
                                 2,
-                                "小夜"
-                            ]
+                                "Sayo"
+                            ],
+                            "_original": "小夜"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わっちの香りを堪能したくてわざとやっとるんかなあ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だとすれば悪い気はせんけど……"
-                            ]
+                                "Maybe you're doing it on purpose just to enjoy\nmy scent. If that's the case, I don't mind…"
+                            ],
+                            "_original": "わっちの香りを堪能したくてわざとやっとるんかなあ。\nだとすれば悪い気はせんけど……"
                         },
                         {
                             "code": 101,
@@ -7188,8 +7144,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜魔に助けてもらった……"
-                            ]
+                                "A night demon helped me…"
+                            ],
+                            "_original": "夜魔に助けてもらった……"
                         },
                         {
                             "code": 221,

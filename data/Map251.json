@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "墨染神社",
+    "displayName": "Sumizome Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -10545,22 +10545,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "首無しのお地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅむ、なんと無残な……"
-                            ]
+                                "It's a headless Jizo statue... Oh dear,\nhow tragic..."
+                            ],
+                            "_original": "首無しのお地蔵様だ。\nうぅむ、なんと無残な……"
                         },
                         {
                             "code": 0,
@@ -10630,22 +10625,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "首無しのお地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅむ、なんと無残な……"
-                            ]
+                                "It's a headless Jizo statue... Oh dear,\nhow tragic..."
+                            ],
+                            "_original": "首無しのお地蔵様だ。\nうぅむ、なんと無残な……"
                         },
                         {
                             "code": 0,
@@ -10724,35 +10714,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し汚れている……"
-                            ]
+                                "It's a Jizo statue. It's a little\ndirty..."
+                            ],
+                            "_original": "お地蔵様だ。\n少し汚れている……"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "手入れする",
-                                    "立ち去る"
+                                    "Clean it up",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "手入れする",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -10804,15 +10793,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これでよし。"
-                            ]
+                                "There, that should do it."
+                            ],
+                            "_original": "これでよし。"
                         },
                         {
                             "code": 123,
@@ -10863,15 +10854,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,
@@ -10951,22 +10944,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりと手入れしたぞ！"
-                            ]
+                                "It's the Jizo statue. I gave it a good\ncleaning!"
+                            ],
+                            "_original": "お地蔵様だ。\nしっかりと手入れしたぞ！"
                         },
                         {
                             "code": 0,
@@ -10986,15 +10974,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,

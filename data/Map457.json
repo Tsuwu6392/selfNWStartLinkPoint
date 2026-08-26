@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "アフダル高地",
+    "displayName": "Afdal Highlands",
     "encounterList": [
         {
             "troopId": 249,
@@ -17065,28 +17065,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから飛び下りて進めそうだ。"
-                            ]
+                                "It looks like we can progress by jumping\ndown from here."
+                            ],
+                            "_original": "ここから飛び下りて進めそうだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "飛び下りる",
-                                    "飛び下りない"
+                                    "Jump down",
+                                    "Don't jump down"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "飛び下りる",
+                                "飛び下りない"
                             ]
                         },
                         {

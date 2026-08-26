@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "狭間塚原",
+    "displayName": "Hazamazuka Plains",
     "encounterList": [
         {
             "troopId": 74,
@@ -10825,29 +10825,17 @@
                                 0,
                                 0,
                                 2,
-                                "千葉"
-                            ]
+                                "Chiba"
+                            ],
+                            "_original": "千葉"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前たちは例の旅人か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを越えると夜行岩屋に入る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気をつけろよ。"
-                            ]
+                                "Are you the travelers I've heard about…? Past\nhere is the Night Walking Cave. Be careful."
+                            ],
+                            "_original": "お前たちは例の旅人か……\nここを越えると夜行岩屋に入る。\n気をつけろよ。"
                         },
                         {
                             "code": 0,
@@ -10908,22 +10896,17 @@
                                 0,
                                 0,
                                 2,
-                                "千葉"
-                            ]
+                                "Chiba"
+                            ],
+                            "_original": "千葉"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "案の定だが、夜行岩屋へ進みたがる者が増えてきている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大抵はただの興味本位だ。"
-                            ]
+                                "As expected, more and more people are trying to\nhead into the Night Walking Cave. Most of them\nare just there out of curiosity."
+                            ],
+                            "_original": "案の定だが、夜行岩屋へ進みたがる者が増えてきている。\n大抵はただの興味本位だ。"
                         },
                         {
                             "code": 101,
@@ -10933,22 +10916,17 @@
                                 0,
                                 0,
                                 2,
-                                "千葉"
-                            ]
+                                "Chiba"
+                            ],
+                            "_original": "千葉"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……今も危険地帯ではあるのだがな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ、全く。"
-                            ]
+                                "...It's still a dangerous area, though. Tsk,\nhonestly."
+                            ],
+                            "_original": "……今も危険地帯ではあるのだがな。\nやれやれ、全く。"
                         },
                         {
                             "code": 0,
@@ -12040,35 +12018,34 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し汚れている……"
-                            ]
+                                "It's a Jizo statue. It's a little\ndirty..."
+                            ],
+                            "_original": "お地蔵様だ。\n少し汚れている……"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "手入れする",
-                                    "立ち去る"
+                                    "Clean it up",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "手入れする",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -12120,15 +12097,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これでよし。"
-                            ]
+                                "There, that should do it."
+                            ],
+                            "_original": "これでよし。"
                         },
                         {
                             "code": 123,
@@ -12179,15 +12158,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,
@@ -12267,22 +12248,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しっかりと手入れしたぞ！"
-                            ]
+                                "It's the Jizo statue. I've taken good\ncare of it!"
+                            ],
+                            "_original": "お地蔵様だ。\nしっかりと手入れしたぞ！"
                         },
                         {
                             "code": 0,
@@ -12302,15 +12278,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お地蔵様のとなり！"
-                            ]
+                                "Next to the Jizo statue!"
+                            ],
+                            "_original": "お地蔵様のとなり！"
                         },
                         {
                             "code": 0,

@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "神の都アスワド",
+    "displayName": "Holy City of Aswad",
     "encounterList": [],
     "encounterStep": 30,
     "height": 37,
@@ -6602,22 +6602,17 @@
                                 0,
                                 0,
                                 2,
-                                "アスワドの戦士"
-                            ]
+                                "Aswad Warrior"
+                            ],
+                            "_original": "アスワドの戦士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は眠る砂漠です、勇士様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャマル・ハラムにはここから向かうとよいでしょう。"
-                            ]
+                                "Beyond here lies the Sleeping Desert, brave one.\nYou would do well to head toward Shamal Haram\nfrom here."
+                            ],
+                            "_original": "この先は眠る砂漠です、勇士様。\nシャマル・ハラムにはここから向かうとよいでしょう。"
                         },
                         {
                             "code": 101,
@@ -6627,29 +6622,17 @@
                                 0,
                                 0,
                                 2,
-                                "アスワドの戦士"
-                            ]
+                                "Aswad Warrior"
+                            ],
+                            "_original": "アスワドの戦士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おや？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ神の祝福を受けておられないのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇士様、まずは先にそちらを。"
-                            ]
+                                "...Hm? You have yet to receive the Blessing of\nthe gods, I see. Brave one, you should attend to\nthat first."
+                            ],
+                            "_original": "……おや？\nまだ神の祝福を受けておられないのですね。\n勇士様、まずは先にそちらを。"
                         },
                         {
                             "code": 0,
@@ -6777,22 +6760,17 @@
                                 0,
                                 0,
                                 2,
-                                "アスワドの戦士"
-                            ]
+                                "Aswad Warrior"
+                            ],
+                            "_original": "アスワドの戦士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話は聞いております、勇士様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無事に試練を終えられたそうですね。"
-                            ]
+                                "I've heard the news, brave one. You've\nsuccessfully completed the trial, it seems."
+                            ],
+                            "_original": "話は聞いております、勇士様。\n無事に試練を終えられたそうですね。"
                         },
                         {
                             "code": 205,
@@ -6841,15 +6819,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ！"
-                            ]
+                                "Ah!"
+                            ],
+                            "_original": "ああ！"
                         },
                         {
                             "code": 101,
@@ -6859,29 +6839,17 @@
                                 0,
                                 0,
                                 2,
-                                "アスワドの戦士"
-                            ]
+                                "Aswad Warrior"
+                            ],
+                            "_original": "アスワドの戦士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、北への道を開放しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シャマル・ハラムへと続く\\C[17]眠る砂漠\\C[0]が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた様を待ち受けています。"
-                            ]
+                                "Then, let us open the path to the north. The\n\\C[17]Sleeping Desert\\C[0], leading to Shamal Haram, awaits\nyou."
+                            ],
+                            "_original": "では、北への道を開放しましょう。\nシャマル・ハラムへと続く\\C[17]眠る砂漠\\C[0]が\nあなた様を待ち受けています。"
                         },
                         {
                             "code": 101,
@@ -6891,15 +6859,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとう！"
-                            ]
+                                "Thank you!"
+                            ],
+                            "_original": "ありがとう！"
                         },
                         {
                             "code": 101,
@@ -6909,22 +6879,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "北のブルジュについて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か知っていることはありますか？"
-                            ]
+                                "Do you know anything about the northern\nfortress?"
+                            ],
+                            "_original": "北のブルジュについて\n何か知っていることはありますか？"
                         },
                         {
                             "code": 101,
@@ -6934,29 +6899,17 @@
                                 0,
                                 0,
                                 2,
-                                "アスワドの戦士"
-                            ]
+                                "Aswad Warrior"
+                            ],
+                            "_original": "アスワドの戦士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眠る砂漠のブルジュは\\C[17]オルーサの墓所\\C[0]と呼ばれます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "北西辺りにあるはずですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入口が隠されているという話も聞きますね。"
-                            ]
+                                "The fortress in the Sleeping Desert is called\n\\C[17]Orsa's Tomb\\C[0]. It should be to the northwest, but\nI've heard the entrance is hidden."
+                            ],
+                            "_original": "眠る砂漠のブルジュは\\C[17]オルーサの墓所\\C[0]と呼ばれます。\n北西辺りにあるはずですが、\n入口が隠されているという話も聞きますね。"
                         },
                         {
                             "code": 101,
@@ -6966,22 +6919,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "注意深く探索すべきだな。"
-                            ]
+                                "Hmm. We should explore carefully."
+                            ],
+                            "_original": "ふむ。\n注意深く探索すべきだな。"
                         },
                         {
                             "code": 221,
@@ -7161,15 +7109,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "積まれたふくろ！"
-                            ]
+                                "The stacked sacks!"
+                            ],
+                            "_original": "積まれたふくろ！"
                         },
                         {
                             "code": 0,
@@ -7239,15 +7189,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふくろ！"
-                            ]
+                                "My bag!"
+                            ],
+                            "_original": "ふくろ！"
                         },
                         {
                             "code": 0,
@@ -7317,15 +7269,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろ！"
-                            ]
+                                "All sorts of things!"
+                            ],
+                            "_original": "いろいろ！"
                         },
                         {
                             "code": 0,
@@ -7395,15 +7349,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三つのつぼ！"
-                            ]
+                                "Three pressure points!"
+                            ],
+                            "_original": "三つのつぼ！"
                         },
                         {
                             "code": 101,
@@ -7413,15 +7369,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼら。"
-                            ]
+                                "Pressure points."
+                            ],
+                            "_original": "つぼら。"
                         },
                         {
                             "code": 101,
@@ -7431,15 +7389,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼら！！"
-                            ]
+                                "Pressure points!!"
+                            ],
+                            "_original": "つぼら！！"
                         },
                         {
                             "code": 123,
@@ -7508,15 +7468,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つぼら！！"
-                            ]
+                                "Tsubora!!"
+                            ],
+                            "_original": "つぼら！！"
                         },
                         {
                             "code": 0,
@@ -7602,15 +7564,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「北門の先　眠る砂漠"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　太陽の光届かぬ常夜の地」"
-                            ]
+                                "\"Beyond the North Gate lies the Sleeping Desert,\na land of eternal night where the sun's light\nnever reaches.\""
+                            ],
+                            "_original": "「北門の先　眠る砂漠\n　太陽の光届かぬ常夜の地」"
                         },
                         {
                             "code": 0,
@@ -7646,8 +7602,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「こちらは裏側です」"
-                            ]
+                                "\"This is the back side.\""
+                            ],
+                            "_original": "「こちらは裏側です」"
                         },
                         {
                             "code": 0,
@@ -7667,15 +7624,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "側面だぞ！"
-                            ]
+                                "It's the side!"
+                            ],
+                            "_original": "側面だぞ！"
                         },
                         {
                             "code": 0,
@@ -7921,22 +7880,17 @@
                                 0,
                                 0,
                                 2,
-                                "アスワドの戦士"
-                            ]
+                                "Aswad Warrior"
+                            ],
+                            "_original": "アスワドの戦士"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眠る砂漠は危険地帯です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "挑む前に聖刻符を捧げ、高めた祝福の力を頼るべきでしょう。"
-                            ]
+                                "The Sleeping Desert is a dangerous area. Before\nchallenging it, you should offer a holy talisman\nand rely on the enhanced power of Blessing."
+                            ],
+                            "_original": "眠る砂漠は危険地帯です。\n挑む前に聖刻符を捧げ、高めた祝福の力を頼るべきでしょう。"
                         },
                         {
                             "code": 0,

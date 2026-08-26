@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "真白神社",
+    "displayName": "Mashiro Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4286,8 +4286,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "再びプリムを見つけた。"
-                            ]
+                                "I found Prim again."
+                            ],
+                            "_original": "再びプリムを見つけた。"
                         },
                         {
                             "code": 205,
@@ -4509,15 +4510,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほほう。"
-                            ]
+                                "Well, well."
+                            ],
+                            "_original": "ほほう。"
                         },
                         {
                             "code": 101,
@@ -4534,15 +4537,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人形を調べているのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薄暗いため、よく分からない……"
-                            ]
+                                "Is she examining the doll? It's dim, so I can't\nreally tell..."
+                            ],
+                            "_original": "人形を調べているのだろうか？\n薄暗いため、よく分からない……"
                         },
                         {
                             "code": 101,
@@ -4552,15 +4549,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど。"
-                            ]
+                                "I see."
+                            ],
+                            "_original": "なるほど。"
                         },
                         {
                             "code": 205,
@@ -4747,15 +4746,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プリムは更に別の場所へと移動した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回も見つからずにやり過ごせた……"
-                            ]
+                                "Prim moved to yet another place. This time, I\nmanaged to get by without being spotted..."
+                            ],
+                            "_original": "プリムは更に別の場所へと移動した。\n今回も見つからずにやり過ごせた……"
                         },
                         {
                             "code": 230,
@@ -4979,8 +4972,9 @@
                                 0,
                                 0,
                                 2,
-                                "鶏？"
-                            ]
+                                "Chicken?"
+                            ],
+                            "_original": "鶏？"
                         },
                         {
                             "code": 401,
@@ -5048,28 +5042,34 @@
                                 0,
                                 0,
                                 2,
-                                "絡繰り"
-                            ]
+                                "karakuri"
+                            ],
+                            "_original": "絡繰り"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギギ……ガ……"
-                            ]
+                                "Ggh... Gah..."
+                            ],
+                            "_original": "ギギ……ガ……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "訓練する",
-                                    "立ち去る"
+                                    "Train",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "訓練する",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -5138,15 +5138,17 @@
                                 0,
                                 0,
                                 2,
-                                "絡繰り"
-                            ]
+                                "karakuri"
+                            ],
+                            "_original": "絡繰り"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガ……"
-                            ]
+                                "Gah..."
+                            ],
+                            "_original": "ガ……"
                         },
                         {
                             "code": 101,
@@ -5156,22 +5158,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ちょ、ちょっとやりすぎたのではないだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いくら修復されるとはいえ……"
-                            ]
+                                "H-Hey, isn't that a bit too much? Even\nthough it can be repaired..."
+                            ],
+                            "_original": "ちょ、ちょっとやりすぎたのではないだろうか？\nいくら修復されるとはいえ……"
                         },
                         {
                             "code": 101,
@@ -5181,15 +5178,17 @@
                                 0,
                                 0,
                                 2,
-                                "絡繰り"
-                            ]
+                                "karakuri"
+                            ],
+                            "_original": "絡繰り"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガガ……"
-                            ]
+                                "Gah... gah..."
+                            ],
+                            "_original": "ガガ……"
                         },
                         {
                             "code": 357,
@@ -5537,15 +5536,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "古びた棚だ……埃が積もっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないのだろう。"
-                            ]
+                                "An old shelf... covered in dust. It must not\nhave been used for a long time."
+                            ],
+                            "_original": "古びた棚だ……埃が積もっている。\n長らく使われていないのだろう。"
                         },
                         {
                             "code": 0,
@@ -5756,22 +5749,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人形がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙に生気を帯び、今にも動き出しそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その感覚が気のせいであることを願った。"
-                            ]
+                                "There is a doll. It has a strangely lifelike\nquality, as if it might move at any moment. I\nhoped that feeling was just my imagination."
+                            ],
+                            "_original": "人形がある。\n妙に生気を帯び、今にも動き出しそうだ。\nその感覚が気のせいであることを願った。"
                         },
                         {
                             "code": 0,
@@ -5864,29 +5844,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最後はここ、本殿の地下ですが──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ての通り、荒れ果てているでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは神の御力が及ばぬ証拠。"
-                            ]
+                                "Finally, this place―the basement of the\nmain shrine―as you can see, it's\ncompletely desolate. This is proof that\nthe gods' power does not reach here."
+                            ],
+                            "_original": "最後はここ、本殿の地下ですが──\n見ての通り、荒れ果てているでしょう。\nこれは神の御力が及ばぬ証拠。"
                         },
                         {
                             "code": 205,
@@ -6166,22 +6134,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更には奇妙な絡繰りまで迷い込む始末。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的に、近づかないのが無難でしょう。"
-                            ]
+                                "Furthermore, even strange karakuri have\nwandered in. Basically, it's best to\nstay away."
+                            ],
+                            "_original": "更には奇妙な絡繰りまで迷い込む始末。\n基本的に、近づかないのが無難でしょう。"
                         },
                         {
                             "code": 101,
@@ -6191,29 +6154,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、この絡繰り──面妖なことに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかなる攻撃を受け傷ついても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "即座に修復される身体を持っています。"
-                            ]
+                                "However, this karakuri―strangely\nenough―has a body that instantly repairs\nitself no matter what attack damages it."
+                            ],
+                            "_original": "ただ、この絡繰り──面妖なことに、\nいかなる攻撃を受け傷ついても\n即座に修復される身体を持っています。"
                         },
                         {
                             "code": 101,
@@ -6223,22 +6174,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてまた、なぜかは分かりませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうして修復することを好む様子。"
-                            ]
+                                "And also, though I don't know why, it\nseems to enjoy repairing itself in that\nway."
+                            ],
+                            "_original": "そしてまた、なぜかは分かりませんが\nそうして修復することを好む様子。"
                         },
                         {
                             "code": 101,
@@ -6248,22 +6194,17 @@
                                 0,
                                 0,
                                 2,
-                                "テン"
-                            ]
+                                "Ten"
+                            ],
+                            "_original": "テン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すなわち、試し斬りにはちょうどよい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた様の仲間の鍛錬に利用できるかもしれません。"
-                            ]
+                                "In other words, it's perfect for\ntest-cutting. You might be able to use\nit for training your companions."
+                            ],
+                            "_original": "すなわち、試し斬りにはちょうどよい。\nあなた様の仲間の鍛錬に利用できるかもしれません。"
                         },
                         {
                             "code": 221,
@@ -6426,15 +6367,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "古びた棚だ……埃が積もっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないのだろう。"
-                            ]
+                                "An old shelf... covered in dust. It must not\nhave been used for a long time."
+                            ],
+                            "_original": "古びた棚だ……埃が積もっている。\n長らく使われていないのだろう。"
                         },
                         {
                             "code": 0,
@@ -6590,35 +6525,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『下にある唇』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "Do you wish to view the scene \"The Lips Below\"?\n\\C[17]※Either choice will register it in the\nRecollection.\\C[0]"
+                            ],
+                            "_original": "シーン『下にある唇』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {

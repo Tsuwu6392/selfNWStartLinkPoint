@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "囁き墓地",
+    "displayName": "Whispering Cemetery",
     "encounterList": [],
     "encounterStep": 30,
     "height": 29,
@@ -4838,15 +4838,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらには進めない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "目に見えない何かに阻まれている。"
-                            ]
+                                "I can't go this way. Something invisible is\nblocking me."
+                            ],
+                            "_original": "こちらには進めない。\n目に見えない何かに阻まれている。"
                         },
                         {
                             "code": 205,
@@ -5190,8 +5184,9 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
@@ -5208,15 +5203,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……見つけましたよ。"
-                            ]
+                                "...I found you."
+                            ],
+                            "_original": "……見つけましたよ。"
                         },
                         {
                             "code": 205,
@@ -5378,15 +5375,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お主は……？"
-                            ]
+                                "Who are you...?"
+                            ],
+                            "_original": "お主は……？"
                         },
                         {
                             "code": 101,
@@ -5396,22 +5395,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが数日前にあの怪異を斬ったという隊士ですね。"
-                            ]
+                                "You... you're the officer who slew that\napparition a few days ago, aren't you?"
+                            ],
+                            "_original": "あなたが……\nあなたが数日前にあの怪異を斬ったという隊士ですね。"
                         },
                         {
                             "code": 101,
@@ -5421,15 +5415,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "厭い根のことなら、いかにも。"
-                            ]
+                                "If you mean the Onryō, then yes."
+                            ],
+                            "_original": "厭い根のことなら、いかにも。"
                         },
                         {
                             "code": 205,
@@ -5470,22 +5466,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この辺りは奴らが湧く場所。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は墓参りには適さぬ……都へ戻れ。"
-                            ]
+                                "This area is a hotspot for them. It's no\nplace for a grave visit right now...\nReturn to the capital."
+                            ],
+                            "_original": "この辺りは奴らが湧く場所。\n今は墓参りには適さぬ……都へ戻れ。"
                         },
                         {
                             "code": 101,
@@ -5495,15 +5486,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近づかないで！"
-                            ]
+                                "Stay away from me!"
+                            ],
+                            "_original": "近づかないで！"
                         },
                         {
                             "code": 205,
@@ -5603,15 +5596,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっ……"
-                            ]
+                                "Nn..."
+                            ],
+                            "_original": "ぬっ……"
                         },
                         {
                             "code": 101,
@@ -5621,15 +5616,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたが斬ったのは私の子だった！"
-                            ]
+                                "The one you killed was my child!"
+                            ],
+                            "_original": "あなたが斬ったのは私の子だった！"
                         },
                         {
                             "code": 250,
@@ -5665,8 +5662,9 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
@@ -5735,22 +5733,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すまぬ。"
-                            ]
+                                "...I see. My apologies."
+                            ],
+                            "_original": "……そうか。\nすまぬ。"
                         },
                         {
                             "code": 101,
@@ -5760,22 +5753,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ面影が残っていたと聞いた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元に戻れたかもしれない！"
-                            ]
+                                "I heard there was still a trace of her left! She\nmight have been restored!"
+                            ],
+                            "_original": "まだ面影が残っていたと聞いた！\n元に戻れたかもしれない！"
                         },
                         {
                             "code": 101,
@@ -5785,22 +5773,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なのに……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なのにあなたは、殺したの。"
-                            ]
+                                "And yet... and yet you killed her."
+                            ],
+                            "_original": "なのに……\nなのにあなたは、殺したの。"
                         },
                         {
                             "code": 101,
@@ -5810,22 +5793,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の子を殺した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人殺し！！"
-                            ]
+                                "You killed my child. Murderer!!"
+                            ],
+                            "_original": "私の子を殺した。\n人殺し！！"
                         },
                         {
                             "code": 101,
@@ -5835,22 +5813,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああなっては戻れぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "介錯する他ない。"
-                            ]
+                                "Once it came to that, there was no\nturning back. I had to put it out of its\nmisery."
+                            ],
+                            "_original": "ああなっては戻れぬ。\n介錯する他ない。"
                         },
                         {
                             "code": 101,
@@ -5860,15 +5833,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふざけないで……"
-                            ]
+                                "Don't mock me..."
+                            ],
+                            "_original": "ふざけないで……"
                         },
                         {
                             "code": 205,
@@ -5929,22 +5904,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪異になったから、普通のお墓にも入れてもらえない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子は、最後まで独り寂しく……"
-                            ]
+                                "Because she became an apparition, she couldn't\neven be buried in a normal grave. That child...\nshe was alone until the very end..."
+                            ],
+                            "_original": "怪異になったから、普通のお墓にも入れてもらえない。\nあの子は、最後まで独り寂しく……"
                         },
                         {
                             "code": 101,
@@ -5954,8 +5924,9 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
@@ -5972,22 +5943,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……例の、こそ泥の子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子もあなたのせいで大怪我をしたと聞いた。"
-                            ]
+                                "...That other child, the one from the swamp. I\nheard she was gravely injured because of you as\nwell."
+                            ],
+                            "_original": "……例の、こそ泥の子。\nあの子もあなたのせいで大怪我をしたと聞いた。"
                         },
                         {
                             "code": 101,
@@ -5997,8 +5963,9 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
@@ -6015,22 +5982,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人の姿をした怪異は……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他ならぬ、あなたでしょう。"
-                            ]
+                                "The apparition that took human form... it was\nyou, wasn't it?"
+                            ],
+                            "_original": "人の姿をした怪異は……\n他ならぬ、あなたでしょう。"
                         },
                         {
                             "code": 205,
@@ -6105,15 +6067,17 @@
                                 0,
                                 0,
                                 2,
-                                "やつれた女性"
-                            ]
+                                "Haggard Woman"
+                            ],
+                            "_original": "やつれた女性"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恨みます。"
-                            ]
+                                "I curse you."
+                            ],
+                            "_original": "恨みます。"
                         },
                         {
                             "code": 205,
@@ -6370,15 +6334,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幾度転べど、立ち上がる。"
-                            ]
+                                "No matter how many times I fall, I rise\nagain."
+                            ],
+                            "_original": "幾度転べど、立ち上がる。"
                         },
                         {
                             "code": 250,
@@ -6421,22 +6387,17 @@
                                 2,
                                 0,
                                 2,
-                                "直"
-                            ]
+                                "Tadashi"
+                            ],
+                            "_original": "直"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ……まだ立てる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ……"
-                            ]
+                                "I can still... still stand. I can\nstill..."
+                            ],
+                            "_original": "まだ……まだ立てる。\nまだ……"
                         },
                         {
                             "code": 246,
@@ -6974,8 +6935,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魂が何かに引き寄せられている。"
-                            ]
+                                "My soul feels drawn to something."
+                            ],
+                            "_original": "魂が何かに引き寄せられている。"
                         },
                         {
                             "code": 221,

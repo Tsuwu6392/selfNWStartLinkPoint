@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "まばらな人里",
+    "displayName": "Sparse Hamlet",
     "encounterList": [],
     "encounterStep": 30,
     "height": 31,
@@ -8971,35 +8971,34 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神社に戻りたいのか？"
-                            ]
+                                "Oh? Do you want to go back to the\nshrine?"
+                            ],
+                            "_original": "おっと。\n神社に戻りたいのか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戻る",
-                                    "戻らない"
+                                    "Return",
+                                    "Don't return"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "戻る",
+                                "戻らない"
                             ]
                         },
                         {
@@ -9025,22 +9024,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか、うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "では戻るとしよう。"
-                            ]
+                                "I see. Alright, let's return then."
+                            ],
+                            "_original": "そうか、うむ。\nでは戻るとしよう。"
                         },
                         {
                             "code": 250,
@@ -9100,15 +9094,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また行こうぞ！"
-                            ]
+                                "Let's go again sometime!"
+                            ],
+                            "_original": "また行こうぞ！"
                         },
                         {
                             "code": 0,
@@ -9131,15 +9127,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ばっちゃんをからかうんじゃない！"
-                            ]
+                                "Don't tease Grandma!"
+                            ],
+                            "_original": "ばっちゃんをからかうんじゃない！"
                         },
                         {
                             "code": 205,
@@ -9296,22 +9294,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし……この辺りじゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "到着じゃ、\\N[10]！"
-                            ]
+                                "Alright... this should be the place.\nWe've arrived, \\N[10]!"
+                            ],
+                            "_original": "よし……この辺りじゃな。\n到着じゃ、\\N[10]！"
                         },
                         {
                             "code": 205,
@@ -9352,29 +9345,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは夜行岩屋の辺境。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名前は特にない──まばらな人里と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いったようなところじゃ。"
-                            ]
+                                "This is the outskirts of Night Walking\nCave. It doesn't have a proper name―just\na sparse hamlet, really."
+                            ],
+                            "_original": "ここは夜行岩屋の辺境。\n名前は特にない──まばらな人里と\nいったようなところじゃ。"
                         },
                         {
                             "code": 101,
@@ -9384,22 +9365,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "辺り一帯にぽつぽつと民家があるんじゃが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに住んでおる子らとは特に仲良しでのう。"
-                            ]
+                                "There are a few houses scattered around\nhere, and I'm quite close with the folks\nwho live in them."
+                            ],
+                            "_original": "辺り一帯にぽつぽつと民家があるんじゃが、\nここに住んでおる子らとは特に仲良しでのう。"
                         },
                         {
                             "code": 101,
@@ -9409,22 +9385,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、しばらく顔を見ておらん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久々に会いたくなったというわけじゃ。"
-                            ]
+                                "But I haven't seen them in a while.\nThat's why I wanted to visit again."
+                            ],
+                            "_original": "しかし、しばらく顔を見ておらん。\n久々に会いたくなったというわけじゃ。"
                         },
                         {
                             "code": 205,
@@ -9487,22 +9458,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "というわけで、行こうぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さんにも紹介したいんじゃ！"
-                            ]
+                                "So, let's go! I want to introduce you to\nthem!"
+                            ],
+                            "_original": "というわけで、行こうぞ！\nお前さんにも紹介したいんじゃ！"
                         },
                         {
                             "code": 221,
@@ -9802,8 +9768,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しばらく遊んだのち、夕暮れ時。"
-                            ]
+                                "After playing for a while, it was dusk."
+                            ],
+                            "_original": "しばらく遊んだのち、夕暮れ時。"
                         },
                         {
                             "code": 222,
@@ -9830,22 +9797,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ってきおったな。"
-                            ]
+                                "Oh! You're back."
+                            ],
+                            "_original": "おっ。\n帰ってきおったな。"
                         },
                         {
                             "code": 213,
@@ -9864,22 +9826,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ、ばっちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来てたんだね。"
-                            ]
+                                "Oh, Grandma? You were here?"
+                            ],
+                            "_original": "あれ、ばっちゃん？\n来てたんだね。"
                         },
                         {
                             "code": 101,
@@ -9889,15 +9846,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばっちゃん？"
-                            ]
+                                "Grandma?"
+                            ],
+                            "_original": "ばっちゃん？"
                         },
                         {
                             "code": 205,
@@ -9938,22 +9897,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、なつ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたが言ってたのってあの人のことでしょ？"
-                            ]
+                                "Ah, Natsu... You were talking about her, right?"
+                            ],
+                            "_original": "ああ、なつ……\nあなたが言ってたのってあの人のことでしょ？"
                         },
                         {
                             "code": 205,
@@ -10039,15 +9993,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子だ。"
-                            ]
+                                "It's Sonoko."
+                            ],
+                            "_original": "存子だ。"
                         },
                         {
                             "code": 101,
@@ -10057,15 +10013,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっちゃん、会いたかったぞ！"
-                            ]
+                                "Natsu-chan, I missed you!"
+                            ],
+                            "_original": "なっちゃん、会いたかったぞ！"
                         },
                         {
                             "code": 101,
@@ -10075,22 +10033,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで？"
-                            ]
+                                "Huh? Why?"
+                            ],
+                            "_original": "え？\nなんで？"
                         },
                         {
                             "code": 101,
@@ -10100,15 +10053,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "遊んでくれる約束だったじゃろ？"
-                            ]
+                                "We had a promise to play together,\ndidn't we?"
+                            ],
+                            "_original": "遊んでくれる約束だったじゃろ？"
                         },
                         {
                             "code": 101,
@@ -10118,22 +10073,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あー……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだっけ。"
-                            ]
+                                "Oh... Right, I guess."
+                            ],
+                            "_original": "あー……\nそうだっけ。"
                         },
                         {
                             "code": 101,
@@ -10143,22 +10093,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かっかっか！"
-                            ]
+                                "Oh ho ho! Kaha ha ha!"
+                            ],
+                            "_original": "おおう。\nかっかっか！"
                         },
                         {
                             "code": 213,
@@ -10177,22 +10122,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばっちゃん、ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゃんと偉い人だって言っておいたんだけど……"
-                            ]
+                                "Grandma, I'm sorry. I did tell her you were a\ngreat person..."
+                            ],
+                            "_original": "ばっちゃん、ごめんなさい。\nちゃんと偉い人だって言っておいたんだけど……"
                         },
                         {
                             "code": 101,
@@ -10202,22 +10142,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気にせんでよいわい、そもそも偉くもない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで……都に行っておったそうじゃが。"
-                            ]
+                                "Don't worry about it. I'm not all that\ngreat anyway. By the way... I heard you\nwent to the capital."
+                            ],
+                            "_original": "気にせんでよいわい、そもそも偉くもない。\nところで……都に行っておったそうじゃが。"
                         },
                         {
                             "code": 101,
@@ -10227,22 +10162,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は──"
-                            ]
+                                "Ah, yeah. Actually―"
+                            ],
+                            "_original": "ああ、うん。\n実は──"
                         },
                         {
                             "code": 205,
@@ -10283,22 +10213,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おかあさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おばあちゃん、疲れてる。"
-                            ]
+                                "Mom. Grandma looks tired."
+                            ],
+                            "_original": "おかあさん。\nおばあちゃん、疲れてる。"
                         },
                         {
                             "code": 205,
@@ -10361,22 +10286,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ああ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうね。"
-                            ]
+                                "Oh, right. You're right."
+                            ],
+                            "_original": "あ、ああ。\nそうね。"
                         },
                         {
                             "code": 101,
@@ -10386,22 +10306,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なつ、お婆ちゃんと一緒に先に帰ってなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母さんもすぐ行くから。"
-                            ]
+                                "Natsu, go home with Grandma first. Mommy will be\nright there."
+                            ],
+                            "_original": "なつ、お婆ちゃんと一緒に先に帰ってなさい。\nお母さんもすぐ行くから。"
                         },
                         {
                             "code": 101,
@@ -10411,15 +10326,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあい。"
-                            ]
+                                "Okay."
+                            ],
+                            "_original": "はあい。"
                         },
                         {
                             "code": 205,
@@ -10474,15 +10391,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばあちゃん、行こ。"
-                            ]
+                                "Grandma, let's go."
+                            ],
+                            "_original": "おばあちゃん、行こ。"
                         },
                         {
                             "code": 205,
@@ -10523,15 +10442,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子、またね。"
-                            ]
+                                "Sonoko, see you later."
+                            ],
+                            "_original": "存子、またね。"
                         },
                         {
                             "code": 101,
@@ -10541,15 +10462,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ！"
-                            ]
+                                "Mm-hmm!"
+                            ],
+                            "_original": "うむ！"
                         },
                         {
                             "code": 242,
@@ -10735,22 +10658,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かあったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シエに。"
-                            ]
+                                "What happened to Shie?"
+                            ],
+                            "_original": "何かあったのか？\nシエに。"
                         },
                         {
                             "code": 101,
@@ -10760,15 +10678,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと……"
-                            ]
+                                "Uh..."
+                            ],
+                            "_original": "ええと……"
                         },
                         {
                             "code": 213,
@@ -10787,22 +10707,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう、長くないみたいで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつ黄泉の巌に旅立ってもおかしくないって。"
-                            ]
+                                "She doesn't have much time left. She could head\nto the Crag of Yomi any day now."
+                            ],
+                            "_original": "もう、長くないみたいで。\nいつ黄泉の巌に旅立ってもおかしくないって。"
                         },
                         {
                             "code": 101,
@@ -10812,15 +10727,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……そうか。"
-                            ]
+                                "...I see."
+                            ],
+                            "_original": "……そうか。"
                         },
                         {
                             "code": 101,
@@ -10830,29 +10747,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "里のお医者さんにはお手上げでね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "柴組の人に頼んで、都の養生所まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れてってもらったんだけど……"
-                            ]
+                                "The village doctor couldn't do anything. We\nasked the Shiba group to take her to the\ncapital's infirmary..."
+                            ],
+                            "_original": "里のお医者さんにはお手上げでね。\n柴組の人に頼んで、都の養生所まで\n連れてってもらったんだけど……"
                         },
                         {
                             "code": 101,
@@ -10862,22 +10767,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり意味なかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "できることはないんだって。"
-                            ]
+                                "But it didn't help much. They said there's\nnothing more they can do."
+                            ],
+                            "_original": "あんまり意味なかった。\nできることはないんだって。"
                         },
                         {
                             "code": 205,
@@ -10918,22 +10818,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんね、ばっちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかく来てくれたのに。"
-                            ]
+                                "Sorry, Grandma. You came all this way for\nnothing."
+                            ],
+                            "_original": "ごめんね、ばっちゃん。\nせっかく来てくれたのに。"
                         },
                         {
                             "code": 101,
@@ -10943,22 +10838,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いんや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "儂のことはいい。"
-                            ]
+                                "No, no. Don't worry about me."
+                            ],
+                            "_original": "いんや。\n儂のことはいい。"
                         },
                         {
                             "code": 205,
@@ -10999,22 +10889,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前さんも早く帰ってやれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心配させてはいかん。"
-                            ]
+                                "You should go back to her soon. Don't\nleave her worried."
+                            ],
+                            "_original": "お前さんも早く帰ってやれ。\n心配させてはいかん。"
                         },
                         {
                             "code": 101,
@@ -11024,22 +10909,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだね。"
-                            ]
+                                "Yeah... You're right."
+                            ],
+                            "_original": "うん……\nそうだね。"
                         },
                         {
                             "code": 205,
@@ -11153,22 +11033,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゃあ、またね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばっちゃん、\\N[10]さん。"
-                            ]
+                                "Okay, see you later. Bye, Grandma, \\N[10]-san."
+                            ],
+                            "_original": "じゃあ、またね。\nばっちゃん、\\N[10]さん。"
                         },
                         {
                             "code": 205,
@@ -11299,15 +11174,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂らも帰るとするか、\\N[10]。"
-                            ]
+                                "We should head back too, \\N[10]."
+                            ],
+                            "_original": "儂らも帰るとするか、\\N[10]。"
                         },
                         {
                             "code": 101,
@@ -11317,22 +11194,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は、ちょいと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遊び疲れたのう。"
-                            ]
+                                "Today... I think I played a little too\nhard."
+                            ],
+                            "_original": "今日は、ちょいと……\n遊び疲れたのう。"
                         },
                         {
                             "code": 221,
@@ -11447,8 +11319,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "存子は静かにふけり、過去を思い出している……"
-                            ]
+                                "Sonoko falls silent, lost in thought as she\nrecalls the past..."
+                            ],
+                            "_original": "存子は静かにふけり、過去を思い出している……"
                         },
                         {
                             "code": 318,
@@ -11487,15 +11360,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【奥義習得】\\C[0]"
-                            ]
+                                "\\C[16]【Secret Art Learned】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【奥義習得】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "存子が奥義\\I[73]\\C[24]妖狸の宴\\C[0]を習得しました。"
-                            ]
+                                "Sonoko has learned the secret art \\I[73]\\C[24]Mystic\nTanuki's Feast\\C[0]."
+                            ],
+                            "_original": "存子が奥義\\I[73]\\C[24]妖狸の宴\\C[0]を習得しました。"
                         },
                         {
                             "code": 230,
@@ -11582,15 +11457,17 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベントの\\C[17]交流：みんなのばっちゃん\\C[0]が更新されました。"
-                            ]
+                                "The event \\C[17]Bonding: Everyone's Grandma\\C[0] has been\nupdated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：みんなのばっちゃん\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -12357,22 +12234,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて見る子じゃな。"
-                            ]
+                                "Ohho. This is the first time I've seen\nyou, lass."
+                            ],
+                            "_original": "おおう。\n初めて見る子じゃな。"
                         },
                         {
                             "code": 213,
@@ -12515,15 +12387,17 @@
                                 0,
                                 0,
                                 2,
-                                "少女"
-                            ]
+                                "Girl"
+                            ],
+                            "_original": "少女"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あなたたち、だあれ？"
-                            ]
+                                "Who are you two?"
+                            ],
+                            "_original": "あなたたち、だあれ？"
                         },
                         {
                             "code": 101,
@@ -12533,22 +12407,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂は存子、こっちは\\N[10]じゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さんはここの子か？"
-                            ]
+                                "I'm Sonoko, and this here's \\N[10]. Are you\nfrom around these parts, girl?"
+                            ],
+                            "_original": "儂は存子、こっちは\\N[10]じゃ。\nお前さんはここの子か？"
                         },
                         {
                             "code": 204,
@@ -12622,22 +12491,17 @@
                                 0,
                                 0,
                                 2,
-                                "少女"
-                            ]
+                                "Girl"
+                            ],
+                            "_original": "少女"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私より年下だよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迷子になっちゃったの？"
-                            ]
+                                "You're younger than me, right? Did you get lost?"
+                            ],
+                            "_original": "私より年下だよね？\n迷子になっちゃったの？"
                         },
                         {
                             "code": 101,
@@ -12647,22 +12511,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かっかっか、こういう扱いは久々じゃ。"
-                            ]
+                                "Oh ho ho! Kahahaha, it's been a while\nsince someone treated me like this."
+                            ],
+                            "_original": "おおっと。\nかっかっか、こういう扱いは久々じゃ。"
                         },
                         {
                             "code": 205,
@@ -12725,22 +12584,17 @@
                                 0,
                                 0,
                                 2,
-                                "妖狸"
-                            ]
+                                "Mystic Tanuki"
+                            ],
+                            "_original": "妖狸"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人は隠神様だぽん！"
-                            ]
+                                "Natsuko-chan! That person's a Hidden God-sama,\npon!"
+                            ],
+                            "_original": "なっちゃん！\nその人は隠神様だぽん！"
                         },
                         {
                             "code": 205,
@@ -12781,15 +12635,17 @@
                                 0,
                                 0,
                                 2,
-                                "少女"
-                            ]
+                                "Girl"
+                            ],
+                            "_original": "少女"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いぬがみさま？"
-                            ]
+                                "Inugami-sama?"
+                            ],
+                            "_original": "いぬがみさま？"
                         },
                         {
                             "code": 101,
@@ -12799,22 +12655,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まあ、そういう名もあるが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼ぶ時は存子でよいぞ。"
-                            ]
+                                "Well, some do call me that… But you can\njust call me Sonoko."
+                            ],
+                            "_original": "まあ、そういう名もあるが……\n呼ぶ時は存子でよいぞ。"
                         },
                         {
                             "code": 205,
@@ -12855,22 +12706,17 @@
                                 0,
                                 0,
                                 2,
-                                "少女"
-                            ]
+                                "Girl"
+                            ],
+                            "_original": "少女"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かった。"
-                            ]
+                                "Sonoko… Got it."
+                            ],
+                            "_original": "存子……\n分かった。"
                         },
                         {
                             "code": 205,
@@ -12925,22 +12771,17 @@
                                 0,
                                 0,
                                 2,
-                                "妖狸"
-                            ]
+                                "Mystic Tanuki"
+                            ],
+                            "_original": "妖狸"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばっちゃん、久しぶりだぽん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僕のこと……覚えてるぽん？"
-                            ]
+                                "Granny Sonoko! Long time no see, pon! Do you…\nremember me, pon?"
+                            ],
+                            "_original": "ばっちゃん、久しぶりだぽん。\n僕のこと……覚えてるぽん？"
                         },
                         {
                             "code": 101,
@@ -12950,22 +12791,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぽん之助じゃろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当たり前じゃ！"
-                            ]
+                                "Ponnosuke, right? Of course I do!"
+                            ],
+                            "_original": "ぽん之助じゃろ？\n当たり前じゃ！"
                         },
                         {
                             "code": 213,
@@ -13023,15 +12859,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やったー！"
-                            ]
+                                "Yes! I knew it!"
+                            ],
+                            "_original": "やったー！"
                         },
                         {
                             "code": 101,
@@ -13041,22 +12879,17 @@
                                 0,
                                 0,
                                 2,
-                                "少女"
-                            ]
+                                "Girl"
+                            ],
+                            "_original": "少女"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "存子は迷子じゃないの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここには何しに来たの？"
-                            ]
+                                "So Sonoko isn't lost? What are you doing here?"
+                            ],
+                            "_original": "存子は迷子じゃないの？\nここには何しに来たの？"
                         },
                         {
                             "code": 101,
@@ -13066,22 +12899,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "友達に会いに来たんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シエという子なんじゃが……"
-                            ]
+                                "I came to visit a friend. A girl named\nShie…"
+                            ],
+                            "_original": "友達に会いに来たんじゃ。\nシエという子なんじゃが……"
                         },
                         {
                             "code": 101,
@@ -13091,22 +12919,17 @@
                                 0,
                                 0,
                                 2,
-                                "少女"
-                            ]
+                                "Girl"
+                            ],
+                            "_original": "少女"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエおばあちゃんの……おともだちなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変なの。"
-                            ]
+                                "Shie… Granny's friend? That's weird."
+                            ],
+                            "_original": "シエおばあちゃんの……おともだちなの？\n変なの。"
                         },
                         {
                             "code": 101,
@@ -13116,22 +12939,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれがお婆ちゃんとな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かっかっか！"
-                            ]
+                                "That one's a granny, is she? Kahahaha!"
+                            ],
+                            "_original": "あれがお婆ちゃんとな？\nかっかっか！"
                         },
                         {
                             "code": 101,
@@ -13141,22 +12959,17 @@
                                 0,
                                 0,
                                 2,
-                                "少女"
-                            ]
+                                "Girl"
+                            ],
+                            "_original": "少女"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おばあちゃんは今いないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかあさんも。"
-                            ]
+                                "Granny isn't here right now. Neither is Mom."
+                            ],
+                            "_original": "おばあちゃんは今いないよ。\nおかあさんも。"
                         },
                         {
                             "code": 205,
@@ -13183,22 +12996,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "里の集会に行ってるぽん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶん今日は帰ってこないぽん。"
-                            ]
+                                "They went to the village gathering, pon. They\nprobably won't be back today, pon."
+                            ],
+                            "_original": "里の集会に行ってるぽん。\nたぶん今日は帰ってこないぽん。"
                         },
                         {
                             "code": 101,
@@ -13208,29 +13016,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんと、そうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは出直した方がよさそうじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり長居はできんし……"
-                            ]
+                                "Oh dear, I see. Maybe we should come\nback another time. I can't stay too long\nanyway…"
+                            ],
+                            "_original": "なんと、そうか。\nこれは出直した方がよさそうじゃ。\nあまり長居はできんし……"
                         },
                         {
                             "code": 205,
@@ -13271,22 +13067,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]よ、すまん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "友達の紹介はまた今度じゃ。"
-                            ]
+                                "Sorry, \\N[10]. I'll introduce you to my friend\nnext time."
+                            ],
+                            "_original": "\\N[10]よ、すまん。\n友達の紹介はまた今度じゃ。"
                         },
                         {
                             "code": 205,
@@ -13336,22 +13127,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私、夏子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっちゃんって呼ばれてる。"
-                            ]
+                                "I'm Natsuko. Everyone calls me Natsuko-chan."
+                            ],
+                            "_original": "私、夏子。\nなっちゃんって呼ばれてる。"
                         },
                         {
                             "code": 205,
@@ -13423,22 +13209,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また来るなら、次は一緒に遊んであげるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存子。"
-                            ]
+                                "If you come back, we can play together next\ntime, Sonoko."
+                            ],
+                            "_original": "また来るなら、次は一緒に遊んであげるよ。\n存子。"
                         },
                         {
                             "code": 205,
@@ -13488,22 +13269,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なっちゃん……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その人は……"
-                            ]
+                                "N-Natsuko-chan… That person is…"
+                            ],
+                            "_original": "な、なっちゃん……\nその人は……"
                         },
                         {
                             "code": 101,
@@ -13513,22 +13289,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かっかっか、余計なことは言わんでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うむ、次が楽しみじゃな！"
-                            ]
+                                "Kahahaha, no need to say anything extra.\nHmm, I'm looking forward to next time!"
+                            ],
+                            "_original": "かっかっか、余計なことは言わんでいい。\nうむ、次が楽しみじゃな！"
                         },
                         {
                             "code": 101,
@@ -13538,22 +13309,17 @@
                                 0,
                                 0,
                                 2,
-                                "夏子"
-                            ]
+                                "Natsuko"
+                            ],
+                            "_original": "夏子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "約束するから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また来てね。"
-                            ]
+                                "I promise. Come back again, okay?"
+                            ],
+                            "_original": "約束するから。\nまた来てね。"
                         },
                         {
                             "code": 213,
@@ -13728,35 +13494,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『それは悪ふざけから』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View scene \"That Was Just a Prank\"? \\C[17]*Any choice\nwill be added to memories.\\C[0]"
+                            ],
+                            "_original": "シーン『それは悪ふざけから』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View it",
+                                    "Don't view it"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -13831,15 +13596,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：みんなのばっちゃん\\C[0]が更新されました。"
-                            ]
+                                "Event \\C[17]Interaction: Everyone's Granny Sonoko\\C[0] has\nbeen updated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：みんなのばっちゃん\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -14016,15 +13783,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉は開かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不在なのだろう。"
-                            ]
+                                "The door won't open. She must be out."
+                            ],
+                            "_original": "扉は開かない。\n不在なのだろう。"
                         },
                         {
                             "code": 0,
@@ -14307,22 +14068,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前さん、その魂……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか、シエか？"
-                            ]
+                                "You there... that soul... could it be\nShie?"
+                            ],
+                            "_original": "お前さん、その魂……\nまさか、シエか？"
                         },
                         {
                             "code": 213,
@@ -14393,22 +14149,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、母のご友人ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すみません──\\!えっ？"
-                            ]
+                                "Oh, a friend of Mother's? Sorry― \\!huh?"
+                            ],
+                            "_original": "あら、母のご友人ですか？\nすみません──\\!えっ？"
                         },
                         {
                             "code": 205,
@@ -14477,15 +14228,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ば、ばっちゃん？"
-                            ]
+                                "G-Grandma?"
+                            ],
+                            "_original": "ば、ばっちゃん？"
                         },
                         {
                             "code": 241,
@@ -14507,22 +14260,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ、ばっちゃんじゃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さんは稚奈か！"
-                            ]
+                                "That's right, it's me! And you must be\nChina!"
+                            ],
+                            "_original": "うむ、ばっちゃんじゃ！\nお前さんは稚奈か！"
                         },
                         {
                             "code": 101,
@@ -14532,22 +14280,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっごい久しぶりだね、びっくりした……"
-                            ]
+                                "Y-Yes! It's been so long, you surprised me..."
+                            ],
+                            "_original": "う、うん！\nすっごい久しぶりだね、びっくりした……"
                         },
                         {
                             "code": 101,
@@ -14557,15 +14300,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……隣の人も、偉い怪異様？"
-                            ]
+                                "...Is the person next to you a great monster\ntoo?"
+                            ],
+                            "_original": "……隣の人も、偉い怪異様？"
                         },
                         {
                             "code": 101,
@@ -14582,22 +14327,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "四魂怪異と同等の存在だと思われているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分は存子の友人で、ただの人間だと説明するとともに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自己紹介を済ませた。"
-                            ]
+                                "They seem to think I'm on the same level as a\nFour-Soul Monster. I explain that I'm just a\nhuman and a friend of Sonoko's, then introduce\nmyself."
+                            ],
+                            "_original": "四魂怪異と同等の存在だと思われているようだ。\n自分は存子の友人で、ただの人間だと説明するとともに\n自己紹介を済ませた。"
                         },
                         {
                             "code": 101,
@@ -14607,22 +14339,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そうなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は稚奈、よろしくね。"
-                            ]
+                                "O-oh, I see. I'm China. Nice to meet you."
+                            ],
+                            "_original": "そ、そうなんだ。\n私は稚奈、よろしくね。"
                         },
                         {
                             "code": 101,
@@ -14632,22 +14359,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "稚奈よ、シエはどうしたんじゃ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "固まっておるが。"
-                            ]
+                                "China, what's wrong with Shie? She's\njust standing there."
+                            ],
+                            "_original": "稚奈よ、シエはどうしたんじゃ？\n固まっておるが。"
                         },
                         {
                             "code": 101,
@@ -14657,15 +14379,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ──"
-                            ]
+                                "Ah―"
+                            ],
+                            "_original": "ああ──"
                         },
                         {
                             "code": 205,
@@ -14706,22 +14430,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お母さん、ほら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばっちゃんが来たよ！"
-                            ]
+                                "Mom, look! Grandma's here!"
+                            ],
+                            "_original": "お母さん、ほら。\nばっちゃんが来たよ！"
                         },
                         {
                             "code": 213,
@@ -14740,15 +14459,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお……"
-                            ]
+                                "Ohh..."
+                            ],
+                            "_original": "おお……"
                         },
                         {
                             "code": 205,
@@ -14862,22 +14583,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……おお。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばっちゃん……"
-                            ]
+                                "...Oh. Grandma..."
+                            ],
+                            "_original": "……おお。\nばっちゃん……"
                         },
                         {
                             "code": 205,
@@ -14918,22 +14634,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シエよ……かっかっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "老け込んだのう。"
-                            ]
+                                "Shie... hahaha. You've really aged,\nhaven't you?"
+                            ],
+                            "_original": "シエよ……かっかっか。\n老け込んだのう。"
                         },
                         {
                             "code": 101,
@@ -14943,29 +14654,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうばっちゃんは若々しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "羨ましいですね。"
-                            ]
+                                "Yeah... and yet you're still so youthful. I'm\njealous."
+                            ],
+                            "_original": "ええ……\nそういうばっちゃんは若々しい。\n羨ましいですね。"
                         },
                         {
                             "code": 101,
@@ -14975,22 +14674,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……急に調子がよくなった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石ばっちゃん。"
-                            ]
+                                "...She perked up all of a sudden. As expected of\nGrandma."
+                            ],
+                            "_original": "……急に調子がよくなった。\n流石ばっちゃん。"
                         },
                         {
                             "code": 101,
@@ -15000,22 +14694,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういう意味じゃ？"
-                            ]
+                                "Hm? What do you mean by that?"
+                            ],
+                            "_original": "ん？\nどういう意味じゃ？"
                         },
                         {
                             "code": 205,
@@ -15056,22 +14745,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お母さん、目と耳が悪くなっちゃって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほとんど見えてないし聞こえてないんだ。"
-                            ]
+                                "Mom's eyes and ears have gotten bad. She can\nbarely see or hear anything anymore."
+                            ],
+                            "_original": "お母さん、目と耳が悪くなっちゃって。\nほとんど見えてないし聞こえてないんだ。"
                         },
                         {
                             "code": 205,
@@ -15112,22 +14796,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この娘は、失礼なことを……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はまだ健在だよ。"
-                            ]
+                                "This child is so rude... I'm still perfectly\nfine, you know."
+                            ],
+                            "_original": "この娘は、失礼なことを……\n私はまだ健在だよ。"
                         },
                         {
                             "code": 205,
@@ -15176,22 +14855,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつもはこんなふうに言い返してこないのに！"
-                            ]
+                                "See?! She never talks back like this normally!"
+                            ],
+                            "_original": "ほら！\nいつもはこんなふうに言い返してこないのに！"
                         },
                         {
                             "code": 101,
@@ -15201,22 +14875,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂のおかげなのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来た甲斐があったわい。"
-                            ]
+                                "So it's thanks to me? Then coming here\nwas worth it!"
+                            ],
+                            "_original": "儂のおかげなのか？\n来た甲斐があったわい。"
                         },
                         {
                             "code": 205,
@@ -15257,22 +14926,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心してください、ばっちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はまだ健康そのもの。"
-                            ]
+                                "Don't worry, Grandma. I'm still in perfect\nhealth."
+                            ],
+                            "_original": "安心してください、ばっちゃん。\n私はまだ健康そのもの。"
                         },
                         {
                             "code": 101,
@@ -15282,22 +14946,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だというのに、稚奈と来たら心配ばかり……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うんざりしているんですよ。"
-                            ]
+                                "And yet China here just keeps worrying about\nme... It's exhausting."
+                            ],
+                            "_original": "だというのに、稚奈と来たら心配ばかり……\nうんざりしているんですよ。"
                         },
                         {
                             "code": 213,
@@ -15347,15 +15006,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのねえ……"
-                            ]
+                                "Ugh..."
+                            ],
+                            "_original": "あのねえ……"
                         },
                         {
                             "code": 101,
@@ -15365,22 +15026,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それほどまでに想われておるんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝せんといかんぞ！"
-                            ]
+                                "She cares about you that much. You\nshould be grateful!"
+                            ],
+                            "_original": "それほどまでに想われておるんじゃ。\n感謝せんといかんぞ！"
                         },
                         {
                             "code": 101,
@@ -15390,15 +15046,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふふ……"
-                            ]
+                                "Hehe..."
+                            ],
+                            "_original": "ふふ……"
                         },
                         {
                             "code": 213,
@@ -15417,22 +15075,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ところで、なっちゃんはおらんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はあの子と遊ぼうかと思ったんじゃが。"
-                            ]
+                                "By the way, is Natsuko around? I was\nhoping to play with her today."
+                            ],
+                            "_original": "ところで、なっちゃんはおらんか？\n今日はあの子と遊ぼうかと思ったんじゃが。"
                         },
                         {
                             "code": 205,
@@ -15473,22 +15126,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばっちゃん、夏子と面識なんて……"
-                            ]
+                                "Huh? Grandma, you know Natsuko?"
+                            ],
+                            "_original": "え？\nばっちゃん、夏子と面識なんて……"
                         },
                         {
                             "code": 205,
@@ -15537,29 +15185,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ああっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかして、あの子が友達になった謎の女の子って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばっちゃんのこと！？"
-                            ]
+                                "...Ahh! Wait, is Grandma the mysterious girl who\nbecame friends with her?"
+                            ],
+                            "_original": "……ああっ！\nもしかして、あの子が友達になった謎の女の子って\nばっちゃんのこと！？"
                         },
                         {
                             "code": 101,
@@ -15569,22 +15205,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うむ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たぶんそうじゃ！"
-                            ]
+                                "That's right! Probably!"
+                            ],
+                            "_original": "うむ！\nたぶんそうじゃ！"
                         },
                         {
                             "code": 101,
@@ -15594,22 +15225,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっか、そういうことか……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子、ばっちゃんに失礼なこと言わなかった？"
-                            ]
+                                "Oh, so that's how it is... Did that girl say\nanything rude to you, Grandma?"
+                            ],
+                            "_original": "そっか、そういうことか……\nあの子、ばっちゃんに失礼なこと言わなかった？"
                         },
                         {
                             "code": 101,
@@ -15619,22 +15245,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何もないぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失礼といえば、稚奈は昔──"
-                            ]
+                                "Not at all. If we're talking about\nrudeness, China, you used to―"
+                            ],
+                            "_original": "何もないぞ。\n失礼といえば、稚奈は昔──"
                         },
                         {
                             "code": 213,
@@ -15653,15 +15274,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ、私の話はいいから……"
-                            ]
+                                "W-Wait, never mind about me..."
+                            ],
+                            "_original": "わ、私の話はいいから……"
                         },
                         {
                             "code": 101,
@@ -15671,22 +15294,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええと、あの子は今は出かけてるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "友達と遊んでるんだ。"
-                            ]
+                                "Uh, she's out right now. Playing with a friend."
+                            ],
+                            "_original": "ええと、あの子は今は出かけてるよ。\n友達と遊んでるんだ。"
                         },
                         {
                             "code": 101,
@@ -15696,22 +15314,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうにも会いたい子に会えんのう。"
-                            ]
+                                "Is that so? Can't seem to meet the one I\nwant to see, eh."
+                            ],
+                            "_original": "そうなのか。\nどうにも会いたい子に会えんのう。"
                         },
                         {
                             "code": 101,
@@ -15721,22 +15334,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まあ、しかし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回は二人に会えてよかった。"
-                            ]
+                                "...Well, no matter. I'm just glad I got\nto see you two today."
+                            ],
+                            "_original": "……まあ、しかし。\n今回は二人に会えてよかった。"
                         },
                         {
                             "code": 205,
@@ -15791,22 +15399,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]よ、言わんでも分かっておるじゃろうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子らが儂の友達じゃ。"
-                            ]
+                                "\\N[10], you already know, but these two are my\nfriends."
+                            ],
+                            "_original": "\\N[10]よ、言わんでも分かっておるじゃろうが\nこの子らが儂の友達じゃ。"
                         },
                         {
                             "code": 101,
@@ -15816,22 +15419,17 @@
                                 0,
                                 0,
                                 2,
-                                "シエ"
-                            ]
+                                "Shie"
+                            ],
+                            "_original": "シエ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや、ばっちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだお盛んなのですね。"
-                            ]
+                                "Oh, Grandma. Still full of energy, I see."
+                            ],
+                            "_original": "おや、ばっちゃん。\nまだまだお盛んなのですね。"
                         },
                         {
                             "code": 205,
@@ -15872,29 +15470,17 @@
                                 0,
                                 0,
                                 2,
-                                "稚奈"
-                            ]
+                                "China"
+                            ],
+                            "_original": "稚奈"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと。何言ってるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんね、なんか機嫌がよくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変になっちゃってるみたい……"
-                            ]
+                                "W-Wait, what are you saying?! Sorry, she's just\nin a really good mood and acting kinda weird..."
+                            ],
+                            "_original": "ちょ、ちょっと。何言ってるの。\nごめんね、なんか機嫌がよくて\n変になっちゃってるみたい……"
                         },
                         {
                             "code": 205,
@@ -15935,22 +15521,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂もそっちはもう枯れとるわい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大体、老いぼれがこんな若々しい男に手を出すなど……"
-                            ]
+                                "I'm dried up on that front myself.\nHonestly, an old hag like me making a\nmove on such a young man..."
+                            ],
+                            "_original": "儂もそっちはもう枯れとるわい。\n大体、老いぼれがこんな若々しい男に手を出すなど……"
                         },
                         {
                             "code": 205,
@@ -15991,22 +15572,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "参るじゃろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "のう、\\N[10]！"
-                            ]
+                                "It's too much, ain't it? Huh, \\N[10]?"
+                            ],
+                            "_original": "参るじゃろ。\nのう、\\N[10]！"
                         },
                         {
                             "code": 213,
@@ -16208,35 +15784,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『あまりにも遠い距離』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View scene \"A Distance Too Far\"? \\C[17]*Either choice\nwill be added to memories.*\\C[0]"
+                            ],
+                            "_original": "シーン『あまりにも遠い距離』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -16311,15 +15886,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【イベント更新】\\C[0]"
-                            ]
+                                "\\C[16]【Event Update】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【イベント更新】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イベントの\\C[17]交流：みんなのばっちゃん\\C[0]が更新されました。"
-                            ]
+                                "Event \\C[17]Interaction: Everyone's Grandma\\C[0] has been\nupdated."
+                            ],
+                            "_original": "イベントの\\C[17]交流：みんなのばっちゃん\\C[0]が更新されました。"
                         },
                         {
                             "code": 250,
@@ -16489,22 +16066,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見て、お母さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "川の向こう側で妖狸たちが遊んでるよ。"
-                            ]
+                                "Look, Mom. The Mystic Tanukis are playing on the\nother side of the river."
+                            ],
+                            "_original": "見て、お母さん。\n川の向こう側で妖狸たちが遊んでるよ。"
                         },
                         {
                             "code": 0,
@@ -16868,22 +16440,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、不在か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうにもここの子らは忙しいようじゃな。"
-                            ]
+                                "Hmm, she's not here. These children are\nalways so busy, aren't they?"
+                            ],
+                            "_original": "ふむ、不在か。\nどうにもここの子らは忙しいようじゃな。"
                         },
                         {
                             "code": 205,
@@ -16932,15 +16499,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばっちゃんと友達の人間！"
-                            ]
+                                "Granny's friend, the human!"
+                            ],
+                            "_original": "ばっちゃんと友達の人間！"
                         },
                         {
                             "code": 205,
@@ -16981,15 +16550,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お？"
-                            ]
+                                "Oh?"
+                            ],
+                            "_original": "お？"
                         },
                         {
                             "code": 204,
@@ -17056,15 +16627,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、ぽん之助！"
-                            ]
+                                "Oh, Ponnosuke!"
+                            ],
+                            "_original": "おお、ぽん之助！"
                         },
                         {
                             "code": 205,
@@ -17181,22 +16754,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "儂らはなっちゃんと遊びに来たんじゃが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに行ったか知らんか？"
-                            ]
+                                "We came to play with Natchan, but do you\nknow where she went?"
+                            ],
+                            "_original": "儂らはなっちゃんと遊びに来たんじゃが、\nどこに行ったか知らんか？"
                         },
                         {
                             "code": 101,
@@ -17206,15 +16774,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なっちゃんたちなら都に行ったぽん。"
-                            ]
+                                "If it's Natchan and the others, they went to the\ncapital, pon!"
+                            ],
+                            "_original": "なっちゃんたちなら都に行ったぽん。"
                         },
                         {
                             "code": 101,
@@ -17224,15 +16794,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんと、都じゃと？"
-                            ]
+                                "What? The capital?"
+                            ],
+                            "_original": "なんと、都じゃと？"
                         },
                         {
                             "code": 101,
@@ -17242,22 +16814,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "僕にはよく分からないけど、悪いやつが消えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安全になったから行けるようになったって聞いたぽん。"
-                            ]
+                                "I don't really get it, but I heard that the bad\nguys disappeared and it became safe, so now you\ncan go there, pon!"
+                            ],
+                            "_original": "僕にはよく分からないけど、悪いやつが消えて\n安全になったから行けるようになったって聞いたぽん。"
                         },
                         {
                             "code": 101,
@@ -17267,22 +16834,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いやつ……は、厭い根のことじゃろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それでも安全とは言い難いが……"
-                            ]
+                                "Bad guys… probably referring to the Root\nof Hatred. Still, I wouldn't call it\nsafe…"
+                            ],
+                            "_original": "悪いやつ……は、厭い根のことじゃろうな。\nしかし、それでも安全とは言い難いが……"
                         },
                         {
                             "code": 101,
@@ -17292,22 +16854,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "強そうな人も一緒だったぽん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近この辺りに見回りに来るんだぽん！"
-                            ]
+                                "There were strong people with them, pon! They've\nbeen patrolling around here lately, pon!"
+                            ],
+                            "_original": "強そうな人も一緒だったぽん！\n最近この辺りに見回りに来るんだぽん！"
                         },
                         {
                             "code": 101,
@@ -17317,29 +16874,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、柴組の隊士か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういえば、最初に来た時は集会がどうと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言っておったな……"
-                            ]
+                                "Hmm, perhaps the Shibagumi squad? Now\nthat I think about it, when they first\ncame, they were talking about some\ngathering…"
+                            ],
+                            "_original": "ふむ、柴組の隊士か？\nそういえば、最初に来た時は集会がどうと\n言っておったな……"
                         },
                         {
                             "code": 101,
@@ -17349,29 +16894,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この辺りを安全にし、都へ行けるようにするなど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話しておったのかもしれん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただの勘じゃが。"
-                            ]
+                                "Maybe they were talking about making\nthis area safe and allowing travel to\nthe capital. Just a hunch, though."
+                            ],
+                            "_original": "この辺りを安全にし、都へ行けるようにするなど\n話しておったのかもしれん。\nただの勘じゃが。"
                         },
                         {
                             "code": 205,
@@ -17420,15 +16953,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よく知らないぽん！"
-                            ]
+                                "I don't know much, pon!"
+                            ],
+                            "_original": "よく知らないぽん！"
                         },
                         {
                             "code": 101,
@@ -17438,22 +16973,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昔は儂も頼られたもんじゃが……かっかっか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何せ動けんかったし、気を遣われたかのう。"
-                            ]
+                                "Back in my day, people used to rely on\nme… Kahahaha. Then again, I couldn't\nmove, so maybe they were just being\nconsiderate."
+                            ],
+                            "_original": "昔は儂も頼られたもんじゃが……かっかっか。\n何せ動けんかったし、気を遣われたかのう。"
                         },
                         {
                             "code": 213,
@@ -17472,29 +17002,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それにしても、都か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今から行っても会えるか分からんし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたもんじゃろな。"
-                            ]
+                                "Still, the capital, huh? If I go now, I\ndon't even know if I'll find them. What\nshould I do…?"
+                            ],
+                            "_original": "それにしても、都か。\n今から行っても会えるか分からんし、\nどうしたもんじゃろな。"
                         },
                         {
                             "code": 101,
@@ -17504,29 +17022,17 @@
                                 0,
                                 0,
                                 2,
-                                "ぽん之助"
-                            ]
+                                "Ponnosuke"
+                            ],
+                            "_original": "ぽん之助"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たぶん、もうすぐ帰ってくるぽん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なっちゃんたちが出発したのは昨日のことで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の日の夕暮れまでに戻るって言ってたぽん！"
-                            ]
+                                "They'll probably be back soon, pon! Natchan and\nthe others left yesterday, and they said they'd\nbe back by dusk the next day, pon!"
+                            ],
+                            "_original": "たぶん、もうすぐ帰ってくるぽん！\nなっちゃんたちが出発したのは昨日のことで、\n次の日の夕暮れまでに戻るって言ってたぽん！"
                         },
                         {
                             "code": 101,
@@ -17536,22 +17042,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっ、そうなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば……よし！"
-                            ]
+                                "Oh, is that so? Then… all right!"
+                            ],
+                            "_original": "おっ、そうなのか。\nならば……よし！"
                         },
                         {
                             "code": 205,
@@ -17592,15 +17093,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せっかくじゃ、先に遊んでおくか！"
-                            ]
+                                "Since we're here, maybe we should play\nfirst!"
+                            ],
+                            "_original": "せっかくじゃ、先に遊んでおくか！"
                         },
                         {
                             "code": 242,
@@ -17712,35 +17215,34 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【シーン発生】\\C[0]"
-                            ]
+                                "\\C[16]【Scene Trigger】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【シーン発生】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーン『好きという言葉』を閲覧しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
-                            ]
+                                "View the scene \"The Word 'Like'\"? \\C[17]*This will be\nadded to your memories regardless of choice.\\C[0]"
+                            ],
+                            "_original": "シーン『好きという言葉』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "閲覧する",
-                                    "閲覧しない"
+                                    "View",
+                                    "Don't view"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "閲覧する",
+                                "閲覧しない"
                             ]
                         },
                         {
@@ -18293,8 +17795,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "素朴な雰囲気の壺だ。"
-                            ]
+                                "It's a simple, rustic jar."
+                            ],
+                            "_original": "素朴な雰囲気の壺だ。"
                         },
                         {
                             "code": 0,
@@ -18431,15 +17934,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桶がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "川の水を汲むのだろうか。"
-                            ]
+                                "There's a bucket. Maybe it's for drawing water\nfrom the river."
+                            ],
+                            "_original": "桶がある。\n川の水を汲むのだろうか。"
                         },
                         {
                             "code": 0,
@@ -18516,22 +18013,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シキノワ風の石像だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その佇まいは、まるでここに住む者を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見守っているかのようだ。"
-                            ]
+                                "This is a stone statue of the Shikino Wind. Its\nstance is as if it's watching over those who\nlive here."
+                            ],
+                            "_original": "シキノワ風の石像だ。\nその佇まいは、まるでここに住む者を\n見守っているかのようだ。"
                         },
                         {
                             "code": 0,
@@ -18608,15 +18092,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シキノワ風の石像が道を塞いでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこか違和感があるが、気にしない方がいいのだろう。"
-                            ]
+                                "A stone statue of the Shikino Wind blocks the\npath. Something feels off about it, but it's\nprobably best to ignore it."
+                            ],
+                            "_original": "シキノワ風の石像が道を塞いでいる。\nどこか違和感があるが、気にしない方がいいのだろう。"
                         },
                         {
                             "code": 0,

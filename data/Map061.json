@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "落命ヶ浜",
+    "displayName": "Rakumeigahama",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -4863,22 +4863,17 @@
                                 0,
                                 0,
                                 2,
-                                "田上"
-                            ]
+                                "Tagami"
+                            ],
+                            "_original": "田上"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君はともしび村の者か？"
-                            ]
+                                "Hm? Are you from Lamplit Village?"
+                            ],
+                            "_original": "ん？\n君はともしび村の者か？"
                         },
                         {
                             "code": 101,
@@ -4888,22 +4883,17 @@
                                 0,
                                 0,
                                 2,
-                                "田上"
-                            ]
+                                "Tagami"
+                            ],
+                            "_original": "田上"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪いが今はここを通せない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しの間だけだから我慢してくれ。"
-                            ]
+                                "Sorry, but I can't let you through right now.\nJust bear with it for a little while."
+                            ],
+                            "_original": "悪いが今はここを通せない。\n少しの間だけだから我慢してくれ。"
                         },
                         {
                             "code": 123,
@@ -4979,29 +4969,17 @@
                                 0,
                                 0,
                                 2,
-                                "田上"
-                            ]
+                                "Tagami"
+                            ],
+                            "_original": "田上"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今はここを通せない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とある隊士を捜索中でね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "発見次第引き上げるから待っててくれ。"
-                            ]
+                                "I can't let you through here right now. We're\nsearching for a certain squad member... we'll\nwithdraw once we find them, so please wait."
+                            ],
+                            "_original": "今はここを通せない。\nとある隊士を捜索中でね……\n発見次第引き上げるから待っててくれ。"
                         },
                         {
                             "code": 0,

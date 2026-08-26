@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "夜寄せ塔",
+    "displayName": "Yoyose Tower",
     "encounterList": [
         {
             "troopId": 24,
@@ -4302,15 +4302,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうだ、これを預けておきましょう。"
-                            ]
+                                "That's right, I'll leave this with you."
+                            ],
+                            "_original": "そうだ、これを預けておきましょう。"
                         },
                         {
                             "code": 121,
@@ -4378,8 +4380,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[3]マナの水瓶\\C[0]を貰った！"
-                            ]
+                                "Received \\C[3]Mana Vial\\C[0]!"
+                            ],
+                            "_original": "\\C[3]マナの水瓶\\C[0]を貰った！"
                         },
                         {
                             "code": 111,
@@ -4405,28 +4408,34 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]マナの水瓶\\C[0]についての説明を確認しますか？"
-                            ]
+                                "Would you like to view the explanation for \\C[3]Mana\nVial\\C[0]?"
+                            ],
+                            "_original": "\\C[3]マナの水瓶\\C[0]についての説明を確認しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "確認する",
-                                    "確認しない"
+                                    "Confirm",
+                                    "Don't confirm"
                                 ],
                                 1,
                                 0,
                                 2,
                                 1
+                            ],
+                            "_original": [
+                                "確認する",
+                                "確認しない"
                             ]
                         },
                         {
@@ -4452,22 +4461,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]マナの水瓶\\C[0]は移動中のみ使用できる回復アイテムです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "使用すると味方全体のHPが50％回復します。"
-                            ]
+                                "The \\C[3]Mana Vial\\C[0] is a recovery item that can only\nbe used while moving. Using it recovers 50% of\nall allies' HP."
+                            ],
+                            "_original": "\\C[3]マナの水瓶\\C[0]は移動中のみ使用できる回復アイテムです。\n使用すると味方全体のHPが50％回復します。"
                         },
                         {
                             "code": 101,
@@ -4484,29 +4488,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]マナの水瓶\\C[0]は使用しても消費しませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "使用回数に制限があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "制限を超過すると使用できなくなります。"
-                            ]
+                                "The \\C[3]Mana Vial\\C[0] is not consumed upon use, but\nthere is a limit on the number of uses. If you\nexceed the limit, you will no longer be able to\nuse it."
+                            ],
+                            "_original": "\\C[3]マナの水瓶\\C[0]は使用しても消費しませんが、\n使用回数に制限があります。\n制限を超過すると使用できなくなります。"
                         },
                         {
                             "code": 101,
@@ -4523,15 +4515,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[3]マナの水瓶\\C[0]の使用回数制限は、転送剣を調べると初期化されます。"
-                            ]
+                                "The usage limit of the \\C[3]Mana Vial\\C[0] is reset when\nyou examine the Transfer Sword."
+                            ],
+                            "_original": "\\C[3]マナの水瓶\\C[0]の使用回数制限は、転送剣を調べると初期化されます。"
                         },
                         {
                             "code": 101,
@@ -4548,22 +4542,17 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "次のショートカットキーを利用できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・\\C[17]Ｖキー：\\C[0]マナの水瓶を使用"
-                            ]
+                                "You can use the following shortcut key. ・\\C[17]V Key:\n\\C[0]Mana Vial use"
+                            ],
+                            "_original": "次のショートカットキーを利用できます。\n・\\C[17]Ｖキー：\\C[0]マナの水瓶を使用"
                         },
                         {
                             "code": 0,
@@ -4606,22 +4595,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これはマナの水瓶か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アルツェットの道具のはずだが、なぜ……"
-                            ]
+                                "Is this a Mana Jar? It should be\nan Arzett tool, so why is it here...?"
+                            ],
+                            "_original": "これはマナの水瓶か？\nアルツェットの道具のはずだが、なぜ……"
                         },
                         {
                             "code": 101,
@@ -4631,15 +4615,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミルエス軍に不可能はないのでしょう。"
-                            ]
+                                "I suppose nothing is impossible for the\nMilles Army."
+                            ],
+                            "_original": "ミルエス軍に不可能はないのでしょう。"
                         },
                         {
                             "code": 101,
@@ -4649,15 +4635,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "流石プリム殿だ！"
-                            ]
+                                "As expected of Prim-sama!"
+                            ],
+                            "_original": "流石プリム殿だ！"
                         },
                         {
                             "code": 101,
@@ -4667,15 +4655,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……適当な返答に単純な反応だ。"
-                            ]
+                                "...Such a simple reaction to a casual\nreply."
+                            ],
+                            "_original": "……適当な返答に単純な反応だ。"
                         },
                         {
                             "code": 123,

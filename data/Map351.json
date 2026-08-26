@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "名無し台地",
+    "displayName": "Nameless Plateau",
     "encounterList": [],
     "encounterStep": 30,
     "height": 27,
@@ -7703,15 +7703,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「旧笹倉町北部"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　名無し台地」"
-                            ]
+                                "\"Nameless Plateau, Northern Old Sasakura Town\""
+                            ],
+                            "_original": "「旧笹倉町北部\n　名無し台地」"
                         },
                         {
                             "code": 0,
@@ -7740,15 +7734,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "立て札の側面だ！"
-                            ]
+                                "It's the side of the signpost!"
+                            ],
+                            "_original": "立て札の側面だ！"
                         },
                         {
                             "code": 0,
@@ -7768,22 +7764,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おい、淡雪！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "奇妙な立て札だ！"
-                            ]
+                                "Hey, Usuyuki! There's a strange signpost\nhere!"
+                            ],
+                            "_original": "おい、淡雪！\n奇妙な立て札だ！"
                         },
                         {
                             "code": 101,
@@ -7793,15 +7784,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そちらは側面です。"
-                            ]
+                                "That is the side."
+                            ],
+                            "_original": "そちらは側面です。"
                         },
                         {
                             "code": 101,
@@ -7811,22 +7804,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おっと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "わっはっは！"
-                            ]
+                                "Oh? Wahahaha!"
+                            ],
+                            "_original": "おっと？\nわっはっは！"
                         },
                         {
                             "code": 123,
@@ -7976,29 +7964,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで怪異を見た、か……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かの間違いだとは思うが、報告があった以上"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無視するわけにもいかない。"
-                            ]
+                                "You saw a youkai here...? I doubt it's\ntrue, but I can't ignore the report now\nthat it's been made."
+                            ],
+                            "_original": "ここで怪異を見た、か……\n何かの間違いだとは思うが、報告があった以上\n無視するわけにもいかない。"
                         },
                         {
                             "code": 101,
@@ -8008,22 +7984,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さっさと終わらせてしまおう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間が惜しい。"
-                            ]
+                                "Let's finish this quickly. I don't have\ntime to waste."
+                            ],
+                            "_original": "さっさと終わらせてしまおう。\n時間が惜しい。"
                         },
                         {
                             "code": 204,
@@ -8360,15 +8331,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
+                                "Hm?"
+                            ],
+                            "_original": "ん？"
                         },
                         {
                             "code": 101,
@@ -8378,8 +8351,9 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
@@ -8554,22 +8528,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお、淡雪。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような場所で何をしておる？"
-                            ]
+                                "Oh, Usuyuki. What are you doing in a place like\nthis?"
+                            ],
+                            "_original": "おお、淡雪。\nこのような場所で何をしておる？"
                         },
                         {
                             "code": 117,
@@ -8602,22 +8571,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはこちらの台詞でしょう……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無玄様、なぜここに？"
-                            ]
+                                "That's my line... Why are you here, Mugen-sama?"
+                            ],
+                            "_original": "それはこちらの台詞でしょう……\n無玄様、なぜここに？"
                         },
                         {
                             "code": 117,
@@ -8650,22 +8614,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この辺りに見慣れぬ怪異が現れたと聞いた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしも危険な輩ならば、討たねば民も怯えよう。"
-                            ]
+                                "I heard an unfamiliar youkai appeared in this\narea. If it's dangerous, I must slay it before\nthe people live in fear."
+                            ],
+                            "_original": "この辺りに見慣れぬ怪異が現れたと聞いた。\nもしも危険な輩ならば、討たねば民も怯えよう。"
                         },
                         {
                             "code": 117,
@@ -8682,15 +8641,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは柴組の役目です。"
-                            ]
+                                "That's the Shibagumi's duty."
+                            ],
+                            "_original": "それは柴組の役目です。"
                         },
                         {
                             "code": 117,
@@ -8723,29 +8684,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相変わらず妙なところにこだわりおるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騒動は早期解決こそが肝要であろう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "志があれば何者が動こうと同じこと。"
-                            ]
+                                "You're still hung up on the strangest things.\nIsn't resolving the disturbance quickly the most\nimportant thing? As long as the will is there,\nit doesn't matter who acts."
+                            ],
+                            "_original": "相変わらず妙なところにこだわりおるわ。\n騒動は早期解決こそが肝要であろう？\n志があれば何者が動こうと同じこと。"
                         },
                         {
                             "code": 117,
@@ -8762,22 +8711,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういう話ではないのですが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まあ、あなたの説得など不可能。"
-                            ]
+                                "That's not the point... Well, I suppose there's\nno convincing you."
+                            ],
+                            "_original": "そういう話ではないのですが……\nまあ、あなたの説得など不可能。"
                         },
                         {
                             "code": 231,
@@ -8803,22 +8747,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お供しましょう、将軍様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたに危険が及ばぬよう。"
-                            ]
+                                "I'll accompany you, General. To ensure you don't\ncome to harm."
+                            ],
+                            "_original": "お供しましょう、将軍様。\nあなたに危険が及ばぬよう。"
                         },
                         {
                             "code": 117,
@@ -8835,22 +8774,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わっはっは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは心強い！"
-                            ]
+                                "Wahahaha! That's reassuring!"
+                            ],
+                            "_original": "わっはっは！\nこれは心強い！"
                         },
                         {
                             "code": 242,
@@ -9015,15 +8949,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では、行くとしよう。"
-                            ]
+                                "Then, let's be off."
+                            ],
+                            "_original": "では、行くとしよう。"
                         },
                         {
                             "code": 101,
@@ -9033,22 +8969,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "普通に歩いてくださいね、無玄様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなたの滅茶苦茶な移動にはついていけませんので。"
-                            ]
+                                "Please just walk normally, Mugen-sama. I\ncan't keep up with your chaotic way of\nmoving."
+                            ],
+                            "_original": "普通に歩いてくださいね、無玄様。\nあなたの滅茶苦茶な移動にはついていけませんので。"
                         },
                         {
                             "code": 101,
@@ -9058,22 +8989,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そなたがか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝言は寝て言え。"
-                            ]
+                                "You? Don't talk in your sleep."
+                            ],
+                            "_original": "そなたがか？\n寝言は寝て言え。"
                         },
                         {
                             "code": 101,
@@ -9083,22 +9009,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そもそも、ここには調査に来たのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっくり見て回らねば。"
-                            ]
+                                "To begin with, I came here to\ninvestigate. I need to look around\nthoroughly."
+                            ],
+                            "_original": "そもそも、ここには調査に来たのです。\nじっくり見て回らねば。"
                         },
                         {
                             "code": 101,
@@ -9108,22 +9029,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ──それもそうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石は淡雪、いちいち正論を吐く！"
-                            ]
+                                "Hmm―you're right. As expected of\nUsuyuki, always spouting the right\nthing!"
+                            ],
+                            "_original": "ふむ──それもそうか。\n流石は淡雪、いちいち正論を吐く！"
                         },
                         {
                             "code": 101,
@@ -9133,15 +9049,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……褒められているのだろうか？"
-                            ]
+                                "...Is that supposed to be a compliment?"
+                            ],
+                            "_original": "……褒められているのだろうか？"
                         },
                         {
                             "code": 221,
@@ -9406,22 +9324,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無玄様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そちらは旧笹倉町へと戻る道です。"
-                            ]
+                                "Mugen-sama. That path leads back to Old\nBamboo Warehouse Town."
+                            ],
+                            "_original": "無玄様。\nそちらは旧笹倉町へと戻る道です。"
                         },
                         {
                             "code": 101,
@@ -9431,22 +9344,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうも道を覚えられぬな……"
-                            ]
+                                "Oh dear. I simply can't seem to remember\nthe way..."
+                            ],
+                            "_original": "おっと。\nどうも道を覚えられぬな……"
                         },
                         {
                             "code": 101,
@@ -9456,15 +9364,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（普通に歩かないからでしょうね）"
-                            ]
+                                "(It's because you don't walk normally,\nisn't it?)"
+                            ],
+                            "_original": "（普通に歩かないからでしょうね）"
                         },
                         {
                             "code": 205,
@@ -9578,22 +9488,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今は先へと進む時だろう。"
-                            ]
+                                "Hmm... Now is the time to move forward."
+                            ],
+                            "_original": "ふむ……\n今は先へと進む時だろう。"
                         },
                         {
                             "code": 205,
@@ -9855,22 +9760,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早くも見えることになろうとは。"
-                            ]
+                                "Hmm. I didn't expect to see it so soon."
+                            ],
+                            "_original": "ふむ。\n早くも見えることになろうとは。"
                         },
                         {
                             "code": 101,
@@ -9880,22 +9780,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……本当に怪異が現れていたのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かの兆しだろうか……？"
-                            ]
+                                "…Was there really a monster here? Could\nit be a sign of something…?"
+                            ],
+                            "_original": "……本当に怪異が現れていたのか。\n何かの兆しだろうか……？"
                         },
                         {
                             "code": 205,
@@ -10018,22 +9913,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そなた、どこから来た？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで何をしておる？"
-                            ]
+                                "You there―where are you from? What are\nyou doing here?"
+                            ],
+                            "_original": "そなた、どこから来た？\nここで何をしておる？"
                         },
                         {
                             "code": 205,
@@ -10125,22 +10015,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言葉が通じぬ手合いか。"
-                            ]
+                                "I see. So you're the type that doesn't\nspeak our language."
+                            ],
+                            "_original": "なるほど。\n言葉が通じぬ手合いか。"
                         },
                         {
                             "code": 101,
@@ -10150,22 +10035,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、その殺気──致し方ない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抵抗させてもらうとしよう。"
-                            ]
+                                "And that murderous intent… Well, I have\nno choice. I'll have to resist."
+                            ],
+                            "_original": "そして、その殺気──致し方ない。\n抵抗させてもらうとしよう。"
                         },
                         {
                             "code": 250,
@@ -10357,15 +10237,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふむ。"
-                            ]
+                                "Hmm."
+                            ],
+                            "_original": "ふむ。"
                         },
                         {
                             "code": 117,
@@ -10452,22 +10334,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オドロか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今のは。"
-                            ]
+                                "A Terror? Was that just now?"
+                            ],
+                            "_original": "オドロか？\n今のは。"
                         },
                         {
                             "code": 117,
@@ -10484,22 +10361,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう見えましたが、通常のものよりも強い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "危険な怪異です。"
-                            ]
+                                "That's what it looked like, but it was stronger\nthan usual. A dangerous monster."
+                            ],
+                            "_original": "そう見えましたが、通常のものよりも強い。\n危険な怪異です。"
                         },
                         {
                             "code": 117,
@@ -10516,15 +10388,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "過去、この辺りに現れた記録は？"
-                            ]
+                                "Have there been any records of it appearing\naround here in the past?"
+                            ],
+                            "_original": "過去、この辺りに現れた記録は？"
                         },
                         {
                             "code": 117,
@@ -10541,29 +10415,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ただのオドロならば旧笹倉町では何度か確認された"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "例がありますが、少なくとも近代にて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この名無し台地では一度も……"
-                            ]
+                                "If it were just a normal Terror, there have been\na few confirmed sightings in Old Bamboo\nWarehouse Town, but at least in modern times,\nnever once on this Nameless Plateau…"
+                            ],
+                            "_original": "ただのオドロならば旧笹倉町では何度か確認された\n例がありますが、少なくとも近代にて\nこの名無し台地では一度も……"
                         },
                         {
                             "code": 101,
@@ -10573,22 +10435,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれは本来人喰い、魂喰いです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆえに生物の多い場所に現れる。"
-                            ]
+                                "They're man-eaters, soul-devourers by nature. So\nthey appear in places teeming with life."
+                            ],
+                            "_original": "あれは本来人喰い、魂喰いです。\nゆえに生物の多い場所に現れる。"
                         },
                         {
                             "code": 117,
@@ -10605,22 +10462,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何もないここに現れるわけがないと言いたいのだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、現実は違うようだぞ。"
-                            ]
+                                "You want to say it's impossible for one to\nappear in a place like this with nothing here.\nBut reality seems to disagree."
+                            ],
+                            "_original": "何もないここに現れるわけがないと言いたいのだな。\nしかし、現実は違うようだぞ。"
                         },
                         {
                             "code": 117,
@@ -10637,22 +10489,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ただ事ではない──異変に他なりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "警戒を。"
-                            ]
+                                "This is no ordinary occurrence―it's an anomaly.\nStay on guard."
+                            ],
+                            "_original": "ただ事ではない──異変に他なりません。\n警戒を。"
                         },
                         {
                             "code": 117,
@@ -10685,15 +10532,17 @@
                                 2,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほら、余が来て正解だったろう？"
-                            ]
+                                "See? I told you it was a good thing I came."
+                            ],
+                            "_original": "ほら、余が来て正解だったろう？"
                         },
                         {
                             "code": 117,
@@ -10726,22 +10575,17 @@
                                 0,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "認めていますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたが本能的に正しい選択をすることは。"
-                            ]
+                                "I'll admit it. You do have a knack for making\nthe right choices instinctively."
+                            ],
+                            "_original": "認めていますよ。\nあなたが本能的に正しい選択をすることは。"
                         },
                         {
                             "code": 221,
@@ -10813,22 +10657,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おっと……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "油断したか？"
-                            ]
+                                "Oh… Did I let my guard down?"
+                            ],
+                            "_original": "おっと……\n油断したか？"
                         },
                         {
                             "code": 101,
@@ -10838,15 +10677,17 @@
                                 3,
                                 0,
                                 2,
-                                "淡雪"
-                            ]
+                                "Usuyuki"
+                            ],
+                            "_original": "淡雪"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "真面目にやってください。"
-                            ]
+                                "Please take this seriously."
+                            ],
+                            "_original": "真面目にやってください。"
                         },
                         {
                             "code": 101,
@@ -10856,22 +10697,17 @@
                                 1,
                                 0,
                                 2,
-                                "無玄"
-                            ]
+                                "Mugen"
+                            ],
+                            "_original": "無玄"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すまぬすまぬ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "次こそは！"
-                            ]
+                                "My apologies, my apologies. Next time\nfor sure!"
+                            ],
+                            "_original": "すまぬすまぬ。\n次こそは！"
                         },
                         {
                             "code": 119,

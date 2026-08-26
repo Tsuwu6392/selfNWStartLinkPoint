@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "聖刻遺跡",
+    "displayName": "Sacred Inscription Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 35,
@@ -8296,29 +8296,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "問おう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "広大な砂漠の真ん中で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は渇きに苦しんでいる。"
-                            ]
+                                "Let me ask you. You're in the middle of\na vast desert, suffering from thirst."
+                            ],
+                            "_original": "問おう。\n広大な砂漠の真ん中で、\nお前は渇きに苦しんでいる。"
                         },
                         {
                             "code": 101,
@@ -8328,22 +8316,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そして、神もまたそこにいて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "同じように苦しんでいる。"
-                            ]
+                                "And God is there too, suffering just the\nsame."
+                            ],
+                            "_original": "そして、神もまたそこにいて、\n同じように苦しんでいる。"
                         },
                         {
                             "code": 101,
@@ -8353,29 +8336,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前の手には水があるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二人で分ければ共に死ぬ程度の量。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一人しか助からない。"
-                            ]
+                                "You have water in your hands, but if you\nshare it, there's only enough for both\nof you to die. Only one can survive."
+                            ],
+                            "_original": "お前の手には水があるが、\n二人で分ければ共に死ぬ程度の量。\n一人しか助からない。"
                         },
                         {
                             "code": 118,
@@ -8392,29 +8363,36 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……さて、お前は水をどうする？"
-                            ]
+                                "...So, what do you do with the water?"
+                            ],
+                            "_original": "……さて、お前は水をどうする？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "飲む",
-                                    "神に捧げる",
-                                    "仲間の意見を聞く"
+                                    "Drink it",
+                                    "Offer it to God",
+                                    "Ask your comrades for their opinion"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "飲む",
+                                "神に捧げる",
+                                "仲間の意見を聞く"
                             ]
                         },
                         {
@@ -8433,22 +8411,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神の命より己の命を優先するのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほど。"
-                            ]
+                                "You prioritize your own life over God's?\nI see."
+                            ],
+                            "_original": "神の命より己の命を優先するのか。\nなるほど。"
                         },
                         {
                             "code": 101,
@@ -8458,22 +8431,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく分かった──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進め。"
-                            ]
+                                "Understood―move on ahead."
+                            ],
+                            "_original": "よく分かった──\n先に進め。"
                         },
                         {
                             "code": 250,
@@ -8547,22 +8515,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "己の命より神の命を優先するのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほど。"
-                            ]
+                                "You prioritize God's life over your own?\nI see."
+                            ],
+                            "_original": "己の命より神の命を優先するのか。\nなるほど。"
                         },
                         {
                             "code": 101,
@@ -8572,22 +8535,17 @@
                                 6,
                                 0,
                                 2,
-                                "アミーラ"
-                            ]
+                                "Amira"
+                            ],
+                            "_original": "アミーラ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく分かった──"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進め。"
-                            ]
+                                "Understood―move on ahead."
+                            ],
+                            "_original": "よく分かった──\n先に進め。"
                         },
                         {
                             "code": 250,
@@ -8650,22 +8608,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "己か神か、という問いですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふむ。"
-                            ]
+                                "A question of self or God, hmm?"
+                            ],
+                            "_original": "己か神か、という問いですか。\nふむ。"
                         },
                         {
                             "code": 101,
@@ -8675,22 +8628,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私は自分で飲みます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生きたいので。"
-                            ]
+                                "I'll drink it myself. I want to live."
+                            ],
+                            "_original": "私は自分で飲みます。\n生きたいので。"
                         },
                         {
                             "code": 101,
@@ -8700,22 +8648,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "とか言いつつ、両方が助かる道を探すんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "プリムちゃんは。"
-                            ]
+                                "Though she'd say that, Prim-chan would\nstill look for a way to save both of us."
+                            ],
+                            "_original": "とか言いつつ、両方が助かる道を探すんじゃ。\nプリムちゃんは。"
                         },
                         {
                             "code": 101,
@@ -8725,15 +8668,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私も両方助けたい！"
-                            ]
+                                "I want to save both too!"
+                            ],
+                            "_original": "私も両方助けたい！"
                         },
                         {
                             "code": 101,
@@ -8743,15 +8688,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "前提を覆すんじゃない。"
-                            ]
+                                "Don't overturn the premise."
+                            ],
+                            "_original": "前提を覆すんじゃない。"
                         },
                         {
                             "code": 101,
@@ -8761,22 +8708,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "神を優先するのが模範的なんだろうねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とはいえ、実際にそんな状況になったら……"
-                            ]
+                                "Prioritizing God is probably the model\nanswer. That said, if I were actually in\nthat situation..."
+                            ],
+                            "_original": "神を優先するのが模範的なんだろうねえ。\nとはいえ、実際にそんな状況になったら……"
                         },
                         {
                             "code": 101,
@@ -8786,22 +8728,17 @@
                                 6,
                                 0,
                                 2,
-                                "夕闇"
-                            ]
+                                "Yuuyami"
+                            ],
+                            "_original": "夕闇"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……ふふんっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "己を捨てられる者がどれだけいるのやら。"
-                            ]
+                                "...Hmph. I wonder how many people could\ntruly abandon themselves."
+                            ],
+                            "_original": "……ふふんっ。\n己を捨てられる者がどれだけいるのやら。"
                         },
                         {
                             "code": 119,

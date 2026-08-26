@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "惑乱密室",
+    "displayName": "Confusion Chamber",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -5750,15 +5750,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉があるが、開かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕掛けで閉じられているようだ。"
-                            ]
+                                "There's a door, but it won't open. It seems to\nbe locked by a mechanism."
+                            ],
+                            "_original": "扉があるが、開かない。\n仕掛けで閉じられているようだ。"
                         },
                         {
                             "code": 0,
@@ -5826,21 +5820,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから脱出できそうだ。"
-                            ]
+                                "I might be able to escape from here."
+                            ],
+                            "_original": "ここから脱出できそうだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "迷う必要はない",
-                                    "ここより素晴らしい場所などない"
+                                    "There's no need to hesitate.",
+                                    "There's no place better than this."
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "迷う必要はない",
+                                "ここより素晴らしい場所などない"
                             ]
                         },
                         {
@@ -5999,8 +5998,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今日からここに住むことにしよう。"
-                            ]
+                                "I think I'll start living here from today."
+                            ],
+                            "_original": "今日からここに住むことにしよう。"
                         },
                         {
                             "code": 221,
@@ -6156,22 +6156,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「これ」が来てから退屈しないねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なかなか壊れない、いい玩具だ♥"
-                            ]
+                                "\"This one\" has been fun since they arrived. Such\na durable toy, doesn't break easily♥"
+                            ],
+                            "_original": "「これ」が来てから退屈しないねえ。\nなかなか壊れない、いい玩具だ♥"
                         },
                         {
                             "code": 101,
@@ -6181,22 +6176,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "言うことはよく聞くし、マナもよく出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わっちたちに使われて嬉しいようだ。"
-                            ]
+                                "They're obedient and give plenty of mana. Seems\nlike they enjoy being used by us."
+                            ],
+                            "_original": "言うことはよく聞くし、マナもよく出す。\nわっちたちに使われて嬉しいようだ。"
                         },
                         {
                             "code": 101,
@@ -6206,22 +6196,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それはまあ、当然さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "雄にとってこれ以上の幸せはないんだ。"
-                            ]
+                                "Well, of course. There's no greater happiness\nfor a male than this."
+                            ],
+                            "_original": "それはまあ、当然さ。\n雄にとってこれ以上の幸せはないんだ。"
                         },
                         {
                             "code": 101,
@@ -6231,22 +6216,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これからもいい子でいるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうしたら使ってあげるから♥"
-                            ]
+                                "Be a good boy from now on, okay? If you are,\nwe'll keep using you♥"
+                            ],
+                            "_original": "これからもいい子でいるんだよ。\nそうしたら使ってあげるから♥"
                         },
                         {
                             "code": 117,
@@ -6296,22 +6276,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほれ、鼻を指の間に沈めな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのまま嗅げ。"
-                            ]
+                                "There, shove your nose between my fingers. Now\nsniff."
+                            ],
+                            "_original": "ほれ、鼻を指の間に沈めな。\nそのまま嗅げ。"
                         },
                         {
                             "code": 117,
@@ -6335,22 +6310,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん、飽きてきたねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "従順すぎるのも考え物か……"
-                            ]
+                                "Hmm, I'm getting bored. Being too obedient is a\nproblem too..."
+                            ],
+                            "_original": "うーん、飽きてきたねえ。\n従順すぎるのも考え物か……"
                         },
                         {
                             "code": 101,
@@ -6360,29 +6330,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……よし、適当に搾り殺すとしよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうだ、嬉しいかえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わっちの中にたっぷり射精できるよ？"
-                            ]
+                                "...Alright, I'll just drain you to death. How's\nthat? Happy? You can cum deep inside me, you\nknow?"
+                            ],
+                            "_original": "……よし、適当に搾り殺すとしよう。\nどうだ、嬉しいかえ？\nわっちの中にたっぷり射精できるよ？"
                         },
                         {
                             "code": 117,
@@ -6399,22 +6357,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "想像だけで漏らしたん。"
-                            ]
+                                "Oh. They came just from imagining it."
+                            ],
+                            "_original": "あ。\n想像だけで漏らしたん。"
                         },
                         {
                             "code": 101,
@@ -6424,22 +6377,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まあ、分かっとったけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "というかわっちの穴に入れさせる気なんてないし……"
-                            ]
+                                "Well, I already knew that. Not like I was ever\ngonna let you put it in me..."
+                            ],
+                            "_original": "まあ、分かっとったけど。\nというかわっちの穴に入れさせる気なんてないし……"
                         },
                         {
                             "code": 117,
@@ -6456,22 +6404,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このまま嗅がせ続けるだけでぬしは死ぬんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あーあ、あっけないあっけない。"
-                            ]
+                                "You'll die just from smelling me like this. Oh\nwell, what a pathetic end."
+                            ],
+                            "_original": "このまま嗅がせ続けるだけでぬしは死ぬんよ。\nあーあ、あっけないあっけない。"
                         },
                         {
                             "code": 117,
@@ -6495,15 +6438,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それじゃあね♥"
-                            ]
+                                "See ya then♥"
+                            ],
+                            "_original": "それじゃあね♥"
                         },
                         {
                             "code": 117,
@@ -6602,22 +6547,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ、おかえりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "惜しかったわね、二部屋目まで行けたのに……"
-                            ]
+                                "Ah, welcome back. Too bad, you almost made it to\nthe second room..."
+                            ],
+                            "_original": "ああ、おかえりなさい。\n惜しかったわね、二部屋目まで行けたのに……"
                         },
                         {
                             "code": 101,
@@ -6627,22 +6567,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、気にする必要はないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男の子だもの。"
-                            ]
+                                "Well, don't worry about it. You're just a boy,\nafter all."
+                            ],
+                            "_original": "ま、気にする必要はないわよ。\n男の子だもの。"
                         },
                         {
                             "code": 0,
@@ -6729,8 +6664,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉が閉じてしまっている。"
-                            ]
+                                "The door is closed."
+                            ],
+                            "_original": "扉が閉じてしまっている。"
                         },
                         {
                             "code": 205,
@@ -6990,8 +6926,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "扉が開く音が聞こえた。"
-                            ]
+                                "The sound of a door opening could be heard."
+                            ],
+                            "_original": "扉が開く音が聞こえた。"
                         },
                         {
                             "code": 0,
@@ -7059,8 +6996,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう動かす必要はないだろう。"
-                            ]
+                                "There's no need to move anymore, is there?"
+                            ],
+                            "_original": "もう動かす必要はないだろう。"
                         },
                         {
                             "code": 0,
@@ -7130,22 +7068,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この仕掛けに用があるのかえ？"
-                            ]
+                                "Hm? Do you need something from this contraption?"
+                            ],
+                            "_original": "ん？\nこの仕掛けに用があるのかえ？"
                         },
                         {
                             "code": 101,
@@ -7155,22 +7088,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも、わっちはどかんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お気に入りの場所なんだ。"
-                            ]
+                                "But I won't move. This is my favorite spot."
+                            ],
+                            "_original": "でも、わっちはどかんよ。\nお気に入りの場所なんだ。"
                         },
                         {
                             "code": 0,
@@ -7231,22 +7159,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "別のところから回り込んで仕掛けを動かすとはねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにここから出たいかい。"
-                            ]
+                                "Hmph. You went around and triggered the\nmechanism from another spot, huh? That desperate\nto get out of here?"
+                            ],
+                            "_original": "別のところから回り込んで仕掛けを動かすとはねえ。\nそんなにここから出たいかい。"
                         },
                         {
                             "code": 0,
@@ -7316,35 +7239,34 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "挑戦者かえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出口ならすぐそこだよ。"
-                            ]
+                                "Oh? A challenger, huh? The exit is right over\nthere."
+                            ],
+                            "_original": "挑戦者かえ。\n出口ならすぐそこだよ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話したい",
-                                    "何もない"
+                                    "I want to talk",
+                                    "Do nothing"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "話したい",
+                                "何もない"
                             ]
                         },
                         {
@@ -7363,35 +7285,34 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何の話をしたい？"
-                            ]
+                                "Hmm? What do you want to talk about?"
+                            ],
+                            "_original": "ほう？\n何の話をしたい？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ここから出たい",
-                                    "美しいですね"
+                                    "I want to leave from here",
+                                    "It's beautiful"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "ここから出たい",
+                                "美しいですね"
                             ]
                         },
                         {
@@ -7410,35 +7331,34 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わっちの助けを借りたいと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうしようかねえ。"
-                            ]
+                                "You want my help? Hmm, what to do..."
+                            ],
+                            "_original": "わっちの助けを借りたいと？\nどうしようかねえ。"
                         },
                         {
                             "code": 102,
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "頭を下げる",
-                                    "思い直す"
+                                    "Bow your head",
+                                    "Have second thoughts"
                                 ],
                                 -1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "頭を下げる",
+                                "思い直す"
                             ]
                         },
                         {
@@ -7457,22 +7377,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふぅん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "しょうがないねえ。"
-                            ]
+                                "Hmph. Fine, I guess."
+                            ],
+                            "_original": "ふぅん。\nしょうがないねえ。"
                         },
                         {
                             "code": 108,
@@ -7656,8 +7571,9 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "夜伽鬼はこちらを押し倒し、顔面に跨った。"
-                            ]
+                                "Yotogi Oni pushed me down and straddled my face."
+                            ],
+                            "_original": "夜伽鬼はこちらを押し倒し、顔面に跨った。"
                         },
                         {
                             "code": 101,
@@ -7667,22 +7583,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それじゃ、便器になりな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ほれ、いくよ♥"
-                            ]
+                                "Then be my toilet. Here we go, ready?♥"
+                            ],
+                            "_original": "それじゃ、便器になりな。\nほれ、いくよ♥"
                         },
                         {
                             "code": 250,
@@ -7718,29 +7629,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "……なんてねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "わっちの糞は「ご褒美」なんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ぬしのようなしょうもないのにはやらん。"
-                            ]
+                                "...Just kidding. My shit is a 'reward.' I\nwouldn't give it to a worthless loser like you."
+                            ],
+                            "_original": "……なんてねえ。\nわっちの糞は「ご褒美」なんだよ。\nぬしのようなしょうもないのにはやらん。"
                         },
                         {
                             "code": 101,
@@ -7750,22 +7649,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "上手におねだりできたら考えてやってもいいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "どうせ──"
-                            ]
+                                "If you beg nicely, I might consider it... but\nthen again―"
+                            ],
+                            "_original": "上手におねだりできたら考えてやってもいいが、\nどうせ──"
                         },
                         {
                             "code": 117,
@@ -7782,22 +7676,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "──ほらねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "肛門に触れただけでこんなもんさ。"
-                            ]
+                                "―see? Just touching your asshole gets you like\nthis."
+                            ],
+                            "_original": "──ほらねえ。\n肛門に触れただけでこんなもんさ。"
                         },
                         {
                             "code": 242,
@@ -7882,22 +7771,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ああ、おかえりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "惜しかったわね、二部屋目まで行けたのに……"
-                            ]
+                                "Ah, welcome back. Too bad, you almost made it to\nthe second room..."
+                            ],
+                            "_original": "ああ、おかえりなさい。\n惜しかったわね、二部屋目まで行けたのに……"
                         },
                         {
                             "code": 101,
@@ -7907,22 +7791,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ま、気にする必要はないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男の子だもの。"
-                            ]
+                                "Well, don't worry about it. You're just a boy,\nafter all."
+                            ],
+                            "_original": "ま、気にする必要はないわよ。\n男の子だもの。"
                         },
                         {
                             "code": 0,
@@ -7945,22 +7824,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そうかい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ならあっちに行きな。"
-                            ]
+                                "Is that so? Then get out of here."
+                            ],
+                            "_original": "そうかい。\nならあっちに行きな。"
                         },
                         {
                             "code": 0,
@@ -7993,22 +7867,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんだい、面白い子だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見惚れんように注意しなよ♥"
-                            ]
+                                "What's this? You're an interesting one. Be\ncareful not to stare too much, okay?♥"
+                            ],
+                            "_original": "なんだい、面白い子だね。\n見惚れんように注意しなよ♥"
                         },
                         {
                             "code": 0,
@@ -8041,15 +7910,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "早く行きな。"
-                            ]
+                                "Hurry up and go."
+                            ],
+                            "_original": "早く行きな。"
                         },
                         {
                             "code": 0,
@@ -8129,22 +8000,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここには仕事で来てるわけだが……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "居心地はまあまあ悪くない。"
-                            ]
+                                "I came here for work... but the place isn't too\nbad, all things considered."
+                            ],
+                            "_original": "ここには仕事で来てるわけだが……\n居心地はまあまあ悪くない。"
                         },
                         {
                             "code": 101,
@@ -8154,22 +8020,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけど、壁の穴がよくないねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝室の……必要なのは分かるけどさ。"
-                            ]
+                                "Still, those holes in the walls are a problem. I\nget why they're in the bedroom... but still."
+                            ],
+                            "_original": "だけど、壁の穴がよくないねえ。\n寝室の……必要なのは分かるけどさ。"
                         },
                         {
                             "code": 0,
@@ -8306,15 +8167,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中には何もない。"
-                            ]
+                                "It's a jar. There's nothing inside."
+                            ],
+                            "_original": "壺だ。\n中には何もない。"
                         },
                         {
                             "code": 0,
@@ -8391,15 +8246,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中に何かあるようだが……"
-                            ]
+                                "It's a jar. There seems to be something\ninside..."
+                            ],
+                            "_original": "壺だ。\n中に何かあるようだが……"
                         },
                         {
                             "code": 0,
@@ -8476,8 +8325,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に張られた紙に何かが書かれている。"
-                            ]
+                                "There's something written on a piece of paper\nstuck to the wall."
+                            ],
+                            "_original": "壁に張られた紙に何かが書かれている。"
                         },
                         {
                             "code": 101,
@@ -8494,22 +8344,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「意味深な物がたくさんあるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここの仕掛け以外、何の意味もないよ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　夜伽鬼より」"
-                            ]
+                                "\"There are a lot of cryptic things here, but\naside from this place's mechanism, none of them\nmean anything. From Yotogi Oni\""
+                            ],
+                            "_original": "「意味深な物がたくさんあるけど\n　ここの仕掛け以外、何の意味もないよ\n　夜伽鬼より」"
                         },
                         {
                             "code": 0,
@@ -8595,15 +8432,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "棚があるが、引き出しが開かない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鍵がかかっているのかもしれない。"
-                            ]
+                                "There's a shelf, but the drawers won't open.\nMaybe they're locked."
+                            ],
+                            "_original": "棚があるが、引き出しが開かない。\n鍵がかかっているのかもしれない。"
                         },
                         {
                             "code": 0,
@@ -8690,15 +8521,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中で何かが光っている……"
-                            ]
+                                "It's a jar. Something inside is glowing..."
+                            ],
+                            "_original": "壺だ。\n中で何かが光っている……"
                         },
                         {
                             "code": 0,
@@ -8775,15 +8600,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "桶だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "僅かに水が溜まっている。"
-                            ]
+                                "It's a bucket. A small amount of water has\ncollected inside."
+                            ],
+                            "_original": "桶だ。\n僅かに水が溜まっている。"
                         },
                         {
                             "code": 0,
@@ -8860,15 +8679,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁に穴が開いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理をすれば通れそうだ。"
-                            ]
+                                "There's a hole in the wall. It looks like you\ncould squeeze through if you force it."
+                            ],
+                            "_original": "壁に穴が開いている。\n無理をすれば通れそうだ。"
                         },
                         {
                             "code": 214,
@@ -8950,15 +8763,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベッドがある……きっと罠だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなところで横になってはならない。"
-                            ]
+                                "There's a bed… It's definitely a trap. I can't\nlie down here."
+                            ],
+                            "_original": "ベッドがある……きっと罠だ。\nこんなところで横になってはならない。"
                         },
                         {
                             "code": 0,
@@ -9035,28 +8842,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "飲み物が並んでいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてもいい香りだ。"
-                            ]
+                                "Drinks are lined up. They smell wonderful."
+                            ],
+                            "_original": "飲み物が並んでいる。\nとてもいい香りだ。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "飲んでみる",
-                                    "立ち去る"
+                                    "Try drinking it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "飲んでみる",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -9156,15 +8961,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……視界が揺れる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "酒か、あるいは夜伽鬼の……"
-                            ]
+                                "...My vision blurs. Is this alcohol... or\nperhaps the Yotogi Oni's..."
+                            ],
+                            "_original": "……視界が揺れる。\n酒か、あるいは夜伽鬼の……"
                         },
                         {
                             "code": 101,
@@ -9181,8 +8980,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くふふ♥"
-                            ]
+                                "Kuhu♥"
+                            ],
+                            "_original": "くふふ♥"
                         },
                         {
                             "code": 222,
@@ -9323,8 +9123,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いつの間にかベッドに寝かされている……"
-                            ]
+                                "At some point, I've been laid down on a bed..."
+                            ],
+                            "_original": "いつの間にかベッドに寝かされている……"
                         },
                         {
                             "code": 101,
@@ -9334,22 +9135,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "せっかく仕掛けを動かしたのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんな罠に引っかかるなんてねえ……"
-                            ]
+                                "Even though I went through the trouble of\nsetting up the trap, to fall for such a simple\none... tsk tsk..."
+                            ],
+                            "_original": "せっかく仕掛けを動かしたのに\nこんな罠に引っかかるなんてねえ……"
                         },
                         {
                             "code": 101,
@@ -9359,22 +9155,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ま、どうせわざとなんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ほれ、酔い覚ましだよ♥"
-                            ]
+                                "Well, I suppose you did it on purpose. Here,\nhave this to sober up♥"
+                            ],
+                            "_original": "ま、どうせわざとなんだろう。\nほれ、酔い覚ましだよ♥"
                         },
                         {
                             "code": 117,
@@ -9398,22 +9189,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わっちのにおいで頭をすっきりさせな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くっふっふ♥"
-                            ]
+                                "How about clearing your head with my scent?\nKufufu♥"
+                            ],
+                            "_original": "わっちのにおいで頭をすっきりさせな？\nくっふっふ♥"
                         },
                         {
                             "code": 117,
@@ -9430,22 +9216,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あーあ、無様無様♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ケツの香りにも勝てないのかえ♥"
-                            ]
+                                "Oh dear, how pathetic♥ Can't even handle the\nscent of my ass♥"
+                            ],
+                            "_original": "あーあ、無様無様♥\nケツの香りにも勝てないのかえ♥"
                         },
                         {
                             "code": 0,
@@ -9580,8 +9361,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いつの間にかベッドに寝かされている……"
-                            ]
+                                "At some point, I've been laid down on a bed..."
+                            ],
+                            "_original": "いつの間にかベッドに寝かされている……"
                         },
                         {
                             "code": 101,
@@ -9591,22 +9373,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "馬鹿だねえ……普通、飲むかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あんな怪しいもの……"
-                            ]
+                                "You're such a fool... would anyone normal drink\nsomething that suspicious?"
+                            ],
+                            "_original": "馬鹿だねえ……普通、飲むかい？\nあんな怪しいもの……"
                         },
                         {
                             "code": 101,
@@ -9616,22 +9393,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ま、どうせわざとなんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ほれ、酔い覚ましだよ♥"
-                            ]
+                                "Well, I suppose you did it on purpose. Here,\nhave this to sober up♥"
+                            ],
+                            "_original": "ま、どうせわざとなんだろう。\nほれ、酔い覚ましだよ♥"
                         },
                         {
                             "code": 250,
@@ -9667,22 +9439,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "幸せだねえ、わっちに踏んでもらえて……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気持ちよかろ？"
-                            ]
+                                "You're so lucky, getting to be stepped on by\nme... feels good, doesn't it?"
+                            ],
+                            "_original": "幸せだねえ、わっちに踏んでもらえて……\n気持ちよかろ？"
                         },
                         {
                             "code": 117,
@@ -9699,22 +9466,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あ、もう漏らしたん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本当に弱いね、雄ってのは。"
-                            ]
+                                "Oh, you already leaked? Men really are so weak."
+                            ],
+                            "_original": "あ、もう漏らしたん？\n本当に弱いね、雄ってのは。"
                         },
                         {
                             "code": 0,
@@ -9809,22 +9571,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ、おかえりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "惜しかったわね、二部屋目まで行けたのに……"
-                            ]
+                                "Ah, welcome back. Too bad, you almost made it to\nthe second room..."
+                            ],
+                            "_original": "ああ、おかえりなさい。\n惜しかったわね、二部屋目まで行けたのに……"
                         },
                         {
                             "code": 101,
@@ -9834,22 +9591,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、気にする必要はないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男の子だもの。"
-                            ]
+                                "Well, no need to worry about it. You're just a\nboy, after all."
+                            ],
+                            "_original": "ま、気にする必要はないわよ。\n男の子だもの。"
                         },
                         {
                             "code": 0,
@@ -9949,28 +9701,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "湯が溜まっており、夜伽鬼たちが足をつけている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足湯というやつだろうか……"
-                            ]
+                                "The bathwater is filled, and the Night Demons\nare soaking their feet. Is this what they call a\nfoot bath...?"
+                            ],
+                            "_original": "湯が溜まっており、夜伽鬼たちが足をつけている。\n足湯というやつだろうか……"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "気になって仕方がない",
-                                    "立ち去る"
+                                    "I can't stop thinking about it",
+                                    "Leave"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "気になって仕方がない",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -9998,22 +9748,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしたん？"
-                            ]
+                                "Hmm? What's wrong?"
+                            ],
+                            "_original": "ん？\nどうしたん？"
                         },
                         {
                             "code": 101,
@@ -10023,22 +9768,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼"
-                            ]
+                                "Yotogi Oni"
+                            ],
+                            "_original": "夜伽鬼"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぬしも体験したいんかえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいよ、入っていき♥"
-                            ]
+                                "You wanna try it too, huh? Sure, come on in♥"
+                            ],
+                            "_original": "ぬしも体験したいんかえ？\nいいよ、入っていき♥"
                         },
                         {
                             "code": 250,
@@ -10243,8 +9983,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "足湯の中に沈められてしまった！"
-                            ]
+                                "You've been submerged in the foot bath!"
+                            ],
+                            "_original": "足湯の中に沈められてしまった！"
                         },
                         {
                             "code": 101,
@@ -10254,22 +9995,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こういうのも悪くないねえ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう思わん？"
-                            ]
+                                "This isn't so bad, right?♥ Don't you think so?"
+                            ],
+                            "_original": "こういうのも悪くないねえ♥\nそう思わん？"
                         },
                         {
                             "code": 250,
@@ -10305,22 +10041,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん、わっちは普通の方が好みかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "きっとすぐに漏らして湯が濁るよ。"
-                            ]
+                                "Hmm, I prefer the normal way. You'd probably\nleak right away and make the water murky."
+                            ],
+                            "_original": "うーん、わっちは普通の方が好みかな。\nきっとすぐに漏らして湯が濁るよ。"
                         },
                         {
                             "code": 101,
@@ -10330,22 +10061,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それはそれさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "マナは身体にいいよ。"
-                            ]
+                                "Still, mana is good for the body."
+                            ],
+                            "_original": "それはそれさ。\nマナは身体にいいよ。"
                         },
                         {
                             "code": 101,
@@ -10355,22 +10081,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "確かにそうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ……"
-                            ]
+                                "Yeah, that's true. So..."
+                            ],
+                            "_original": "確かにそうか。\nじゃあ……"
                         },
                         {
                             "code": 117,
@@ -10387,22 +10108,17 @@
                                 0,
                                 0,
                                 2,
-                                "夜伽鬼たち"
-                            ]
+                                "Night Demons"
+                            ],
+                            "_original": "夜伽鬼たち"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この浴槽を満たしてもらおうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くふふ♥"
-                            ]
+                                "How about you fill up this bathtub for us?\nKufufu♥"
+                            ],
+                            "_original": "この浴槽を満たしてもらおうか？\nくふふ♥"
                         },
                         {
                             "code": 117,
@@ -10501,22 +10217,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ああ、おかえりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "惜しかったわね、二部屋目まで行けたのに……"
-                            ]
+                                "Ah, welcome back. Too bad, you almost made it to\nthe second room..."
+                            ],
+                            "_original": "ああ、おかえりなさい。\n惜しかったわね、二部屋目まで行けたのに……"
                         },
                         {
                             "code": 101,
@@ -10526,22 +10237,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、気にする必要はないわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男の子だもの。"
-                            ]
+                                "Well, no need to worry about it. You're just a\nboy, after all."
+                            ],
+                            "_original": "ま、気にする必要はないわよ。\n男の子だもの。"
                         },
                         {
                             "code": 0,

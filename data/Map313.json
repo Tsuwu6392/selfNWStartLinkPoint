@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "夢幻回廊",
+    "displayName": "Dream Corridor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3231,22 +3231,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夢幻回廊へようこそ、お客様……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これよりあなたは終点を目指して進む必要があるわ。"
-                            ]
+                                "Welcome to the Dream Corridor, Customer… From\nhere on, you must press forward toward the end\npoint."
+                            ],
+                            "_original": "夢幻回廊へようこそ、お客様……\nこれよりあなたは終点を目指して進む必要があるわ。"
                         },
                         {
                             "code": 101,
@@ -3256,22 +3251,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけど、漂う炎に触れてはいけない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変なことになっちゃうわよ、うふふふふ……"
-                            ]
+                                "But you mustn't touch the floating flames.\nSomething terrible will happen, ufufufu…"
+                            ],
+                            "_original": "だけど、漂う炎に触れてはいけない。\n大変なことになっちゃうわよ、うふふふふ……"
                         },
                         {
                             "code": 101,
@@ -3281,31 +3271,40 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さあ、始めましょうか？"
-                            ]
+                                "Shall we begin?"
+                            ],
+                            "_original": "さあ、始めましょうか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "始める",
-                                    "説明を求める",
-                                    "ここについて聞く",
-                                    "りゆう屋に戻る",
-                                    "立ち去る"
+                                    "Begin",
+                                    "Ask for an explanation",
+                                    "Ask about this place",
+                                    "Return to the Reason Shop",
+                                    "Leave"
                                 ],
                                 4,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "始める",
+                                "説明を求める",
+                                "ここについて聞く",
+                                "りゆう屋に戻る",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -3344,22 +3343,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頑張ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うふふ……"
-                            ]
+                                "Do your best. Ufufu…"
+                            ],
+                            "_original": "頑張ってね。\nうふふ……"
                         },
                         {
                             "code": 281,
@@ -3418,22 +3412,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初に言った通りよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは漂う炎に触れないようにしながら進めばいい。"
-                            ]
+                                "As I said at the start… You just need to advance\nwithout touching the floating flames."
+                            ],
+                            "_original": "最初に言った通りよ……\nあなたは漂う炎に触れないようにしながら進めばいい。"
                         },
                         {
                             "code": 101,
@@ -3443,22 +3432,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うまくやれば、夕闇様からご褒美があるわ……たぶん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "詳しいことは分からないけど……"
-                            ]
+                                "If you succeed, Yuuyami-sama might reward you…\nprobably. I don't know the details, though…"
+                            ],
+                            "_original": "うまくやれば、夕闇様からご褒美があるわ……たぶん。\n詳しいことは分からないけど……"
                         },
                         {
                             "code": 101,
@@ -3468,22 +3452,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うまくいかなかったら……うふふふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ……死にはしないわ。"
-                            ]
+                                "If you fail… ufufufu. Well… you won't die, at\nleast."
+                            ],
+                            "_original": "うまくいかなかったら……うふふふふ。\nまあ……死にはしないわ。"
                         },
                         {
                             "code": 0,
@@ -3506,22 +3485,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここは夢幻回廊……夕闇様の無限回廊とは別物よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "名前はよく似てるけどね……"
-                            ]
+                                "This is the Dream Corridor… It's separate from\nYuuyami-sama's Infinite Corridor. The names are\nsimilar, though…"
+                            ],
+                            "_original": "ここは夢幻回廊……夕闇様の無限回廊とは別物よ。\n名前はよく似てるけどね……"
                         },
                         {
                             "code": 101,
@@ -3531,22 +3505,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実はここは幻の中、現実ではないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは夢を見ているような状態ってこと……"
-                            ]
+                                "Actually, this place is an illusion―it's not\nreality. You're in a state like you're dreaming…"
+                            ],
+                            "_original": "実はここは幻の中、現実ではないの。\nあなたは夢を見ているような状態ってこと……"
                         },
                         {
                             "code": 101,
@@ -3556,22 +3525,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "つまり、ここで死ぬことはないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何があってもね……うふふふふ……"
-                            ]
+                                "So, you can't die here. No matter what happens…\nufufufu…"
+                            ],
+                            "_original": "つまり、ここで死ぬことはないのよ。\n何があってもね……うふふふふ……"
                         },
                         {
                             "code": 101,
@@ -3581,22 +3545,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちなみに、夢幻回廊はまだ仮の状態なの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本番よりも簡素な作りだけど勘弁してね。"
-                            ]
+                                "By the way, the Dream Corridor is still in a\ntemporary state… It's simpler than the real\nthing, so please bear with it."
+                            ],
+                            "_original": "ちなみに、夢幻回廊はまだ仮の状態なの……\n本番よりも簡素な作りだけど勘弁してね。"
                         },
                         {
                             "code": 101,
@@ -3606,22 +3565,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……本番は体験できないのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さあ……どうなんでしょうね……"
-                            ]
+                                "…You're wondering if you can experience the real\nthing? Hmm… who can say…"
+                            ],
+                            "_original": "……本番は体験できないのかって？\nさあ……どうなんでしょうね……"
                         },
                         {
                             "code": 0,
@@ -3644,22 +3598,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、挑戦しないのね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念だわ……"
-                            ]
+                                "Oh, you're not going to try? What a shame…"
+                            ],
+                            "_original": "あら、挑戦しないのね……\n残念だわ……"
                         },
                         {
                             "code": 281,
@@ -3794,31 +3743,40 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夢幻回廊への挑戦を始めましょう？"
-                            ]
+                                "Shall we begin the challenge of the Dream\nCorridor?"
+                            ],
+                            "_original": "夢幻回廊への挑戦を始めましょう？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "始める",
-                                    "説明を求める",
-                                    "ここについて聞く",
-                                    "りゆう屋に戻る",
-                                    "立ち去る"
+                                    "Begin",
+                                    "Ask for an explanation",
+                                    "Ask about this place",
+                                    "Return to the Reason Shop",
+                                    "Leave"
                                 ],
                                 4,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "始める",
+                                "説明を求める",
+                                "ここについて聞く",
+                                "りゆう屋に戻る",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -3857,22 +3815,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頑張ってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うふふ……"
-                            ]
+                                "Do your best... Ufufu..."
+                            ],
+                            "_original": "頑張ってね。\nうふふ……"
                         },
                         {
                             "code": 281,
@@ -3931,22 +3884,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最初に言った通りよ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは漂う炎に触れないようにしながら進めばいい。"
-                            ]
+                                "As I said at the start... you just need to\nadvance without touching the floating flames."
+                            ],
+                            "_original": "最初に言った通りよ……\nあなたは漂う炎に触れないようにしながら進めばいい。"
                         },
                         {
                             "code": 101,
@@ -3956,22 +3904,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うまくやれば、夕闇様からご褒美があるわ……たぶん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "詳しいことは分からないけど……"
-                            ]
+                                "If you succeed, Yuuyami-sama might reward you...\nprobably. I don't know the details, though..."
+                            ],
+                            "_original": "うまくやれば、夕闇様からご褒美があるわ……たぶん。\n詳しいことは分からないけど……"
                         },
                         {
                             "code": 101,
@@ -3981,22 +3924,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うまくいかなかったら……うふふふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まあ……死にはしないわ。"
-                            ]
+                                "If you fail... ufufufu. Well... you won't die,\nat least."
+                            ],
+                            "_original": "うまくいかなかったら……うふふふふ。\nまあ……死にはしないわ。"
                         },
                         {
                             "code": 0,
@@ -4019,22 +3957,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここは夢幻回廊……夕闇様の無限回廊とは別物よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "名前はよく似てるけどね……"
-                            ]
+                                "This is the Dream Corridor... it's different\nfrom Yuuyami-sama's Infinite Corridor. The names\nare similar, though..."
+                            ],
+                            "_original": "ここは夢幻回廊……夕闇様の無限回廊とは別物よ。\n名前はよく似てるけどね……"
                         },
                         {
                             "code": 101,
@@ -4044,22 +3977,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実はここは幻の中、現実ではないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは夢を見ているような状態ってこと……"
-                            ]
+                                "Actually, this place is an illusion―it's not\nreality. You're in a state like you're\ndreaming..."
+                            ],
+                            "_original": "実はここは幻の中、現実ではないの。\nあなたは夢を見ているような状態ってこと……"
                         },
                         {
                             "code": 101,
@@ -4069,22 +3997,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "つまり、ここで死ぬことはないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何があってもね……うふふふふ……"
-                            ]
+                                "So, you can't die here. No matter what\nhappens... ufufufu..."
+                            ],
+                            "_original": "つまり、ここで死ぬことはないのよ。\n何があってもね……うふふふふ……"
                         },
                         {
                             "code": 101,
@@ -4094,22 +4017,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちなみに、夢幻回廊はまだ仮の状態なの……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本番よりも簡素な作りだけど勘弁してね。"
-                            ]
+                                "By the way, the Dream Corridor is still in a\nprovisional state... It's simpler than the real\nthing, so please bear with it."
+                            ],
+                            "_original": "ちなみに、夢幻回廊はまだ仮の状態なの……\n本番よりも簡素な作りだけど勘弁してね。"
                         },
                         {
                             "code": 101,
@@ -4119,22 +4037,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "……本番は体験できないのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さあ……どうなんでしょうね……"
-                            ]
+                                "...You're wondering if you can experience the\nreal thing? Hmm... who knows..."
+                            ],
+                            "_original": "……本番は体験できないのかって？\nさあ……どうなんでしょうね……"
                         },
                         {
                             "code": 0,
@@ -4157,22 +4070,17 @@
                                 0,
                                 0,
                                 2,
-                                "藤"
-                            ]
+                                "Fuji"
+                            ],
+                            "_original": "藤"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、挑戦しないのね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念だわ……"
-                            ]
+                                "Oh, you're not going to try? What a shame..."
+                            ],
+                            "_original": "あら、挑戦しないのね……\n残念だわ……"
                         },
                         {
                             "code": 281,
@@ -4319,29 +4227,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あら、来たのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が案内するのは夢幻回廊脱出遊戯第二弾……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その名も\\C[17]惑乱密室\\C[0]！"
-                            ]
+                                "Oh, you're here. I'll be guiding you through the\nsecond installment of the Dreamlike Corridor\nEscape Game... Its name is \\C[17]Confusion Chamber\\C[0]!"
+                            ],
+                            "_original": "あら、来たのね。\n私が案内するのは夢幻回廊脱出遊戯第二弾……\nその名も\\C[17]惑乱密室\\C[0]！"
                         },
                         {
                             "code": 101,
@@ -4351,44 +4247,38 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとなく物騒な名前だと思うかもしれないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに難しいものじゃないわ、うふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さあ、遊んでみる？"
-                            ]
+                                "You might think the name sounds a bit ominous,\nbut it's not that difficult, ufufu. Care to give\nit a try?"
+                            ],
+                            "_original": "なんとなく物騒な名前だと思うかもしれないけど、\nそんなに難しいものじゃないわ、うふふ。\nさあ、遊んでみる？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遊ぶ",
-                                    "説明を求める",
-                                    "りゆう屋に戻る",
-                                    "立ち去る"
+                                    "Play",
+                                    "Ask for an explanation",
+                                    "Return to the Reason Shop",
+                                    "Leave"
                                 ],
                                 3,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "遊ぶ",
+                                "説明を求める",
+                                "りゆう屋に戻る",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -4407,15 +4297,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "案内するわ。"
-                            ]
+                                "I'll guide you."
+                            ],
+                            "_original": "案内するわ。"
                         },
                         {
                             "code": 281,
@@ -4474,29 +4366,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "惑乱密室はとても単純よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは閉ざされた部屋からの脱出を目指せばいいだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのための情報は部屋の中にある……"
-                            ]
+                                "The Confusion Chamber is very simple. All you\nneed to do is escape from the locked room. All\nthe information you need is inside..."
+                            ],
+                            "_original": "惑乱密室はとても単純よ。\nあなたは閉ざされた部屋からの脱出を目指せばいいだけ。\nそのための情報は部屋の中にある……"
                         },
                         {
                             "code": 101,
@@ -4506,29 +4386,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か余計なものに惑わされさえしなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "難しいことなんて一つもないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うふふ。"
-                            ]
+                                "As long as you don't get distracted by anything\nunnecessary, there's nothing difficult about it.\nUfufu."
+                            ],
+                            "_original": "何か余計なものに惑わされさえしなければ、\n難しいことなんて一つもないわ。\nうふふ。"
                         },
                         {
                             "code": 0,
@@ -4551,22 +4419,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "退屈な人ね。"
-                            ]
+                                "Oh, is that so? How boring of you."
+                            ],
+                            "_original": "あら、そう。\n退屈な人ね。"
                         },
                         {
                             "code": 281,
@@ -4693,30 +4556,38 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "惑乱密室で遊んでみる？"
-                            ]
+                                "Want to try the Confusion Chamber?"
+                            ],
+                            "_original": "惑乱密室で遊んでみる？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遊ぶ",
-                                    "説明を求める",
-                                    "りゆう屋に戻る",
-                                    "立ち去る"
+                                    "Play",
+                                    "Ask for an explanation",
+                                    "Return to the Reason Shop",
+                                    "Leave"
                                 ],
                                 3,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "遊ぶ",
+                                "説明を求める",
+                                "りゆう屋に戻る",
+                                "立ち去る"
                             ]
                         },
                         {
@@ -4755,36 +4626,36 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あなたなら二部屋目にも案内できるけど……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうする？"
-                            ]
+                                "If it's you, I can guide you to the second\nroom... What do you say?"
+                            ],
+                            "_original": "あなたなら二部屋目にも案内できるけど……\nどうする？"
                         },
                         {
                             "code": 102,
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "最初から始める",
-                                    "二部屋目から始める",
-                                    "やめる"
+                                    "Start from the beginning",
+                                    "Start from the second room",
+                                    "Quit"
                                 ],
                                 2,
                                 -1,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "最初から始める",
+                                "二部屋目から始める",
+                                "やめる"
                             ]
                         },
                         {
@@ -4803,15 +4674,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "分かったわ。"
-                            ]
+                                "I see."
+                            ],
+                            "_original": "分かったわ。"
                         },
                         {
                             "code": 281,
@@ -4881,15 +4754,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "分かったわ。"
-                            ]
+                                "I see."
+                            ],
+                            "_original": "分かったわ。"
                         },
                         {
                             "code": 281,
@@ -4968,15 +4843,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "案内するわ。"
-                            ]
+                                "I'll guide you."
+                            ],
+                            "_original": "案内するわ。"
                         },
                         {
                             "code": 281,
@@ -5045,29 +4922,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "惑乱密室はとても単純よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたは閉ざされた部屋からの脱出を目指せばいいだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのための情報は部屋の中にある……"
-                            ]
+                                "The Confusion Chamber is very simple. All you\nhave to do is escape from the locked room. All\nthe information you need is inside..."
+                            ],
+                            "_original": "惑乱密室はとても単純よ。\nあなたは閉ざされた部屋からの脱出を目指せばいいだけ。\nそのための情報は部屋の中にある……"
                         },
                         {
                             "code": 101,
@@ -5077,29 +4942,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か余計なものに惑わされさえしなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "難しいことなんて一つもないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うふふ。"
-                            ]
+                                "As long as you don't get distracted by anything\nunnecessary, there's nothing difficult about it.\nHehe."
+                            ],
+                            "_original": "何か余計なものに惑わされさえしなければ、\n難しいことなんて一つもないわ。\nうふふ。"
                         },
                         {
                             "code": 0,
@@ -5122,22 +4975,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あら、そう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "退屈な人ね。"
-                            ]
+                                "Oh, really? How boring."
+                            ],
+                            "_original": "あら、そう。\n退屈な人ね。"
                         },
                         {
                             "code": 281,
@@ -5392,22 +5240,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、おかえりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ええと……"
-                            ]
+                                "Ah, welcome back. Uh..."
+                            ],
+                            "_original": "ああ、おかえりなさい。\nええと……"
                         },
                         {
                             "code": 213,
@@ -5426,22 +5269,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ、普通に出てきちゃったのね……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しみ方を間違ってるんじゃないかしら……"
-                            ]
+                                "Y-You just walked out normally... Don't you know\nhow to have fun in here...?"
+                            ],
+                            "_original": "ふ、普通に出てきちゃったのね……\n楽しみ方を間違ってるんじゃないかしら……"
                         },
                         {
                             "code": 205,
@@ -5490,22 +5328,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当は分かってるんでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "脱出することが目的じゃないのよ、惑乱密室は！"
-                            ]
+                                "You do know the real point of the Confusion\nChamber isn't to escape, right?"
+                            ],
+                            "_original": "本当は分かってるんでしょう？\n脱出することが目的じゃないのよ、惑乱密室は！"
                         },
                         {
                             "code": 205,
@@ -5576,22 +5409,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然、脱出の景品なんてものもないわよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "景品なら中にたくさんあったでしょう！"
-                            ]
+                                "And of course, there's no prize for escaping! If\nyou wanted prizes, there were plenty inside!"
+                            ],
+                            "_original": "当然、脱出の景品なんてものもないわよ！\n景品なら中にたくさんあったでしょう！"
                         },
                         {
                             "code": 101,
@@ -5601,22 +5429,17 @@
                                 0,
                                 0,
                                 2,
-                                "紅"
-                            ]
+                                "Kurenai"
+                            ],
+                            "_original": "紅"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "次こそはちゃんとしてね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕闇様の機嫌を損ねると大変なんだから……"
-                            ]
+                                "Do better next time! You don't want to upset\nYuuyami-sama, after all..."
+                            ],
+                            "_original": "次こそはちゃんとしてね！\n夕闇様の機嫌を損ねると大変なんだから……"
                         },
                         {
                             "code": 221,

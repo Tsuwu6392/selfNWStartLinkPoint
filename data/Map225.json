@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "アプノコンル",
+    "displayName": "Apunokonru",
     "encounterList": [
         {
             "troopId": 129,
@@ -6044,22 +6044,17 @@
                                 0,
                                 0,
                                 2,
-                                "案内のお手伝い"
-                            ]
+                                "Guide Assistant"
+                            ],
+                            "_original": "案内のお手伝い"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いせきのほうにいきたいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら……"
-                            ]
+                                "Do you want to go to the ruins? If so..."
+                            ],
+                            "_original": "いせきのほうにいきたいのか？\nそれなら……"
                         },
                         {
                             "code": 111,
@@ -6449,22 +6444,17 @@
                                 0,
                                 0,
                                 2,
-                                "案内のお手伝い"
-                            ]
+                                "Guide Assistant"
+                            ],
+                            "_original": "案内のお手伝い"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……こっち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おらがむいたほうにすすむのだ！"
-                            ]
+                                "...This way! Head toward the path I've cleared!"
+                            ],
+                            "_original": "……こっち！\nおらがむいたほうにすすむのだ！"
                         },
                         {
                             "code": 0,

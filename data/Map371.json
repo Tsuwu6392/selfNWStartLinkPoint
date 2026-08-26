@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "アルワーフ砂漠",
+    "displayName": "Alwarf Desert",
     "encounterList": [
         {
             "troopId": 327,
@@ -13824,15 +13824,17 @@
                                 0,
                                 0,
                                 2,
-                                "砂イヌ"
-                            ]
+                                "Sand Dog"
+                            ],
+                            "_original": "砂イヌ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワフッ。"
-                            ]
+                                "Woof."
+                            ],
+                            "_original": "ワフッ。"
                         },
                         {
                             "code": 0,
@@ -14690,15 +14692,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「封鎖中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　マイヤの都市遺跡には都から」"
-                            ]
+                                "\"Currently sealed off. The Maya City Ruins are\nunder the capital's\""
+                            ],
+                            "_original": "「封鎖中\n　マイヤの都市遺跡には都から」"
                         },
                         {
                             "code": 0,
@@ -14734,8 +14730,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「こちらは裏側です」"
-                            ]
+                                "\"This is the back side.\""
+                            ],
+                            "_original": "「こちらは裏側です」"
                         },
                         {
                             "code": 0,
@@ -14755,15 +14752,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "一応、側面も調べてみるんだ！"
-                            ]
+                                "Just to be sure, we should check the\nsides too!"
+                            ],
+                            "_original": "一応、側面も調べてみるんだ！"
                         },
                         {
                             "code": 0,
@@ -14972,22 +14971,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは……"
-                            ]
+                                "Woah... This is..."
+                            ],
+                            "_original": "おおっ……\nこれは……"
                         },
                         {
                             "code": 205,
@@ -15096,15 +15090,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私についてきてください、勇士。"
-                            ]
+                                "Please follow me, warrior."
+                            ],
+                            "_original": "私についてきてください、勇士。"
                         },
                         {
                             "code": 101,
@@ -15114,22 +15110,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロイドさん、移動する前に一ついいですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここがどこなのか聞きたいのですが。"
-                            ]
+                                "Lloyd-san, before we move, may I ask\nsomething? I'd like to know where we\nare."
+                            ],
+                            "_original": "ロイドさん、移動する前に一ついいですか？\nここがどこなのか聞きたいのですが。"
                         },
                         {
                             "code": 241,
@@ -15151,29 +15142,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは\\C[17]ラムルアラム\\C[0]……"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アスワド方位の南にあたる\\C[17]アルワーフ砂漠\\C[0]です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上層より漂う魂が特徴となっています。"
-                            ]
+                                "This is \\C[17]Ramul Alam\\C[0]... It's located south of\nAswad in the \\C[17]Alwarf Desert\\C[0]. It's known for the\nsouls that drift here from the upper layers."
+                            ],
+                            "_original": "ここは\\C[17]ラムルアラム\\C[0]……\nアスワド方位の南にあたる\\C[17]アルワーフ砂漠\\C[0]です。\n上層より漂う魂が特徴となっています。"
                         },
                         {
                             "code": 101,
@@ -15183,22 +15162,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魂……ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言われてみれば、確かに……"
-                            ]
+                                "Souls...? Now that you mention it, I do\nsee..."
+                            ],
+                            "_original": "魂……ですか。\n言われてみれば、確かに……"
                         },
                         {
                             "code": 101,
@@ -15208,22 +15182,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやいや、ちょっと待ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここってラムルアラムなんですか？"
-                            ]
+                                "Wait, wait, hold on. This place is Ramul\nAlam?"
+                            ],
+                            "_original": "いやいや、ちょっと待ってください。\nここってラムルアラムなんですか？"
                         },
                         {
                             "code": 101,
@@ -15233,15 +15202,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肯定。"
-                            ]
+                                "Affirmative."
+                            ],
+                            "_original": "肯定。"
                         },
                         {
                             "code": 101,
@@ -15251,22 +15222,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、こんな感じで来ることになるなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "砂漠の秘境だとか聞きますけど……"
-                            ]
+                                "T-This is how we end up here? I've heard\nit's a hidden desert paradise..."
+                            ],
+                            "_original": "こ、こんな感じで来ることになるなんて。\n砂漠の秘境だとか聞きますけど……"
                         },
                         {
                             "code": 101,
@@ -15276,22 +15242,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんじゃその噛みそうな名前の地名は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "有名なのか？"
-                            ]
+                                "What's with that name that sounds like\nit'll bite ya? Is it famous?"
+                            ],
+                            "_original": "なんじゃその噛みそうな名前の地名は。\n有名なのか？"
                         },
                         {
                             "code": 101,
@@ -15301,22 +15262,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラムルアラムは最近、冒険者ギルドに発見された国だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秋水京に領事館があって……"
-                            ]
+                                "Ramul Alam is a country recently\ndiscovered by the Adventurers' Guild.\nThey have a consulate in Shikinowa..."
+                            ],
+                            "_original": "ラムルアラムは最近、冒険者ギルドに発見された国だ。\n秋水京に領事館があって……"
                         },
                         {
                             "code": 101,
@@ -15326,29 +15282,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういえば、あまり気にしていませんでしたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近発見された国の領事館がシキノワにある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "というのは妙では？"
-                            ]
+                                "Now that you mention it, I hadn't\nthought much about it, but isn't it odd\nthat a consulate for a newly discovered\ncountry is in Shikinowa?"
+                            ],
+                            "_original": "そういえば、あまり気にしていませんでしたが、\n最近発見された国の領事館がシキノワにある\nというのは妙では？"
                         },
                         {
                             "code": 101,
@@ -15358,22 +15302,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かつて、シキノワは砂の国と交流があった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カンムイの時代よりも古くのこと……"
-                            ]
+                                "Long ago, Shikinowa had ties with the\nLand of Sand. Even older than the Kamui\nera..."
+                            ],
+                            "_original": "かつて、シキノワは砂の国と交流があった。\nカンムイの時代よりも古くのこと……"
                         },
                         {
                             "code": 101,
@@ -15383,22 +15322,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが如何様な国であるのか誰も知らぬまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし伝承を信じ、交流の証たる建物を守り続けた。"
-                            ]
+                                "No one knew what kind of country it was,\nbut they believed in the legends and\npreserved the buildings as proof of\ntheir exchange."
+                            ],
+                            "_original": "それが如何様な国であるのか誰も知らぬまま、\nしかし伝承を信じ、交流の証たる建物を守り続けた。"
                         },
                         {
                             "code": 101,
@@ -15408,29 +15342,17 @@
                                 2,
                                 0,
                                 2,
-                                "桜悳"
-                            ]
+                                "Sakura Toku"
+                            ],
+                            "_original": "桜悳"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……砂の国の名は、らむるあらむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し前に秋水京にかの国の女王が訪れ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようやく判明したのです。"
-                            ]
+                                "...The name of the Land of Sand is Ramul\nAlam. It was only recently confirmed\nwhen the queen of that country visited\nShikinowa."
+                            ],
+                            "_original": "……砂の国の名は、らむるあらむ。\n少し前に秋水京にかの国の女王が訪れ、\nようやく判明したのです。"
                         },
                         {
                             "code": 101,
@@ -15440,15 +15362,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（ラムルアラムって言いづらそう）"
-                            ]
+                                "(Ramul Alam sounds hard to say...)"
+                            ],
+                            "_original": "（ラムルアラムって言いづらそう）"
                         },
                         {
                             "code": 101,
@@ -15458,22 +15382,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はあ、そういう流れで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロイドさん、間違いありませんか？"
-                            ]
+                                "Ah, so that's how it is. Lloyd-san, are\nyou sure?"
+                            ],
+                            "_original": "はあ、そういう流れで。\nロイドさん、間違いありませんか？"
                         },
                         {
                             "code": 101,
@@ -15483,8 +15402,9 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
@@ -15501,15 +15421,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無視。"
-                            ]
+                                "Ignore that."
+                            ],
+                            "_original": "無視。"
                         },
                         {
                             "code": 101,
@@ -15519,15 +15441,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……まるで杖ちゃんのようです。"
-                            ]
+                                "...You're just like Staff-chan."
+                            ],
+                            "_original": "……まるで杖ちゃんのようです。"
                         },
                         {
                             "code": 101,
@@ -15537,8 +15461,9 @@
                                 4,
                                 0,
                                 2,
-                                "杖"
-                            ]
+                                "Staff"
+                            ],
+                            "_original": "杖"
                         },
                         {
                             "code": 401,
@@ -15555,29 +15480,17 @@
                                 7,
                                 0,
                                 2,
-                                "ダイア"
-                            ]
+                                "Dia"
+                            ],
+                            "_original": "ダイア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シキノワとラムルアラムには深い繋がりがあったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "となると、今回の移動も荒唐無稽とは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言えんのかもしれんな……"
-                            ]
+                                "So Shikinowa and Ramul Alam had deep\nconnections. If that's the case, maybe\nthis sudden move isn't so absurd after\nall..."
+                            ],
+                            "_original": "シキノワとラムルアラムには深い繋がりがあったのか。\nとなると、今回の移動も荒唐無稽とは\n言えんのかもしれんな……"
                         },
                         {
                             "code": 101,
@@ -15587,22 +15500,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だとしても、こんな唐突に私たちを移動させた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理由が分からないぞ。"
-                            ]
+                                "Even so, I don't get why we were moved\nhere so suddenly."
+                            ],
+                            "_original": "だとしても、こんな唐突に私たちを移動させた\n理由が分からないぞ。"
                         },
                         {
                             "code": 101,
@@ -15612,22 +15520,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それこそロイドさんについていけば分かるのでは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロイドさん、都には女王様がいるのですよね？"
-                            ]
+                                "Maybe we'll find out if we follow\nLloyd-san. Lloyd-san, there's a queen in\nthe capital, right?"
+                            ],
+                            "_original": "それこそロイドさんについていけば分かるのでは？\nロイドさん、都には女王様がいるのですよね？"
                         },
                         {
                             "code": 101,
@@ -15637,15 +15540,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肯定。"
-                            ]
+                                "Affirmative."
+                            ],
+                            "_original": "肯定。"
                         },
                         {
                             "code": 101,
@@ -15655,15 +15560,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、今度は無視しない。"
-                            ]
+                                "Oh, this time you're not ignoring me."
+                            ],
+                            "_original": "あ、今度は無視しない。"
                         },
                         {
                             "code": 101,
@@ -15673,22 +15580,17 @@
                                 1,
                                 0,
                                 2,
-                                "プリム"
-                            ]
+                                "Prim"
+                            ],
+                            "_original": "プリム"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やれやれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基準が分かりません。"
-                            ]
+                                "Good grief. I can't tell what your\nstandards are."
+                            ],
+                            "_original": "やれやれ。\n基準が分かりません。"
                         },
                         {
                             "code": 101,
@@ -15698,29 +15600,17 @@
                                 5,
                                 0,
                                 2,
-                                "存子"
-                            ]
+                                "Sonoko"
+                            ],
+                            "_original": "存子"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女王はちょっと前にシキノワに来たんじゃったな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ということは何らかの移動手段もあるじゃろうから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼めば帰してもらえるかもしれんぞ。"
-                            ]
+                                "The queen visited Shikinowa not too long\nago, right? So they must have some way\nto travel. Maybe if we ask, she'll send\nus back."
+                            ],
+                            "_original": "女王はちょっと前にシキノワに来たんじゃったな？\nということは何らかの移動手段もあるじゃろうから、\n頼めば帰してもらえるかもしれんぞ。"
                         },
                         {
                             "code": 101,
@@ -15730,15 +15620,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお！"
-                            ]
+                                "Oh!"
+                            ],
+                            "_original": "おお！"
                         },
                         {
                             "code": 205,
@@ -15833,15 +15725,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "都は北東です、勇士。"
-                            ]
+                                "The capital is to the northeast, warrior."
+                            ],
+                            "_original": "都は北東です、勇士。"
                         },
                         {
                             "code": 205,
@@ -16023,22 +15917,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルワーフ砂漠は広く、迷いやすい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらぬ方向へ進まないことを推奨します。"
-                            ]
+                                "The Alwarf Desert is vast and easy to get lost\nin. I recommend not heading in the wrong\ndirection."
+                            ],
+                            "_original": "アルワーフ砂漠は広く、迷いやすい。\nあらぬ方向へ進まないことを推奨します。"
                         },
                         {
                             "code": 101,
@@ -16048,22 +15937,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロイド"
-                            ]
+                                "Lloyd"
+                            ],
+                            "_original": "ロイド"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理由：古の呪いにより凶暴化した魔物の存在。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "祝福がなければ、勇士といえど命を落とすでしょう。"
-                            ]
+                                "Reason: There are monsters here that have turned\nferal due to an ancient curse. Without Blessing,\neven a warrior like you would lose your life."
+                            ],
+                            "_original": "理由：古の呪いにより凶暴化した魔物の存在。\n祝福がなければ、勇士といえど命を落とすでしょう。"
                         },
                         {
                             "code": 101,
@@ -16073,15 +15957,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "……ええと。"
-                            ]
+                                "...Uh..."
+                            ],
+                            "_original": "……ええと。"
                         },
                         {
                             "code": 101,
@@ -16091,22 +15977,17 @@
                                 3,
                                 0,
                                 2,
-                                "ウーラ"
-                            ]
+                                "Ula"
+                            ],
+                            "_original": "ウーラ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "要するに、この辺りの魔物は強いんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気をつけますよ。"
-                            ]
+                                "So, the monsters around here are strong,\nhuh. I'll be careful."
+                            ],
+                            "_original": "要するに、この辺りの魔物は強いんですね。\n気をつけますよ。"
                         },
                         {
                             "code": 221,
@@ -16172,22 +16053,17 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[16]【チュートリアル】\\C[0]"
-                            ]
+                                "\\C[16]【Tutorial】\\C[0]"
+                            ],
+                            "_original": "\\C[16]【チュートリアル】\\C[0]"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これより戦闘で全滅してしまったときは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "門のブルジュの入口に戻ります。"
-                            ]
+                                "If you are wiped out in battle from this point\nonward, you will return to the entrance of Gate\nBurj."
+                            ],
+                            "_original": "これより戦闘で全滅してしまったときは、\n門のブルジュの入口に戻ります。"
                         },
                         {
                             "code": 0,
@@ -16325,15 +16201,17 @@
                                 0,
                                 0,
                                 2,
-                                "砂メロリン"
-                            ]
+                                "Sand Melorin"
+                            ],
+                            "_original": "砂メロリン"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わおおーっ。"
-                            ]
+                                "Waaah―!"
+                            ],
+                            "_original": "わおおーっ。"
                         },
                         {
                             "code": 0,
@@ -16403,22 +16281,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "篝だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないようだ。"
-                            ]
+                                "It's a bonfire. Looks like it hasn't\nbeen used in a long time."
+                            ],
+                            "_original": "篝だ。\n長らく使われていないようだ。"
                         },
                         {
                             "code": 0,
@@ -16488,22 +16361,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "篝だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないようだ。"
-                            ]
+                                "It's a bonfire. Looks like it hasn't\nbeen used in a long time."
+                            ],
+                            "_original": "篝だ。\n長らく使われていないようだ。"
                         },
                         {
                             "code": 0,
@@ -16573,22 +16441,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "篝だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないようだ。"
-                            ]
+                                "It's a bonfire. Looks like it hasn't\nbeen used in a long time."
+                            ],
+                            "_original": "篝だ。\n長らく使われていないようだ。"
                         },
                         {
                             "code": 0,
@@ -16658,22 +16521,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "篝だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないようだ。"
-                            ]
+                                "It's a bonfire. Looks like it hasn't\nbeen used in a long time."
+                            ],
+                            "_original": "篝だ。\n長らく使われていないようだ。"
                         },
                         {
                             "code": 0,
@@ -16743,22 +16601,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "篝だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないようだ。"
-                            ]
+                                "It's a bonfire. Looks like it hasn't\nbeen used in a long time."
+                            ],
+                            "_original": "篝だ。\n長らく使われていないようだ。"
                         },
                         {
                             "code": 0,
@@ -16828,22 +16681,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "篝だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長らく使われていないようだ。"
-                            ]
+                                "It's a bonfire. Looks like it hasn't\nbeen used in a long time."
+                            ],
+                            "_original": "篝だ。\n長らく使われていないようだ。"
                         },
                         {
                             "code": 0,
@@ -16913,22 +16761,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽の上には砂がかかっていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく使われているのかな？"
-                            ]
+                                "There's no sand on top of the barrel. Is\nit used often?"
+                            ],
+                            "_original": "樽の上には砂がかかっていない。\nよく使われているのかな？"
                         },
                         {
                             "code": 0,
@@ -16998,22 +16841,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "樽の上には砂がかかっていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく使われているのかな？"
-                            ]
+                                "There's no sand on top of the barrel. Is\nit used often?"
+                            ],
+                            "_original": "樽の上には砂がかかっていない。\nよく使われているのかな？"
                         },
                         {
                             "code": 0,

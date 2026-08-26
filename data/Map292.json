@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "蛇の村",
+    "displayName": "Snake Village",
     "encounterList": [
         {
             "troopId": 188,
@@ -12476,22 +12476,17 @@
                                 0,
                                 0,
                                 2,
-                                "ナズナ"
-                            ]
+                                "Nazuna"
+                            ],
+                            "_original": "ナズナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "亡骸だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり古いもののようだ……"
-                            ]
+                                "It's a corpse. Looks quite old..."
+                            ],
+                            "_original": "亡骸だ。\nかなり古いもののようだ……"
                         },
                         {
                             "code": 0,
