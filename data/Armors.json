@@ -2010,7 +2010,7 @@
     {
         "id": 72,
         "atypeId": 2,
-        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Adds weapon skill \"Divine Possession\".",
+        "description": "A sigil to be engraved on a weapon.\n\\C[24]Sigil Effect:\\C[0] Weapon skill 「Divine Possession」 added",
         "etypeId": 2,
         "traits": [
             {
@@ -2025,8 +2025,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "Broken Four Souls Skill Seal",
-        "note": "<NameColor:2>\n<dPlnText:A mark that enhances weapon performance. It holds a special\nability. It is said that marks with exactly the same power\nrepel each other. Thus, you cannot equip the same mark\ntwice.>",
+        "name": "Flawed Shikon Skill Sigil",
+        "note": "<NameColor:2>\n<dPlnText:An engraving that enhances the performance of a weapon.\nIt harbors a special power.\n　\nIt is said that sigils with the exact same power will repel each other.\nTherefore, you cannot equip the same sigil more than once.>",
         "params": [
             0,
             0,
@@ -2046,7 +2046,7 @@
     {
         "id": 73,
         "atypeId": 2,
-        "description": "A seal equipped to a weapon. \\C[24]Seal effect: \\C[0]Increases Max HP by 10% and adds\nweapon skill \"Divine Possession\".",
+        "description": "A sigil to be engraved on a weapon.\n\\C[24]Sigil Effect:\\C[0] Max HP +10%, weapon skill 「Divine Possession」 added",
         "etypeId": 2,
         "traits": [
             {
@@ -2066,8 +2066,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "Four Souls Skill Seal",
-        "note": "<NameColor:2>\n<dPlnText:A mark that enhances weapon performance. It holds a special\nability. It is said that marks with exactly the same power\nrepel each other. Thus, you cannot equip the same mark\ntwice.>",
+        "name": "Shikon Skill Sigil",
+        "note": "<NameColor:2>\n<dPlnText:An engraving that enhances the performance of a weapon.\nIt harbors a special power.\n　\nIt is said that sigils with the exact same power will repel each other.\nTherefore, you cannot equip the same sigil more than once.>",
         "params": [
             0,
             0,
@@ -4312,7 +4312,7 @@
     {
         "id": 152,
         "atypeId": 1,
-        "description": "A haori that houses three of the Four-Soul Weird's souls.",
+        "description": "A haori harboring three of the souls among the Shikon Occurrences.",
         "etypeId": 3,
         "traits": [
             {
@@ -4327,8 +4327,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "Chipped Four Souls Haori",
-        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Aberration. Inherits a fragment of that\npower. All three souls are fiercely assertive, and maintaining harmony\namong them is difficult, but this one miraculously keeps balance. Has the\nfollowing special effects: ・Physical and magic damage taken -8%>",
+        "name": "Flawed Shikon Haori",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the souls of Shikon Occurrences\nInherits a glimpse of their power\n　\nAll three souls are fiercely assertive,\nmaking it difficult for them to maintain harmony as one,\nbut this one is miraculously balanced\n　\nPossesses the following special effects:\n・Physical and magic damage taken reduced by 8%>",
         "params": [
             0,
             0,
@@ -4348,7 +4348,7 @@
     {
         "id": 153,
         "atypeId": 1,
-        "description": "A haori that houses the Four-Soul Weird's soul.",
+        "description": "A haori harboring the souls of the Shikon Occurrences.",
         "etypeId": 3,
         "traits": [
             {
@@ -4363,8 +4363,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "Four Souls Haori",
-        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of a Four-Soul Aberration. Inherits a fragment of that\npower. The four souls are all fiercely assertive, yet they still maintain\nharmony. After all, they are family. Has the following special effects:\n・Physical and magic damage taken -15%>",
+        "name": "Shikon Haori",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the souls of Shikon Occurrences\nInherits a glimpse of their power\n　\nWhile all four souls are fiercely assertive,\nthey nevertheless maintain harmony.\nAfter all, they are all family.\n　\nPossesses the following special effects:\n・Physical and magic damage taken reduced by 15%>",
         "params": [
             0,
             0,
@@ -7730,12 +7730,12 @@
     {
         "id": 260,
         "atypeId": 1,
-        "description": "One that houses three of the souls of the Four-Soul Aberration.",
+        "description": "An object harboring three of the souls from the Shikon Occurrences.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 319,
-        "name": "Soul Rope of the Flawed Four Souls",
-        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nthat power. The three souls argue about the strength of their own ultimate\narts, and it seems they have gotten into a fight. No conclusion is reached,\nand no skill is gained, but instead, it greatly enhances your vitality.>",
+        "name": "Flawed Shikon Soul-Cord",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the souls of Shikon Occurrences\nInherits a glimpse of their power\n　\nThe three souls are each asserting the superiority of their own secret techniques,\nand because of that, they seem to be in a constant quarrel\n　\nAs no conclusion is reached, no skills can be obtained,\nbut it greatly increases vitality in exchange>",
         "params": [
             1000,
             0,
@@ -7755,12 +7755,12 @@
     {
         "id": 261,
         "atypeId": 1,
-        "description": "One that houses the soul of the Four-Soul Aberration.",
+        "description": "An object harboring the souls of the Shikon Occurrences.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 319,
-        "name": "Soul Rope of the Four Souls",
-        "note": "<NameColor:2>\n<dPlnText:Woven from the soul of the Four-Soul Aberration. It inherits a fragment of\nthat power. The four souls argue about the strength of their own ultimate\narts, and it seems they have gotten into a fight. No conclusion is reached,\nand no skill is gained, but instead, it greatly enhances your vitality.>",
+        "name": "Shikon Soul-Cord",
+        "note": "<NameColor:2>\n<dPlnText:Woven from the souls of Shikon Occurrences\nInherits a glimpse of their power\n　\nThe four souls are each asserting the strength of their own secret techniques,\nand they seem to have ended up in a constant quarrel\n　\nBecause no conclusion is reached, no skills are obtained,\nbut it greatly increases vitality in exchange>",
         "params": [
             2500,
             0,
