@@ -143,8 +143,8 @@ skillTreeTypes: [
     {
         actorId: 5,
         types: [
-            ["杖１", "鎖影衆忍術", "忍びの技術により戦闘を有利に進めます。"],
-            ["杖２", "夜陰の蛇", "蛇の毒と冷気は敵対者を蝕みます。"],
+            ["杖１", "Saeishuu Ninjutsu", "Use shinobi techniques to gain an advantage in combat."],
+            ["杖２", "Serpent of the Night's Shade", "The serpent's poison and cold afflict those who oppose."],
         ]
     },
 
