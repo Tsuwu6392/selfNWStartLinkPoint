@@ -9450,7 +9450,7 @@
         {
             "id": 6,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9718,7 +9718,7 @@
         {
             "id": 7,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10025,7 +10025,7 @@
         {
             "id": 12,
             "name": "接触イベント",
-            "note": "<HM拡大領域:2,0,0,2>",
+            "note": "<HM拡大領域:2,0,0,2><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12356,7 +12356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We've received a report of a Itoine sighting\nat \\C[17]Ryuuzenzan Shouhouji\\C[0]. I would like to\nrequest an investigation and, depending on\nthe situation, its extermination."
+                                "We've received a report of a Itoi-ne sighting\nat \\C[17]Ryuuzenzan Shouhouji\\C[0]. I would like to\nrequest an investigation and, depending on\nthe situation, its extermination."
                             ],
                             "_original": "\\C[17]滝然山星宝寺（りゅうぜんざんしょうほうじ）\\C[0]にて\n厭い根の目撃情報が入った。それの調査、\n場合によっては厭い根の討伐を依頼したい。"
                         },
@@ -12463,7 +12463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If it's about exterminating Itoine, I'll\ngladly take the job. I can't just… leave it be."
+                                "If it's about exterminating Itoi-ne, I'll\ngladly take the job. I can't just… leave it be."
                             ],
                             "_original": "厭い根の討伐なら喜んで引き受けるぞ。\n私はあれを……放っておけない。"
                         },
@@ -15016,7 +15016,7 @@
         {
             "id": 26,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -15115,7 +15115,7 @@
         {
             "id": 27,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -15332,7 +15332,7 @@
         {
             "id": 29,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {

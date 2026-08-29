@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "Drum Village",
+    "displayName": "Ponpoko Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3188,7 +3188,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3481,7 +3481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ahh!"
+                                "Shelf!"
                             ],
                             "_original": "たな！"
                         },
@@ -3649,7 +3649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's a Jizo statue!"
+                                "It's a Jizo-sama!"
                             ],
                             "_original": "お地蔵様だ！"
                         },
@@ -3669,7 +3669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This one is pretty obvious... It's a\ntransformed Mystic Tanuki, right?"
+                                "This one is a bit too obvious, don't you think?\nIt's a transformed Youri, isn't it?"
                             ],
                             "_original": "これは流石に分かりやすいですね……\n変身した妖狸でしょう？"
                         },
@@ -3774,7 +3774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Nnuu. Ponmiya's disguise was perfect... How did\nyou see through it, pon?"
+                                "Nuuu.\nPonmiya's disguise should've been perfect-pon...\nHow did you find me out-pon?"
                             ],
                             "_original": "ぬう。\n宮の変装は完璧だったはずぽん……\nどうしてばれたぽん？"
                         },
@@ -3794,7 +3794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I had no idea at all!"
+                                "Nazuna had no idea!"
                             ],
                             "_original": "全く分からなかったぞ！"
                         },
@@ -3834,7 +3834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They say you're good people, but Ponmiya is\nstill wary, pon. Grandma said you can't let your\nguard down around someone who can see through\nyour transformations so easily, pon!"
+                                "You guys might seem like good people, but Ponmiya stays on guard-pon.\nBatchan says you can't be too careful around people\nwho see through transformations so easily-pon!"
                             ],
                             "_original": "おまえたちはいい人だそうだけど、宮は警戒するぽん。\n簡単に変化を見抜く奴は油断できないって\nばっちゃんも言ってたぽん！"
                         },
@@ -3854,7 +3854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That is no mistake. For a Mystic Tanuki,\nsomeone who cannot be deceived is a\npotential natural enemy."
+                                "That is quite correct.\nTo a Youri, an opponent who cannot be bewitched\ncould well be a natural enemy."
                             ],
                             "_original": "間違ってはおりませぬ。\n妖狸にとって、化かせぬ相手は天敵になり得る。"
                         },
@@ -3874,7 +3874,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yours is a problem that comes before\nthat, though."
+                                "Yours was a bit of a special case, though."
                             ],
                             "_original": "あなたのはそれ以前の問題なのですが。"
                         },
@@ -3894,7 +3894,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's why Ponmiya is running away, pon! Don't\nchase me, pon! It's absolutely not okay for you\nto see through my transformations again, pon!"
+                                "That's why Ponmiya is running away-pon!\nDon't follow me-pon!\nSeeing through my transformation again is\nabsolutely out of the question-pon!"
                             ],
                             "_original": "だから宮は逃げるぽん！\n追いかけてこないでぽん！\nまた変化を見破るなんてもってのほかぽん！"
                         },
@@ -3973,7 +3973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "She's gone."
+                                "She went away."
                             ],
                             "_original": "行ってしまった。"
                         },
@@ -3993,7 +3993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I feel like she said she wanted us to\nchase her and find her..."
+                                "I got the feeling she was basically\nsaying she wants us to chase and find her."
                             ],
                             "_original": "追いかけて見つけてほしいって言ってたような\n気がするんですけど。"
                         },
@@ -4013,7 +4013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That is how I heard it as well."
+                                "It sounded the same to this humble monk."
                             ],
                             "_original": "拙僧にもそう聞こえました。"
                         },
@@ -4033,7 +4033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What do you think, local?"
+                                "What do you think, as a local?"
                             ],
                             "_original": "現地人的にはどう思います？"
                         },
@@ -4053,7 +4053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Ponmiya likes hide-and-seek."
+                                "...Ponmiya likes playing hide-and-seek."
                             ],
                             "_original": "……ぽん宮は隠れん坊が好きだ。"
                         },
@@ -4073,7 +4073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Should I hide too?"
+                                "Should Nazuna hide too?"
                             ],
                             "_original": "私も隠れればいいのか？"
                         },
@@ -4113,7 +4113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Don't just answer randomly like that.\nCome on, let's go find her."
+                                "Hey, don't just give a half-hearted answer like that.\nCome on, let's go find her."
                             ],
                             "_original": "適当に返事しないでくださいよ。\nさあ、見つけてあげましょ。"
                         },
@@ -4169,7 +4169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The event \\C[17]Ponmiya's Tanuki Exchange, Ponmiya's\nScroll\\C[0] has been updated."
+                                "The event\n\\C[17]Ponpoko Exchange: Miya Chapter\\C[0]\nhas been updated."
                             ],
                             "_original": "イベントの\\C[17]ぽんぽこ交流、宮の巻\\C[0]が更新されました。"
                         },
@@ -4199,7 +4199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's a Jizo statue!"
+                                "It's a Jizo-sama!"
                             ],
                             "_original": "お地蔵様だ！"
                         },
@@ -4219,7 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Moss this overgrown indoors?\nSuspicious..."
+                                "Something so moss-covered, and indoors?\nSuspicious..."
                             ],
                             "_original": "屋内に、こんなに苔むしたものが？\n怪しい……"
                         },
@@ -4522,7 +4522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If I turn into alcohol, I can trick that drunk\nold hag, pon. It's Ponmiya's secret technique,\npon!"
+                                "If I transform into sake, I can trick a drunk Batchan-pon.\nIt's Ponmiya's secret technique-pon!"
                             ],
                             "_original": "お酒に変化すると、酔ったばっちゃんを騙せるぽん。\n宮の裏技だぽん！"
                         },
@@ -4559,7 +4559,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4602,7 +4602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ahh!"
+                                "Shelf!"
                             ],
                             "_original": "たな！"
                         },
@@ -4639,7 +4639,7 @@
         {
             "id": 7,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4682,7 +4682,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm drenched in alcohol... I'm starting\nto feel a little woozy..."
+                                "It's full of sake.\nNazuna's starting to feel a bit lightheaded..."
                             ],
                             "_original": "お酒だらけだ。\nなんだかふらふらしてきた……"
                         },
@@ -4719,7 +4719,7 @@
         {
             "id": 8,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4762,7 +4762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm drenched in alcohol... I'm starting\nto feel a little woozy..."
+                                "It's full of sake.\nNazuna's starting to feel a bit lightheaded..."
                             ],
                             "_original": "お酒だらけだ。\nなんだかふらふらしてきた……"
                         },
@@ -4799,7 +4799,7 @@
         {
             "id": 9,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4842,7 +4842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm drenched in alcohol... I'm starting\nto feel a little woozy..."
+                                "It's full of sake.\nNazuna's starting to feel a bit lightheaded..."
                             ],
                             "_original": "お酒だらけだ。\nなんだかふらふらしてきた……"
                         },
@@ -4879,7 +4879,7 @@
         {
             "id": 10,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4922,7 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm drenched in alcohol... I'm starting\nto feel a little woozy..."
+                                "It's full of sake.\nNazuna's starting to feel a bit lightheaded..."
                             ],
                             "_original": "お酒だらけだ。\nなんだかふらふらしてきた……"
                         },
@@ -4959,7 +4959,7 @@
         {
             "id": 11,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5002,7 +5002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm drenched in alcohol... I'm starting\nto feel a little woozy..."
+                                "It's full of sake.\nNazuna's starting to feel a bit lightheaded..."
                             ],
                             "_original": "お酒だらけだ。\nなんだかふらふらしてきた……"
                         },

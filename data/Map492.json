@@ -14585,7 +14585,7 @@
         {
             "id": 7,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -16673,7 +16673,7 @@
         {
             "id": 9,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -17083,7 +17083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It just means Tadashi can move around\nmore freely on his own, right?"
+                                "It just means Nao can move around\nmore freely on his own, right?"
                             ],
                             "_original": "直が単独で動きやすくなったくらいですかね。"
                         },
@@ -17095,7 +17095,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -17363,7 +17363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Tadashi. Could you go with them as\nwell?"
+                                "…Nao. Could you go with them as\nwell?"
                             ],
                             "_original": "……六巻隊士。\n君も向こうについてもらえるかい？"
                         },
@@ -17375,7 +17375,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -17495,7 +17495,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -19195,7 +19195,7 @@
         {
             "id": 21,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -19286,7 +19286,7 @@
         {
             "id": 22,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -19377,7 +19377,7 @@
         {
             "id": 23,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -19468,7 +19468,7 @@
         {
             "id": 24,
             "name": "調べる",
-            "note": "<HM拡大領域:0,0.5,3.5,0.5>",
+            "note": "<HM拡大領域:0,0.5,3.5,0.5><poi>",
             "pages": [
                 {
                     "conditions": {

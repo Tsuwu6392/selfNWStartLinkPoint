@@ -8924,7 +8924,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Changes \\C[24]Mystic Aura III\\C[0] to \\C[24]Mystic Tanuki Transformation\\C[0] for 6 turns. Reverts to\n\\C[24]Mystic Aura III\\C[0] when dispelled. \\C[24]Mystic Tanuki Transformation:\\C[0] Increases Magic\nAttack by 50% and reduces SP consumption by 80%.",
+        "description": "Changes \\C[24]Mystic Aura III\\C[0] to \\C[24]Youri Transformation\\C[0] for 6 turns. Reverts to\n\\C[24]Mystic Aura III\\C[0] when dispelled. \\C[24]Youri Transformation:\\C[0] Increases Magic\nAttack by 50% and reduces SP consumption by 80%.",
         "effects": [
             {
                 "code": 22,
@@ -8938,7 +8938,7 @@
         "message1": "%1's %2!",
         "message2": "",
         "mpCost": 80,
-        "name": "Mystic Tanuki Transformation",
+        "name": "Youri Transformation",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -9199,7 +9199,7 @@
         "message1": "%1 unleashed %2!",
         "message2": "",
         "mpCost": 12,
-        "name": "Mystic Tanuki Ball",
+        "name": "Youri Ball",
         "note": "<ステート追加: 145>",
         "occasion": 1,
         "repeats": 1,
@@ -12620,7 +12620,7 @@
         "message1": "%1 attacks!",
         "message2": "",
         "mpCost": 0,
-        "name": "Mystic Tanuki's Feast",
+        "name": "Youri's Feast",
         "note": "<ステート追加: 200>\n<passiveWeapon:315>",
         "occasion": 1,
         "repeats": 1,
@@ -25218,7 +25218,7 @@
         "message1": "%1 casts %2!",
         "message2": "",
         "mpCost": 0,
-        "name": "Mystic Tanuki Spirit Training",
+        "name": "Youri Spirit Training",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -36169,7 +36169,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Tadashi's Support",
+        "description": "Nao's Support",
         "effects": [],
         "hitType": 0,
         "iconIndex": 76,

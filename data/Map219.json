@@ -9158,7 +9158,7 @@
         {
             "id": 3,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10081,7 +10081,7 @@
         {
             "id": 5,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10172,7 +10172,7 @@
         {
             "id": 6,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12039,7 +12039,7 @@
         {
             "id": 14,
             "name": "調べる",
-            "note": "<HM拡大領域:0.5,0.5,1.5,0.5>",
+            "note": "<HM拡大領域:0.5,0.5,1.5,0.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12119,7 +12119,7 @@
         {
             "id": 15,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12199,7 +12199,7 @@
         {
             "id": 16,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12318,7 +12318,7 @@
         {
             "id": 17,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12870,7 +12870,7 @@
         {
             "id": 21,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12950,7 +12950,7 @@
         {
             "id": 22,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -13578,7 +13578,7 @@
         {
             "id": 24,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -13658,7 +13658,7 @@
         {
             "id": 25,
             "name": "立て札",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -14185,7 +14185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Unless he's the type like Nazuna-san or\nTadashi-san."
+                                "Unless he's the type like Nazuna-san or\nNao-san."
                             ],
                             "_original": "ナズナさんとか直さん系の人だと\nそうとも言えませんが。"
                         },

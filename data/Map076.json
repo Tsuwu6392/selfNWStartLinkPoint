@@ -9433,7 +9433,7 @@
         {
             "id": 4,
             "name": "邪魔",
-            "note": "<HM拡大領域:0,0.5,0.5,0.5>",
+            "note": "<HM拡大領域:0,0.5,0.5,0.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9544,7 +9544,7 @@
         {
             "id": 5,
             "name": "邪魔",
-            "note": "<HM拡大領域:0,0.5,0.5,0.5>",
+            "note": "<HM拡大領域:0,0.5,0.5,0.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9655,7 +9655,7 @@
         {
             "id": 6,
             "name": "邪魔",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9715,7 +9715,7 @@
         {
             "id": 7,
             "name": "邪魔",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9775,7 +9775,7 @@
         {
             "id": 8,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9978,7 +9978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To put it simply, they were sensible.\nThe soldier's death will be reported to his\nfamily and superiors, and they'll be strengthening\ntheir countermeasures against Itoines at the same time."
+                                "To put it simply, they were sensible.\nThe soldier's death will be reported to his\nfamily and superiors, and they'll be strengthening\ntheir countermeasures against Itoi-nes at the same time."
                             ],
                             "_original": "一言で言えば「まとも」だった。\n隊士の死は親族や上部に伝えられ、\n同時に厭い根への対策を強化するという。"
                         },
@@ -10034,7 +10034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I also made sure to mention that Itoine\nisn't the cause of Husk Disease."
+                                "I also made sure to mention that Itoi-ne\nisn't the cause of Husk Disease."
                             ],
                             "_original": "ついでに厭い根は抜け殻病の原因ではないことも\n伝えておいた。"
                         },
@@ -10359,7 +10359,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's also the possibility that she encountered\nItoine, too."
+                                "There's also the possibility that she encountered\nItoi-ne, too."
                             ],
                             "_original": "厭い根に遭遇した可能性もありますよね。"
                         },
@@ -10462,7 +10462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For what it's worth... I haven't heard of Itoine\nappearing anywhere else recently besides this area."
+                                "For what it's worth... I haven't heard of Itoi-ne\nappearing anywhere else recently besides this area."
                             ],
                             "_original": "一応……ここ最近、この辺り以外で厭い根が\n現れたという話は聞いておりませぬ。"
                         },
@@ -10693,7 +10693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...That's right, let's go back to the shrine! We\nmust inform Ten-dono about Itoine as\nwell!"
+                                "...That's right, let's go back to the shrine! We\nmust inform Ten-dono about Itoi-ne as\nwell!"
                             ],
                             "_original": "……そうだ、神社に戻ろう！\nテン殿にも厭い根のことを伝えておかないと！"
                         },
@@ -10842,7 +10842,7 @@
         {
             "id": 9,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {

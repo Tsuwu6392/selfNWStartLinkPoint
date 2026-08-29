@@ -3544,7 +3544,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3635,7 +3635,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3726,7 +3726,7 @@
         {
             "id": 4,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4306,7 +4306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nue──a name I heard from Ten as well.\nOne of the pillars protecting Shikinowa,\nthe natural enemy of the Itoine."
+                                "Nue──a name I heard from Ten as well.\nOne of the pillars protecting Shikinowa,\nthe natural enemy of the Itoi-ne."
                             ],
                             "_original": "鵺──テンからも聞いた名だな。\n厭い根の天敵、シキノワを守るものの一角か。"
                         },
@@ -4495,7 +4495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Something like that…… something like that,\nI can't forgive.\nWe have to stop the monk's actions too,\nnot just the Itoine!"
+                                "Something like that…… something like that,\nI can't forgive.\nWe have to stop the monk's actions too,\nnot just the Itoi-ne!"
                             ],
                             "_original": "そんなもの……そんなもの、許すわけにはいかない。\n厭い根だけでなく、僧侶の行動も止めなくては！"
                         },
@@ -4705,7 +4705,7 @@
         {
             "id": 5,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4785,7 +4785,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4865,7 +4865,7 @@
         {
             "id": 7,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5624,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The essence of the recent commotion was the appearance of\nthe Itoine. It was not about the Kurozuka."
+                                "The essence of the recent commotion was the appearance of\nthe Itoi-ne. It was not about the Kurozuka."
                             ],
                             "_original": "此度の騒動の要点は、厭い根の出現。\n涅塚ではないということです。"
                         },
@@ -5704,7 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why exactly were the monks who reached for Kurozuka\nattacked by Itoine?"
+                                "Why exactly were the monks who reached for Kurozuka\nattacked by Itoi-ne?"
                             ],
                             "_original": "いったいなぜ、涅塚に近づいた僧侶は\n厭い根に襲われてしまったのか？"
                         },
@@ -5744,7 +5744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Exactly. By utilizing the Itoine,\nJitoku-dono effectively turned the recent problem\ninto a matter of 「poetic justice」."
+                                "Exactly. By utilizing the Itoi-ne,\nJitoku-dono effectively turned the recent problem\ninto a matter of 「poetic justice」."
                             ],
                             "_original": "その通り。\n持悳殿は厭い根を利用することで、\n此度の問題を「自業自得」とした。"
                         },
@@ -6021,7 +6021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jitoku-dono, I can understand your inability to forgive\nthe Kurozuka. But to lure the Itoine here\nand commit murder... that is taking it a bit too far."
+                                "Jitoku-dono, I can understand your inability to forgive\nthe Kurozuka. But to lure the Itoi-ne here\nand commit murder... that is taking it a bit too far."
                             ],
                             "_original": "持悳殿、涅塚を許せぬ気持ちは分かります。\nしかしそのために厭い根をおびき寄せ殺めるなど……\nいささかやりすぎでしょう。"
                         },
@@ -6682,7 +6682,7 @@
         {
             "id": 11,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

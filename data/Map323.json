@@ -5804,7 +5804,7 @@
         {
             "id": 1,
             "name": "入場時イベント",
-            "note": "<HM半歩禁止><HMすり抜け禁止>",
+            "note": "<HM半歩禁止><HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6141,7 +6141,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6431,7 +6431,7 @@
         {
             "id": 3,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6498,7 +6498,7 @@
         {
             "id": 4,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10465,7 +10465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're... the Mystic Tanuki of the Hidden\nGods..."
+                                "You're... the Youri of the Hidden\nGods..."
                             ],
                             "_original": "あんたは、妖狸隠神……"
                         },

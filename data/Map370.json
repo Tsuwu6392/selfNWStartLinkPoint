@@ -5448,7 +5448,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6080,7 +6080,7 @@
         {
             "id": 4,
             "name": "SC",
-            "note": "<HM拡大領域:0,0.5,0.5,1>",
+            "note": "<HM拡大領域:0,0.5,0.5,1><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6140,7 +6140,7 @@
         {
             "id": 5,
             "name": "SC",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6200,7 +6200,7 @@
         {
             "id": 6,
             "name": "SC",
-            "note": "<HM拡大領域:0,0.5,0.5,1>",
+            "note": "<HM拡大領域:0,0.5,0.5,1><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6260,7 +6260,7 @@
         {
             "id": 7,
             "name": "SC",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6320,7 +6320,7 @@
         {
             "id": 8,
             "name": "SC",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6380,7 +6380,7 @@
         {
             "id": 9,
             "name": "SC移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6590,7 +6590,7 @@
         {
             "id": 11,
             "name": "接触イベント",
-            "note": "<HM拡大領域:3,0,0,3>",
+            "note": "<HM拡大領域:3,0,0,3><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8082,7 +8082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not just me imagining it, is it?\nTadashi-san is nowhere to be seen."
+                                "It's not just me imagining it, is it?\nNao-san is nowhere to be seen."
                             ],
                             "_original": "直さんの姿が見えないのは気のせいではないですよね？"
                         },
@@ -8164,7 +8164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Wha―?! Tadashi-dono is missing!"
+                                "...Wha―?! Nao-dono is missing!"
                             ],
                             "_original": "……うわーっ！？\n直殿がいない！"
                         },
@@ -8240,7 +8240,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I had assumed Tadashi-san was spared\nfrom the forced relocation."
+                                "I had assumed Nao-san was spared\nfrom the forced relocation."
                             ],
                             "_original": "拙僧は、直さんは強制移動を免れたのだと\n思っていました。"
                         },
@@ -8343,7 +8343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―so if that's the case, then we, as their\ncompanions, are also targets, while Tadashi-san,\nwho isn't, was left out."
+                                "―so if that's the case, then we, as their\ncompanions, are also targets, while Nao-san,\nwho isn't, was left out."
                             ],
                             "_original": "──とすれば、その仲間である私たちも標的となり、\nそうでない直さんはそこから外れた、と。"
                         },
@@ -8370,7 +8370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Prim-dono! Tadashi-dono is part of our group\ntoo!"
+                                "Prim-dono! Nao-dono is part of our group\ntoo!"
                             ],
                             "_original": "プリム殿！\n直殿も仲間だ！"
                         },
@@ -8621,7 +8621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is it really okay to just leave Tadashi-dono\nbehind?"
+                                "Is it really okay to just leave Nao-dono\nbehind?"
                             ],
                             "_original": "直殿のことは放っておいていいのだろうか？"
                         },

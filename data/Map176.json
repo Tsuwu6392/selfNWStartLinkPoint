@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "Bell-Striking Cave",
+    "displayName": "Kanetsuki Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -8948,7 +8948,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9080,7 +9080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nn... The path is blocked..."
+                                "Nuuu.\nIt has become impossible to pass through……"
                             ],
                             "_original": "ぬう。\n通れなくなってしまっている……"
                         },
@@ -9162,7 +9162,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9253,7 +9253,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9344,7 +9344,7 @@
         {
             "id": 4,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9435,7 +9435,7 @@
         {
             "id": 5,
             "name": "接触イベント",
-            "note": "<HM拡大領域:0,2,2,0>",
+            "note": "<HM拡大領域:0,2,2,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9478,7 +9478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Before we proceed, there's something I\nneed to tell you."
+                                "Before we proceed any further, I have one thing to say."
                             ],
                             "_original": "この先に進む前に、一つ言っておく。"
                         },
@@ -9518,7 +9518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Bellringers despise the\nsupernatural. In other words―they're\nlikely to see us as enemies."
+                                "The Kanetsuki loathe Kaii.\nIn other words──\nthere is a high probability they will view us as enemies."
                             ],
                             "_original": "鐘突きどもは怪異を憎んでいる。\nすなわち──こちらを敵とみなす可能性が高い。"
                         },
@@ -9538,7 +9538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But I am human."
+                                "I am a human, though."
                             ],
                             "_original": "私は人間ですが。"
                         },
@@ -9558,7 +9558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you associate with the supernatural,\nit's the same thing."
+                                "If you side with Kaii, it is the same to them."
                             ],
                             "_original": "怪異に与するのであれば同じこと。"
                         },
@@ -9578,7 +9578,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then should we hide our true nature?"
+                                "In that case, should we hide our identities?"
                             ],
                             "_original": "では、正体を隠すべきか？"
                         },
@@ -9598,7 +9598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No... Keep that in mind, and then see\nfor yourself what they're like."
+                                "No……\nKeeping that in mind, you should see them for yourselves."
                             ],
                             "_original": "否……\nそれを踏まえた上で、奴らを知るがいい。"
                         },
@@ -9618,7 +9618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Y-You're not actually planning to start\na fight, are you? You're not trying to\npit us against the Bellringers..."
+                                "Y-you really don't intend to start any trouble, do you?\nLike having us fight against Kanetsuki……"
                             ],
                             "_original": "ほ、本当に揉め事を起こす気はないんでしょうね？\n私たちと鐘突きを戦わせるつもりだったり……"
                         },
@@ -9638,7 +9638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Grandpa would never wish for that."
+                                "I will not do anything that Batchan does not desire."
                             ],
                             "_original": "ばっちゃんが望まぬことなどしない。"
                         },
@@ -9678,7 +9678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even if we don't intend to fight, could\nit still come to that?"
+                                "Even if we don't have that intention,\nisn't there a chance it will turn into a fight?"
                             ],
                             "_original": "こちらにその気がなくとも、\n戦いになる可能性はないか？"
                         },
@@ -9698,7 +9698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just brush them off. They're only\nhuman―we're stronger."
+                                "We simply have to brush them aside.\nThey are merely humans; we will not lose in terms of strength."
                             ],
                             "_original": "軽く払えばいい。\n奴らはただの人間、力では負けぬ。"
                         },
@@ -9718,7 +9718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That would still cause trouble. I'd\nprefer to leave before it comes to that."
+                                "That, too, would be a conflict.\nI would prefer to depart before it comes to that."
                             ],
                             "_original": "それもまた揉め事。\nそうなる前に去りたいところです。"
                         },
@@ -9738,7 +9738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Can mere humans guide the roots of\nmalice?"
+                                "……You say mere humans are luring the Itoi-ne?"
                             ],
                             "_original": "……ただの人間が、厭い根を誘導すると？"
                         },
@@ -9758,7 +9758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That question will be answered once we\nsee for ourselves."
+                                "That doubt will likely be resolved once we see the situation."
                             ],
                             "_original": "その疑問は、様子を見れば解消されるのだろう。"
                         },
@@ -9948,7 +9948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nsmells bad too."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },
@@ -10035,7 +10035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nsmells bad too."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },
@@ -10122,7 +10122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nsmells bad too."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },
@@ -10209,7 +10209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nsmells bad too."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },
@@ -10296,7 +10296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nsmells bad too."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },
@@ -10383,7 +10383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nsmells bad too."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },
@@ -10486,7 +10486,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -10494,7 +10494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, you folks... Did you come from the capital?"
+                                "Oya, you all...\nDid you come from the capital?"
                             ],
                             "_original": "おや、あんた方……\n都から来たのかい。"
                         },
@@ -10514,7 +10514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, yeah. How did you know?"
+                                "Ah, yeah.\nHow did you know?"
                             ],
                             "_original": "あ、ああ。\nどうして分かるんだ？"
                         },
@@ -10526,7 +10526,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -10534,7 +10534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You've got a distinctive scent, you see. This\nplace must be boring for city folk, but I'd be\nhappy if you could relax here."
+                                "You have a distinctive scent.\nThis place must be boring for someone from the capital, no?\nHowever, I would be happy if you could make yourselves at home."
                             ],
                             "_original": "特徴的なにおいがするからねえ。\nここは都の人には退屈だろう？\nしかし、くつろいでもらえると嬉しいねえ。"
                         },
@@ -10546,7 +10546,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -10554,7 +10554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Ah, right. Why don't you come to my house?\nI'll serve you some tea."
+                                "...I know, come to my house.\nI'll serve some tea."
                             ],
                             "_original": "……そうだ、私の家においでなさい。\nお茶でも出そう。"
                         },
@@ -10625,7 +10625,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -10633,7 +10633,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This way. Come, come."
+                                "This way.\nCome, come."
                             ],
                             "_original": "こっちだよ。\nさあさあ。"
                         },
@@ -10662,7 +10662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We're not exactly being welcomed, are\nwe?"
+                                "We're not exactly being welcomed."
                             ],
                             "_original": "歓迎されているわけではないですよね。"
                         },
@@ -10701,7 +10701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, since we're here... Maybe we'll\nlearn something if we talk to them!"
+                                "Well, since we're here...\nMaybe we'll understand the situation if we talk to them!"
                             ],
                             "_original": "まあ、せっかくだから……\n話してみれば事情も分かるかもしれない！"
                         },
@@ -11074,7 +11074,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -11082,7 +11082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That house over there is my home. Please, come\ninside."
+                                "That house there is my home.\nPlease, go on inside."
                             ],
                             "_original": "そこの家が私の家さ。\n中へお入り。"
                         },
@@ -11170,7 +11170,7 @@
         {
             "id": 16,
             "name": "立て札",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -11221,7 +11221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"All anomalies must die.\""
+                                "「All Kaii must die」"
                             ],
                             "_original": "「怪異悉く死すべし」"
                         },
@@ -11260,7 +11260,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The back of the sign...ugh, it's covered\nin bugs."
+                                "The back of the signpost is... ugh.\nIt's covered in bugs."
                             ],
                             "_original": "立て札の裏側は……うわっ。\n虫だらけだ。"
                         },
@@ -11290,7 +11290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's the side of the sign!"
+                                "It's the side of the signpost!"
                             ],
                             "_original": "立て札の側面だ！"
                         },
@@ -11390,7 +11390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This doesn't look passable..."
+                                "This doesn't look like we can pass through..."
                             ],
                             "_original": "これは通れそうにないな……"
                         },
@@ -11509,7 +11509,7 @@
         {
             "id": 18,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -11559,7 +11559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is... the place where the\nbell-ringers live. Staff-sama, won't we\nstand out if we walk in like this...?"
+                                "So this is... where Kanetsuki live.\nTsue-dono, can we really just walk around openly...?"
                             ],
                             "_original": "ここは……鐘突きが生活している場所か。\n杖殿、堂々とは歩けないのではないか……？"
                         },
@@ -11579,7 +11579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's no issue. I've already cast a\nspell on us. To them, we're one of their\nown."
+                                "It is no problem, I have already cast a spell.\nTo them, we are their comrades."
                             ],
                             "_original": "問題はない、既に術をかけている。\n奴らにとって、私たちは仲間だ。"
                         },
@@ -11599,7 +11599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh-ho. So this is the legendary Shikinowa\nninjutsu I've heard about..."
+                                "Hohou.\nSo this is the Shikinowa Ninjutsu I've heard rumors about..."
                             ],
                             "_original": "ほほう。\nこれが噂に聞くシキノワの忍術……"
                         },
@@ -11619,7 +11619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shikinowa legend."
+                                "Shikinowa Legend."
                             ],
                             "_original": "シキノワデンセツ。"
                         },
@@ -11639,7 +11639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But don't act carelessly."
+                                "However, do not act carelessly."
                             ],
                             "_original": "しかし、迂闊な行動はするな。"
                         },
@@ -11659,7 +11659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Be careful. Nazuna."
+                                "Be careful.\nNazuna."
                             ],
                             "_original": "気をつけろ。\nナズナ。"
                         },
@@ -11746,7 +11746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The event \\C[17]The One Who Spins There\\C[0] has been\nupdated."
+                                "The event\n\\C[17]The One Who Weaves There\\C[0]\nhas been updated."
                             ],
                             "_original": "イベントの\\C[17]そこで紡ぐ者\\C[0]が更新されました。"
                         },
@@ -11869,7 +11869,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -11877,7 +11877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They ran... they got away... Damn it..."
+                                "They escaped... so they got away...\nDamn you..."
                             ],
                             "_original": "逃げた、逃げたか……\nおのれ……"
                         },
@@ -12068,7 +12068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Talking with Clothing-chan is my only joy. I\ncan't understand what anyone else is saying…"
+                                "Talking with Koromo-chan is my joy.\nI don't really understand what the others are saying..."
                             ],
                             "_original": "衣ちゃんと喋ることが私の楽しみなんだ。\n他のみんなは、何を言ってるのかよく分からないから……"
                         },
@@ -12190,7 +12190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you for bringing Clothing out. I'm really\nglad I got to meet you all."
+                                "Thank you for taking Koromo-chan away.\nI'm truly glad I meet you all."
                             ],
                             "_original": "衣ちゃんを連れ出してくれてありがとう。\nあなたたちに会えて本当によかった。"
                         },
@@ -12210,7 +12210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What about the people here? You said\nthey could survive without\nClothing-sama, but is that really true?"
+                                "What will happen to the people here?\nYou said you could live even without Koromo-dono,\nbut was that true?"
                             ],
                             "_original": "ここにいる方たちはどうなるんだ？\n衣殿がいなくても生きていけると言っていたが、\nあれは本当なのか？"
                         },
@@ -12230,7 +12230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Who knows? I don't. I'd like to think they'll be\nokay, though."
+                                "I wonder. I don't know.\nThough I think it should be okay."
                             ],
                             "_original": "どうだろうね、分からない。\n大丈夫じゃないかなとは思ってるけど。"
                         },
@@ -12250,7 +12250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's uncertain."
+                                "That is rather uncertain."
                             ],
                             "_original": "不透明ですね。"
                         },
@@ -12270,7 +12270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Isn't that true for anyone? You can't know if\nyou can survive on your own until you actually\ntry."
+                                "Isn't that true for anyone?\nYou won't know if you can live on your own strength\nuntil you've lived it."
                             ],
                             "_original": "誰だってそうでしょ？\n自分の力で生きていけるかどうかなんて、\n生きてみないと分からないよ。"
                         },
@@ -12290,7 +12290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But at least… even if they die, it's better than\nsacrificing Clothing-chan."
+                                "But at least...\neven if we were to die,\nit's better than sacrificing Koromo-chan."
                             ],
                             "_original": "ただ、少なくとも……\n仮に死んだとしても、衣ちゃんを犠牲にするよりはマシ。"
                         },
@@ -12389,7 +12389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thank you for bringing Clothing out. I'm really\nglad I got to meet you all."
+                                "Thank you for taking Koromo-chan away.\nI'm truly glad I met you all."
                             ],
                             "_original": "衣ちゃんを連れ出してくれてありがとう。\nあなたたちに会えて本当によかった。"
                         },
@@ -12601,7 +12601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a corpse. It's very dirty..."
+                                "It's a corpse.\nIt's so filthy……"
                             ],
                             "_original": "亡骸だ。\nとても汚れている……"
                         },
@@ -12638,7 +12638,7 @@
         {
             "id": 23,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12681,7 +12681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a corpse. It's very dirty..."
+                                "It's a corpse.\nIt's so filthy……"
                             ],
                             "_original": "亡骸だ。\nとても汚れている……"
                         },
@@ -12718,7 +12718,7 @@
         {
             "id": 24,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12761,7 +12761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a corpse. It's very dirty..."
+                                "It's a corpse.\nIt's so filthy……"
                             ],
                             "_original": "亡骸だ。\nとても汚れている……"
                         },
@@ -12833,7 +12833,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -12841,7 +12841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Root of salvation, root of salvation...\npunishment..."
+                                "The root of salvation, the root of salvation……\nA punishment……"
                             ],
                             "_original": "救いの根、救いの根……\n罰を……"
                         },

@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "Bell-Striking Cave",
+    "displayName": "Kanetsuki Cave",
     "encounterList": [
         {
             "troopId": 97,
@@ -11257,7 +11257,7 @@
                                 0,
                                 0,
                                 2,
-                                "Clothing"
+                                "Koromo"
                             ],
                             "_original": "衣"
                         },
@@ -11265,7 +11265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm fine... I'm happy."
+                                "I'm alright...\nI'm happy."
                             ],
                             "_original": "私は大丈夫……\n幸せだよ。"
                         },
@@ -11396,7 +11396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It won't open... It's locked."
+                                "It won't open...\nIt's locked."
                             ],
                             "_original": "開かないな……\n鍵がかかっている。"
                         },
@@ -11484,7 +11484,7 @@
         {
             "id": 4,
             "name": "接触イベント",
-            "note": "<HM拡大領域:0.5,3,3,0>",
+            "note": "<HM拡大領域:0.5,3,3,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -11563,7 +11563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-Wait, a monster!"
+                                "Wah, a monster!"
                             ],
                             "_original": "わっ、魔物！"
                         },
@@ -11583,7 +11583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Staff-chan."
+                                "Tsue-chan."
                             ],
                             "_original": "杖ちゃん。"
                         },
@@ -11603,7 +11603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "!… Clothing…"
+                                "……!\nKoromo……"
                             ],
                             "_original": "……！\n衣……"
                         },
@@ -11623,7 +11623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm? Do you know them?"
+                                "Hmm?\nAre you two acquaintances?"
                             ],
                             "_original": "んん？\n知り合いなのか？"
                         },
@@ -11716,7 +11716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She's \\C[17]Clothing (Kinu)\\C[0]… an old friend."
+                                "She is \\C[17]Koromo\\C[0]……\nAn old friend."
                             ],
                             "_original": "彼女は\\C[17]衣（きぬ）\\C[0]……\n旧友だ。"
                         },
@@ -11736,7 +11736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What are you doing in a place like this?\nThe Bellstrikers aren't exactly kind to\nmonsters."
+                                "What are you doing in a place like this?\nKanetsuki aren't exactly kind to monsters, are they?"
                             ],
                             "_original": "こんなところで何をしている？\n鐘突きは魔物に優しくないだろう。"
                         },
@@ -11748,7 +11748,7 @@
                                 0,
                                 0,
                                 2,
-                                "Clothing"
+                                "Koromo"
                             ],
                             "_original": "衣"
                         },
@@ -11776,7 +11776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm? So does that mean Clothing-san is a\nBellstriker too?"
+                                "Hmm?\nDoes that mean Koromo-san is a Kanetsuki as well?"
                             ],
                             "_original": "ふむ？\nつまり衣さんも鐘突きなのですか？"
                         },
@@ -11796,7 +11796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No. Clothing is―"
+                                "No.\nKoromo is──"
                             ],
                             "_original": "否。\n衣は──"
                         },
@@ -11816,7 +11816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―It's nothing. Clothing, are you\nmanaging alright?"
+                                "──Trifles.\nKoromo, are you lacking anything?"
                             ],
                             "_original": "──些事。\n衣、不便はないか？"
                         },
@@ -11828,7 +11828,7 @@
                                 0,
                                 0,
                                 2,
-                                "Clothing"
+                                "Koromo"
                             ],
                             "_original": "衣"
                         },
@@ -11836,7 +11836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yeah, I'm fine. I'm really fine."
+                                "Yeah, I'm okay.\nI'm alright."
                             ],
                             "_original": "うん、大丈夫。\n大丈夫だよ。"
                         },
@@ -11867,7 +11867,7 @@
                                 0,
                                 0,
                                 2,
-                                "Clothing"
+                                "Koromo"
                             ],
                             "_original": "衣"
                         },
@@ -11875,7 +11875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But… soon…"
+                                "But……\nSoon……"
                             ],
                             "_original": "だけど……\nもうすぐ……"
                         },
@@ -11895,7 +11895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you in trouble? Tell us!"
+                                "Are you in trouble?\nTell me!"
                             ],
                             "_original": "何か困っているのか？\n聞かせてくれ！"
                         },
@@ -11915,7 +11915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wait, now's not a good time. …Can we\nassume Clothing isn't in any danger?"
+                                "Wait, the situation is bad right now.\n……Can we assume Koromo is in no danger?"
                             ],
                             "_original": "待て、今は状況がよくない。\n……衣の身に危険は及ばんと考えていいのか？"
                         },
@@ -11935,7 +11935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed―Clothing, wait a little longer.\nI'll be back."
+                                "Indeed──Koromo, wait for a while.\nI will come again."
                             ],
                             "_original": "然り──衣、しばし待て。\nまた来る。"
                         },
@@ -11947,7 +11947,7 @@
                                 0,
                                 0,
                                 2,
-                                "Clothing"
+                                "Koromo"
                             ],
                             "_original": "衣"
                         },
@@ -11955,7 +11955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Okay."
+                                "Yeah."
                             ],
                             "_original": "うん。"
                         },
@@ -12099,7 +12099,7 @@
         {
             "id": 5,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12346,7 +12346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, Asaha-sama!"
+                                "Ah, Asaha-dono!"
                             ],
                             "_original": "あっ、アサハ殿！"
                         },
@@ -12460,7 +12460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You all actually made it this far, huh."
+                                "You all came all the way here."
                             ],
                             "_original": "あなたたち、ここまで来てくれたんだね。"
                         },
@@ -12480,7 +12480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you have any idea where Clothing is?"
+                                "Do you know where Koromo-san is?"
                             ],
                             "_original": "衣さんがどこにいるか分かりませんか？"
                         },
@@ -12500,7 +12500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the thing―I've been looking for her too,\nbut I can't find her… She should've been around\nhere not too long ago."
+                                "The thing is, I've been looking for her too, but I can't find her...\nShe was supposed to be around here until just a little while ago."
                             ],
                             "_original": "それが、私も探してるんだけど見つからなくて……\n少し前までこの辺りにいたはずなんだけど。"
                         },
@@ -12520,7 +12520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…The air clears, and monsters appear.\nWhenever that happens, Clothing always\nvanishes."
+                                "……When the air clears and monsters appear,\nKoromo always disappears."
                             ],
                             "_original": "……空気が澄み、魔物が現れるとき、\nいつも衣は姿を消す。"
                         },
@@ -12540,7 +12540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh?"
+                                "Eh?"
                             ],
                             "_original": "え？"
                         },
@@ -12560,7 +12560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She's fulfilling her role as a tool. If\nyou're a bell-ringer, you should\nunderstand what I mean."
+                                "She is fulfilling her role as a tool.\nAs a Kanetsuki, you should understand what that means."
                             ],
                             "_original": "道具としての役割を果たしている。\n鐘突きならば、言っている意味が分かるだろう。"
                         },
@@ -12580,7 +12580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That means… she's sacrificing herself again…"
+                                "That is……\nThat girl, sacrificing herself again……"
                             ],
                             "_original": "それって……\nあの子、また自分を犠牲に……"
                         },
@@ -12620,7 +12620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sacrificing? What the hell does that\nmean? What are they making Clothing-sama\ndo?!"
+                                "What do you mean by sacrifice?\nWhat are they making Koromo-dono do!?"
                             ],
                             "_original": "犠牲って、どういうことだ？\n衣殿は何をさせられている！？"
                         },
@@ -12640,7 +12640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I-I don't know. But… I can tell she's wearing\nherself out every time she works."
+                                "I-I don't know. But……\nI can tell she's exhausted every time she works."
                             ],
                             "_original": "わ、分からない。ただ……\nあの子が働くたびに消耗してるのは分かる。"
                         },
@@ -12660,7 +12660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wait… that doesn't make sense. Clothing\njust channels mana into the threads and\nleaves them behind. She shouldn't be\ndraining herself at all."
+                                "Wait…… that is strange.\nKoromo merely imbues Mana into thread and leaves it behind.\nShe should not be exhausted."
                             ],
                             "_original": "待て……おかしい。\n衣はマナを糸に宿し、それを残すだけだ。\n消耗などしまい。"
                         },
@@ -12680,7 +12680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Channels mana into the threads?"
+                                "Imbuing Mana into thread?"
                             ],
                             "_original": "マナを糸に宿す？"
                         },
@@ -12700,7 +12700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A spinner's technique… or perhaps one\nunique to her. Clothing gathers the\nsurrounding mana, infuses it into the\nthreads she spins, and leaves them\nbehind. The bell-ringers cling to those\nthreads to survive."
+                                "A weaver-bug's technique…… or perhaps hers alone.\nKoromo gathers the surrounding Mana\nand leaves it within the threads she spins.\nThe Kanetsuki cling to that to survive."
                             ],
                             "_original": "紡ぎ虫の技……あるいは彼女だけの技か。\n衣は周囲のマナを集め、己が紡ぐ糸に宿して残す。\nそれに縋り、鐘突きどもは生き延びる。"
                         },
@@ -12720,7 +12720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…I see. Maybe the reason mana flows so\nsmoothly here is because of that\nprocess."
+                                "……I see.\nThe reason Mana flows well in this place\nmight be due to that process."
                             ],
                             "_original": "……なるほど。\nこの場のマナがうまく流れだすのは、\nその過程によるものなのかもしれませんね。"
                         },
@@ -12740,7 +12740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Either way, it's no burden on Clothing.\nThe only strain is from moving her\nbody―she just gets a little tired."
+                                "In any case, there is no burden on Koromo.\nShe would only be slightly tired from moving her body."
                             ],
                             "_original": "いずれにせよ、衣に負担はない。\n身体を動かすことで少し疲れるだけだ。"
                         },
@@ -12760,7 +12760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's precisely why―I respect her way\nof life, and I decided to escape on my\nown."
+                                "That is precisely why──respecting her way of life,\nI decided to escape alone."
                             ],
                             "_original": "だからこそ──私は彼女の生き方を尊重し、\n一人で逃げ出すことに決めた。"
                         },
@@ -12780,7 +12780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't really get your situation, but your\nunderstanding of what Clothing does is wrong.\nThat girl is definitely sacrificing something."
+                                "I don't really know your situation, but\nyour perception of what Koromo-chan does is incorrect.\nThat girl is definitely sacrificing something."
                             ],
                             "_original": "あなたの事情はよく分からないけど、\n衣ちゃんがすることへの認識は正しくない。\nあの子は絶対に何かを犠牲にしてる。"
                         },
@@ -12800,7 +12800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Perhaps the ambient mana alone is no\nlonger enough. Thus, she uses her own as\nwell."
+                                "……It may be that environmental Mana is no longer enough to compensate.\nHence, she uses her own Mana as well."
                             ],
                             "_original": "……もはや環境のマナだけでは補えぬのかもしれませぬ。\nゆえに己のマナをも使う。"
                         },
@@ -12820,7 +12820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-What? Is that even safe for her?!"
+                                "I-Is it okay to do such a thing?"
                             ],
                             "_original": "そ、そんなことをして大丈夫なのか？"
                         },
@@ -12840,7 +12840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Of course it's not safe! Mana is the\nsource of life. If you deplete it too\nmuch, you'll die…"
+                                "It's not okay; Mana is the source of life.\nIf you exhaust too much of it, you'll normally die……"
                             ],
                             "_original": "大丈夫じゃないですよ、マナは生命の源なんです。\n消耗しすぎると普通は死んじゃいます……"
                         },
@@ -12860,7 +12860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…We have to stop her! Asaha-sama, where\nis Clothing?!"
+                                "……We have to stop her!\nAsaha-dono, where is Koromo-dono!?"
                             ],
                             "_original": "……止めないと！\nアサハ殿、衣殿はどこだ！？"
                         },
@@ -12880,7 +12880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I-I told you, I don't know! I've been searching\nthis whole time, but she's nowhere to be found."
+                                "I-I'm telling you, I don't know.\nI've been looking for her the whole time,\nbut she's nowhere to be found."
                             ],
                             "_original": "わ、分からないんだって。\nずっと探してるんだけど、どこにもいない。"
                         },
@@ -12900,7 +12900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then we'll have to get the information\nfrom the other bell-ringers."
+                                "We have no choice but to get it out of the other Kanetsuki."
                             ],
                             "_original": "他の鐘突きどもから聞き出すしかない。"
                         },
@@ -12920,7 +12920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You're planning to threaten them?"
+                                "Do you intend to threaten them?"
                             ],
                             "_original": "脅すつもりですか？"
                         },
@@ -12940,7 +12940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No… it's easy to distort their\nperceptions. Leave it to me."
+                                "No…… it is easy to distort their perception.\nLeave it to me."
                             ],
                             "_original": "否……認識を歪めることなど容易い。\n私に任せておけ。"
                         },
@@ -12960,7 +12960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So you do have a good idea, huh? Then…"
+                                "You have some good method, then?\nWell……"
                             ],
                             "_original": "何かいい方法があるんだね？\nじゃあ……"
                         },
@@ -13160,7 +13160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll leave this door open. Try talking to the\nothers."
+                                "I'll leave the door here open.\nTry listening to what the others have to say."
                             ],
                             "_original": "ここの扉、開放しとく。\n他のみんなから話を聞いてみて。"
                         },
@@ -13581,7 +13581,7 @@
         {
             "id": 8,
             "name": "接触イベント",
-            "note": "<HM拡大領域:2,0,0,2>",
+            "note": "<HM拡大領域:2,0,0,2><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -13660,7 +13660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wasn't Clothing around these parts?"
+                                "Wasn't Koromo-dono somewhere around here?"
                             ],
                             "_original": "衣殿がいたのは、この辺りではなかったか？"
                         },
@@ -13680,7 +13680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah. But it seems she isn't here now."
+                                "Yeah.\nHowever, she doesn't seem to be here now."
                             ],
                             "_original": "ああ。\nしかし、今はいないようだな。"
                         },
@@ -13719,7 +13719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If we assume everything Asaha said is\ntrue, then perhaps the Bellringers,\nfearing she might escape, locked her up\nsomewhere?"
+                                "Assuming Asaha-san's story was entirely true,\ndo you think the Kanetsuki locked her up somewhere \nbecause they were afraid she would run away?"
                             ],
                             "_original": "アサハさんの話がすべて事実だったと仮定すると、\n逃げ出すことを恐れた鐘突きたちが\nどこかに閉じ込めたのでしょうか？"
                         },
@@ -13739,7 +13739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Clothing would not run away. She would\nnever wish for that."
+                                "……Koromo will not run away.\nShe could not possibly desire that."
                             ],
                             "_original": "……衣は逃げ出さぬ。\nそれを望むはずがない。"
                         },
@@ -13884,7 +13884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uh, this is just a guess, but… wasn't Staff\nliving here?"
+                                "Um, this is just a guess, but...\nDid Tsue use to live here?"
                             ],
                             "_original": "あの、ただの予想なんですけど。\n杖ってここに住んでたんじゃないですか？"
                         },
@@ -13924,7 +13924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wha―? Ula, how did you figure that out?"
+                                "Wh-whaaat? \nUula-dono, how can you tell such a thing?"
                             ],
                             "_original": "ええっ？\nウーラ殿、なぜそんなことが分かるんだ？"
                         },
@@ -13967,7 +13967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, I mean… it just makes sense if you think\nabout it. You seem really familiar with this\nplace, and you mentioned being old friends with\nClothing, plus your attitude toward the\nBellringers…"
+                                "Well, you know...\nI just thought it'd be the case from a common sense perspective.\nShe knows this place well, she said she was Koromo's old friend,\nand then there's her attitude toward Kanetsuki..."
                             ],
                             "_original": "いや、まあ……普通に考えたらそうかなって。\nここに詳しいですし、衣と旧友とか言ってましたし、\nそれに鐘突きへの態度も……"
                         },
@@ -13987,7 +13987,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "O-oh… You're a detective!"
+                                "O-Ohh... \nYou're a great detective!"
                             ],
                             "_original": "お、おお……\n名探偵だ！"
                         },
@@ -14007,7 +14007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That leads to one strange inconsistency,\ndoesn't it?"
+                                "That being the case, there's one inconsistency."
                             ],
                             "_original": "そうなると、一つ奇妙な点に気づきますね。"
                         },
@@ -14043,7 +14043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The fact that Staff's story and Asaha's\nstory―who also lives here―don't match up… right?"
+                                "It's the fact that Tsue's story and Asaha's story\n—who also lives here—\nare at odds with each other... right?"
                             ],
                             "_original": "杖の話と、同じくここに住んでるアサハの話が\n食い違うこと……ですよね？"
                         },
@@ -14063,7 +14063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Asaha says she wants to help Clothing.\nMeanwhile, Staff says Clothing doesn't\nwant help."
+                                "Asaha-san says she wants to help Koromo-san.\nTsue-san, on the other hand, says she does not desire help."
                             ],
                             "_original": "アサハさんは衣さんを助けたいと言う。\n一方、杖さんは彼女が助けを望まぬと言う。"
                         },
@@ -14083,7 +14083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Rather, Staff―you're the one who knows\nthe full story, aren't you?"
+                                "If I had to say, Tsue.\nYou likely know the circumstances in greater detail, don't you?"
                             ],
                             "_original": "どちらかといえば、杖。\nお前の方が詳しい事情を知っているんだろう？"
                         },
@@ -14103,7 +14103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wait… Is *everyone* except me a\ndetective?!"
+                                "Wait... \nIs everyone except for Nazuna a great detective!?"
                             ],
                             "_original": "あれ……\n私以外の全員が名探偵なのか！？"
                         },
@@ -14146,7 +14146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She was a tool. Both Clothing and I…"
+                                "We were tools.\nMe, and Koromo──"
                             ],
                             "_original": "道具だったのだ。\n私も、衣も──"
                         },
@@ -14182,7 +14182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…No. Clothing is still a tool."
+                                "──No.\nKoromo remains a tool."
                             ],
                             "_original": "──否。\n衣は依然として道具だ。"
                         },
@@ -14209,7 +14209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Bellringers'…?"
+                                "A tool of Kanetsuki...?"
                             ],
                             "_original": "鐘突きの……？"
                         },
@@ -14256,7 +14256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Perhaps we should avoid asking what\nthat means. You said Clothing doesn't\nwant help?"
+                                "……Let us refrain from questioning the meaning of that.\nWhat do you mean by Koromo-san not desiring help?"
                             ],
                             "_original": "……その意味を問うのはやめておきましょう。\n衣さんが助けを望まぬというのは？"
                         },
@@ -14299,7 +14299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you familiar with the monster called the\n\"Silkworm\"?"
+                                "Are you familiar with the monster known as the「weaver-bug」?"
                             ],
                             "_original": "「紡ぎ虫」という魔物について詳しいか？"
                         },
@@ -14326,7 +14326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Silkworm? No…"
+                                "Weaver-bug?\nNo..."
                             ],
                             "_original": "紡ぎ虫？\nいや……"
                         },
@@ -14346,7 +14346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a very rare moth-type monster.\nRecently, they've started appearing\noccasionally in the northern parts of\nBeretelia…"
+                                "It's a very rare moth monster.\nIt's only recently that they've begun to be seen \noccasionally in the northern parts of Vaeltria..."
                             ],
                             "_original": "とても珍しい蛾の魔物だ。\n最近になってベーレテリアの北部で\n稀に見かけられるようになって……"
                         },
@@ -14366,7 +14366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As always, your knowledge is impressive."
+                                "Your knowledge remains as vast as ever, I see."
                             ],
                             "_original": "相変わらず知識だけは豊富ですね。"
                         },
@@ -14406,7 +14406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So… Clothing is one of those Silkworms?"
+                                "Is Koromo that weaver-bug?"
                             ],
                             "_original": "衣が、その紡ぎ虫なのか？"
                         },
@@ -14433,7 +14433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed… The Silkworm depends on those who seek\nit. Now, serving the Bellringers is her reason\nto live. If that were denied, she would even\ntake her own life."
+                                "Indeed... Weaver-bugs depend on those who desire them.\nFor her, being useful to the Kanetsuki is her purpose in life;\nif one were to deny her that, she would likely take her own life."
                             ],
                             "_original": "然り……紡ぎ虫は、己を求める者に依存する。\n今や鐘突きの力になることが生き甲斐で、\nそれを否定すれば命をも絶つだろう。"
                         },
@@ -14476,7 +14476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Th-that much? She's probably not being treated\nwell, right…?"
+                                "Th-That much?\nShe's probably not being treated well, is she...?"
                             ],
                             "_original": "そ、そんなに？\nたぶんいい扱いは受けてないですよね……？"
                         },
@@ -14519,7 +14519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That is the nature of the Silkworm. Therefore…\nshe doesn't just not want help―she would oppose\nit."
+                                "That is the nature of the weaver-bug.\nTherefore... far from desiring help,\nshe would become hostile if one were to try."
                             ],
                             "_original": "それが紡ぎ虫の性質。\nゆえに……彼女は助けなど望まぬどころか、\nそうすれば敵対する。"
                         },
@@ -14559,7 +14559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But didn't Dia seem troubled about\nsomething?"
+                                "But, didn't Koromo-dono seem to be in some kind of trouble?"
                             ],
                             "_original": "しかし、衣殿は何か困った様子ではなかったか？"
                         },
@@ -14595,7 +14595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed... It's concerning."
+                                "Indeed...\nIt is concerning."
                             ],
                             "_original": "然り……\n気がかりだ。"
                         },
@@ -14615,7 +14615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If only we could hear it from her\ndirectly."
+                                "If only we could hear the truth from the person herself."
                             ],
                             "_original": "本人から話を聞ければいいのですが。"
                         },
@@ -14635,7 +14635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then we have no choice but to search.\nFortunately, there still seem to be\npaths we can take―"
+                                "We have no choice but to search.\nFortunately, it seems there is still a path we can take──"
                             ],
                             "_original": "探すほかないだろう。\n幸い、まだ進めそうな道はあるようだ──"
                         },
@@ -14709,7 +14709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The event \\C[17]The One Who Spins There\\C[0] has been\nupdated."
+                                "The event \\C[17]The One Who Weaves There\\C[0] has been\nupdated."
                             ],
                             "_original": "イベントの\\C[17]そこで紡ぐ者\\C[0]が更新されました。"
                         },
@@ -14918,7 +14918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The fluctuation... is it here?"
+                                "A flicker...\nIs it here?"
                             ],
                             "_original": "揺らぎ……\nここか。"
                         },
@@ -14938,7 +14938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's just a dead end with nothing here."
+                                "It's just a dead end."
                             ],
                             "_original": "何もない行き止まりだぞ。"
                         },
@@ -15022,7 +15022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Hmm, the wall seems..."
+                                "Wait, the wall is sort of..."
                             ],
                             "_original": "あれ、なんか壁が……"
                         },
@@ -15161,7 +15161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It was an illusion, wasn't it?"
+                                "It was an illusion, then."
                             ],
                             "_original": "まやかしだったのですね。"
                         },
@@ -15181,7 +15181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Clothing Concealment... one of the\nSpider's weaving arts."
+                                "Koromo-gakure...\nOne of the weaver-bug's arts."
                             ],
                             "_original": "衣隠れ……\n紡ぎ虫の術の一つ。"
                         },
@@ -15201,7 +15201,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "They really are a versatile race, aren't\nthey?"
+                                "They are a versatile race, aren't they?"
                             ],
                             "_original": "いろいろできる種族ですねえ。"
                         },
@@ -15221,7 +15221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So the Clothing Palace is ahead, right?\nAlright, let's hurry!"
+                                "Koromo-dono is up ahead, right?\nAlright, let's hurry!"
                             ],
                             "_original": "この先に衣殿がいるんだな？\nよし、急ごう！"
                         },
@@ -15330,7 +15330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]The Weaver There\\C[0] achieved!"
+                                "\\C[17]The One Who Weaves There\\C[0] achieved!"
                             ],
                             "_original": "\\C[17]そこで紡ぐ者\\C[0] 達成！"
                         },
@@ -15369,7 +15369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]Yearning\\C[0] has been added to the event list."
+                                "\\C[17]Desperate Longing\\C[0] has been added to the event list."
                             ],
                             "_original": "イベント一覧に\\C[17]切望\\C[0]が追加されました。"
                         },
@@ -15652,7 +15652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't think we can get through here..."
+                                "It doesn't look like we can get through here..."
                             ],
                             "_original": "ここは通れそうにない……"
                         },
@@ -16052,7 +16052,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -16060,7 +16060,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's here... It's here. It's here..."
+                                "Right here... right here.\nRight here..."
                             ],
                             "_original": "ここにいる……ここにいるぞ。\nここにいるぞ……"
                         },
@@ -16147,7 +16147,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nand it smells bad."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },
@@ -16234,7 +16234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What a strange light... And it stinks,\ntoo."
+                                "It's a strange light...\nand it smells bad."
                             ],
                             "_original": "奇妙な明かりだ……\nしかもくさい。"
                         },

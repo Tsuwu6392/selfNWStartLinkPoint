@@ -3314,7 +3314,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HM拡大領域:0,1,2,0>",
+            "note": "<HM拡大領域:0,1,2,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4896,7 +4896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Husk Disease, Itoine, maritime accident...\nthey're just further fueling the people's anxiety\ncaused by Shogun-sama's abdication..."
+                                "Husk Disease, Itoi-ne, maritime accident...\nthey're just further fueling the people's anxiety\ncaused by Shogun-sama's abdication..."
                             ],
                             "_original": "抜け殻病、厭い根、海難事故……\n将軍様の譲位による民の不安を更に煽ることに……"
                         },
@@ -5004,7 +5004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is hunting the Itoine first priority after all?\nAs for the accident...\nI believe I heard the remaining missing persons were found...\nIn that case... hmm... no... but..."
+                                "Is hunting the Itoi-ne first priority after all?\nAs for the accident...\nI believe I heard the remaining missing persons were found...\nIn that case... hmm... no... but..."
                             ],
                             "_original": "まずはやはり厭い根狩りが先決か？\n事故は確か……残る行方不明者も見つかったとか……\nとなると……うむ……いや……しかし……"
                         },
@@ -5075,7 +5075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Itoine problem is solved!\nFinally, it seems I might be able to rest a little..."
+                                "The Itoi-ne problem is solved!\nFinally, it seems I might be able to rest a little..."
                             ],
                             "_original": "厭い根問題は解決した！\nこれでようやく私も少し休めそうだ……"
                         },
@@ -5232,7 +5232,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HM拡大領域:0,0,3,0.5>",
+            "note": "<HM拡大領域:0,0,3,0.5><poi>",
             "pages": [
                 {
                     "conditions": {

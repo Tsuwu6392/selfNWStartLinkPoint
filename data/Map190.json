@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "Bell-Striking Cave",
+    "displayName": "Kanetsuki Cave",
     "encounterList": [
         {
             "troopId": 97,
@@ -10044,7 +10044,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10178,7 +10178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's a door. It's locked with a\nbolt..."
+                                "There is a door.\nIt's barred shut, but..."
                             ],
                             "_original": "扉がある。\n閂で固定されているが……"
                         },
@@ -10198,7 +10198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's remove it quickly and move on."
+                                "Let us remove it quickly and move on."
                             ],
                             "_original": "さっさと外して進みましょう。"
                         },
@@ -11062,7 +11062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, wait a second."
+                                "Hey, wait."
                             ],
                             "_original": "ねえ、ちょっと。"
                         },
@@ -11130,7 +11130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Whoa! T-That bell strike...!"
+                                "Wha!\nS-So, a Kanetsuki...!"
                             ],
                             "_original": "うわっ。\nか、鐘突き……！"
                         },
@@ -11150,7 +11150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Did you follow us here?"
+                                "Did you chase after us?"
                             ],
                             "_original": "追いかけてきたのですか。"
                         },
@@ -11170,7 +11170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-Wait. I am indeed from this clan... but I'm\nnormal. My name is Asaha."
+                                "W-Wait.\nI am indeed of the clan here... but I'm normal.\nMy name is Asaha."
                             ],
                             "_original": "ま、待って。\n私は確かにここの一族だけど……まともだよ。\n名前はアサハ。"
                         },
@@ -11221,7 +11221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I've been watching your actions in secret.\nYou're Clothing's acquaintances, right?"
+                                "I was watching you from the shadows.\nYou're acquaintances of Koromo-chan, right?"
                             ],
                             "_original": "あなたたちの行動を隠れて見てたの。\n衣ちゃんの知り合いなんだよね？"
                         },
@@ -11241,7 +11241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, we only know one of them..."
+                                "Only one of us is, but..."
                             ],
                             "_original": "知り合いなのは一人だけですけど……"
                         },
@@ -11280,7 +11280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please, take that girl away with you. Even if\nyou have to force her!"
+                                "Please, take her away with you.\nEven if you have to use force!"
                             ],
                             "_original": "お願い、あの子を連れ出してあげて。\n無理矢理にでも！"
                         },
@@ -11300,7 +11300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-What are you talking about?"
+                                "W-What do you mean?"
                             ],
                             "_original": "ど、どういうことなんだ？"
                         },
@@ -11320,7 +11320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She's being forced to use her power. If this\ngoes on, she'll keep suffering..."
+                                "That girl is being forced to use her power.\nIf this continues, she'll just keep on suffering..."
                             ],
                             "_original": "あの子は力を使わせられてる。\nこのままだと、苦しみ続ける……"
                         },
@@ -11371,7 +11371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Sorry, I have to go back now. I've said what\nI needed to say."
+                                "...Sorry, I have to get back now.\nI've said what I needed to say."
                             ],
                             "_original": "……ごめん、もう戻らないと。\n伝えたいことは伝えられたから。"
                         },
@@ -11422,7 +11422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I hope you're kind people."
+                                "I'm hoping that you are kind people."
                             ],
                             "_original": "あなたたちが優しい人だと願ってる。"
                         },
@@ -11576,7 +11576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't really get it, but... should we just go\nhelp Clothing-san?"
+                                "I don't really understand, but...\nAnyway, we just need to go help Koromo-dono, right?"
                             ],
                             "_original": "よく分からないが……\nとにかく、衣殿を助けに行けばいいのだろうか？"
                         },
@@ -11622,7 +11622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Staff-san, do you know that\nperson―Asaha-san?"
+                                "Tsue-san...\ndo you know that person just now—Asaha-san?"
                             ],
                             "_original": "杖さんは今の方──\nアサハさんを知っているのですか？"
                         },
@@ -11665,7 +11665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I do not."
+                                "...No."
                             ],
                             "_original": "……知らぬ。"
                         },
@@ -11685,7 +11685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sakura Toku. How was his soul?"
+                                "Outoku.\nHow was her soul?"
                             ],
                             "_original": "桜悳。\n奴の魂はどうだった？"
                         },
@@ -11705,7 +11705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I cannot say. He didn't seem to be\nlying, but―"
+                                "I cannot say for sure.\nShe didn't appear to be lying, but──"
                             ],
                             "_original": "なんとも言えませぬ。\n嘘はついていないように見えましたが──"
                         },
@@ -11725,7 +11725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―I was more distracted by the change in\nthe environment."
+                                "──Rather than that, I was distracted by the change in the environment."
                             ],
                             "_original": "──それよりも環境の変化に気を取られてしまいました。"
                         },
@@ -11768,7 +11768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? The environment?"
+                                "Eh?\nThe environment?"
                             ],
                             "_original": "え？\n環境？"
                         },
@@ -11811,7 +11811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Monsters are appearing. And... likely, that\nStone of Return should work now."
+                                "Monsters are swarming.\nAnd... likely, that Return Stone of yours should be usable now."
                             ],
                             "_original": "魔物が湧いている。\nそして……恐らく、その帰郷の石とやらも使えるはず。"
                         },
@@ -11854,7 +11854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh... yeah, you're right."
+                                "Eh, ah...\nYou're right."
                             ],
                             "_original": "えっ、あ……\n本当だ。"
                         },
@@ -11874,7 +11874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-What do you mean? The Stone of Return\ndidn't work because the bell strike was\ninterfering, right?"
+                                "W-Wait, what do you mean?\nThe reason Return Stone didn't work was because\nKanetsuki were interfering, right?"
                             ],
                             "_original": "ど、どういうことです？\n帰郷の石が使えなかったのは、\n鐘突きが妨害してたからですよね？"
                         },
@@ -11894,7 +11894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's impossible. There's no way they'd\nknow we have such a tool."
+                                "That's impossible.\nThere is no way they would know\nwe possess such a tool."
                             ],
                             "_original": "それはあり得ん。\n俺たちがそんな道具を持っていることを\n奴らが知るはずがない。"
                         },
@@ -11914,7 +11914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, right..."
+                                "Ah, true..."
                             ],
                             "_original": "あ、そっか……"
                         },
@@ -11934,7 +11934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Stone of Return's teleportation uses\nthe flow of mana. So, until now, the\nmana in this space was stagnant, but now\nit's returned to normal."
+                                "Traveling with a Return Stone utilizes the flow of Mana.\nIn other words, the Mana in this space, which was\nstagnant until just now, has returned to a normal state."
                             ],
                             "_original": "帰郷の石による移動は、マナの流れを利用するもの。\nつまり、先ほどまでは滞っていた空間のマナが\n今は正常な状態に戻った、と。"
                         },
@@ -12039,7 +12039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Staff-san, don't you know something?\nYou're familiar with this place."
+                                "Tsue-san, you know something, don't you?\nYou are well-acquainted with this place."
                             ],
                             "_original": "杖さん、何か知っているのではありませぬか？\nあなたはこの場所に詳しい。"
                         },
@@ -12059,7 +12059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have no specialized knowledge of mana... I\ndon't understand its flow."
+                                "I have no specialized knowledge of Mana...\nI do not understand its flows."
                             ],
                             "_original": "私にマナの専門的な知識などあらず……\n流れなど分からぬ。"
                         },
@@ -12095,7 +12095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...But it's always been like this. The air feels\nclearer when monsters appear."
+                                "...But, it's always been like this.\nIt felt as though the air was clearer whenever monsters appeared."
                             ],
                             "_original": "……だが、昔からこうだった。\n魔物が現れたときほど空気が澄んでいる感じがした。"
                         },
@@ -12138,7 +12138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Always... Staff-san, you..."
+                                "\"Always\"...\nTsue-dono, you..."
                             ],
                             "_original": "昔、って……\n杖殿、あなたは……"
                         },
@@ -12181,7 +12181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shouldn't we hurry to Clothing first?"
+                                "Should we not hurry to Koromo's side first?"
                             ],
                             "_original": "まずは衣のところへ急ぐべきではないのか？"
                         },
@@ -12208,7 +12208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, yeah. That's right."
+                                "A-Ah.\nThat, we should."
                             ],
                             "_original": "あ、ああ。\nそれは、そうだ。"
                         },
@@ -12228,7 +12228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I expect you to tell us everything in\nthe end."
+                                "I'll be expecting you to tell us a lot more eventually."
                             ],
                             "_original": "最終的に、多くを語ることを期待していますよ。"
                         },
@@ -12838,7 +12838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a corpse. It's very dirty..."
+                                "It's a corpse.\nIt's so filthy……"
                             ],
                             "_original": "亡骸だ。\nとても汚れている……"
                         },

@@ -9164,7 +9164,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10124,7 +10124,7 @@
         {
             "id": 14,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10224,7 +10224,7 @@
         {
             "id": 15,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10324,7 +10324,7 @@
         {
             "id": 16,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10424,7 +10424,7 @@
         {
             "id": 17,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12362,7 +12362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your sense of give-and-take. Didn't you want to\nask more? About Tadashi-san, for example?"
+                                "Your sense of give-and-take. Didn't you want to\nask more? About Nao-san, for example?"
                             ],
                             "_original": "駆け引きの感覚ですよ。\n本当はもっと探りたかったのでは？\n直さんのこととか。"
                         },
@@ -14762,7 +14762,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -15724,7 +15724,7 @@
         {
             "id": 22,
             "name": "移動",
-            "note": "<HM拡大領域:0,0,0,1>",
+            "note": "<HM拡大領域:0,0,0,1><poi>",
             "pages": [
                 {
                     "conditions": {

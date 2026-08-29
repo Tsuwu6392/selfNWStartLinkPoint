@@ -4423,7 +4423,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HM拡大領域:0,1,1,0>",
+            "note": "<HM拡大領域:0,1,1,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4514,7 +4514,7 @@
         {
             "id": 2,
             "name": "移動SC",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4896,7 +4896,7 @@
         {
             "id": 4,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4963,7 +4963,7 @@
         {
             "id": 5,
             "name": "読み物",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {

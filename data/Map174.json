@@ -5523,7 +5523,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HM拡大領域:0.5,0,0,0>",
+            "note": "<HM拡大領域:0.5,0,0,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5845,7 +5845,7 @@
         {
             "id": 6,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5912,7 +5912,7 @@
         {
             "id": 7,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5979,7 +5979,7 @@
         {
             "id": 8,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6046,7 +6046,7 @@
         {
             "id": 9,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6113,7 +6113,7 @@
         {
             "id": 10,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6180,7 +6180,7 @@
         {
             "id": 11,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6247,7 +6247,7 @@
         {
             "id": 12,
             "name": "EV012",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6980,7 +6980,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -6988,7 +6988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Beyond here is Meikoku Mountain... It's\noff-limits. Please turn back."
+                                "Beyond here is Mt. Meikoku... it is a forbidden area.\nPlease turn back."
                             ],
                             "_original": "この先は命刻山……禁足地です。\nお引き取りを。"
                         },
@@ -7126,7 +7126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Um... I'd like to go to Meikoku\nMountain. Could you tell me the way?"
+                                "Um.\nI'd like to go to a place called Mt. Meikoku,\ncould you tell me the way?"
                             ],
                             "_original": "あのう。\n命刻山というところに行きたいのだが、\n道を教えてもらえないか？"
                         },
@@ -7138,7 +7138,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -7146,7 +7146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sigh... again? Meikoku Mountain is off-limits.\nPlease leave."
+                                "Haa, not again... Mt. Meikoku is off-limits.\nPlease turn back."
                             ],
                             "_original": "はあ、またですか……命刻山は禁足地です。\nお引き取りを。"
                         },
@@ -7166,7 +7166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Again? Has someone else come besides us?"
+                                "Again?\nDid someone else come besides us?"
                             ],
                             "_original": "また？\n私たち以外にも誰か来たのですか？"
                         },
@@ -7178,7 +7178,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -7186,7 +7186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No one in particular... Ever since the cursed\nroots vanished, the restrictions on Night\nWalking Cave have been relaxed, and soldiers\nfrom the Shibagumi have been showing up every\nday."
+                                "Everyone, really... Ever since the Itoi-ne vanished,\nthe entry restrictions to Yakou Iwaya have been relaxed,\nand Shibagumi officers have been visiting nearly every day."
                             ],
                             "_original": "誰も何も……厭い根が消えてからというもの、\n夜行岩屋の立ち入りの制限が緩和され\n連日のように柴組の隊士などが訪れています。"
                         },
@@ -7246,7 +7246,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -7254,7 +7254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Frankly, it's exhausting! Meikoku Mountain is\na sacred place where the sun rises! You mustn't\nenter on a whim!"
+                                "...To be honest, I'm fed up with it!\nMt. Meikoku is the Holy Land of the Rising Sun!\nYou must not enter it with a light heart!"
                             ],
                             "_original": "……はっきり言って、うんざりです！\n命刻山は日出ずる聖地！\n軽い気持ちで入ってはいけないのです！"
                         },
@@ -7322,7 +7322,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Waaah! I'm sorry!"
+                                "Uwaah!\nI'm so sorry!"
                             ],
                             "_original": "うわあっ！\nごめんなさい！"
                         },
@@ -7342,7 +7342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are you turning the soldiers away too?"
+                                "Are you turning away the officers as well?"
                             ],
                             "_original": "隊士たちも追い返しているのか？"
                         },
@@ -7354,7 +7354,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -7362,7 +7362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No... \\! well, yes. The rule about it being\noff-limits is just the shrine's policy. We can't\ngo against the country's orders."
+                                "No...\\! Haa.\nCalling it off-limits is merely a rule of the shrine.\nWe cannot go against the national policy."
                             ],
                             "_original": "いえ……\\!はあ。\n禁足地だというのは、あくまで神社の決まり。\n国の方針には勝てません。"
                         },
@@ -7382,7 +7382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We did not come here on a whim. We have\na very important matter to attend to."
+                                "This humble monk and the others have not come with a light heart.\nWe have very important business."
                             ],
                             "_original": "拙僧らは軽い気持ちで来たわけではありませぬ。\nとても大事な用があるのです。"
                         },
@@ -7402,7 +7402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed. So, might we enter?"
+                                "Umu, exactly.\nCould you let us in?"
                             ],
                             "_original": "うむ、その通り。\n入れてもらえんかのう。"
                         },
@@ -7414,7 +7414,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -7422,7 +7422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Huh? Lady Inugami!"
+                                "...Oh?\nInugami-sama!"
                             ],
                             "_original": "……あれ？\n隠神様！"
                         },
@@ -7442,7 +7442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Call me Aruko."
+                                "Just call me Aruko."
                             ],
                             "_original": "存子と呼べい。"
                         },
@@ -7454,7 +7454,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -7462,7 +7462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It was the will of the Shikon Kaii! You\nshould've said so sooner!"
+                                "To think it was the will of a Shikon Kaii!\nYou should have said so sooner."
                             ],
                             "_original": "四魂怪異のご意志だったとは！\n早く言ってくださいよ、そういうことは。"
                         },
@@ -7547,7 +7547,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -7555,7 +7555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If it's Lady Inugami's wish, there's no reason\nto stop you. Go ahead, please."
+                                "If it is Inugami-sama's wish, I have no reason to stop you.\nGo right ahead."
                             ],
                             "_original": "隠神様の望みとあらば、止める道理などありません。\nさあ、どうぞ。"
                         },
@@ -7575,7 +7575,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh! Thank you!"
+                                "Ohhh!\nThank you!"
                             ],
                             "_original": "おおっ！\nありがとう！"
                         },
@@ -7595,7 +7595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Call me Aruko!"
+                                "I said call me Aruko!"
                             ],
                             "_original": "存子と呼べい！"
                         },
@@ -7909,7 +7909,7 @@
         {
             "id": 21,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7952,7 +7952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Got it!"
+                                "Bucket!"
                             ],
                             "_original": "おけ！"
                         },
@@ -8109,7 +8109,7 @@
         {
             "id": 24,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8346,7 +8346,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -8354,7 +8354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Meikoku Mountain is a volcano with flowing lava.\nOne wrong step could cost you your life...\nPlease be careful."
+                                "Mt. Meikoku is a volcano with flowing lava.\nYou could lose your life if you lose your footing...\nPlease be careful."
                             ],
                             "_original": "命刻山は溶岩の流れる火山です。\n足を踏み外せば命を落としかねません……\nお気をつけて。"
                         },
@@ -8366,7 +8366,7 @@
                                 0,
                                 0,
                                 2,
-                                "Takashita"
+                                "Kougami"
                             ],
                             "_original": "高下"
                         },
@@ -8374,7 +8374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Also, don't go moving natural objects around on\nyour own. Don't forget that this is technically\nforbidden ground."
+                                "Also, please do not move natural objects without permission.\nPlease do not forget that it is originally a forbidden area."
                             ],
                             "_original": "それと、勝手に自然物を動かしたりしないように。\n本来は禁足地であることを忘れないでください。"
                         },
@@ -8411,7 +8411,7 @@
         {
             "id": 27,
             "name": "立て札",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8462,7 +8462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Beyond lies the sacred land, Myokoku Mountain.\""
+                                "「Beyond here:\nHoly Land of the Rising Sun,\nMt. Meikoku」"
                             ],
                             "_original": "「この先　日出ずる聖地　命刻山」"
                         },
@@ -8501,7 +8501,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's on the back of the signpost!"
+                                "It's the back of the signpost!"
                             ],
                             "_original": "立て札の裏側だ！"
                         },
@@ -8531,7 +8531,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's on the side of the signpost!"
+                                "It's the side of the signpost!"
                             ],
                             "_original": "立て札の側面だ！"
                         },

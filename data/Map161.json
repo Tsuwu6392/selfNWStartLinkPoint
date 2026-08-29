@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "Drum Village",
+    "displayName": "Ponpoko Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -5588,7 +5588,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6091,7 +6091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's an unnatural pot. It's far too\nclean to be left out in the wild like\nthis."
+                                "That's an unnatural pot.\nIt's far too clean for something sitting outside."
                             ],
                             "_original": "不自然な壺だ。\n野外に置かれているわりには綺麗すぎる。"
                         },
@@ -6111,7 +6111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Yes. It must be the work of a tanuki,\nright?"
+                                "Indeed.\nI assume it is a tanuki?"
                             ],
                             "_original": "ですね。\n狸さんなのでしょう？"
                         },
@@ -6208,7 +6208,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -6216,7 +6216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mmph… So you lot are the travelers from the\nrumors, eh?"
+                                "Muu...\nSo ye are the rumored travelers-pon."
                             ],
                             "_original": "むう……\nおぬしたちが噂の旅人ぽんか。"
                         },
@@ -6236,7 +6236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Whoa! The pot isn't a pot anymore!"
+                                "Whaaa!\nThe pot isn't a pot anymore!"
                             ],
                             "_original": "うわあ！\n壺が壺じゃなくなった！"
                         },
@@ -6256,7 +6256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're only just noticing that now?"
+                                "You're surprising yourself with that *now*?"
                             ],
                             "_original": "今更そこに驚きます？"
                         },
@@ -6276,7 +6276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Haven't you heard from your friend?\nWe're good people."
+                                "Have you not heard from your friends?\nAbout how we are good people."
                             ],
                             "_original": "友達の方から聞いていませんか？\n私たちがいい人だということ。"
                         },
@@ -6288,7 +6288,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -6296,7 +6296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I've heard, pon. But this Ponemon doesn't trust\nso easily, pon."
+                                "I have heard-pon.\nHowever, this Pon-emon does not lower his guard so easily-pon."
                             ],
                             "_original": "聞いているぽん。\nしかしこのぽん衛門、そう簡単に心を許さぬぽん。"
                         },
@@ -6316,7 +6316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\N[10]-sama! The pot!"
+                                "\\N[10]-dono!\nThe pot!"
                             ],
                             "_original": "\\N[10]殿！\n壺が！"
                         },
@@ -6336,7 +6336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You're being loud."
+                                "You're being noisy."
                             ],
                             "_original": "うるさいぞ。"
                         },
@@ -6348,7 +6348,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -6356,7 +6356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "At the very least, you must know about mystic\ntanuki to have any interest in us, pon… Try\nanswering this: what is it that we collect, pon?"
+                                "At the very least,\nI have no interest in those who know nothing of the Youri-pon...\nAnswer me this one thing-pon.\nJust what is it that we collect-pon?"
                             ],
                             "_original": "少なくとも、妖狸のことをよく知らねば興味も持たぬぽん……\n一つ応えてみるがよいぽん。\n我らが集めているものといえば何ぽん？"
                         },
@@ -6440,7 +6440,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -6448,7 +6448,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hmm? Your pronunciation's a bit off, pon… Say it\nmore accurately!"
+                                "Hm?\nThat pronunciation is slightly off-pon... More accurately!"
                             ],
                             "_original": "ん？\n発音が少し違うぽん……もっと正確に！"
                         },
@@ -6477,7 +6477,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -6485,7 +6485,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Wrong, pon, completely wrong, pon. Come back\nwhen you've got it right, pon."
+                                "Wrong-pon, entirely wrong-pon.\nCome back once you have tried again-pon."
                             ],
                             "_original": "違うぽん、全く違うぽん。\n出直してくるがよいぽん。"
                         },
@@ -6581,7 +6581,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hmm… Does anyone know? What do mystic\ntanuki collect?"
+                                "Hmmm... does anyone know?\nThe thing Youri collect."
                             ],
                             "_original": "うーん……誰か知ってます？\n妖狸が集めてるもの。"
                         },
@@ -6601,7 +6601,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Hehehe. If you travel often, you'll see\nthem lying around everywhere."
+                                "Fufufu.\nIt is something you often see lying on the ground\nwhen you are out traveling."
                             ],
                             "_original": "ふふふ。\n旅をしていればよく見かける、\n落ちているものですよ。"
                         },
@@ -6621,7 +6621,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "We've picked them up before, I'm sure of\nit."
+                                "We must have picked them up ourselves.\nSurely."
                             ],
                             "_original": "私たちも拾ったことがあるはずです。\nきっと。"
                         },
@@ -6641,7 +6641,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Wait, am I the only one who doesn't\nknow…?"
+                                "Wait, am I the only one who doesn't know..."
                             ],
                             "_original": "あれ、私だけ知らない感じですか……"
                         },
@@ -6661,7 +6661,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Oh! So the mystic tanuki was in\ndisguise!"
+                                "I see!\nIt was a transformed Youri, wasn't it!?"
                             ],
                             "_original": "そうか！\n妖狸が変化していたんだな！？"
                         },
@@ -7000,7 +7000,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -7008,7 +7008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let me ask you again... What is it that we\ncollect?"
+                                "I shall ask you once more...\nJust what is it that we collect-pon?"
                             ],
                             "_original": "改めて問おう……\n我らが集めているものといえば何ぽん？"
                         },
@@ -7092,7 +7092,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -7100,7 +7100,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Hmm? Your pronunciation is a little off... Say\nit more accurately!"
+                                "Hm?\nThat pronunciation is slightly off-pon... More accurately!"
                             ],
                             "_original": "ん？\n発音が少し違うぽん……もっと正確に！"
                         },
@@ -7129,7 +7129,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -7137,7 +7137,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "No, completely wrong. Come back when you've got\nit right."
+                                "Wrong-pon, entirely wrong-pon.\nCome back once you have tried again-pon."
                             ],
                             "_original": "違うぽん、全く違うぽん。\n出直してくるがよいぽん。"
                         },
@@ -7233,7 +7233,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\N[10]-san, you should know. You've given some\nto Ponjirou-san before, haven't you?"
+                                "\\N[10]-san, you should know.\nYou have given them to Ponjirou-san before as well."
                             ],
                             "_original": "\\N[10]さん、あなたは知っているはず。\nぽん次郎さんにも渡したことがあるでしょう。"
                         },
@@ -7253,7 +7253,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It's round, and generally considered\nworthless."
+                                "It is something round and generally worthless."
                             ],
                             "_original": "丸くて、一般的には価値がないものですよ。"
                         },
@@ -7393,7 +7393,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -7401,7 +7401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Correct, pon. I see, you've studied a bit, pon."
+                                "Correct-pon.\nI see, it seems you have studied a little-pon."
                             ],
                             "_original": "正解ぽん。\nなるほど、少しは勉強しているようだぽん。"
                         },
@@ -7421,7 +7421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Acorns are the Mystic Tanuki's currency.\nYou all must use them for trade."
+                                "Acorns are the currency of Youri.\nYou likely use them for trading with us."
                             ],
                             "_original": "どんぐりは妖狸の貨幣。\nあなた方は、これにより取引をするのでしょう。"
                         },
@@ -7433,7 +7433,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -7441,7 +7441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right, pon, monk. But this one also\nunderstands human currency, pon―"
+                                "Precisely-pon, little monk.\nHowever, I am also willing to show understanding\ntoward human currency-pon──"
                             ],
                             "_original": "その通りだぽん、僧侶よ。\nしかし吾輩は人間の通貨にも理解を示しているぽん──"
                         },
@@ -7453,7 +7453,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -7461,7 +7461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―so, if you give me acorns or mana, I'll trade\nyou what I have, pon. Feel free to call on me\nwhen you need something, pon."
+                                "──Therefore, if you give me acorns or mana,\nI shall let you have some of the things I possess-pon.\nFeel free to call upon me when necessary-pon."
                             ],
                             "_original": "──というわけで、どんぐりやマナをくれるならば\n吾輩が持つ物を譲ってやるぽん。\n必要なときには声をかけるがよいぽん。"
                         },
@@ -7585,7 +7585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Huh? So what happened in the end?"
+                                "...Huh?\nSo what actually happened?"
                             ],
                             "_original": "……あれ？\n結局どうなったんだ？"
                         },
@@ -7605,7 +7605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To summarize, it seems he'll sell us\nthings. Like a trading company."
+                                "To summarize, it seems he'll sell us things.\nIt's like a trading company."
                             ],
                             "_original": "要約すると物を売ってくれるみたいですね。\n商会みたいなものですよ。"
                         },
@@ -7625,7 +7625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hope we don't lose to the Mystic Tanuki\nin sales."
+                                "I hope he does not outperform you.\nIn sales."
                             ],
                             "_original": "妖狸に負けないといいですね。\n売上。"
                         },
@@ -7645,7 +7645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, we won't lose!"
+                                "I-I won't lose!"
                             ],
                             "_original": "ま、負けませんよ！"
                         },
@@ -7732,7 +7732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]Pon-Poko Exchange, Ponemon's Chapter\\C[0] achieved!"
+                                "\\C[17]Ponpoko Exchange: Emon Chapter\\C[0] Achieved!"
                             ],
                             "_original": "\\C[17]ぽんぽこ交流、衛門の巻\\C[0] 達成！"
                         },
@@ -7763,7 +7763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[16]【Element Release】\\C[0]"
+                                "\\C[16]【Feature Unlocked】\\C[0]"
                             ],
                             "_original": "\\C[16]【要素解放】\\C[0]"
                         },
@@ -7771,7 +7771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can now buy items from Ponemon."
+                                "You can now buy items from Pon-emon."
                             ],
                             "_original": "ぽん衛門から物を買えるようになりました。"
                         },
@@ -7910,7 +7910,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -7918,7 +7918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Welcome, poof."
+                                "Welcome-pon."
                             ],
                             "_original": "よく来たぽん。"
                         },
@@ -8153,7 +8153,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponemon"
+                                "Pon-emon"
                             ],
                             "_original": "ぽん衛門"
                         },
@@ -8161,7 +8161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Farewell... poof."
+                                "Farewell... pon."
                             ],
                             "_original": "さらば……ぽん。"
                         },
@@ -8617,7 +8617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Too bad this time... Well, it *is* hard\nto notice, I suppose."
+                                "That was a close one this time...\nIt's moderately difficult to tell, but I can see it."
                             ],
                             "_original": "今回は惜しいですね……\nまあまあ分かりにくいですよ、分かりますけど。"
                         },
@@ -8722,7 +8722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How did you notice, pon..."
+                                "How did you notice-pon..."
                             ],
                             "_original": "どうして気づいたぽん……"
                         },
@@ -8742,7 +8742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We've passed through here before. A\nsignpost we don't recognize stands out."
+                                "We have passed through here before.\nAn unfamiliar signpost feels out of place."
                             ],
                             "_original": "私たちはここを通ったことがありますから。\n見覚えのない立て札には違和感を覚えます。"
                         },
@@ -8762,7 +8762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uguu~, I give up, pon... Ponmiya loses, pon! By\ntradition, the winner gets an acorn, pon!"
+                                "Uguuu~, I surrender-pon... Miya's loss-pon!\nIt's the rule to give acorns to the winner-pon!"
                             ],
                             "_original": "うぐぅ～、降参だぽん……宮の負けぽん！\n勝者にはどんぐりを渡す決まりだぽん！"
                         },
@@ -8782,7 +8782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't get it, but we won!"
+                                "Nazuna doesn't quite understand, but we won!"
                             ],
                             "_original": "よく分からないが勝った！"
                         },
@@ -8802,7 +8802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Relax. Everyone else got it."
+                                "Rest easy.\nEveryone except you understands."
                             ],
                             "_original": "安心しろ。\nお前以外は分かっている。"
                         },
@@ -8822,7 +8822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then Ponmiya's going home, pon! Farewell, pon!"
+                                "Well then, Miya is going home-pon!\nFarewell-pon!"
                             ],
                             "_original": "じゃあ、宮はおうちに帰るぽん！\nさらばぽん！"
                         },
@@ -8901,7 +8901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your endgame was sloppy, but the\ntransformation itself was impressive. I\ndidn't expect you to turn into a person."
+                                "While the finishing touches were a bit careless,\nthe transformation itself was magnificent.\nTo be able to take human form, as well."
                             ],
                             "_original": "詰めこそ甘かったものの、変化そのものは見事でした。\n人にまで化けられるとは。"
                         },
@@ -8921,7 +8921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Mystic Tanuki in this village\nreceive Four-Soul education. They're not\nlike ordinary youkai."
+                                "The Youri of this village are educated by the Shikon Kaii.\nThey are different from common Kaii."
                             ],
                             "_original": "この村の妖狸は四魂怪異の教育を受けている。\nそこらの怪異とは違う。"
                         },
@@ -8941,7 +8941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They'd be a real pain as enemies,\nwouldn't they?"
+                                "They'd be a handful if they were enemies, wouldn't they."
                             ],
                             "_original": "敵だと厄介だったでしょうねえ。"
                         },
@@ -8961,7 +8961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nazuna-san... Actually, I'm a Mystic\nTanuki too."
+                                "Nazuna-san.\nActually, I am a Youri as well."
                             ],
                             "_original": "ナズナさん。\n実は私も妖狸です。"
                         },
@@ -8981,7 +8981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wha―?! No way!"
+                                "Eh!?\nUwaaa!"
                             ],
                             "_original": "え！？\nうわあ！"
                         },
@@ -9056,7 +9056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]Pon-Poko Exchange: Ponmiya's Chapter\\C[0] achieved!"
+                                "\\C[17]Ponpoko Exchange: Miya Chapter\\C[0] Achieved!"
                             ],
                             "_original": "\\C[17]ぽんぽこ交流、宮の巻\\C[0] 達成！"
                         },
@@ -9369,7 +9369,7 @@
                                 0,
                                 0,
                                 2,
-                                "Spinning Tanuki"
+                                "Spinning Youri"
                             ],
                             "_original": "回る妖狸"
                         },
@@ -9377,7 +9377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Poof~~~!!"
+                                "Pon~~~!!"
                             ],
                             "_original": "ぽん～～～！！"
                         },
@@ -9465,7 +9465,7 @@
                                 0,
                                 0,
                                 2,
-                                "Spinning Tanuki"
+                                "Spinning Youri"
                             ],
                             "_original": "回る妖狸"
                         },
@@ -9473,7 +9473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Poko~~~~!!"
+                                "Poko~~~!!"
                             ],
                             "_original": "ぽこ～～～！！"
                         },
@@ -9569,7 +9569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "When we grow up, we often go on journeys, pon.\nWe collect treasures out there, pon!"
+                                "When we grow up, we often set off on journeys-pon.\nTo collect treasure out in the world-pon!"
                             ],
                             "_original": "僕たちは大人になると旅に出ることが多いぽん。\n外でお宝を集めるんだぽん！"
                         },
@@ -9589,7 +9589,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, when we get rich, we come back, pon. It's\nour way of repaying grandma, pon."
+                                "And then, when we become wealthy, we return-pon.\nTo repay our debt to Batchan-pon."
                             ],
                             "_original": "それで、裕福になったら帰ってくるんだぽん。\nばっちゃんに恩返しだぽん。"
                         },
@@ -9609,7 +9609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ohh... what wonderful children they are!"
+                                "Uuu...\nWhat good children they are!"
                             ],
                             "_original": "ううっ……\nなんていい子たちなんだ！"
                         },
@@ -9629,7 +9629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To feel the peace of Shikinowa even in\nsuch a remote place..."
+                                "To think I'd experience the peacefulness of Shikinowa\neven in such a remote region."
                             ],
                             "_original": "こんな僻地でもシキノワの平和さを実感するとは。"
                         },
@@ -9708,7 +9708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "By the way, I've decided not to go on any\njourneys, Ponshi. The outside world is scary,\nPonshi."
+                                "By the way, I've decided not to go on a journey-pon.\nThe outside world is scary-pon."
                             ],
                             "_original": "ちなみに僕は旅に出ないことにしてるぽん。\n外は怖いぽん。"
                         },
@@ -9728,7 +9728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wha―?!"
+                                "Eh?!"
                             ],
                             "_original": "え！？"
                         },
@@ -9792,7 +9792,7 @@
         {
             "id": 13,
             "name": "調べる",
-            "note": "<HM拡大領域:0.5,0.5,3.5,0.5>",
+            "note": "<HM拡大領域:0.5,0.5,3.5,0.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9835,7 +9835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Jizo statues!"
+                                "Many Jizo-sama!"
                             ],
                             "_original": "お地蔵様たち！"
                         },
@@ -9855,7 +9855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What if they're all Mystic Tanuki?"
+                                "I wonder if they're all Youri, too."
                             ],
                             "_original": "全部妖狸だったりして。"
                         },

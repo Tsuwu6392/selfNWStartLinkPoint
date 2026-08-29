@@ -6128,7 +6128,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6219,7 +6219,7 @@
         {
             "id": 2,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6286,7 +6286,7 @@
         {
             "id": 3,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6353,7 +6353,7 @@
         {
             "id": 4,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6531,7 +6531,7 @@
         {
             "id": 6,
             "name": "接触イベント",
-            "note": "<HM拡大領域:0,3,3,0>",
+            "note": "<HM拡大領域:0,3,3,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7573,7 +7573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The person is a monk, and the monster...\nis a freak called a Itoine. If you recognize them,\nwe'd like to hear about it."
+                                "The person is a monk, and the monster...\nis a freak called a Itoi-ne. If you recognize them,\nwe'd like to hear about it."
                             ],
                             "_original": "人は僧侶、魔物は……厭い根と呼ばれる異形です。\n見覚えがあれば話を聞きたいのですが。"
                         },
@@ -9217,7 +9217,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "So in a way, have all the problems been solved?\nSince even the Itoine was eaten by Kanienrumu-dono."
+                                "So in a way, have all the problems been solved?\nSince even the Itoi-ne was eaten by Kanienrumu-dono."
                             ],
                             "_original": "一応、問題はすべて解決したことになるのか。\n厭い根もカニエンルム殿に喰われたのだから。"
                         },
@@ -9936,7 +9936,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He's the kind of bastard who even eats the Itoine.\nIt might be possible."
+                                "He's the kind of bastard who even eats the Itoi-ne.\nIt might be possible."
                             ],
                             "_original": "厭い根すらも喰うような奴だ。\nあり得るかもしれんな。"
                         },
@@ -11281,7 +11281,7 @@
         {
             "id": 10,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -11412,7 +11412,7 @@
         {
             "id": 11,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -11543,7 +11543,7 @@
         {
             "id": 12,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

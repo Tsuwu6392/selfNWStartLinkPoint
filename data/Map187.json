@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "Bell-Striking Cave",
+    "displayName": "Kanetsuki Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3557,7 +3557,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -3565,7 +3565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can't escape... You'll become sustenance for\nthe root of salvation."
+                                "You all cannot escape……\nYou shall become nourishment for the root of salvation."
                             ],
                             "_original": "お前たちは逃げられない……\n救いの根の糧となるのさ。"
                         },
@@ -3585,7 +3585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...If we force our way out, it'll turn\ninto a fight. Let's look for another\npath."
+                                "……It looks like a fight will break out if we force our way out.\nLet's look for another path."
                             ],
                             "_original": "……無理矢理出ると戦いになってしまいそうだ。\n他の道を探そう。"
                         },
@@ -3709,7 +3709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We can't get out from here. Let's look\nfor another path."
+                                "We can't get out from here.\nLet's look for another path."
                             ],
                             "_original": "ここからは出られない。\n他の道を探そう。"
                         },
@@ -3825,7 +3825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We can't get out from here. Let's look\nfor another path."
+                                "We can't get out from here.\nLet's look for another path."
                             ],
                             "_original": "ここからは出られない。\n他の道を探そう。"
                         },
@@ -3989,7 +3989,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4080,7 +4080,7 @@
         {
             "id": 3,
             "name": "接触イベント",
-            "note": "<HM拡大領域:3,0,0,3>",
+            "note": "<HM拡大領域:3,0,0,3><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4154,7 +4154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-What a... lonely-looking interior."
+                                "W-well... \nwhat a lonely interior."
                             ],
                             "_original": "な、なんとも……\n寂しげな内装だ。"
                         },
@@ -4272,7 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I heard a noise!"
+                                "I heard a sound!"
                             ],
                             "_original": "音がした！"
                         },
@@ -4292,7 +4292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The entrance door has been closed."
+                                "The entrance door was closed."
                             ],
                             "_original": "入口の扉を閉じられた。"
                         },
@@ -4312,7 +4312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, we've been locked in? Haa."
+                                "So, we've been trapped?\nHaa."
                             ],
                             "_original": "つまり、閉じ込められたと？\nはあ。"
                         },
@@ -4351,7 +4351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They should still be on the other side\nof the door. You should listen to what\nthey have to say."
+                                "She should still be on the other side.\nListen to her claim."
                             ],
                             "_original": "まだ扉の向こう側にいるはずだ。\n主張を聞いてみるがいい。"
                         },
@@ -4371,7 +4371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Y-You're awfully calm about this...\nStaff-sama..."
+                                "You're... very calm, aren't you, \nTsue-dono..."
                             ],
                             "_original": "と、とても冷静だな……\n杖殿……"
                         },
@@ -4391,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's probably within expectations. Same\nfor me."
+                                "I suppose it's within expectations.\nFor me too."
                             ],
                             "_original": "想定内ということだろう。\n俺もだが。"
                         },
@@ -4447,7 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey! Why did you close the door?! Open\nit up!"
+                                "Hey, why did you close the door!? \nOpen it!"
                             ],
                             "_original": "おーい、どうして扉を閉めたんだ！？\n開けてくれ！"
                         },
@@ -4459,7 +4459,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -4467,7 +4467,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Damn those capital bastards... Rot in there and\nbecome sustenance for the Root of Salvation."
+                                "You capital beasts... \nRot there and become nourishment for the Root of Salvation."
                             ],
                             "_original": "都の畜生どもめが……\nそこで朽ち、救いの根の糧となれ。"
                         },
@@ -4487,7 +4487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Just to ask, but what is the Root of\nSalvation?"
+                                "...I will ask, just in case. \nWhat is this \"Root of Salvation\""
                             ],
                             "_original": "……一応、聞きますが。\n救いの根というのは？"
                         },
@@ -4507,7 +4507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They call the accursed root by that\nname."
+                                "That is what they call Itoi-ne."
                             ],
                             "_original": "奴らは厭い根をそう呼ぶ。"
                         },
@@ -4527,7 +4527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What in the world is going on?! You're\nhuman, so are you part of the accursed\nroot's group?"
+                                "What on earth does that mean? \nThey're humans, but they're allies of the Itoi-ne?"
                             ],
                             "_original": "いったいどういうことなんです？\n人間なのに厭い根の仲間なんですか？"
                         },
@@ -4547,7 +4547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Th-That's absurd! The accursed root is a\ndangerous existence! Don't be fooled!"
+                                "Th-That's crazy. \nItoi-ne are dangerous! \nYou shouldn't be fooled!"
                             ],
                             "_original": "そ、そんな馬鹿な。\n厭い根は危険な存在だ！\n騙されてはいけない！"
                         },
@@ -4559,7 +4559,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -4567,7 +4567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The ones being fooled are you. Bound to the\nsupernatural, you've lost your dignity..."
+                                "You are the ones being fooled. \nSeduced by Kaii, you have lost your dignity..."
                             ],
                             "_original": "騙されているのはお前たちよ。\n怪異に絆され、尊厳を失ったのだ……"
                         },
@@ -4587,7 +4587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wh-What do you mean by that? Dignity...?"
+                                "Eh, what do you mean? \nDignity...?"
                             ],
                             "_original": "ええ、どういう意味だ？\n尊厳って……"
                         },
@@ -4599,7 +4599,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -4607,7 +4607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just you wait. The root will cover the capital\nentirely, and the age of man will return."
+                                "Just wait and see. \nThe Root will cover the capital,\nand the era of humans will come again."
                             ],
                             "_original": "今に見ていろ。\n根は都を覆い尽くし、人の世が再び来る。"
                         },
@@ -4636,7 +4636,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have no idea what you're talking\nabout..."
+                                "I have absolutely no idea what she's talking about..."
                             ],
                             "_original": "何を言っているのかさっぱり……"
                         },
@@ -4656,7 +4656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's normal that you don't understand."
+                                "It is normal to not understand."
                             ],
                             "_original": "理解できぬのが正常。"
                         },
@@ -4676,7 +4676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I see. So it's certain that the\nperson here lured the accursed root,\nisn't it?"
+                                "...I am convinced now. \nThere is no doubt those in this place are the ones \nwho have been luring the Itoi-ne."
                             ],
                             "_original": "……納得はしました。\nここにいる方が厭い根を誘導したのは\n間違いないのでしょう。"
                         },
@@ -4696,7 +4696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So―what do we do? At this rate, they'll\nprobably bring the accursed root here\ntoo."
+                                "Now—what do we do? \nIf that's the case,\nthere's a high probability they'll bring Itoi-ne here too."
                             ],
                             "_original": "さて──どうする？\nあの様子だと、ここにも厭い根を連れてくる可能性が高い。"
                         },
@@ -4716,7 +4716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's escape using the Stone of Return."
+                                "Let's escape with a Return Stone."
                             ],
                             "_original": "帰郷の石で逃げましょ。"
                         },
@@ -4736,7 +4736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Th-That's... it doesn't seem to work\nhere. The flow of mana feels blocked..."
+                                "Th-the thing is... it seems it won't work here. \nIt feels as though the flow of mana is being obstructed..."
                             ],
                             "_original": "そ、それが……ここでは使えないみたいなんだ。\nマナの流れが阻害されている感じで……"
                         },
@@ -4756,7 +4756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh?"
+                                "Eh."
                             ],
                             "_original": "えっ。"
                         },
@@ -4776,7 +4776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's no issue... This building has a\npath leading outside. Deeper in."
+                                "Not a problem... there is a path leading outside in this house. \nTo the back."
                             ],
                             "_original": "問題にならず……この家屋には外へと続く道がある。\n奥へ。"
                         },
@@ -5131,7 +5131,7 @@
         {
             "id": 5,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5211,7 +5211,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

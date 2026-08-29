@@ -6248,7 +6248,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6430,7 +6430,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HM拡大領域:0.5,0,0,0>",
+            "note": "<HM拡大領域:0.5,0,0,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6521,7 +6521,7 @@
         {
             "id": 4,
             "name": "EV004",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6581,7 +6581,7 @@
         {
             "id": 5,
             "name": "立て札",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6709,7 +6709,7 @@
         {
             "id": 6,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {

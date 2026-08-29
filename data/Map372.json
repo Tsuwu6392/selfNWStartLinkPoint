@@ -20753,7 +20753,7 @@
         {
             "id": 72,
             "name": "聖刻碑",
-            "note": "<HM拡大領域:0,0.5,0.5,0.5>",
+            "note": "<HM拡大領域:0,0.5,0.5,0.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -22680,7 +22680,7 @@
         {
             "id": 81,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -22760,7 +22760,7 @@
         {
             "id": 82,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -22840,7 +22840,7 @@
         {
             "id": 83,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -22920,7 +22920,7 @@
         {
             "id": 84,
             "name": "調べる",
-            "note": "<HM拡大領域:0.5,0.5,0.5,0>",
+            "note": "<HM拡大領域:0.5,0.5,0.5,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -23119,7 +23119,7 @@
         {
             "id": 85,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -23199,7 +23199,7 @@
         {
             "id": 86,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -23956,7 +23956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Awayuki-dono, why not ask Zahra-dono? About\nTadashi-dono..."
+                                "Awayuki-dono, why not ask Zahra-dono? About\nNao-dono..."
                             ],
                             "_original": "淡雪殿、どうしてザフラ殿に聞かないんだ？\n直殿のこと……"
                         },
@@ -24327,7 +24327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Would it be bad if we did? Even if Zahra\nis plotting something, Tadashi isn't\ninvolved..."
+                                "Would it be bad if we did? Even if Zahra\nis plotting something, Nao isn't\ninvolved..."
                             ],
                             "_original": "話すと何かまずいんですか？\n仮にザフラが何かを企んでいたとしても、\n直は別に関係ないんじゃ……"
                         },
@@ -24414,7 +24414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nazuna-san, it was Zahra-san who moved\nus. Naturally, Tadashi-san as well."
+                                "Nazuna-san, it was Zahra-san who moved\nus. Naturally, Nao-san as well."
                             ],
                             "_original": "ナズナさん、拙僧らを移動させたのはザフラさんです。\n当然、直さんも同様に。"
                         },
@@ -24702,7 +24702,7 @@
         {
             "id": 88,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {

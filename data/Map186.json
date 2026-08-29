@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "Bell-Striking Cave",
+    "displayName": "Kanetsuki Cave",
     "encounterList": [],
     "encounterStep": 30,
     "height": 21,
@@ -3188,7 +3188,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3401,7 +3401,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -3409,7 +3409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Clothing, where are you? My life... it's not\nenough..."
+                                "Koromo, not yet?\nLife is lacking..."
                             ],
                             "_original": "衣よ、まだか？\n命が足りぬ……"
                         },
@@ -3429,7 +3429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That one might know something."
+                                "That one may know something."
                             ],
                             "_original": "奴は何か知っているかもしれぬ。"
                         },
@@ -3449,7 +3449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "O-okay..."
+                                "A-Alright..."
                             ],
                             "_original": "よ、よし……"
                         },
@@ -3582,7 +3582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "U-um... I have a question about\nClothing..."
+                                "Um.\nThere is something I'd like to ask about Koromo-dono..."
                             ],
                             "_original": "あのう。\n衣殿について聞きたいことが……"
                         },
@@ -3673,7 +3673,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -3681,7 +3681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, Clothing! I've been waiting for you. Share\nyour life with me, your life..."
+                                "Oh Koromo, I've been waiting for you.\nGive me life, life..."
                             ],
                             "_original": "おお衣よ、待っていたぞ。\n命を分けてくれ、命を……"
                         },
@@ -3701,7 +3701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "W-what the...!"
+                                "U-uwaa.!"
                             ],
                             "_original": "う、うわっ。"
                         },
@@ -3721,7 +3721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm sorry, I got confused. Where should\nI go?"
+                                "I am sorry, I seem to have become confused.\nWhere should I be going?"
                             ],
                             "_original": "ごめんなさい、分からなくなってしまったのです。\n私はどこに行けばいいですか？"
                         },
@@ -3733,7 +3733,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -3804,7 +3804,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -3812,7 +3812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "―It's deep in the cave, Clothing. Sorry for\nrushing you."
+                                "──It is deep within the cave, Koromo.\nSorry for rushing you."
                             ],
                             "_original": "──岩屋の奥だよ、衣。\n急かしてごめんねえ。"
                         },
@@ -3852,7 +3852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "By 'cave,' you mean the actual cave, not\nNight Walking Cave, right?"
+                                "By \"cave,\" she does not mean Yakou Iwaya but rather\nthe cave, right? In this case."
                             ],
                             "_original": "岩屋って、夜行岩屋のことではなくて\n洞窟のことですよね、この場合。"
                         },
@@ -3872,7 +3872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Probably."
+                                "Most likely."
                             ],
                             "_original": "恐らくはな。"
                         },
@@ -3892,7 +3892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Where exactly is 'deep in the cave'?"
+                                "Where exactly is deep within the cave?"
                             ],
                             "_original": "岩屋の奥とはどこのことですか？"
                         },
@@ -3904,7 +3904,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -3912,7 +3912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Have you forgotten? North of the north gate,\nwhere you're hiding."
+                                "Have you forgotten?\nIt is further North from the northern gate,\nthe place where you are hiding."
                             ],
                             "_original": "忘れてしまったのかい？\n北の門から更に北、お前が隠しているところだよ。"
                         },
@@ -3932,7 +3932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Clothing Hideout, then. So that\nmeans..."
+                                "……Koromo-gakure. \nIn that case..."
                             ],
                             "_original": "……衣隠れか。\nとなれば……"
                         },
@@ -3952,7 +3952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Do we have enough information,\nStaff-san?"
+                                "Is it alright to not ask any more?\nTsue-san."
                             ],
                             "_original": "これ以上聞かなくても大丈夫ですか？\n杖さん。"
                         },
@@ -3972,7 +3972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's fine."
+                                "No problem."
                             ],
                             "_original": "問題ない。"
                         },
@@ -3992,7 +3992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Then― \\!sorry, I need to spin the thread\nquickly."
+                                "Well then──\\!I am sorry, I shall weave the threads in haste."
                             ],
                             "_original": "では──\\!ごめんなさい、急いで糸を紡ぎます。"
                         },
@@ -4004,7 +4004,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -4012,7 +4012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's okay, Clothing. Thank you, as always."
+                                "It is quite alright, Koromo.\nThank you as always."
                             ],
                             "_original": "いいんだよ、衣。\nいつもありがとうねえ。"
                         },
@@ -4068,7 +4068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Let's go back. From what we just heard,\nwe know where Clothing is."
+                                "Let's head out.\nFrom those words just now, I have understood Koromo's location."
                             ],
                             "_original": "戻るぞ。\n今の話から、衣の居場所が分かった。"
                         },
@@ -4108,7 +4108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Prim-san's quick thinking and way with\nwords never cease to amaze me. Truly\nimpressive."
+                                "Prim-san's quick wit and eloquence are quite surprising.\nTruly skillful."
                             ],
                             "_original": "プリムさんの機転、そして話術には驚かされます。\n実に巧み。"
                         },
@@ -4128,7 +4128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's nothing special."
+                                "It is only standard."
                             ],
                             "_original": "普通ですよ。"
                         },
@@ -4148,7 +4148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The talent of a con artist."
+                                "A talent for being a swindler."
                             ],
                             "_original": "詐欺師の才能。"
                         },
@@ -4168,7 +4168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Still, it was unexpected. The Bell Cave\nHuman doesn't seem to treat Clothing\nharshly."
+                                "Even so, that was unexpected.\nKanetsuki do not seem to be especially harsh toward Koromo."
                             ],
                             "_original": "それにしても、意外だった。\n鐘突きは衣に対し厳しいわけではないようだ。"
                         },
@@ -4188,7 +4188,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Oh, I thought the same. Like, are they\ntreating her like a slave...?"
+                                "Ah, I thought that as well.\nI wondered if she were being treated like a slave..."
                             ],
                             "_original": "あ、それは私も思いました。\n奴隷みたいな扱いなのかなって……"
                         },
@@ -4208,7 +4208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I told you, she's a tool. Use her while\nshe's useful, take care of her, but―"
+                                "I told you, she is a tool.\nOne takes care of them as long as they are useful,\nand does not neglect their maintenance.\nHowever──"
                             ],
                             "_original": "言っただろう、道具だと。\n使える内は大切にし、手入れも怠らぬ。\nしかし──"
                         },
@@ -4228,7 +4228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "―No, enough idle talk. To Clothing."
+                                "──No, idle talk.\nTo Koromo."
                             ],
                             "_original": "──否、無駄話。\n衣のもとへ。"
                         },
@@ -4326,7 +4326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The event \\C[17]The One Who Spins There\\C[0] has been\nupdated."
+                                "The event\n\\C[17]The One Who Weaves There\\C[0]\nhas been updated."
                             ],
                             "_original": "イベントの\\C[17]そこで紡ぐ者\\C[0]が更新されました。"
                         },
@@ -4348,7 +4348,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -4356,7 +4356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's not enough... my life... Are you going to\nabandon us?"
+                                "It is not enough, life...\nAre you intending to abandon us?"
                             ],
                             "_original": "足りぬぞ、命が……\n私たちを見捨てる気かい？"
                         },
@@ -4429,7 +4429,7 @@
                                 0,
                                 0,
                                 2,
-                                "Bell Cave Human"
+                                "Kanetsuki Cave Dweller"
                             ],
                             "_original": "鐘突き洞の人間"
                         },
@@ -4437,7 +4437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We don't have enough... lives... Are you\nplanning to abandon us?"
+                                "It is not enough, life...\nAre you intending to abandon us?"
                             ],
                             "_original": "足りぬぞ、命が……\n私たちを見捨てる気かい？"
                         },
@@ -4758,7 +4758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a corpse. It's very dirty..."
+                                "It's a corpse.\nIt's so filthy……"
                             ],
                             "_original": "亡骸だ。\nとても汚れている……"
                         },
@@ -4795,7 +4795,7 @@
         {
             "id": 5,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4838,7 +4838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a corpse. It's very dirty..."
+                                "It's a corpse.\nIt's so filthy……"
                             ],
                             "_original": "亡骸だ。\nとても汚れている……"
                         },
@@ -4875,7 +4875,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4918,7 +4918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a red liquid... ...No way."
+                                "It's red liquid.\n……It couldn't be."
                             ],
                             "_original": "赤い液体だ。\n……まさかな。"
                         },
@@ -4955,7 +4955,7 @@
         {
             "id": 7,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5035,7 +5035,7 @@
         {
             "id": 8,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

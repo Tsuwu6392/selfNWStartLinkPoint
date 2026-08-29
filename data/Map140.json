@@ -5299,7 +5299,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5390,7 +5390,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5481,7 +5481,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5572,7 +5572,7 @@
         {
             "id": 4,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5663,7 +5663,7 @@
         {
             "id": 5,
             "name": "移動SC",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6086,7 +6086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If the Itoine is lurking here, it might avoid\nthis humble monk and the others and try to flee outside."
+                                "If the Itoi-ne is lurking here, it might avoid\nthis humble monk and the others and try to flee outside."
                             ],
                             "_original": "ここに厭い根が潜んでいるとすれば、\n拙僧らを避け外へ逃げ出すかもしれませぬ。"
                         },
@@ -6146,7 +6146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No... I will be fine. My soul arts are very effective\nagainst the Itoine."
+                                "No... I will be fine. My soul arts are very effective\nagainst the Itoi-ne."
                             ],
                             "_original": "いえ……大丈夫です。\n私の魂術は、厭い根に対しとても有利なものですから。"
                         },
@@ -6306,7 +6306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We must be cautious of more than just the Itoine;\nwe must be mindful of the other monks as well.\nThe witness who vanished...\nshe surely touched the taboo too."
+                                "We must be cautious of more than just the Itoi-ne;\nwe must be mindful of the other monks as well.\nThe witness who vanished...\nshe surely touched the taboo too."
                             ],
                             "_original": "厭い根だけでなく、他の僧侶にも\n注意すべきなのでしょうね。\n消えた目撃者もまた……禁忌に触れたはず。"
                         },
@@ -6426,7 +6426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Furthermore, there may be other accomplices, but...\nfor now, our main priority should be eliminating\nthe Itoine."
+                                "Furthermore, there may be other accomplices, but...\nfor now, our main priority should be eliminating\nthe Itoi-ne."
                             ],
                             "_original": "更に言えば、他にも仲間がいるかもしれませんが……\n今、最も集中すべきは厭い根の排除。"
                         },
@@ -6881,7 +6881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Since my soul arts are something I shroud myself in,\neven if I were to be caught off guard by a Itoine,\nmy soul would not be taken."
+                                "Since my soul arts are something I shroud myself in,\neven if I were to be caught off guard by a Itoi-ne,\nmy soul would not be taken."
                             ],
                             "_original": "私の魂術は身に纏うものであるため、仮に厭い根に\n不意を打たれても魂を奪われることはありません。"
                         },
@@ -6999,7 +6999,7 @@
         {
             "id": 9,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7725,7 +7725,7 @@
         {
             "id": 13,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7805,7 +7805,7 @@
         {
             "id": 14,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

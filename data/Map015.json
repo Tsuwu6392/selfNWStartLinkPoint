@@ -6548,7 +6548,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HM拡大領域:0.5,0,0,0>",
+            "note": "<HM拡大領域:0.5,0,0,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7240,7 +7240,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HM拡大領域:0,0,1,1.5>",
+            "note": "<HM拡大領域:0,0,1,1.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7379,7 +7379,7 @@
         {
             "id": 8,
             "name": "調べる",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7532,7 +7532,7 @@
         {
             "id": 10,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -18281,7 +18281,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -18289,7 +18289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm Ponjiro, a merchant. I want to do business\nat Funami, pon."
+                                "I'm Ponjirou, a merchant. I want to do business\nat Funami, pon."
                             ],
                             "_original": "僕は商いのぽん次郎。\n舟観で商売をしたいと思っているぽん。"
                         },
@@ -18301,7 +18301,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -18360,7 +18360,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -18397,7 +18397,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -18562,7 +18562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]Merchant Ponjiro\\C[0] has been added to the event\nlist."
+                                "\\C[17]Merchant Ponjirou\\C[0] has been added to the event\nlist."
                             ],
                             "_original": "イベント一覧に\\C[17]商いのぽん次郎\\C[0]が追加されました。"
                         },
@@ -18625,7 +18625,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -18784,7 +18784,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -18843,7 +18843,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -18980,7 +18980,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[17]Ponjiro the Merchant\\C[0] Complete!"
+                                "\\C[17]Ponjirou the Merchant\\C[0] Complete!"
                             ],
                             "_original": "\\C[17]商いのぽん次郎\\C[0] 達成！"
                         },
@@ -19019,7 +19019,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "You can now buy items from Ponjiro."
+                                "You can now buy items from Ponjirou."
                             ],
                             "_original": "ぽん次郎から物を買えるようになりました。"
                         },
@@ -19083,7 +19083,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -19193,7 +19193,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -19379,7 +19379,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -19399,7 +19399,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -19419,7 +19419,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -19478,7 +19478,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -19615,7 +19615,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Added \\C[17]Ponjiro's Business Rival\\C[0] to the event\nlist."
+                                "Added \\C[17]Ponjirou's Business Rival\\C[0] to the event\nlist."
                             ],
                             "_original": "イベント一覧に\\C[17]ぽん次郎の商売敵\\C[0]が追加されました。"
                         },
@@ -19652,7 +19652,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20213,7 +20213,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20271,7 +20271,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20291,7 +20291,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20310,7 +20310,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20330,7 +20330,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20389,7 +20389,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20416,7 +20416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ponjiro is fired up about something.\nIt's hard to say what he took away from reading the letter,\nbut it's unlikely this shrine will ever become a shop..."
+                                "Ponjirou is fired up about something.\nIt's hard to say what he took away from reading the letter,\nbut it's unlikely this shrine will ever become a shop..."
                             ],
                             "_original": "ぽん次郎は何やら張り切っている。\n手紙を読んでどう思ったのかはよく分からないが、\n神社が店になることはないだろう……"
                         },
@@ -20545,7 +20545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]Ponjiro's Business Rival\\C[0] achieved!"
+                                "\\C[17]Ponjirou's Business Rival\\C[0] achieved!"
                             ],
                             "_original": "\\C[17]ぽん次郎の商売敵\\C[0] 達成！"
                         },
@@ -20659,7 +20659,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20718,7 +20718,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20755,7 +20755,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20775,7 +20775,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -20912,7 +20912,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Ponjiro's Letter\\C[0] has been added to the event\nlist."
+                                "\\C[17]Ponjirou's Letter\\C[0] has been added to the event\nlist."
                             ],
                             "_original": "イベント一覧に\\C[17]ぽん次郎の手紙\\C[0]が追加されました。"
                         },
@@ -20977,7 +20977,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -21582,7 +21582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Reported to Ponjiro that the letter was delivered."
+                                "Reported to Ponjirou that the letter was delivered."
                             ],
                             "_original": "ぽん次郎に手紙を届けたことを報告した。"
                         },
@@ -21599,7 +21599,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -21619,7 +21619,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -21678,7 +21678,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -21815,7 +21815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]Ponjiro's Letter\\C[0] Completed!"
+                                "\\C[17]Ponjirou's Letter\\C[0] Completed!"
                             ],
                             "_original": "\\C[17]ぽん次郎の手紙\\C[0] 達成！"
                         },
@@ -21909,7 +21909,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -22494,7 +22494,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -22553,7 +22553,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -22590,7 +22590,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -22746,7 +22746,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Ponjiro's Box\\C[0] has been added to the event list."
+                                "\\C[17]Ponjirou's Box\\C[0] has been added to the event list."
                             ],
                             "_original": "イベント一覧に\\C[17]ぽん次郎の箱\\C[0]が追加されました。"
                         },
@@ -22811,7 +22811,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -23407,7 +23407,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -23466,7 +23466,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -23603,7 +23603,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\C[17]Ponjiro's Sake\\C[0] has been added to the event\nlist."
+                                "\\C[17]Ponjirou's Sake\\C[0] has been added to the event\nlist."
                             ],
                             "_original": "イベント一覧に\\C[17]ぽん次郎の酒\\C[0]が追加されました。"
                         },
@@ -23650,7 +23650,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24303,7 +24303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[3]Dragon Banquet\\C[0] is drawn in plenty. It should be\nfine to share some with Ponjiro."
+                                "\\C[3]Dragon Banquet\\C[0] is drawn in plenty. It should be\nfine to share some with Ponjirou."
                             ],
                             "_original": "\\C[3]龍宴\\C[0]はたくさん汲んである。\nぽん次郎に分けても問題ないだろう。"
                         },
@@ -24359,7 +24359,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24456,7 +24456,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24522,7 +24522,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24550,7 +24550,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "However, Ponjiro. Brewing sake is quite\ndifficult, but I didn't know you had\nlearned even that."
+                                "However, Ponjirou. Brewing sake is quite\ndifficult, but I didn't know you had\nlearned even that."
                             ],
                             "_original": "しかし、ぽん次郎よ。\n酒造りはかなり大変じゃが、\nそんなことまで学んでおったとは。"
                         },
@@ -24593,7 +24593,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24642,7 +24642,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24709,7 +24709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "What are you saying, Ponjiro! Bachan is\nhappy just with that feeling, you know!"
+                                "What are you saying, Ponjirou! Bachan is\nhappy just with that feeling, you know!"
                             ],
                             "_original": "何を言うか、ぽん次郎！\nばっちゃんはその気持ちだけでも嬉しいんじゃ！"
                         },
@@ -24769,7 +24769,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24777,7 +24777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "...Bachan said that, but I won't give up, pon.\nSomeday I'll make a renowned sake under the\nPonjiro brand, pon!"
+                                "...Bachan said that, but I won't give up, pon.\nSomeday I'll make a renowned sake under the\nPonjirou brand, pon!"
                             ],
                             "_original": "……ばっちゃんはああ言ってくれたけど、\n僕は諦めないぽん。いつかぽん次郎印の\n名酒を作り出してみせるぽん！"
                         },
@@ -24828,7 +24828,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -24865,7 +24865,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -25002,7 +25002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\C[17]Ponjiro's Sake\\C[0] Completed!"
+                                "\\C[17]Ponjirou's Sake\\C[0] Completed!"
                             ],
                             "_original": "\\C[17]ぽん次郎の酒\\C[0] 達成！"
                         },
@@ -25096,7 +25096,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -25630,7 +25630,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -27096,7 +27096,7 @@
         {
             "id": 19,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -28583,7 +28583,7 @@
         {
             "id": 20,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -30399,7 +30399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ten-dono, this is terrible! It's dangerous! The\nItoine!"
+                                "Ten-dono, this is terrible! It's dangerous! The\nItoi-ne!"
                             ],
                             "_original": "テン殿、大変だ！\n危険なんだ！\n厭い根！"
                         },
@@ -31130,7 +31130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...It is about the Itoine. First, I must\nspeak of what happened in Kamiarai Village."
+                                "...It is about the Itoi-ne. First, I must\nspeak of what happened in Kamiarai Village."
                             ],
                             "_original": "……厭い根のことですね。\n初めに、髪洗村での件を語らねばなりませぬ。"
                         },
@@ -31150,7 +31150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ten-san, I expect you know of the Itoine,\nbut have you heard the name Yougarami?"
+                                "Ten-san, I expect you know of the Itoi-ne,\nbut have you heard the name Yougarami?"
                             ],
                             "_original": "テンさんは厭い根については存じているでしょうが、\n榕絡みの名を聞いたことはありますか？"
                         },
@@ -31288,7 +31288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I take it that it's the name of the Itoine's boss?"
+                                "I take it that it's the name of the Itoi-ne's boss?"
                             ],
                             "_original": "察するに、厭い根の親玉の名か？"
                         },
@@ -31471,7 +31471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Itoine was once defeated by Kanmui\nand its bloodline, and was ultimately sealed."
+                                "The Itoi-ne was once defeated by Kanmui\nand its bloodline, and was ultimately sealed."
                             ],
                             "_original": "厭い根はかつてカンムイとその血族たちに敗れ、\n最終的には封印されました。"
                         },
@@ -31866,7 +31866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The existence of these occurrences acted as a deterrent\nto Itoine. However, it seems──that has begun\nto waver."
+                                "The existence of these occurrences acted as a deterrent\nto Itoi-ne. However, it seems──that has begun\nto waver."
                             ],
                             "_original": "この怪異たちの存在が厭い根の抑止力でした。\nしかし、どうやら──それが揺らぎ始めたようですね。"
                         },
@@ -32025,7 +32025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In other words, whether or not the Itoine\nproblem can be solved depends on the\nFour-Soul Kaiis?"
+                                "In other words, whether or not the Itoi-ne\nproblem can be solved depends on the\nFour-Soul Kaiis?"
                             ],
                             "_original": "つまり、厭い根の問題を解決できるかどうかは\n四魂怪異次第というわけか。"
                         },
@@ -34823,7 +34823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Regarding the sealing of the Itoine,\nyour information and the reality of the situation\nseem to differ slightly."
+                                "Regarding the sealing of the Itoi-ne,\nyour information and the reality of the situation\nseem to differ slightly."
                             ],
                             "_original": "厭い根の封印について、あなたからの情報と\n実態が少し食い違っていたのですが。"
                         },
@@ -34950,7 +34950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...For one, because it's dangerous.\nThat area is a habitat for the Itoine, and the other\nsupernatural entities there are formidable enough to\nignore its presence."
+                                "...For one, because it's dangerous.\nThat area is a habitat for the Itoi-ne, and the other\nsupernatural entities there are formidable enough to\nignore its presence."
                             ],
                             "_original": "……そもそも、危険だからだ。\nあそこは厭い根の生息地である上、\n他の怪異もそれを物ともしないほどには手強い。"
                         },
@@ -35745,7 +35745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good morning, Hakutou-sama. It's good to see you\nin such high spirits today."
+                                "Good morning, Hakutou-sama.\nIt is wonderful to see you in such high spirits today as well."
                             ],
                             "_original": "おはようございます、ハクトウ様。\n今日も大層ご機嫌の様子で何より。"
                         },
@@ -35765,7 +35765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After coming back from the Night Walking\nCave, we rested before we could properly\ntalk, so... we haven't reported\neverything to Ten yet, right?"
+                                "Since we all went straight to rest after returning from\nYakou Iwaya before we could talk properly...\nwe haven't reported everything to Ten yet."
                             ],
                             "_original": "夜行岩屋から帰ってきたあと、\nまともに話す前に休んじゃったので……\nテンに報告できてないですよね、いろいろと。"
                         },
@@ -35785,7 +35785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I gave a brief report at least."
+                                "I've already given her a brief summary."
                             ],
                             "_original": "一応、俺から簡単には伝えておいた。"
                         },
@@ -35828,7 +35828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, is that so? As expected of Dia-dono!"
+                                "Oh, is that so?\nThat's Dia-dono for you!"
                             ],
                             "_original": "おおっ、そうだったのか。\n流石はダイア殿だ！"
                         },
@@ -35848,7 +35848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Even about the person hiding outside the\nshrine?"
+                                "Even about the one hiding outside the shrine?"
                             ],
                             "_original": "神社の外で身を隠して待機している方のことも？"
                         },
@@ -35868,7 +35868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? Is there someone?"
+                                "Hm?\nIs someone there?"
                             ],
                             "_original": "ん？\n誰かいるのか？"
                         },
@@ -35888,7 +35888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That must be about that person. I'll go\nspeak to them. Please wait a moment."
+                                "You must be talking about her. This humble monk shall go call for her.\nPlease wait a moment."
                             ],
                             "_original": "あの方のことでしょう、拙僧が声をかけてきます。\n少々お待ちを。"
                         },
@@ -35908,7 +35908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Though I'm not sure if they can pass\nthrough the torii gate here."
+                                "...I do not know if she will be able to pass through the torii gate, though."
                             ],
                             "_original": "……ここの鳥居をくぐれるか分かりませんが。"
                         },
@@ -36036,7 +36036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You are... a ninja of the Chain Shadow Clan."
+                                "You are...\nA shinobi of the Saeishuu."
                             ],
                             "_original": "あなたは……\n鎖影衆の忍び。"
                         },
@@ -36068,7 +36068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "To be able to tell at a glance.\nImpressive."
+                                "You knew just by looking at her.\nAmazing!"
                             ],
                             "_original": "一目見ただけで分かるとは。\n流石だ。"
                         },
@@ -36111,7 +36111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I am called Mibu Staff."
+                                "...My name is Mibu no Tsue."
                             ],
                             "_original": "……壬生杖と申す。"
                         },
@@ -36131,7 +36131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, he introduced himself. That's rare."
+                                "Oh, she introduced herself.\nHow rare."
                             ],
                             "_original": "あれっ、自己紹介した。\n珍しい。"
                         },
@@ -36151,7 +36151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Maybe he's become a bit more\ncooperative?"
+                                "I wonder if she has become a bit more cooperative."
                             ],
                             "_original": "少しは協調的になりましたかねえ。"
                         },
@@ -36213,7 +36213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Speaking of Mibu, that's Yato― the Transmitter,\ncorrect?"
+                                "Mibu... then you are Yato──\nA Messenger, then."
                             ],
                             "_original": "壬生というと、夜刀──\n伝達者ですね。"
                         },
@@ -36256,7 +36256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You know a lot... Who are you connected to?"
+                                "You are well-informed...\nWith whom do you have a connection?"
                             ],
                             "_original": "詳しいな……\n誰と繋がりがある？"
                         },
@@ -36299,7 +36299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I spoke with Daitengu-sama a long time ago."
+                                "I had the chance to speak with Daitengu-sama a very long time ago."
                             ],
                             "_original": "とても昔に大天狗様とお話ししたことがあるのです。"
                         },
@@ -36342,7 +36342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That thing... I see."
+                                "That one, huh... \nI see."
                             ],
                             "_original": "あれか……\nなるほど。"
                         },
@@ -36362,7 +36362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-What was that conversation? I don't\nunderstand at all."
+                                "Wh-what was that conversation just now? \nI don't get it at all."
                             ],
                             "_original": "な、なんだ今の会話は。\nよく分からないぞ。"
                         },
@@ -36382,7 +36382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What is a \"Transmitter\"?"
+                                "What is a 「Messenger」?"
                             ],
                             "_original": "伝達者とは何ですか？"
                         },
@@ -36428,7 +36428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm sorry, I cannot say that. I can't reveal the\nsecrets of a ninja."
+                                "I am sorry, I cannot say. \nTo reveal the secrets of the shinobi, and so on..."
                             ],
                             "_original": "申し訳ありません、それは言えません。\n忍びの秘密を明かすなど。"
                         },
@@ -36448,7 +36448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ten-san truly has broad knowledge. I\nrespect you."
+                                "Ten-san, you really are incredibly well-informed. \nYou have my respect."
                             ],
                             "_original": "テンさんは本当に知見が広い。\n尊敬いたします。"
                         },
@@ -36488,7 +36488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, even if we ask about Staff, it\nseems we won't understand much. More\nimportantly―"
+                                "Well, it's not like asking about Tsue would\nlead to anything I can understand anyway. \nMore importantly──"
                             ],
                             "_original": "ま、杖のことなんて聞いてもよく分からなさそうですし。\nそれより──"
                         },
@@ -36571,7 +36571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―This person also followed us."
+                                "──this person followed us along, too."
                             ],
                             "_original": "──この人もついてきてましたよ。"
                         },
@@ -36603,7 +36603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ten-chan~! Long time no see~!"
+                                "Ten-chan~! \nIt has been a long time~!"
                             ],
                             "_original": "テンちゃん～！\n久しいのう～！"
                         },
@@ -36693,7 +36693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, that! Don't call me that name."
+                                "Ah, hey! \nDo not call me by that name."
                             ],
                             "_original": "あっ、これっ！\nその名で呼ぶでない。"
                         },
@@ -36736,7 +36736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "S-Sorry... Inugami-sama."
+                                "M-My apologies... \nInugami-sama."
                             ],
                             "_original": "し、失礼……\n隠神様。"
                         },
@@ -36763,7 +36763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That won't do either. Just call me Aruko."
+                                "That won't do either. \nCall me Aruko."
                             ],
                             "_original": "それも駄目じゃ。\n存子と呼べい。"
                         },
@@ -36817,7 +36817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't need the \"-sama\", but oh well. Ten-chan\nhas always been like this, after all."
+                                "I said I don't need the -sama, but oh well. \nTen-chan has always been like this, after all."
                             ],
                             "_original": "様はいらんのじゃが、まあよいわ。\nテンちゃんは昔からこうじゃからのう。"
                         },
@@ -36837,7 +36837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They seem awfully close, don't they?"
+                                "They seem to be on incredibly good terms."
                             ],
                             "_original": "なんかものすごく仲良さげですね。"
                         },
@@ -36877,7 +36877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So you two know each other――then Ten,\nwasn't there some way we could have met\nAruko without going to the Night\nWalking Cave?"
+                                "So you were acquaintances──in that case, Ten, \nwasn't there some way for us to meet Aruko without\nhaving to go to Yakou Iwaya?"
                             ],
                             "_original": "知り合いだったとはな──ならばテン、\n俺たちが夜行岩屋に行かずとも存子と会う方法は\n何かあったのではないか？"
                         },
@@ -36920,7 +36920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, that's impossible. Aruko-sama would never\nleave the cave."
+                                "No, that would be impossible.\nBecause Aruko-sama never leaves Iwaya."
                             ],
                             "_original": "いいえ、あり得ません。\n存子様が岩屋を離れることなどありませんので。"
                         },
@@ -36963,7 +36963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I have to keep an eye on the seal. Thanks to\neveryone, it's fine now, though."
+                                "Because I must watch over the seal, ye see.\nThough thanks to everyone, it's alright for the time being."
                             ],
                             "_original": "封印を見ねばならんからのう。\n今は皆のおかげで大丈夫じゃが。"
                         },
@@ -37026,7 +37026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Of course not. Well, that wouldn't be bad\neither..."
+                                "As if that were the case.\nWell, that would be fine too, but..."
                             ],
                             "_original": "そんなわけなかろう。\nいや、それもよいが……"
                         },
@@ -37046,7 +37046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your next goal is to find the sword, right? I\nthought I'd help you with that."
+                                "Yer next objective is to find the sword, right?\nI thought I'd lend a hand with that."
                             ],
                             "_original": "お前さんらの次の目的は剣を探すことじゃろ？\nそれを手伝ってやろうと思ったんじゃ。"
                         },
@@ -37066,7 +37066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Besides, the subsequent subjugation of the\nYachimata Banyan――that is also what I desire. I\nwon't hold back my cooperation."
+                                "Besides, the subsequent subjugation of the Yachimata Akou──\nthis is my desire as well. I shall spare no cooperation."
                             ],
                             "_original": "それに、その後の八衢榕の討伐──\nこれは儂も望みでもある。\n協力は惜しまんぞ。"
                         },
@@ -37136,7 +37136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The sword... you're going to search for it."
+                                "You are... searching for the sword?"
                             ],
                             "_original": "剣を……探すのですか。"
                         },
@@ -37156,7 +37156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, one half of Kamui's remains... the\none said to pair with Kokusha."
+                                "Yes, the other half of Kanmui's husk...\nthe one said to form a pair with Kokusha."
                             ],
                             "_original": "ええ、カンムイの骸の片割れ……\nコクシャと対を成すというものです。"
                         },
@@ -37219,7 +37219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I haven't finished talking yet. I also need to\nhear your opinion."
+                                "I haven't told 'em yet.\nI must hear your opinion too, after all."
                             ],
                             "_original": "まだ話しとらんよ。\nお前さんの意見も聞かねばな。"
                         },
@@ -37293,7 +37293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ten-dono, do you know anything? About Kamui's\nsword."
+                                "Ten-dono, do you know anything?\nAbout Kanmui's sword."
                             ],
                             "_original": "テン殿は何か知らないか？\nカンムイの剣について。"
                         },
@@ -37457,7 +37457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, huh? Why has it gotten so quiet?"
+                                "A-Are?\nWhy has it gone so quiet?"
                             ],
                             "_original": "あ、あれ？\nどうしてこんなに静まり返るんだ？"
                         },
@@ -37477,7 +37477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Kakkakka."
+                                "Kakka-ka."
                             ],
                             "_original": "かっかっか。"
                         },
@@ -37497,7 +37497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I think I'm the one here who knows the\nleast about the situation... but even I\ncan get a sense of it."
+                                "I think I'm the one who knows the least about what's going on...\nbut I can still somewhat tell where this is headed."
                             ],
                             "_original": "この中で一番事情に詳しくないの、\n私だと思うんですけど……\nそれでもなんとなく察しがつきますよ。"
                         },
@@ -37536,7 +37536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "One is related to the Black Sumizome\nShrine at the far east. Then..."
+                                "One was connected to the black Sumizome Shrine in the eastern reaches.\nIn that case..."
                             ],
                             "_original": "一方は東の果て、黒き墨染神社と関係があった。\nとなると……"
                         },
@@ -37556,7 +37556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The other one makes me suspect the white\nshrine at the far west. Even without\nevidence, it's intuition."
+                                "We should suspect the white shrine in the western reaches for the other.\nIt's just intuition, though."
                             ],
                             "_original": "もう一方は西の果ての白い神社を疑う。\n根拠はなくとも、直感でだ。"
                         },
@@ -37576,7 +37576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Eh? So the sword is here?"
+                                "Eh?\nThen, the sword is here?"
                             ],
                             "_original": "ええっ？\nでは、ここに剣があるのか？"
                         },
@@ -37608,7 +37608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The god of Mashiro Shrine was the god\nof swords, wasn't it, Ten-san?"
+                                "The god of Mashiro Shrine was a sword god, wasn't it, Ten-san?"
                             ],
                             "_original": "真白神社の神は剣の神でしたね、テンさん。"
                         },
@@ -37655,7 +37655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Also, Aruko said something meaningful,\ndidn't she? Right before we left\nSumizome Shrine."
+                                "Also, Aruko said something meaningful, didn't she?\nJust before we left Sumizome Shrine."
                             ],
                             "_original": "あと、存子が意味深なことを言ってましたよね。\n墨染神社を去る直前に。"
                         },
@@ -37675,7 +37675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The name of the sword god is \\C[17]Hakutou\\C[0]. Am\nI wrong?"
+                                "The name of the sword god is \\C[17]Hakutou\\C[0].\nAm I mistaken?"
                             ],
                             "_original": "剣の神の名は\\C[17]ハクトウ\\C[0]。\n違いましょうか？"
                         },
@@ -37722,7 +37722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And Nazuna, you're related to that――or\nperhaps you are the one yourself?"
+                                "And, isn't Nazuna related to that──\nor perhaps even the god herself?"
                             ],
                             "_original": "そして、ナズナはその関係者──\nあるいは本人ではないのか？"
                         },
@@ -37742,7 +37742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh??"
+                                "Huhhh??"
                             ],
                             "_original": "へぇ？？"
                         },
@@ -37762,7 +37762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then that means Ten-san has been hiding\nimportant information from us."
+                                "If that's true, it means Ten-san was hiding important information from us."
                             ],
                             "_original": "となると、テンさんは私たちに重要な情報を\n隠していたことになります。"
                         },
@@ -37782,7 +37782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hehhh???"
+                                "Hehhhh???"
                             ],
                             "_original": "へえぇ？？？"
                         },
@@ -37828,7 +37828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now now, don't blame Ten-chan. This\nchild only wanted peace."
+                                "Now, now, don't be blamin' Ten-chan.\nThis girl only wanted peace, ye see."
                             ],
                             "_original": "これこれ、テンちゃんを責めるでない。\nこの子は平穏を望んでおっただけじゃよ。"
                         },
@@ -37868,7 +37868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She probably didn't want to be hurt\nagain, right? By the Kamuy's child, the\nWa bloodline."
+                                "She just didn't want to see a child of Kanmui,\nthe blood kin of Nigi, gettin' hurt ever again."
                             ],
                             "_original": "もう二度と傷ついてほしくないんじゃろう？\nカンムイの子の、和の血族に。"
                         },
@@ -37888,7 +37888,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's the kind of answer you wouldn't\nunderstand even if you asked."
+                                "That's the kind of answer that makes no sense even after you hear it."
                             ],
                             "_original": "聞いても分からない系の答えですよ。"
                         },
@@ -37908,7 +37908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Explain from the beginning."
+                                "Explain it to us from the beginning."
                             ],
                             "_original": "一から説明してくれ。"
                         },
@@ -37928,7 +37928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Very well. Since we've come this far,\nlet's start with an old story. I'll even\ndraw a diagram to make it easy to\nunderstand!"
+                                "Very well.\nSince we're at it, I suppose I'll start with a folk tale.\nI'll even draw a diagram so it's easy to understand!"
                             ],
                             "_original": "いいじゃろう。\nせっかくじゃ、昔話から始めるかのう。\n分かりやすいように図も書いてやろうぞ！"
                         },
@@ -37964,7 +37964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah. Aruko-sama's drawing is..."
+                                "Ah.\nAruko-sama's drawings are..."
                             ],
                             "_original": "あっ。\n存子様の絵は……"
                         },
@@ -38089,7 +38089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Now, I'm ready! Let's get started right\naway!"
+                                "Now then, preparations are complete!\nLet us speak at once!"
                             ],
                             "_original": "さあ、準備ができたぞ！\n早速語ろうではないか！"
                         },
@@ -38109,7 +38109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wh-What is this picture?"
+                                "Wh-what is this?\nThis drawing."
                             ],
                             "_original": "な、なんです？\nこの絵は。"
                         },
@@ -38129,7 +38129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Granny... wasn't blessed with artistic\ntalent."
+                                "Batchan was...\nnot blessed with artistic talent."
                             ],
                             "_original": "ばっちゃんは……\n芸術の才能には恵まれなかった。"
                         },
@@ -38149,7 +38149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh dear, oh dear."
+                                "Oya oya."
                             ],
                             "_original": "おやおや。"
                         },
@@ -38169,7 +38169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-Well, I think it has a certain charm."
+                                "h-this humble monk thinks it has a certain charm to it."
                             ],
                             "_original": "せ、拙僧は味があってよいかと思います。"
                         },
@@ -38189,7 +38189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Could the one in the middle be\nAruko-dono?"
+                                "Could it be that the one in the middle is Aruko-dono?"
                             ],
                             "_original": "もしかして真ん中にいるのは存子殿か？"
                         },
@@ -38209,7 +38209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes!"
+                                "Umu!"
                             ],
                             "_original": "うむ！"
                         },
@@ -38229,7 +38229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's also something that looks like\nwriting..."
+                                "There's even something like writing on here..."
                             ],
                             "_original": "文字みたいなのも書いてますけど……"
                         },
@@ -38289,7 +38289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Fine. Let's hear it."
+                                "...Well, fine.\nLet's hear it."
                             ],
                             "_original": "……まあいい。\n聞こう。"
                         },
@@ -38309,7 +38309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Long ago, Shikinowa was ruled by the\nstrange―that is, the Kamuy and their\nbloodline. This depicts how things were\nat that time."
+                                "Long ago, Shikinowa was ruled by Kaii──that is, Kanmui and\nits blood kin.\nThis represents how it was back then."
                             ],
                             "_original": "その昔、シキノワは怪異──すなわちカンムイと\nその血族が支配しておった。\nこれは、その時の様子を表しておるぞ。"
                         },
@@ -38329,7 +38329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm. Aruko-san is supposed to have been\nborn from a divided soul of Kamuy. She\nshouldn't exist in this era, should\nshe..."
+                                "Oh?\nAruko-san should have been born from Kanmui's split soul.\nShouldn't she not have existed in that era...?"
                             ],
                             "_original": "はて。\n存子さんはカンムイの分かたれた魂から生まれたはず。\nこの時代には存在しないのでは……"
                         },
@@ -38349,7 +38349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Granny always wants to include herself."
+                                "Batchan likes to make herself appear in things."
                             ],
                             "_original": "ばっちゃんは自分を登場させたがる。"
                         },
@@ -38369,7 +38369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh my, my."
+                                "Oh my."
                             ],
                             "_original": "あらまあ。"
                         },
@@ -38389,7 +38389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Since I was part of Kamuy, that's as\ngood as being there!"
+                                "I was part of Kanmui back then, so\nI might as well have been there!"
                             ],
                             "_original": "儂はカンムイの一部だったんじゃから\nおったも同然じゃ！"
                         },
@@ -38409,7 +38409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Weren't there any humans?"
+                                "Were there no humans back then?"
                             ],
                             "_original": "人間はいなかったんでしたっけ？"
                         },
@@ -38429,7 +38429,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, there were. They were there, but you\ncould say they had no place. Humans were\nthe ruled side―"
+                                "Nah, they were there.\nThey were there, but it's fair to say they had no place to call their own.\nHumans were the ones being ruled back then──"
                             ],
                             "_original": "いや、おった。\nおったが、居場所はなかったと言えるじゃろうな。\n人は支配される側の存在じゃった──"
                         },
@@ -38530,7 +38530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―but that was for harmony. The Kamuy\nbecame rulers to coexist with humans,\ntrying to protect the bloodline and all\nother races."
+                                "──But that was for the sake of harmony.\nKanmui became the ruler to aim for coexistence with humans,\ntryin' to protect the blood kin and every other race."
                             ],
                             "_original": "──じゃが、そうしたのは融和のため。\nカンムイは人との共存を目指すべく支配者となり、\n血族や他の種族すべてを守らんとした。"
                         },
@@ -38550,7 +38550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A different picture."
+                                "A different drawing."
                             ],
                             "_original": "違う絵が。"
                         },
@@ -38570,7 +38570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aruko-dono is here again!"
+                                "Aruko-dono is there again!"
                             ],
                             "_original": "また存子殿がいる！"
                         },
@@ -38610,7 +38610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But naturally, there was opposition.\nEven among the bloodline, there were\nthose who opposed the Kami's will. Those\nfolks were called the Dissonant\nBloodline."
+                                "But naturally, there were those who rebelled.\nEven among blood kin, there were those who went against Kanmui's will.\nThose folks were called Discordant Blood Kin."
                             ],
                             "_original": "しかし当然、反発もあった。\n血族にもカンムイの意志に反した者がおった。\nそうした連中を不和の血族と呼んだもんじゃ。"
                         },
@@ -38630,7 +38630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Dissonant Bloodline wanted to be\ndominant. They also demeaned and harmed\nhumans."
+                                "Discordant Blood Kin wanted to stay superior.\nThey looked down on humans and even harmed them at times."
                             ],
                             "_original": "不和の血族は優位でありたかった。\n人を貶め、害することもあった。"
                         },
@@ -38650,7 +38650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I see. Perhaps the Bell-Ringers\nare..."
+                                "……I see.\nCould it be that Kanetsuki are...?"
                             ],
                             "_original": "……そうか。\nもしや、鐘突きとは……"
                         },
@@ -38670,7 +38670,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, they are a clan that came under the\nrule of the Dissonant Bloodline. That's\nwhy those children resent the\nsupernatural."
+                                "Umu, they're the clan that was ruled by Discordant Blood Kin.\nThat's why those children loathe Kaii."
                             ],
                             "_original": "うむ、不和の血族の支配を受けた一族じゃ。\nゆえにあの子らは怪異を恨む。"
                         },
@@ -38709,7 +38709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Anyway, the Kami aimed for coexistence,\nbut it didn't go that smoothly."
+                                "Anyway, setting that aside, Kanmui aimed for coexistence,\nbut it didn't go quite so smoothly."
                             ],
                             "_original": "さておき、ともかくカンムイは共存を目指したが、\nそううまくはいかんかったんじゃ。"
                         },
@@ -38810,7 +38810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "At that time, a force that further\nworsened the situation suddenly\nappeared. The Detested Root."
+                                "Just at that moment,\na force appeared out of nowhere that made everything so much worse.\nItoi-ne."
                             ],
                             "_original": "そんな折、更に状況を悪化させる勢力が突如として現れた。\n厭い根じゃ。"
                         },
@@ -38830,7 +38830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How many pictures have you drawn?"
+                                "Just how many of these did you draw?"
                             ],
                             "_original": "何枚描いたんですか。"
                         },
@@ -38850,7 +38850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't quite follow the story, what\nwith the pictures."
+                                "The story isn't exactly sinking in.\nThanks to the influence of those drawings."
                             ],
                             "_original": "今一つ話が頭に入ってきませんね。\n絵の影響で。"
                         },
@@ -38890,7 +38890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hm? Tsue-dono laughed―"
+                                "Hm?\nTsue-dono just laug──"
                             ],
                             "_original": "ん？\n杖殿が笑っ──"
                         },
@@ -38930,7 +38930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "E-everyone. Let's listen carefully."
+                                "E-Everyone.\nLet us listen closely."
                             ],
                             "_original": "み、皆さん。\nしかと聞きましょう。"
                         },
@@ -38950,7 +38950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This was a crisis for the country―but\nalso an opportunity. The Kami, from then\non, proved their desire for coexistence\nby protecting other races."
+                                "This was a national crisis──but it was an opportunity as well.\nKanmui proved the desire for harmony by protecting the other races from it then."
                             ],
                             "_original": "これは国の危機じゃったが──好機でもあった。\nカンムイはあれから他の種族を守ることで\n融和を望む想いを証明したんじゃ。"
                         },
@@ -38970,7 +38970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This battle is the famous Battle of\nHazamazuka Plains, isn't it?"
+                                "This battle was the famous Hazamazukahara Upheaval, wasn't it?"
                             ],
                             "_original": "この時の戦いが、かの有名な狭間塚原の乱ですね。"
                         },
@@ -38990,7 +38990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes! The battle lasted a long... a\nreally long time, and as you know, the\nDetested Root was sealed."
+                                "Umu!\nThe war lasted for a long... a truly long time,\nand as ye know, Itoine were sealed away."
                             ],
                             "_original": "うむ！\n戦いは長らく……本当に長らく続き、\nそして知っての通り厭い根は封印された。"
                         },
@@ -39091,7 +39091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a result, coexistence was achieved.\nThe Kami fulfilled their long-cherished\nwish."
+                                "As a result, harmony was achieved.\nKanmui fulfilled the long-held wish."
                             ],
                             "_original": "結果、融和は叶った。\nカンムイは宿願を果たしたんじゃ。"
                         },
@@ -39111,7 +39111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? This picture, I feel like I've seen\nit before."
+                                "Huh?\nI feel like I've seen this drawing before."
                             ],
                             "_original": "あれ？\nこの絵、さっきも見たような。"
                         },
@@ -39131,7 +39131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's recycled, isn't it?"
+                                "She's reusing it."
                             ],
                             "_original": "使い回しですね。"
                         },
@@ -39151,7 +39151,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a replication by youdanuki's art."
+                                "A duplication via Youri arts.."
                             ],
                             "_original": "妖狸の術による複製だ。"
                         },
@@ -39171,7 +39171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh!"
+                                "Ohhh!"
                             ],
                             "_original": "おおっ！"
                         },
@@ -39191,7 +39191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "On such nonsense..."
+                                "To use it for something so silly..."
                             ],
                             "_original": "こんなくだらないことに……"
                         },
@@ -39211,7 +39211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I-It's not nonsense, is it?"
+                                "I-It's not silly, surely."
                             ],
                             "_original": "く、くだらなくはないでしょう。"
                         },
@@ -39231,7 +39231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, at the same time, the Kami\nexhausted their strength. They could not\nsee the country they dreamed of."
+                                "However, at the same time, Kanmui was exhausted.\nHe could not see the country he had dreamed of."
                             ],
                             "_original": "しかし、同時にカンムイは力尽きた。\n夢見た国を見れんかった。"
                         },
@@ -39323,7 +39323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The body was split into two, the soul\ninto four... and the remaining power was\nentrusted to a certain human. That\nperson became the later general, of the\nTogumiya family."
+                                "The husk was divided in two, and the soul into four...\nAnd the remaining power was entrusted to a certain human.\nThis was a member of the Tokimiya family, the future Shogun."
                             ],
                             "_original": "骸は二つに、魂は四つに分けられ……\nそして残る力はとある人間に託された。\nこれがのちの将軍、鬨宮家の者じゃ。"
                         },
@@ -39343,7 +39343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aruko is in it until the end, huh."
+                                "Aruko is there until the very end."
                             ],
                             "_original": "最後まで存子がいますねえ。"
                         },
@@ -39363,7 +39363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "She just wanted to draw herself, didn't\nshe?"
+                                "Perhaps she simply wanted to draw herself?"
                             ],
                             "_original": "自分を描きたかっただけでは？"
                         },
@@ -39402,7 +39402,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I feel like this silence is an\naffirmation."
+                                "Nazuna feels like this silence is an affirmation."
                             ],
                             "_original": "この沈黙は肯定のような気がする。"
                         },
@@ -39422,7 +39422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh my, that's a sharp observation for\nNazuna-san."
+                                "Oya, that's a sharp observation for Nazuna-san."
                             ],
                             "_original": "おや、ナズナさんにしては鋭い指摘。"
                         },
@@ -39525,7 +39525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's all for the old tale! Did it come across\nclearly?"
+                                "That's the end of my folk tale!\nDid it get across properly?"
                             ],
                             "_original": "昔話は以上じゃ！\nちゃんと伝わったかのう？"
                         },
@@ -39552,7 +39552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "History, huh. But how does this connect to the\noriginal story? Why was Ten hiding the truth?"
+                                "The history did.\nBut how does this connect to our original topic?\nWhy was Ten hiding the truth?"
                             ],
                             "_original": "歴史はな。\nしかし、これが元の話にどう繋がる？\nテンはなぜ真実を隠していた？"
                         },
@@ -39579,7 +39579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ten-chan is a blood kin of harmony―that is, a\nsupporter of reconciliation. She doesn't want to\nlose her few remaining comrades now."
+                                "Ten-chan is one of Nigi blood kin──in other words, a proponent of harmony.\nShe just doesn't want to lose what few comrades she has left now."
                             ],
                             "_original": "テンちゃんは和の血族──すなわち融和の賛同者。\n今や数少ない仲間を失いたくないんじゃ。"
                         },
@@ -39606,7 +39606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Huh?"
+                                "...Eh?"
                             ],
                             "_original": "……え？"
                         },
@@ -39734,7 +39734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ten-dono is a blood kin... so that would mean\nTen-dono is also a monster, but..."
+                                "Ten-dono is a blood kin of Kaii...\nIn that case, it means Ten-dono is also a Kaii..."
                             ],
                             "_original": "テン殿が血族って……\nそうなると、テン殿も怪異ということになるが……"
                         },
@@ -39761,7 +39761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, I too am a child of Kamui. An ancient being\nwho fought against the Root of Resentment."
+                                "Yes, I too am a child of Kanmui.\nAn ancient being who fought against Itoine."
                             ],
                             "_original": "ええ、私もまたカンムイの子。\n厭い根と戦った古きもの。"
                         },
@@ -39816,7 +39816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "S-So that's how it was..."
+                                "S-So...\nThat was the case..."
                             ],
                             "_original": "そ……\nそうだったのか……"
                         },
@@ -39836,7 +39836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I suspected you were no ordinary\nperson."
+                                "...I suspected she was no ordinary person."
                             ],
                             "_original": "……只者ではないと思っていましたが。"
                         },
@@ -39856,7 +39856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Your soul seems just like a human's."
+                                "Her soul is just like a human's."
                             ],
                             "_original": "魂は、まるで人のようです。"
                         },
@@ -39899,7 +39899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Perhaps it's become that way because I've lived\nas a human for so long."
+                                "It may be because I have lived as a human for a very long time,\nperhaps that is why it has become so."
                             ],
                             "_original": "長らく人として生きてきたため、\nそうなったのかもしれませんね。"
                         },
@@ -39919,7 +39919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Understood. The shrine maiden has\nsurvived into a peaceful age, and can no\nlonger afford to lose her comrades."
+                                "...I understand.\nBecause the miko survived until a peaceful era,\nshe can no longer bear to lose her comrades."
                             ],
                             "_original": "……理解した。\n巫女は平和な時代にまで生き延びたがために、\nもはや仲間を失えぬ。"
                         },
@@ -39939,7 +39939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes... that's right."
+                                "Yes...\nThat is correct."
                             ],
                             "_original": "ええ……\nそうです。"
                         },
@@ -39959,7 +39959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Or perhaps she wanted Kamui to enjoy it\ntoo. If the other half of the corpse is\nHakutou, that is."
+                                "Or perhaps, you wanted Kanmui to enjoy it as well.\nIf the other half of the husk is Hakutou, that is."
                             ],
                             "_original": "あるいは、カンムイにも享受してほしかったのか。\n骸の片割れがハクトウであれば、な。"
                         },
@@ -39979,7 +39979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes. That too."
+                                "Yes.\nThat as well."
                             ],
                             "_original": "はい。\nそれもまた。"
                         },
@@ -39999,7 +39999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So in the end, Nazuna is the one, is\nthat it?"
+                                "So, in the end, it just means Nazuna is that god, then?"
                             ],
                             "_original": "つまり、結局ナズナがそうってことでいいんです？"
                         },
@@ -40042,7 +40042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's how it is, but―"
+                                "That is the case, however──"
                             ],
                             "_original": "そうなのですが──"
                         },
@@ -40085,7 +40085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, no, that's wrong. I'm from Pargadore. I'm\nnot a child of Kamui."
+                                "No, no, that's not right.\nI am from Palgadol.\nI'm not a child of Kanmui."
                             ],
                             "_original": "いやいや、違う。\n私はパルガドール出身だ。\nカンムイの子ではない。"
                         },
@@ -40125,7 +40125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Strange. Even Nazuna wouldn't be\nmistaken about that."
+                                "Strange.\nNo matter how simple Nazuna is, she wouldn't be mistaken about that."
                             ],
                             "_original": "妙だ。\nいくらナズナでも、そこは間違えまい。"
                         },
@@ -40145,7 +40145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Has she lost her memory?"
+                                "Maybe her memory is missing?"
                             ],
                             "_original": "記憶が飛んでるんですかね？"
                         },
@@ -40165,7 +40165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I haven't! I am Nazuna Hakutou!"
+                                "It's not missing!\nI am Nazuna Hakutou!"
                             ],
                             "_original": "飛んでいない！\n私はナズナ・ハクトウ！"
                         },
@@ -40185,7 +40185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In that case, there's no choice but to\ngo, Ten-chan. If only to defeat\nYachimata Banyan this time for sure."
+                                "In that case, we have no choice but to go, Ten-chan.\nIn order to slay the Yachimata Akou once and for all."
                             ],
                             "_original": "こうなれば行くしかないじゃろう、テンちゃん。\n今度こそ八衢榕を討つためにも。"
                         },
@@ -40212,7 +40212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Yes."
+                                "...Understood."
                             ],
                             "_original": "……そうですね。"
                         },
@@ -40252,7 +40252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll guide you. First, to the east of the\nshrine, beyond the forge."
+                                "I shall guide you.\nFirst, to the east of the shrine, past the forge."
                             ],
                             "_original": "案内します。\nまずは神社の東、鍛冶場の先へ。"
                         },
@@ -40295,7 +40295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I like fried tofu!"
+                                "My favorite thing is fried tofu!"
                             ],
                             "_original": "好きなものは油揚げだ！"
                         },
@@ -40553,7 +40553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright! From now on, let me fight\nalongside you too!"
+                                "Alright.\nFrom now on, let me fight alongside ye too!"
                             ],
                             "_original": "よーし。\nこれからは儂も共に戦わせてくれい！"
                         },
@@ -40604,7 +40604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A very warm welcome! Looking forward to\nworking with you, Aruko-dono!"
+                                "You're more than welcome!\nI'm counting on you, Aruko-dono!"
                             ],
                             "_original": "大歓迎だ！\nよろしく頼む、存子殿！"
                         },
@@ -40624,7 +40624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Indeed!"
+                                "Umu!"
                             ],
                             "_original": "うむ！"
                         },
@@ -40680,7 +40680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can now interact with Staff."
+                                "You can now interact with Tsue."
                             ],
                             "_original": "杖と交流できるようになりました。"
                         },
@@ -46510,7 +46510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The youdanukis are increasing. Maybe they're\nPonjiro's friends."
+                                "The youdanukis are increasing. Maybe they're\nPonjirou's friends."
                             ],
                             "_original": "妖狸が増えている。\nぽん次郎の友達だろうか。"
                         },
@@ -46635,7 +46635,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -46700,7 +46700,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -46818,7 +46818,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -46894,7 +46894,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -47031,7 +47031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Added \\C[17]Ponjiro's Underling\\C[0] to the event list."
+                                "Added \\C[17]Ponjirou's Underling\\C[0] to the event list."
                             ],
                             "_original": "イベント一覧に\\C[17]ぽん次郎の子分\\C[0]が追加されました。"
                         },
@@ -47193,7 +47193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, Ponjiro. You've come this far, have\nyou?"
+                                "Oh, Ponjirou. You've come this far, have\nyou?"
                             ],
                             "_original": "おおう、ぽん次郎。\nここまで来とったのか。"
                         },
@@ -47298,7 +47298,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -47338,7 +47338,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -47397,7 +47397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ponjiro-sama, who is this person?"
+                                "Ponjirou-sama, who is this person?"
                             ],
                             "_original": "ぽん次郎様、この方は？"
                         },
@@ -47409,7 +47409,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -47527,7 +47527,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -47661,7 +47661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ponjiro, go over there for a bit."
+                                "Ponjirou, go over there for a bit."
                             ],
                             "_original": "ぽん次郎、ちょっとあっちに行っておれ。"
                         },
@@ -47673,7 +47673,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -47752,7 +47752,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponjiro"
+                                "Ponjirou"
                             ],
                             "_original": "ぽん次郎"
                         },
@@ -48172,7 +48172,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I can't negotiate without hearing your\nreason. Why did you disguise yourself as\na youdanuki and approach Ponjiro?"
+                                "I can't negotiate without hearing your\nreason. Why did you disguise yourself as\na youdanuki and approach Ponjirou?"
                             ],
                             "_original": "理由を聞かねば話にならん。\n何ゆえ妖狸に化け、ぽん次郎に近づくんじゃ？"
                         },
@@ -48205,7 +48205,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mhm, exactly! Why did you disguise\nyourself as a youdanuki and approach\nPonjiro?"
+                                "Mhm, exactly! Why did you disguise\nyourself as a youdanuki and approach\nPonjirou?"
                             ],
                             "_original": "うむ、全くその通り！\n何ゆえ妖狸に化け、ぽん次郎に近づくんじゃ？"
                         },
@@ -48439,7 +48439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[17]Ponjiro's Underling\\C[0] Achieved!"
+                                "\\C[17]Ponjirou's Underling\\C[0] Achieved!"
                             ],
                             "_original": "\\C[17]ぽん次郎の子分\\C[0] 達成！"
                         },
@@ -55254,7 +55254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This scenario assumes that \\C[17]Event 042: \"Origin of\nthe Itoines\"\\C[0] has been completed."
+                                "This scenario assumes that \\C[17]Event 042: \"Origin of\nthe Itoi-nes\"\\C[0] has been completed."
                             ],
                             "_original": "このシナリオは\\C[17]イベント042『厭い根の起源』\\C[0]の達成を\n前提とした物語となります。"
                         },

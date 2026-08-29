@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "Drum Village",
+    "displayName": "Ponpoko Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4088,7 +4088,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4179,7 +4179,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4473,7 +4473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Come on, take a seat wherever. Do you\nwant a cushion?"
+                                "Come, have a seat wherever you like.\nWould you like a zabuton?"
                             ],
                             "_original": "さあさ、適当なところに座れい。\n座布団は使うか？"
                         },
@@ -4493,7 +4493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, I'm fine. Thanks."
+                                "No, I'm okay.\nThank you."
                             ],
                             "_original": "いや、大丈夫だ。\nありがとう。"
                         },
@@ -4513,7 +4513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This house...doesn't smell quite right,\ndoes it? Like...alcohol?"
+                                "Doesn't this house... smell a bit strange?\nKind of like alcohol..."
                             ],
                             "_original": "なんかこの家……妙なにおいしません？\n酒臭いというか……"
                         },
@@ -4533,7 +4533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You've got a sharp nose, lass. Truth be\ntold, this place is drowning in booze!\nFeel free to drink!"
+                                "My, you've got a sharp nose.\nI won't hide it—this place is filled with sake!\nYou're welcome to have some!"
                             ],
                             "_original": "お前さん、鼻が利くのう。\n何を隠そう、ここは酒だらけじゃ！\n飲んでもよいぞ！"
                         },
@@ -4553,7 +4553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, no. I'm good."
+                                "Ah, no.\nI'm fine."
                             ],
                             "_original": "あ、いや。\n私はいいです。"
                         },
@@ -4573,7 +4573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Grandma. Let's get to the point."
+                                "Batchan.\nThe main point."
                             ],
                             "_original": "ばっちゃん。\n本題を。"
                         },
@@ -4593,7 +4593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's cute how you call her 'Grandma.' I\nwouldn't have expected that from you."
+                                "It is quite cute when you call her Batchan.\nRather unexpected from you."
                             ],
                             "_original": "あなたがばっちゃんって言うの可愛いですね。\n意外な感じで。"
                         },
@@ -4652,7 +4652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "HAHAHA! I'm glad Staff-chan's found such\na fine friend. I can't resist a drink\nnow!"
+                                "Kakka-ka!\nI am delighted that Tsue-chan has made such good friends.\nI simply must drink to this!"
                             ],
                             "_original": "かっかっか！\n杖ちゃんによき友ができて儂は嬉しいわい。\n飲まずにはおられん！"
                         },
@@ -4672,7 +4672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Drinking is fine, but as Staff said, can\nwe get to the main topic?"
+                                "Drinking is fine, but as Tsue said,\ncould you get to the main point?"
                             ],
                             "_original": "飲むのはいいが、杖が言った通り\n本題に入ってもらえるか？"
                         },
@@ -4699,7 +4699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aye, aye. Now...where to begin..."
+                                "Umu, quite right.\nNow then... where should I begin?"
                             ],
                             "_original": "うむ、そうじゃな。\nさて……どこから話したもんかのう。"
                         },
@@ -4805,7 +4805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Do you lot know the original name for the Four\nSoul Anomalies?"
+                                "You all... do you know the original name\nof the Shikon Kaii?"
                             ],
                             "_original": "お前さんら……\n四魂怪異の本来の言い方を知っとるか？"
                         },
@@ -4832,7 +4832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The original name for the Four Soul Anomalies?\n...What do you mean?"
+                                "The original name of the Shikon Kaii?\n...What do you mean by that?"
                             ],
                             "_original": "四魂怪異の本来の言い方？\n……どういう意味だ？"
                         },
@@ -4859,7 +4859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Four Soul Anomalies\" is just a shortened term.\nIt was originally called something longer."
+                                "「Shikon Kaii」 is an abbreviated term.\nOriginally, it was called something a bit longer."
                             ],
                             "_original": "「四魂怪異」とは略された言葉なんじゃよ。\n元々はもう少し長い言い方をしておった。"
                         },
@@ -4899,7 +4899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If Sakura Toku-san doesn't know, then I\ndoubt anyone does."
+                                "If Outoku-san doesn't know, then surely no one does?"
                             ],
                             "_original": "桜悳さんが知らないのなら誰も知らないのでは？"
                         },
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I don't know either. I'm sure \\N[10]-dono and Dia-dono\ndon't--"
+                                "I don't know it either.\nI'm sure \\N[10]-dono and Dia-dono don't either──"
                             ],
                             "_original": "私も知らないな。\nきっと\\N[10]殿もダイア殿も──"
                         },
@@ -4981,7 +4981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Could it be...\"Dual Corpse Four Soul\nAnomalies\"?"
+                                "Could it be... the 「Soukara Shikon Kaii」?"
                             ],
                             "_original": "もしかして……「双骸四魂怪異」？"
                         },
@@ -5024,7 +5024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh-ho! You're a clever one, aren't ya? That's\nright."
+                                "Oh, a knowledgeable child, aren't you?\nThat is exactly right."
                             ],
                             "_original": "おおっと、物知りな子じゃな。\nその通りじゃ。"
                         },
@@ -5067,7 +5067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "H-How does Ula-dono know that?"
+                                "H-How do you know that, Uula-dono?"
                             ],
                             "_original": "ど、どうしてウーラ殿が知っているんだ？"
                         },
@@ -5087,7 +5087,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, well... There was a monk in the\ncapital who mentioned it. I've picked up\nbits and pieces from all sorts of\npeople."
+                                "Oh, no.\nThere was a monk in the capital who was saying such things.\nI've listened to stories from all sorts of people, you see."
                             ],
                             "_original": "ああ、いや。\n都でそういうことを言ってた僧侶がいたんですよ。\n私、いろんな人から話を聞いたので。"
                         },
@@ -5107,7 +5107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmph, a monk, you say? It seems I still\nhave much to learn..."
+                                "Hohoh, a monk did...?\nThis humble monk's studies are still insufficient..."
                             ],
                             "_original": "ほほう、僧侶が。\n拙僧もまだまだ勉強不足……"
                         },
@@ -5162,7 +5162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's common knowledge that Kamui's soul split\ninto four. But what's less known is that his\ncorpse―his remains―split into two."
+                                "It is a famous story that Kanmui's soul was split into four.\nHowever, it is not very well known that its dead body—\nits husk—was split into two."
                             ],
                             "_original": "カンムイの魂が四つに分かたれたのは有名な話じゃ。\nしかし、死した肉体──骸が二つに分かたれたことは\nあまり知られておらん。"
                         },
@@ -5182,7 +5182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "One of them, \\C[17]Kokusha\\C[0], became the Soul Swamp\nitself, and at the same time, the key to sealing\nthe Cursed Root."
+                                "One of them, the \\C[17]Kokusha\\C[0], became Tamashii no Numa itself,\nand at the same time became the keystone for the Itoi-ne seal."
                             ],
                             "_original": "その一方、\\C[17]コクシャ\\C[0]は魂の沼そのものとなり、\n同時に厭い根の封印の要となった。"
                         },
@@ -5202,7 +5202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Soul Swamp...?"
+                                "Tamashii no Numa is..."
                             ],
                             "_original": "魂の沼というのは……"
                         },
@@ -5222,7 +5222,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The swamp we passed through to get here."
+                                "The marshland we passed through to get here."
                             ],
                             "_original": "ここへ至るまでに通った沼地。"
                         },
@@ -5242,7 +5242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That very land was one half of Kamui's\nremains? How immense..."
+                                "You say that very land itself was one half of Kanmui's husk?\nWhat an immense scale..."
                             ],
                             "_original": "あの地そのものがカンムイの骸の片割れであったと？\nなんと規模の大きい……"
                         },
@@ -5285,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "How does a corpse become the seal for the Cursed\nRoot? What does that even mean?"
+                                "What on earth does it mean for a husk\nto become the Itoi-ne seal?"
                             ],
                             "_original": "骸が厭い根の封印になるというのは、\nいったいどういうことなんだ？"
                         },
@@ -5312,7 +5312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That'd be hard to grasp without knowing more\nabout the Cursed Root itself. How much do you\nknow about it?"
+                                "You likely wouldn't be able to understand that\nwithout knowing the nature of the Itoi-ne in detail.\nHow much do you all know of them?"
                             ],
                             "_original": "それは厭い根という存在について詳しくなければ\n理解できんじゃろうな。\nお前さんらはあれをどこまで知っておる？"
                         },
@@ -5332,7 +5332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A monster that lives east of\nShikinowa...so, around here."
+                                "They are monsters that live in eastern Shikinowa...\nIn other words, this general area."
                             ],
                             "_original": "シキノワの東……\nつまりこの辺りに住んでいる魔物です。"
                         },
@@ -5352,7 +5352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It steals souls, right? And if your soul\nis taken... you die..."
+                                "They steal your soul, right?\nAnd then, if it's stolen, you die..."
                             ],
                             "_original": "魂を奪ってくるんですよね。\nで、奪われたら死んでしまう……"
                         },
@@ -5372,7 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But why would it steal souls?"
+                                "I wonder why they steal souls?"
                             ],
                             "_original": "なぜ魂を奪うんじゃろうか？"
                         },
@@ -5399,7 +5399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Why? To grow stronger, of course."
+                                "Why?\n...Is it not to gain power?"
                             ],
                             "_original": "なぜって……\n力をつけるためではないのか？"
                         },
@@ -5419,7 +5419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Or perhaps... to survive."
+                                "Or perhaps, to survive──"
                             ],
                             "_original": "あるいは、生きるためか──"
                         },
@@ -5466,7 +5466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...The Blighted Root has no will of its\nown. It moves solely to propagate, like\na plant..."
+                                "...The Itoi-ne possess no will.\nThey squirm only for the purpose of reproduction.\nThey are, so to speak, like plants..."
                             ],
                             "_original": "……厭い根に意思はない。\nあれは繁殖のためだけに蠢動する、\n言わば植物のようなもの……"
                         },
@@ -5486,7 +5486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Perhaps the act of stealing souls isn't\nthe goal itself, but rather the empty\nhusks it leaves behind are what truly\nmatter?"
+                                "Is it not possible that stealing the soul is not the objective,\nbut rather that the significance lies in the empty shells\ncreated by doing so?"
                             ],
                             "_original": "魂を奪うことが目的なのではなく、そうしてできる\n抜け殻にこそ意味があるのではありませぬか？"
                         },
@@ -5529,7 +5529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Excellent. That's exactly right."
+                                "Splendid.\nThat is exactly it."
                             ],
                             "_original": "素晴らしい。\nその通りじゃ。"
                         },
@@ -5549,7 +5549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Empty husks...? What does the Blighted\nRoot do with them?"
+                                "What exactly... do they do with the shells?\nThe Itoi-ne."
                             ],
                             "_original": "抜け殻で……何をするんです？\n厭い根は。"
                         },
@@ -5585,7 +5585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As the monk said, their purpose is propagation.\nThey seek out suitable breeding grounds."
+                                "Just as the monk said, their driving principle is reproduction.\nThey're seekin' out suitable seedling beds, ye see."
                             ],
                             "_original": "僧侶の子が言った通り、あれらの行動原理は繁殖。\n具合のいい苗床を求めとるんじゃよ。"
                         },
@@ -5605,7 +5605,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I see. So those are the bodies left\nbehind after the soul is taken."
+                                "...I see.\nAnd those are the bodies that have lost their souls."
                             ],
                             "_original": "……なるほど。\nそれが魂を失った肉体だと。"
                         },
@@ -5641,7 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's that strange illness called 'Husk\nSickness' spreading in the capital now, isn't\nthere? That explains why the Blighted Roots are\nheading west."
+                                "I take it a strange ailment called \\C[17]Husk Disease\\C[0]\nis spreadin' through the capital right now?\nIt makes sense why the Itoi-ne would be tryin' to head west."
                             ],
                             "_original": "今、都の方で抜け殻病などという奇病が流行っとるんじゃろ？\n厭い根が西へ向かおうとするのも頷けるわい。"
                         },
@@ -5684,7 +5684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah! So that's the connection!"
+                                "Ah...!\nSo that was the cause and effect!"
                             ],
                             "_original": "ああ……！\nそういう因果関係だったのか！"
                         },
@@ -5704,7 +5704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's why Awayuki was protecting the\nbody in the Sealed Prison, hmm..."
+                                "Which is why Awayuki was protecting the bodies in the Sealed Cell.\nHmm..."
                             ],
                             "_original": "だからこそ淡雪は肉体を封じ牢で守っていた、か。\nふむ……"
                         },
@@ -5747,7 +5747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, setting that aside, the Blighted Roots\nseek out comfortable husks to dwell in."
+                                "Well, setting that aside.\nIn short, Itoi-ne aim for husks that are comfy to live in."
                             ],
                             "_original": "まあ、それはさておきじゃな。\n要するに厭い根は住み心地のいい骸を目指す。"
                         },
@@ -5767,7 +5767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So... the Soul Swamp. You mean it's one\nhalf of Kamui's remains?"
+                                "Meaning, Tamashii no Numa.\nOne half of Kanmui's husk, you mean?"
                             ],
                             "_original": "つまり、魂の沼。\nカンムイの骸の片割れということですか。"
                         },
@@ -5803,7 +5803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's it! And that's why this very land serves\nas the seal!"
+                                "That's right!\nTherefore, this very land itself acts as a seal!"
                             ],
                             "_original": "そうじゃ！\nよって、この地そのものが封印になるというわけじゃ！"
                         },
@@ -5846,7 +5846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Then, the seal weakening means...? Did something\nhappen to the remains?"
+                                "Then, what does it mean for the seal to have weakened...?\nDid something happen to the husk?"
                             ],
                             "_original": "では、封印が弱まったというのは……？\n骸に何かあったのか？"
                         },
@@ -5889,7 +5889,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As I said earlier, the Blighted Roots' purpose\nis to propagate. Meaning they'll keep\nmultiplying if left unchecked."
+                                "Like I said before, the Itoi-ne's goal is reproduction.\nIn other words, if left alone, they'll just keep multiplyin'."
                             ],
                             "_original": "さっきも言ったが、厭い根の目的は繁殖じゃ。\nすなわち放っておけば増え続ける。"
                         },
@@ -5909,7 +5909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So the seal is... full?"
+                                "Does that mean the seal is at full capacity?"
                             ],
                             "_original": "封印が満員になっちゃったってことです？"
                         },
@@ -5929,7 +5929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No, that's not it. It's running out of souls."
+                                "No, that ain't it.\nThere's a lack of souls."
                             ],
                             "_original": "いや、違う。\n魂が足りないんじゃ。"
                         },
@@ -5956,7 +5956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? Souls?"
+                                "Eh?\nSouls?"
                             ],
                             "_original": "え？\n魂？"
                         },
@@ -5976,7 +5976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A seal, in this case... means storing\nvast numbers of souls within the massive\nremains, and the Blighted Roots keep\nstealing souls to settle there..."
+                                "The seal, in other words...\nIt stores souls within the giant husk, and the Itoi-ne\ncontinue their attempts to steal those souls in order to settle there..."
                             ],
                             "_original": "封印とは、つまり……\n巨大な骸に魂を蓄え、厭い根はそこに住み着くべく\n魂を奪おうとし続ける……"
                         },
@@ -5996,7 +5996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And by luring them in, it keeps them in\nplace... Is that the idea?"
+                                "Is it something meant to attract them like that\nand keep them in place...?"
                             ],
                             "_original": "そうして惹き付け、その場にとどめるもの……\nということなのでしょうか？"
                         },
@@ -6039,7 +6039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Yes, correct. Think of it like a moth to a\nflame."
+                                "Umu, spot on.\nThink of it as somethin' like a bug zapper,\nand it's easier to understand."
                             ],
                             "_original": "うむ、正解じゃ。\n誘蛾灯のようなものと言えば分かりやすいかのう。"
                         },
@@ -6059,7 +6059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But then isn't it just buying time\nrather than being a true seal?"
+                                "But, doesn't that make it more of a stalling tactic\nrather than a seal?"
                             ],
                             "_original": "ですが、それでは封印というより\nただの時間稼ぎではありませんか？"
                         },
@@ -6095,7 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's exactly what it is. To make this a proper\nseal, an enormous number of souls are needed."
+                                "It surely does.\nTo make this act as a proper seal,\na vast amount of souls is required."
                             ],
                             "_original": "そうなんじゃよ。\nこれを封印たらしめるには、膨大な魂が必要じゃ。"
                         },
@@ -6138,7 +6138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, so the seal weakened because it ran out of\nsouls..."
+                                "I see, so that's why the lack of souls caused the seal to weaken..."
                             ],
                             "_original": "そうか、だから魂が足りず封印が弱まったと……"
                         },
@@ -6165,7 +6165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As you all know, not all Blighted Roots are\nbeing drawn to Kokusha right now. And as they\nkeep multiplying, the supply of souls can't keep\nup..."
+                                "As ye already know, not all Itoi-ne are being lured to Kokusha now.\nThe soul supply just can't keep up with how much Itoi-ne are multiplying..."
                             ],
                             "_original": "お前さんらも知っての通り、今やすべての厭い根がコクシャに\n惹き付けられておるわけではないからのう。\nそうして増えゆく厭い根に、魂の供給が追い付かん……"
                         },
@@ -6185,7 +6185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I understand the seal now. So how do we\nreinforce it?"
+                                "I understand the situation regarding the seal well enough.\nThen, how do we go about reinforcing it?"
                             ],
                             "_original": "封印についてはよく分かった。\nでは、それを補強するにはどうすればいい？"
                         },
@@ -6221,7 +6221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are two methods. One is to keep increasing\nthe total amount of souls in the Soul Swamp. The\nother is to keep reducing the number of\nloathsome roots."
+                                "There's two ways.\nOne is to keep increasing the amount of souls in Tamashii no Numa.\nThe other is to keep reducing the number of Itoi-ne."
                             ],
                             "_original": "方法は二つ。\n一つは魂の沼の魂の総量を増やし続ける。\nもう一つは厭い根の数を減らし続ける。"
                         },
@@ -6264,7 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That... doesn't sound easy at all, does it?"
+                                "That... \nWouldn't both of those be very difficult to do?"
                             ],
                             "_original": "それは……\nどちらもとても難しいのではないか？"
                         },
@@ -6307,7 +6307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's why I said it, isn't it? There's a reason\nI can't handle this myself."
+                                "That's why I said it, ain't it?\nThere's a reason I'm at my wit's end."
                             ],
                             "_original": "だから言ったじゃろ？\n儂がなんとかせんのには理由があると。"
                         },
@@ -6327,7 +6327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is there anything we can do?"
+                                "Is there anything that this humble monk and the others can do?"
                             ],
                             "_original": "拙僧らにできることはあるのでしょうか。"
                         },
@@ -6363,7 +6363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "In my estimation―you there, you have a rather\nspecial soul, don't you?"
+                                "By my appraisal──Ye there,\nye got a mighty special soul, don't ye?"
                             ],
                             "_original": "儂の見立てでは──お前さん、\nかなり特殊な魂を持っておるな？"
                         },
@@ -6406,7 +6406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? ...Do you mean \\N[10]-sama?"
+                                "Eh? \n...Do you mean \\N[10]-dono?"
                             ],
                             "_original": "え？\n……\\N[10]殿のことか？"
                         },
@@ -6440,7 +6440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So your name is \\N[10], is it? Nice to meet you.\nNow―you once reached the \\C[17]Crag of Yomi\\C[0], didn't\nyou?"
+                                "So ye're called \\N[10], are ye? Pleased to meet ye. \nNow then──Ye once reached the \\C[17]Crags of Yomi\\C[0], didn't ye?"
                             ],
                             "_original": "\\N[10]というのか、よろしくのう。\nさて──お前さんは一度、\\C[17]黄泉の巌\\C[0]に至ったな？"
                         },
@@ -6483,7 +6483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Huh? The Crag of Yomi?"
+                                "Hwahh?\nThe Crags of Yomi?"
                             ],
                             "_original": "はいぃ？\n黄泉の巌？"
                         },
@@ -6503,7 +6503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "W-Wait, Hidden God-sama. The Crag of\nYomi is―"
+                                "P-Please wait, Inugami-sama. \nThe Crags of Yomi are──"
                             ],
                             "_original": "お、お待ちください、隠神様。\n黄泉の巌というのは──"
                         },
@@ -6546,7 +6546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Call me Aruko. No need for honorifics."
+                                "Just call me Aruko. \nI don't need no '-sama' neither."
                             ],
                             "_original": "儂のことは存子と呼べい。\n様もいらんぞ。"
                         },
@@ -6566,7 +6566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―My apologies, Aruko-san. The Crag of\nYomi is the final destination for\nwandering souls. Reaching it should mean\ndeath."
+                                "──Forgive me, Aruko-san. \nThe Crags of Yomi are the final destination for drifting souls. \nReaching them ought to mean one's death."
                             ],
                             "_original": "──失礼、存子さん。\n黄泉の巌とは、漂う魂の終着点。\n至りは死を意味するはず。"
                         },
@@ -6586,7 +6586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's right. Normally, at least."
+                                "That's exactly right. \nFor yer average folk, at least."
                             ],
                             "_original": "その通りじゃ。\n普通はな。"
                         },
@@ -6641,7 +6641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So... \\N[10]-sama is not normal?"
+                                "Is \\N[10]-dono... not normal?"
                             ],
                             "_original": "\\N[10]殿は……普通ではないのか？"
                         },
@@ -6668,7 +6668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Souls that escape are guided to the crag, but―if\nsomeone in a healthy physical state sees it,\nsomething truly strange can happen."
+                                "A soul that's escaped the body gets led to the Crags──\nbut if that ain't the case, and ye lay eyes on 'em while still\nhavin' a healthy body, some mighty strange things can happen."
                             ],
                             "_original": "抜け出た魂は巌へと導かれるわけじゃが──\nそうではなく、健全な肉体の状態であれに見えると\n世にも奇妙なことが起こり得る。"
                         },
@@ -6708,7 +6708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Their soul is stripped away and its value is\nmeasured. As a result, they might be charmed."
+                                "Yer soul gets pulled away, and its worth is measured. \nAs a result, ye can end up being captivated by 'em."
                             ],
                             "_original": "魂を引き剥がされ、価値を測られる。\nその結果、魅入られることがあるんじゃ。"
                         },
@@ -6728,7 +6728,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...And what happens then?"
+                                "……When that happens, what then?"
                             ],
                             "_original": "……そうなると、どうなるんです？"
                         },
@@ -6748,7 +6748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The soul is polished. Not that it grants any\nspecial abilities or that it lasts forever, but―"
+                                "Yer soul gets polished up. \nThough I say that, it don't mean ye'll awaken to some special power,\nand it's only a temporary thing, but──"
                             ],
                             "_original": "魂に磨きがかかる。\nと言っても、何か特別な能力に目覚めるわけではないし\n一時のものなんじゃが──"
                         },
@@ -6768,7 +6768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "―in Shikinoiwa, it holds great significance. It\nallows you to borrow the power of the Kamui that\ndwells in this land."
+                                "──It carries great significance here in Shikinowa.\nBecause ye'll be able to borrow the power of Kanmui dwelling in this land."
                             ],
                             "_original": "──こと、シキノワにおいては大きな意味を持つ。\nこの地に宿るカンムイの力を借りられるんじゃからな。"
                         },
@@ -6811,7 +6811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The power of the Kamui..."
+                                "Kanmui's power..."
                             ],
                             "_original": "カンムイの力を……"
                         },
@@ -6854,7 +6854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Use that, and you should be able to strengthen\nthe seal. Though it'll still just be buying\ntime, mind you."
+                                "Using that should allow ye to strengthen the seal.\nThough it don't change the fact that it's still just stallin' for time."
                             ],
                             "_original": "それを使えば封印を強められるじゃろう。\n依然として、時間稼ぎであることは変わらんが。"
                         },
@@ -6874,7 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see―so this is the truth behind \\N[10]'s\nshell sickness."
+                                "I see──\nSo this is the truth behind \\N[10]'s Husk Disease."
                             ],
                             "_original": "そうか──\n\\N[10]の抜け殻病の真相はこれか。"
                         },
@@ -6921,7 +6921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tokuhaku-san did mention it, didn't he?\nThat there were traces of the soul\nseparating from the body."
+                                "If I recall, Tokuhaku-san did mention it.\nThat there were traces of your soul being separated from your body."
                             ],
                             "_original": "確か、悳白さんが言っていましたね。\n肉体から魂が分かたれた形跡があると。"
                         },
@@ -6941,7 +6941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Doesn't \\N[10] remember? That... approaching\nthe Crag of Yomi?"
+                                "Do you not remember it yourself, \\N[10]?\nAbout... approaching those Crags of Yomi?"
                             ],
                             "_original": "\\N[10]自身は覚えてないんですか？\nその……黄泉の巌？\nに近づいたこと。"
                         },
@@ -6950,7 +6950,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Try to remember",
+                                    "Recall",
                                     "I remember"
                                 ],
                                 -1,
@@ -7009,7 +7009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After the ship capsized, before reaching\nShikinoiwa―I do recall waking up in a strange\nplace."
+                                "After the ship capsized and before I reached Shikinowa──\ncome to think of it,\nI do have a memory of waking up in a strange place."
                             ],
                             "_original": "船が転覆したあと、シキノワに辿り着く前──\nそういえば、奇妙な場所で目覚めた記憶がある。"
                         },
@@ -7028,7 +7028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That must have been the Crag of Yomi. My soul\nwas separated then."
+                                "That must have been the Crags of Yomi.\nMy soul was separated at that time."
                             ],
                             "_original": "あれこそが黄泉の巌だったのだろう。\n自分の魂は、あの時に分かたれた。"
                         },
@@ -7047,7 +7047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And there's one more thing I remember. At that\nplace―\\C[17]there was someone else besides me.\\C[0]"
+                                "And there is one other thing I remember. In that place── \\C[17]there was someone else besides myself.\\C[0]"
                             ],
                             "_original": "そして、もう一つ覚えていることがある。\nあの場には──\\C[17]自分以外にも人がいた。\\C[0]"
                         },
@@ -7090,7 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Besides \\N[10]-sama... Could it have been someone from\nthe ship?"
+                                "Besides \\N[10]-dono...?\nI wonder if it was someone else on the ship?"
                             ],
                             "_original": "\\N[10]殿以外にも……\n船に乗っていた誰かだろうか？"
                         },
@@ -7110,7 +7110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Either way, if the person in question\nremembers it, and Aruko-san says so,\nthen it must be true."
+                                "In any case, since he has a memory of it,\nand Aruko-san says so herself,\nthere can be no mistake."
                             ],
                             "_original": "いずれにせよ、本人に覚えがあり、\nかつ存子さんがそう言うのであれば\n間違いないことなのでしょう。"
                         },
@@ -7130,7 +7130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So, uh... What should \\N[10] do?"
+                                "Then, um...\nwhat should \\N[10] do?"
                             ],
                             "_original": "じゃあ、えーっと。\n\\N[10]はどうすればいいんです？"
                         },
@@ -7173,7 +7173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, it's nothing difficult. Staff-chan, explain\nit to them."
+                                "Now, it ain't nothin' particularly difficult.\nTsue-chan, tell 'em."
                             ],
                             "_original": "なあに、特に難しいことはない。\n杖ちゃん、教えてやれい。"
                         },
@@ -7193,7 +7193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…First, head to \\C[17]Sumizome Shrine\\C[0]."
+                                "...First, we head to \\C[17]Sumizome Shrine\\C[0]."
                             ],
                             "_original": "……まずは\\C[17]墨染神社\\C[0]に向かう。"
                         },
@@ -7213,7 +7213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mm, that's right."
+                                "Umu, that's right."
                             ],
                             "_original": "うむ、そうじゃな。"
                         },
@@ -7233,7 +7233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Can I call you Staff-chan too?"
+                                "May I call you Tsue-chan as well?"
                             ],
                             "_original": "私も杖ちゃんって呼んでいいですか？"
                         },
@@ -7273,7 +7273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah, don't ignore her!"
+                                "Ah, she didn't ignore you."
                             ],
                             "_original": "あっ、無視しない。"
                         },
@@ -7293,7 +7293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That was immediate."
+                                "That was an immediate response."
                             ],
                             "_original": "即答でした。"
                         },
@@ -7336,7 +7336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Where is Sumizome Shrine?"
+                                "Where is Sumizome Shrine located?"
                             ],
                             "_original": "墨染神社というのはどこに？"
                         },
@@ -7379,7 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just north of this village. Normally, you\nwouldn't be allowed in, but I'll go ahead and\narrange things."
+                                "It's just to the north of this village.\nNormally, you wouldn't be allowed in,\nbut I shall go ahead and make arrangements."
                             ],
                             "_original": "この村を出てすぐ北にある。\n普通は入れてもらえんが、儂が先に行って話をつけておこう。"
                         },
@@ -7449,7 +7449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, that's all the explanations for now. I'll\nbe waiting for you there."
+                                "Well then, that is all for our explanations.\nI shall be waiting for ye there."
                             ],
                             "_original": "では、いろいろな説明はここまでじゃ。\n現地で待っておるぞ。"
                         },
@@ -7570,7 +7570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright, let's go to Sumizome Shrine!"
+                                "Alright, let's head to Sumizome Shrine as well!"
                             ],
                             "_original": "よし、私たちも墨染神社に行こう！"
                         },
@@ -7610,7 +7610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This isn't a sightseeing trip."
+                                "This is not sightseeing."
                             ],
                             "_original": "観光ではない。"
                         },
@@ -7649,7 +7649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Prim-san? Is something wrong?"
+                                "…Prim-san?\nIs something the matter?"
                             ],
                             "_original": "……プリムさん？\nどうかしましたか？"
                         },
@@ -7669,7 +7669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, no. I don't know what we'll do at\nthe shrine, but even if it works…"
+                                "Ah, no.\nI do not know what we are to do at the shrine,\nbut even if it goes well..."
                             ],
                             "_original": "あ、いえ。\n神社で何をするのかは分かりませんが、\nそれがうまくいったとしても……"
                         },
@@ -7689,7 +7689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's just buying time."
+                                "It is nothing more than stalling."
                             ],
                             "_original": "時間稼ぎに過ぎぬ。"
                         },
@@ -7709,7 +7709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…Right, Aruko-san said as much. It\nprobably won't solve the problem."
+                                "...Right, Aruko-san said so as well.\nIt doesn't seem like it will lead to a resolution of the problem."
                             ],
                             "_original": "……ですよね、存子さんも言っていましたし。\n問題の解決には繋がらないような。"
                         },
@@ -7729,7 +7729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But if there's nothing else we can do…\nit's better than doing nothing."
+                                "However, if there is nothing else we can do...\nit is better than doing nothing at all."
                             ],
                             "_original": "しかし、他にできることがないのであれば……\n何もせぬよりはよいでしょう。"
                         },
@@ -7749,7 +7749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Exactly! As expected of Sakura\nToku-dono, everything you say is\nwonderful!"
+                                "Exactly!\nAs one would expect from Outoku-dono,\njust about everything you say is wonderful!"
                             ],
                             "_original": "その通りだ！\n流石は桜悳殿、言うことが大体素晴らしい！"
                         },
@@ -7769,7 +7769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I hope our actions actually mean\nsomething."
+                                "I simply hope our actions will have meaning."
                             ],
                             "_original": "私たちの行動に意味があるといいのですが。"
                         },
@@ -8619,7 +8619,7 @@
                                 0,
                                 0,
                                 2,
-                                "Ponkei"
+                                "Pon-e"
                             ],
                             "_original": "ぽん恵"
                         },
@@ -8627,7 +8627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The sake made here is apparently popular in the\nwest, pon. Ponnojo mentioned it in a letter,\npon."
+                                "It seems the sake made here is popular in the west, too-pon.\nPonnojou said so in a letter-pon."
                             ],
                             "_original": "ここで作られたお酒は西の方でも人気らしいぽん。\nぽん之丞が手紙で言ってたぽん。"
                         },
@@ -8664,7 +8664,7 @@
         {
             "id": 13,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8707,7 +8707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Straw Mountain!"
+                                "A mountain of hay bales!"
                             ],
                             "_original": "たわらのやま！"
                         },
@@ -8744,7 +8744,7 @@
         {
             "id": 14,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8787,7 +8787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Got it!"
+                                "Bucket!"
                             ],
                             "_original": "おけ！"
                         },
@@ -8824,7 +8824,7 @@
         {
             "id": 15,
             "name": "調べる",
-            "note": "<HM拡大領域:0,0,1,0.5>",
+            "note": "<HM拡大領域:0,0,1,0.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8867,7 +8867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, stop it!"
+                                "Kitchen!"
                             ],
                             "_original": "くりや！"
                         },
@@ -8904,7 +8904,7 @@
         {
             "id": 16,
             "name": "調べる",
-            "note": "<HM拡大領域:0,0,1,0.5>",
+            "note": "<HM拡大領域:0,0,1,0.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8947,7 +8947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hey, stop it!"
+                                "Kitchen!"
                             ],
                             "_original": "くりや！"
                         },
@@ -8984,7 +8984,7 @@
         {
             "id": 17,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9027,7 +9027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alcohol!"
+                                "Sake!"
                             ],
                             "_original": "おさけ！"
                         },
@@ -9064,7 +9064,7 @@
         {
             "id": 18,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9107,7 +9107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Cage!"
+                                "Basket!"
                             ],
                             "_original": "かご！"
                         },
@@ -9144,7 +9144,7 @@
         {
             "id": 19,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9187,7 +9187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alcohol!"
+                                "Sake!"
                             ],
                             "_original": "おさけ！"
                         },
@@ -9276,7 +9276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's safe to come here now, right? Maybe\nI can finally go sightseeing in the\ncapital…"
+                                "I recall coming around these parts isn't\nconsidered a bad thing anymore, right?\nI wonder if I can sightsee in the capital soon..."
                             ],
                             "_original": "確か、この辺りに来るのは\n悪いことじゃなくなったのよね？\nそろそろ都を観光できるかな……"
                         },
@@ -9306,7 +9306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Huh? What are you doing here, Tsuzuri?"
+                                "Oh? \nTsuzuri is in a place like this."
                             ],
                             "_original": "あれ？\nこんなところにツヅリが。"
                         },
@@ -9346,7 +9346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "I'm only there to train. Otherwise, I'm\nin this village."
+                                "I'm only there for my training.\nWhen I'm not, I'm here in this village."
                             ],
                             "_original": "あそこでは修行してるだけだから。\nそうじゃないときはこの村にいるの。"
                         },
@@ -9366,7 +9366,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Tsuzuri-chan helps out with the chores.\nShe'll make a fine bride!"
+                                "Tsuzuri-chan helps out with the house chores.\nShe'll make for a fine bride!"
                             ],
                             "_original": "ツヅリちゃんは家事を手伝ってくれるんじゃ。\nいいお嫁さんになるぞ！"
                         },
@@ -9386,7 +9386,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A-a bride… Yeah."
+                                "A-a bride…\nYeah."
                             ],
                             "_original": "お、お嫁さん……\nうん。"
                         },
@@ -9406,7 +9406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "She's staring at \\N[10] like crazy."
+                                "She is staring intensely toward \\N[10]."
                             ],
                             "_original": "ものすごく\\N[10]の方を見てます。"
                         },
@@ -9426,7 +9426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "It's pretty obvious…"
+                                "How transparent..."
                             ],
                             "_original": "分かりやすいですね……"
                         },

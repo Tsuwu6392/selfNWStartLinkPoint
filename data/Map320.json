@@ -7388,7 +7388,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -8316,7 +8316,7 @@
         {
             "id": 5,
             "name": "入場時イベント",
-            "note": "<HM半歩禁止><HMすり抜け禁止>",
+            "note": "<HM半歩禁止><HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9384,7 +9384,7 @@
         {
             "id": 10,
             "name": "接触イベント",
-            "note": "<HM拡大領域:3,0,0,2>",
+            "note": "<HM拡大領域:3,0,0,2><poi>",
             "pages": [
                 {
                     "conditions": {

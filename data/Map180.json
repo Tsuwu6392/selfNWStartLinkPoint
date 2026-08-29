@@ -5588,7 +5588,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5859,7 +5859,7 @@
         {
             "id": 5,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6022,7 +6022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hmm? What's wrong, Tsue-dono?"
+                                "Hm?\nWhat is the matter, Tsue-dono?"
                             ],
                             "_original": "ん？\nどうしたんだ、杖殿。"
                         },
@@ -6084,7 +6084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…No. It's nothing."
+                                "…No.\nIt's nothing."
                             ],
                             "_original": "……否。\n何事もなし。"
                         },
@@ -6104,7 +6104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's a lie. That wasn't like you at\nall."
+                                "You are lying.\nThat was a reaction unlike you."
                             ],
                             "_original": "嘘ですね。\nあなたらしからぬ反応でした。"
                         },
@@ -6124,7 +6124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You *will* tell us if there's something\nwe need to know, right?"
+                                "You'll tell us when something is truly necessary, won't you?"
                             ],
                             "_original": "本当に必要なことは言うんでしょうね？"
                         },
@@ -6205,7 +6205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I trust you, Tsue-dono. By the way, are we\nstill on the right path?"
+                                "I believe in Tsue-dono.\nBy the way, are we on the right path?"
                             ],
                             "_original": "私は杖殿を信じている。\nところで、道は合っているだろうか？"
                         },
@@ -6291,7 +6291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I see, good. Then let's keep going as we are."
+                                "I see, that's good!\nThen let us keep moving forward."
                             ],
                             "_original": "そうか、よかった。\nではこのまま進み続けよう。"
                         },
@@ -6311,7 +6311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nazuna's adapted to the staff\nsurprisingly well."
+                                "Nazuna has adapted to Tsue better than I expected."
                             ],
                             "_original": "思いの外、ナズナは杖に順応しているな。"
                         },
@@ -6331,7 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As expected."
+                                "As one would expect."
                             ],
                             "_original": "流石です。"
                         },
@@ -6351,7 +6351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's do our best too, Ula-san."
+                                "You should do your best as well, Uula-san."
                             ],
                             "_original": "ウーラさんも頑張りましょう。"
                         },
@@ -6371,7 +6371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please don't give me that vibe like I'm\nthe only one struggling."
+                                "Don't make it feel like I'm the only one who isn't getting along."
                             ],
                             "_original": "私だけうまくいってないみたいな感じの\n雰囲気にしないでください。"
                         },
@@ -6589,7 +6589,7 @@
         {
             "id": 7,
             "name": "調べる",
-            "note": "<HM拡大領域:0.5,0.5,3.5,0.5>",
+            "note": "<HM拡大領域:0.5,0.5,3.5,0.5><poi>",
             "pages": [
                 {
                     "conditions": {

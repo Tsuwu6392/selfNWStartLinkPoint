@@ -6498,7 +6498,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HM拡大領域:0.5,0,0,0>",
+            "note": "<HM拡大領域:0.5,0,0,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6589,7 +6589,7 @@
         {
             "id": 4,
             "name": "EV004",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6649,7 +6649,7 @@
         {
             "id": 5,
             "name": "立て札",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6700,7 +6700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "An old signboard. Something seems to be written\non it, but it's unreadable."
+                                "It is an old signpost.\nSomething seems to be written, but I cannot read it."
                             ],
                             "_original": "古い立て札だ。\n何か書かれているようだが、読めない。"
                         },
@@ -6729,7 +6729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The side of the signboard. A bug is resting on\nit."
+                                "It is the side of a signpost.\nAn insect is perched on it."
                             ],
                             "_original": "立て札の側面だ。\n虫がとまっている。"
                         },
@@ -6924,7 +6924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\N[10]-sama, Hakutō-sama, and everyone else.\nWe should head this way."
+                                "\\N[10]-sama, Hakutou-sama, and everyone else.\nThe way we must go is just ahead."
                             ],
                             "_original": "\\N[10]様、ハクトウ様、そして他の皆様。\n向かうべきはこの先に。"
                         },
@@ -6944,7 +6944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This way...?"
+                                "Just ahead...?"
                             ],
                             "_original": "この先って……"
                         },
@@ -7035,7 +7035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please watch."
+                                "Please, watch closely."
                             ],
                             "_original": "見ていてください。"
                         },
@@ -7221,7 +7221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sleeping Forest. Show us the path of\nold."
+                                "Sleeping Forest...\nShow us the path of old."
                             ],
                             "_original": "眠りの森よ。\nかつての道を示しなさい。"
                         },
@@ -7361,7 +7361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ah! A hidden passage!"
+                                "Ah!\nA hidden passage!"
                             ],
                             "_original": "あっ！\n隠し通路！"
                         },
@@ -7381,7 +7381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The plants have withered... As if time\nadvanced in an instant."
+                                "The plants withered...\nas if time advanced in an instant."
                             ],
                             "_original": "植物が枯れた……\nまるで時が刹那に進んだかのように。"
                         },
@@ -7432,7 +7432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As expected of your keen insight, Sakura\nToku-sama."
+                                "Your insight is as keen as ever, Outoku-sama."
                             ],
                             "_original": "流石の慧眼ですね、桜悳様。"
                         },
@@ -7452,7 +7452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...So you can manipulate time, Ten-san?"
+                                "...Are you saying you can manipulate time, Ten-san?"
                             ],
                             "_original": "……テンさんは時間を操れるとでも？"
                         },
@@ -7472,7 +7472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Not at all. This is the aftereffect of a\ncertain prayer―"
+                                "Don't be silly.\nThis is merely the resonance of a certain prayer──"
                             ],
                             "_original": "まさか。\nこれは、とある祈りの余波によるもの──"
                         },
@@ -7530,7 +7530,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "――Now, let's proceed. To obtain the\nSword of the God of Swords."
+                                "──Come, let us go.\nTo obtain the sword of the Sword God."
                             ],
                             "_original": "──さあ、参りましょう。\n剣の神の剣を得るため。"
                         },
@@ -8011,7 +8011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Oh, \\N[10]-sama... The others are resting. You should\ndo the same."
+                                "Oh, \\N[10]-sama...\nThe others are currently taking their rest.\nI believe you should do the same."
                             ],
                             "_original": "おや、\\N[10]様……\n他の皆様は休息を取られています。\nあなた様もそうすべきかと。"
                         },
@@ -8047,7 +8047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Me? I caught a glimpse of a former deity, and\nfelt a bit nostalgic... I was lost in thought."
+                                "...Me?\nIt has been a long time since I felt the presence of my former god,\nand I was feeling a bit nostalgic...\nI was just lost in thought."
                             ],
                             "_original": "……私ですか？\nかつての神に久しく見え、いささか懐かしくなり……\n思いを馳せていたところです。"
                         },
@@ -8067,7 +8067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Well, just the reminiscing of a nameless\naberration. Please don't mind me."
+                                "Well, it is merely the reminiscence of a nameless Kaii.\nPlease do not mind it."
                             ],
                             "_original": "まあ、名も無き怪異の懐古です。\nどうかお気になさらず。"
                         },
@@ -8214,7 +8214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please don't worry about me. Please rest at your\nleisure, \\N[10]-sama."
+                                "Please do not mind me.\nPlease rest comfortably, \\N[10]-sama."
                             ],
                             "_original": "私のことなど、お気になさらず。\nごゆるりとお休みください、\\N[10]様。"
                         },
@@ -8413,7 +8413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I hear there's a mysterious forest ahead. Might\nbe good for training..."
+                                "I heard there is a mysterious forest up ahead.\nIt might be good for training..."
                             ],
                             "_original": "この先には不思議な森があるんですってね。\n修行にいいかも……"
                         },
@@ -8449,7 +8449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...No, no, that's not it. Now is the time to\nrest, I...both Shataku-sama and ba-chan said\nthat training too much isn't good for the soul."
+                                "...Wait, no, no. Now is the time to rest.\nBoth Shataku-sama and Batchan said that\nover-training is not good for the soul."
                             ],
                             "_original": "……いやいや、違う違う。\n今は休む時期よ、私……修行しすぎも魂によくないって\nシャタク様もばっちゃんも言ってたわ。"
                         },
@@ -8588,7 +8588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I heard Nazuna took on a reckless bet? Honestly,\nwhat is she thinking..."
+                                "I heard Nazuna accepted a reckless match?\nHonestly, what is she thinking..."
                             ],
                             "_original": "ナズナが無茶な勝負を受けたんですって？\n全く、何をやってるんだか……"
                         },
@@ -8624,7 +8624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just so you know, I'm not helping. She'll win\nanyway, if it's her."
+                                "Just so you know, I am not going to help her.\nKnowing her, she will likely win anyway."
                             ],
                             "_original": "言っとくけど、手助けなんてしないからね。\nどうせ勝つでしょ、あいつなら。"
                         },
@@ -8781,7 +8781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Murasame may be gruff, but he's not a bad\nperson. He's surprisingly easy to get along\nwith, so rest assured."
+                                "Murasame is blunt, but she is not a bad person.\nShe is surprisingly easy to get along with, so rest easy."
                             ],
                             "_original": "村雨は不愛想だが、悪人ではない。\n意外と付き合いやすいゆえ、安心するがよい。"
                         },
@@ -8801,7 +8801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "......Hm, me? I'm preparing for training. I'll\nhave to knock you into shape again this time!"
+                                "...Hm, me?\nI am preparing for training.\nI must whip them back into shape again!"
                             ],
                             "_original": "……ん、儂か？\n儂は修行の準備をしておるのだ。\n今回も叩き直してやらねば！"
                         },

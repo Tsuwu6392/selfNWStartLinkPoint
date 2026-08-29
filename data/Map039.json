@@ -3339,7 +3339,7 @@
         {
             "id": 3,
             "name": "光源",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3806,7 +3806,7 @@
         {
             "id": 7,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3904,7 +3904,7 @@
         {
             "id": 8,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7400,7 +7400,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "Would you like to view the scene \"Mystic Tanuki\nHidden God One-Shot Catch\"? \\C[17]Either choice will\nbe recorded in the recollection.\\C[0]"
+                                "Would you like to view the scene \"Youri\nHidden God One-Shot Catch\"? \\C[17]Either choice will\nbe recorded in the recollection.\\C[0]"
                             ],
                             "_original": "シーン『妖狸隠神一本釣り』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },

@@ -9538,7 +9538,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10181,7 +10181,7 @@
         {
             "id": 8,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10272,7 +10272,7 @@
         {
             "id": 9,
             "name": "移動",
-            "note": "<HM拡大領域:0,0,0,1>",
+            "note": "<HM拡大領域:0,0,0,1><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10446,7 +10446,7 @@
         {
             "id": 11,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {

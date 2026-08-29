@@ -7652,7 +7652,7 @@
         {
             "id": 1,
             "name": "立て札",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -7877,7 +7877,7 @@
         {
             "id": 2,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9289,7 +9289,7 @@
         {
             "id": 5,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -9689,7 +9689,7 @@
         {
             "id": 7,
             "name": "接触イベント",
-            "note": "<HM拡大領域:0,1.5,1.5,0>",
+            "note": "<HM拡大領域:0,1.5,1.5,0><poi>",
             "pages": [
                 {
                     "conditions": {

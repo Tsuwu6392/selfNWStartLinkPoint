@@ -3188,7 +3188,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HM拡大領域:0,2,2,0>",
+            "note": "<HM拡大領域:0,2,2,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3279,7 +3279,7 @@
         {
             "id": 2,
             "name": "移動　影",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3844,7 +3844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A Itoine's roar... from outside!?\nThis is bad...!"
+                                "A Itoi-ne's roar... from outside!?\nThis is bad...!"
                             ],
                             "_original": "厭い根の咆哮……外から！？\nまずい……！"
                         },
@@ -4547,7 +4547,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh? You are still here, it seems.\nEven though the Itoines have been defeated—by the Shogun-sama, no less."
+                                "Oh? You are still here, it seems.\nEven though the Itoi-nes have been defeated—by the Shogun-sama, no less."
                             ],
                             "_original": "はて、まだここにいるのですね。\n厭い根は討たれたというのに──将軍様に。"
                         },
@@ -4597,7 +4597,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Oh? You are still here, it seems.\nEven though the Itoines have been defeated."
+                                "Oh? You are still here, it seems.\nEven though the Itoi-nes have been defeated."
                             ],
                             "_original": "はて、まだここにいるのですね。\n厭い根は討たれたというのに。"
                         },
@@ -4833,7 +4833,7 @@
         {
             "id": 5,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4913,7 +4913,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4993,7 +4993,7 @@
         {
             "id": 7,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

@@ -4796,7 +4796,7 @@
         {
             "id": 2,
             "name": "接触イベント",
-            "note": "<HM拡大領域:4,0,0,1>",
+            "note": "<HM拡大領域:4,0,0,1><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4838,7 +4838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can't go this way. Something invisible is\nblocking me."
+                                "I cannot proceed this way.\nSomething invisible is blocking the path."
                             ],
                             "_original": "こちらには進めない。\n目に見えない何かに阻まれている。"
                         },
@@ -5047,7 +5047,7 @@
         {
             "id": 5,
             "name": "接触イベント",
-            "note": "<HM拡大領域:0,3,3,0>",
+            "note": "<HM拡大領域:0,3,3,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5184,7 +5184,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5211,7 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I found you."
+                                "...I've found you."
                             ],
                             "_original": "……見つけましたよ。"
                         },
@@ -5375,7 +5375,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5383,7 +5383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Who are you...?"
+                                "You are...?"
                             ],
                             "_original": "お主は……？"
                         },
@@ -5403,7 +5403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You... you're the officer who slew that\napparition a few days ago, aren't you?"
+                                "You... you are\nthe officer people say cut down that Kaii a few days ago, correct?"
                             ],
                             "_original": "あなたが……\nあなたが数日前にあの怪異を斬ったという隊士ですね。"
                         },
@@ -5415,7 +5415,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5423,7 +5423,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you mean the Onryō, then yes."
+                                "If you mean the Itoi-ne, yes."
                             ],
                             "_original": "厭い根のことなら、いかにも。"
                         },
@@ -5466,7 +5466,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5474,7 +5474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This area is a hotspot for them. It's no\nplace for a grave visit right now...\nReturn to the capital."
+                                "This area is where those things well up.\nIt is not currently suitable for visiting graves...\nreturn to the capital."
                             ],
                             "_original": "この辺りは奴らが湧く場所。\n今は墓参りには適さぬ……都へ戻れ。"
                         },
@@ -5494,7 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Stay away from me!"
+                                "Don't come any closer!"
                             ],
                             "_original": "近づかないで！"
                         },
@@ -5596,7 +5596,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5604,7 +5604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Nn..."
+                                "Ngh..."
                             ],
                             "_original": "ぬっ……"
                         },
@@ -5624,7 +5624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The one you killed was my child!"
+                                "The one you cut down was my child!"
                             ],
                             "_original": "あなたが斬ったのは私の子だった！"
                         },
@@ -5662,7 +5662,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5733,7 +5733,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5741,7 +5741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I see. My apologies."
+                                "...I see.\nMy apologies."
                             ],
                             "_original": "……そうか。\nすまぬ。"
                         },
@@ -5761,7 +5761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I heard there was still a trace of her left! She\nmight have been restored!"
+                                "I heard there were still traces of her former self left!\nShe might have been able to return to normal!"
                             ],
                             "_original": "まだ面影が残っていたと聞いた！\n元に戻れたかもしれない！"
                         },
@@ -5781,7 +5781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "And yet... and yet you killed her."
+                                "And yet...\nand yet you killed her."
                             ],
                             "_original": "なのに……\nなのにあなたは、殺したの。"
                         },
@@ -5801,7 +5801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You killed my child. Murderer!!"
+                                "You killed my child.\nMurderer!!"
                             ],
                             "_original": "私の子を殺した。\n人殺し！！"
                         },
@@ -5813,7 +5813,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5821,7 +5821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Once it came to that, there was no\nturning back. I had to put it out of its\nmisery."
+                                "Once she has become that, there is no returning.\nThere was no choice but to grant her mercy."
                             ],
                             "_original": "ああなっては戻れぬ。\n介錯する他ない。"
                         },
@@ -5841,7 +5841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Don't mock me..."
+                                "Don't give me that..."
                             ],
                             "_original": "ふざけないで……"
                         },
@@ -5912,7 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Because she became an apparition, she couldn't\neven be buried in a normal grave. That child...\nshe was alone until the very end..."
+                                "Because she became a Kaii, she isn't even allowed in a normal grave.\nThat child, until the very end, was all alone..."
                             ],
                             "_original": "怪異になったから、普通のお墓にも入れてもらえない。\nあの子は、最後まで独り寂しく……"
                         },
@@ -5924,7 +5924,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5951,7 +5951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...That other child, the one from the swamp. I\nheard she was gravely injured because of you as\nwell."
+                                "...That thief child everyone's talking about.\nI heard she suffered a great injury because of you, too."
                             ],
                             "_original": "……例の、こそ泥の子。\nあの子もあなたのせいで大怪我をしたと聞いた。"
                         },
@@ -5963,7 +5963,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -5990,7 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The apparition that took human form... it was\nyou, wasn't it?"
+                                "The Kaii in human form...\nis none other than you."
                             ],
                             "_original": "人の姿をした怪異は……\n他ならぬ、あなたでしょう。"
                         },
@@ -6075,7 +6075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I curse you."
+                                "I hate you."
                             ],
                             "_original": "恨みます。"
                         },
@@ -6334,7 +6334,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -6342,7 +6342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "No matter how many times I fall, I rise\nagain."
+                                "No matter how many times I fall, I shall stand."
                             ],
                             "_original": "幾度転べど、立ち上がる。"
                         },
@@ -6387,7 +6387,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -6395,7 +6395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I can still... still stand. I can\nstill..."
+                                "Still... I can still stand.\nStill..."
                             ],
                             "_original": "まだ……まだ立てる。\nまだ……"
                         },
@@ -6823,7 +6823,7 @@
         {
             "id": 6,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {

@@ -10284,7 +10284,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10466,7 +10466,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10557,7 +10557,7 @@
         {
             "id": 4,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10708,7 +10708,7 @@
         {
             "id": 6,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10994,7 +10994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Since we've entered Yakou Iwaya, does that mean\nthere's a chance we'll run into Itoines from here on out?"
+                                "Since we've entered Yakou Iwaya, does that mean\nthere's a chance we'll run into Itoi-nes from here on out?"
                             ],
                             "_original": "夜行岩屋に入ったってことは、ここからは\n厭い根に出くわす可能性もあるんですか？"
                         },
@@ -12336,7 +12336,7 @@
         {
             "id": 12,
             "name": "立て札",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

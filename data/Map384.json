@@ -3872,7 +3872,7 @@
         {
             "id": 1,
             "name": "入場時のイベント",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4266,7 +4266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...Let's continue the conversation as we walk.\nThanks to Tadashi-sama, we should be able to\nproceed upward."
+                                "...Let's continue the conversation as we walk.\nThanks to Nao-sama, we should be able to\nproceed upward."
                             ],
                             "_original": "……続きは歩きながらお話ししましょう。\n直様のおかげで上へと進めるはずですから。"
                         },
@@ -4278,7 +4278,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -4423,7 +4423,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4514,7 +4514,7 @@
         {
             "id": 3,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4688,7 +4688,7 @@
         {
             "id": 5,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {

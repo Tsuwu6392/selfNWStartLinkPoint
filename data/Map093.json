@@ -6312,7 +6312,7 @@
         {
             "id": 5,
             "name": "調べる（地蔵）",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -6714,7 +6714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you go down this cliff and head west, there's a cave.\nApparently, the Itoine went in there."
+                                "If you go down this cliff and head west, there's a cave.\nApparently, the Itoi-ne went in there."
                             ],
                             "_original": "この崖を下りて西へ進むと洞窟がある。\n厭い根はそこに入っていったらしいぞ。"
                         },
@@ -6822,7 +6822,7 @@
         {
             "id": 7,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

@@ -3314,7 +3314,7 @@
         {
             "id": 1,
             "name": "移動",
-            "note": "<HM拡大領域:0,1,2,0>",
+            "note": "<HM拡大領域:0,1,2,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3506,7 +3506,7 @@
         {
             "id": 2,
             "name": "移動",
-            "note": "<HMトリガー拡大:OFF>",
+            "note": "<HMトリガー拡大:OFF><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4103,7 +4103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We'll definitely defeat the Itoine!"
+                                "We'll definitely defeat the Itoi-ne!"
                             ],
                             "_original": "厭い根は私たちが必ず討つぞ！"
                         },

@@ -9227,7 +9227,7 @@
         {
             "id": 17,
             "name": "入場時イベント",
-            "note": "<HM半歩禁止><HMすり抜け禁止>",
+            "note": "<HM半歩禁止><HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12115,7 +12115,7 @@
         {
             "id": 22,
             "name": "接触イベント",
-            "note": "<HM拡大領域:1.5,0,0,1.5>",
+            "note": "<HM拡大領域:1.5,0,0,1.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12584,7 +12584,7 @@
                                 0,
                                 0,
                                 2,
-                                "Mystic Tanuki"
+                                "Youri"
                             ],
                             "_original": "妖狸"
                         },
@@ -12771,7 +12771,7 @@
                                 0,
                                 0,
                                 2,
-                                "Mystic Tanuki"
+                                "Youri"
                             ],
                             "_original": "妖狸"
                         },
@@ -16074,7 +16074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Look, Mom. The Mystic Tanukis are playing on the\nother side of the river."
+                                "Look, Mom. The Youris are playing on the\nother side of the river."
                             ],
                             "_original": "見て、お母さん。\n川の向こう側で妖狸たちが遊んでるよ。"
                         },
@@ -17753,7 +17753,7 @@
         {
             "id": 33,
             "name": "調べる",
-            "note": "<HM拡大領域:0.5,0.5,0.5,1.5>",
+            "note": "<HM拡大領域:0.5,0.5,0.5,1.5><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -17892,7 +17892,7 @@
         {
             "id": 35,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -17971,7 +17971,7 @@
         {
             "id": 36,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -18050,7 +18050,7 @@
         {
             "id": 37,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {

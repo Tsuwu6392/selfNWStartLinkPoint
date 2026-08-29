@@ -3915,7 +3915,7 @@
         {
             "id": 2,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -3994,7 +3994,7 @@
         {
             "id": 3,
             "name": "移動　影",
-            "note": "<HM拡大領域:0,1,0,0>",
+            "note": "<HM拡大領域:0,1,0,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4085,7 +4085,7 @@
         {
             "id": 4,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4164,7 +4164,7 @@
         {
             "id": 5,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -4243,7 +4243,7 @@
         {
             "id": 6,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5222,7 +5222,7 @@
         {
             "id": 8,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5301,7 +5301,7 @@
         {
             "id": 9,
             "name": "接触イベント",
-            "note": "<HM拡大領域:0,1,2,0>",
+            "note": "<HM拡大領域:0,1,2,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -5676,7 +5676,6 @@
                             "indent": 0,
                             "parameters": [
                                 "View the scene『The Water Feels Just Right』?\n\\C[17]※Either choice will record the scene in the memories.\\C[0]"
-
                             ],
                             "_original": "シーン『いい湯加減です』を閲覧しますか？\n\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
                         },

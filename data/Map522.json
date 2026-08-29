@@ -11557,7 +11557,7 @@
         {
             "id": 9,
             "name": "接触イベント（戦闘）",
-            "note": "<HM拡大領域:2,0,0,2>",
+            "note": "<HM拡大領域:2,0,0,2><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12732,7 +12732,7 @@
         {
             "id": 13,
             "name": "接触イベント（戦闘）",
-            "note": "<HM拡大領域:0,2,2,0>",
+            "note": "<HM拡大領域:0,2,2,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -14182,7 +14182,7 @@
         {
             "id": 18,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -14322,7 +14322,7 @@
         {
             "id": 20,
             "name": "調べる",
-            "note": "<HMすり抜け禁止>",
+            "note": "<HMすり抜け禁止><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -15622,7 +15622,7 @@
         {
             "id": 34,
             "name": "イベント進行",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -16306,7 +16306,7 @@
         {
             "id": 35,
             "name": "敵２表示制御",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {

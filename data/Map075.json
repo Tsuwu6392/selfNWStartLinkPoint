@@ -9416,7 +9416,7 @@
         {
             "id": 13,
             "name": "接触イベント",
-            "note": "<HM拡大領域:4,0,0,1>",
+            "note": "<HM拡大領域:4,0,0,1><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10587,7 +10587,7 @@
         {
             "id": 15,
             "name": "モブ",
-            "note": "<HM拡大領域:0,0.5,0.5,0>",
+            "note": "<HM拡大領域:0,0.5,0.5,0><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -10918,7 +10918,7 @@
         {
             "id": 19,
             "name": "接触イベント",
-            "note": "<HM拡大領域:4,0,0,2>",
+            "note": "<HM拡大領域:4,0,0,2><poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12502,7 +12502,7 @@
         {
             "id": 24,
             "name": "入場時のイベント（2.00）",
-            "note": "",
+            "note": "<poi>",
             "pages": [
                 {
                     "conditions": {
@@ -12851,7 +12851,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
@@ -13098,7 +13098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Are Restear-san and Tadashi-san coming\nwith us as well?"
+                                "Are Restear-san and Nao-san coming\nwith us as well?"
                             ],
                             "_original": "レステアさんと直さんも一緒に来るのですか？"
                         },
@@ -13130,7 +13130,7 @@
                                 2,
                                 0,
                                 2,
-                                "Tadashi"
+                                "Nao"
                             ],
                             "_original": "直"
                         },
