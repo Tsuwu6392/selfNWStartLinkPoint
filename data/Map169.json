@@ -16,7 +16,7 @@
         "volume": 20
     },
     "disableDashing": false,
-    "displayName": "Soul Swamp",
+    "displayName": "Tamashii no Numa",
     "encounterList": [
         {
             "troopId": 90,
@@ -12880,7 +12880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm the boss around here. Now, what\nshould I do..."
+                                "It's the Guardian of this area.\nNow then, what should Nazuna do……"
                             ],
                             "_original": "ここのヌシだ。\nさて、どうすべきか……"
                         },
@@ -13332,7 +13332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Master revives using the mana of the\nEarth. If we stay here, we'll end up in\nbattle..."
+                                "The Guardian revives using Mana of this land.\nStaying here until then will likely lead to a fight……"
                             ],
                             "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
@@ -13341,7 +13341,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Wait for the Master's revival",
+                                    "Wait for the Guardian's resurrection",
                                     "Leave"
                                 ],
                                 1,
@@ -13570,7 +13570,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "この辺りに未討伐のヌシがいるようだ……",
+                                    "message": "There seems to be an unsubjugated Guardian in this area……",
                                     "icon": "0"
                                 }
                             ]

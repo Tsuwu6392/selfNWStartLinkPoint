@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Yuuyami: Registered Name 「Yuuyami」\\C[0]──\nThe Sachimitama of the Shikon Occurrences; her race is monster."
+                                "\\C[17]Yuuyami: Registered Name 「Yuuyami」\\C[0]──\nThe Sachimitama of the Shikon Kaiis; her race is monster."
                             ],
                             "_original": "\\C[17]夕闇：登録名「ユウヤミ」\\C[0]──\n四魂怪異の幸魂、種族は魔物だ。"
                         },
@@ -6531,7 +6531,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Amei Inui: Registered Name 「Amei Inui」\\C[0]──\nThe Kushimitama of the Shikon Occurrences; her race is monster."
+                                "\\C[17]Amei Inui: Registered Name 「Amei Inui」\\C[0]──\nThe Kushimitama of the Shikon Kaiis; her race is monster."
                             ],
                             "_original": "\\C[17]乾亜命：登録名「アメイ・イヌイ」\\C[0]──\n四魂怪異の奇魂、種族は魔物だ。"
                         },
@@ -7758,8 +7758,8 @@
                                 [
                                     "Mana",
                                     "Kanmui",
-                                    "Shikon Occurrenceif(s[212])",
-                                    "Blight Rootif(s[212])",
+                                    "Shikon Kaiiif(s[212])",
+                                    "Itoineif(s[212])",
                                     "Yachimata Akouif(s[212])"
                                 ],
                                 -1,
@@ -7879,7 +7879,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Kanmui\\C[0]──\nAn entity said to be an ancient Great Occurrence."
+                                "\\C[17]Kanmui\\C[0]──\nAn entity said to be an ancient Great Kaii."
                             ],
                             "_original": "\\C[17]カンムイ\\C[0]──\n古の大怪異だという存在だ。"
                         },
@@ -7899,7 +7899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It is apparently the origin of the word \"Occurrence,\"\nand also the source of the word for \"God\" in this country.\nThough its true identity is said to be a type of monster..."
+                                "It is apparently the origin of the word \"Kaii,\"\nand also the source of the word for \"God\" in this country.\nThough its true identity is said to be a type of monster..."
                             ],
                             "_original": "怪異の語源であり、またこの国における\n神の語源でもあるらしい。\nその正体は魔物の一種だそうだが……"
                         },
@@ -7928,7 +7928,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "In the past, it sealed the Blight Root and\nleft behind the Shikon Occurrences.\nThey are said to be the foundation of Shikinowa's peace."
+                                "In the past, it sealed the Itoine and\nleft behind the Shikon Kaiis.\nThey are said to be the foundation of Shikinowa's peace."
                             ],
                             "_original": "かつて厭い根を封じ、そして四魂怪異を遺した。\nそれはシキノワの平和の礎だという。"
                         },
@@ -8017,7 +8017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Shikon Occurrence\\C[0]──\nThese are the manifestations said to\ninherit the soul of Kanmui."
+                                "\\C[17]Shikon Kaii\\C[0]──\nThese are the manifestations said to\ninherit the soul of Kanmui."
                             ],
                             "_original": "\\C[17]四魂怪異（しこんかいい）\\C[0]──\nカンムイの魂を継承するという怪異たちだ。"
                         },
@@ -8097,7 +8097,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Blight Root\\C[0]──\nSoul-devouring monsters found in the eastern part of Shikinowa.\nThey are said to have been sealed by Kanmui in the past."
+                                "\\C[17]Itoine\\C[0]──\nSoul-devouring monsters found in the eastern part of Shikinowa.\nThey are said to have been sealed by Kanmui in the past."
                             ],
                             "_original": "\\C[17]厭い根（いといね）\\C[0]──\nシキノワの東部に存在する、魂を貪る魔物だ。\nかつてカンムイに封印されたという。"
                         },
@@ -8117,7 +8117,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Among the Blight Roots, the Akou-garami are particularly dangerous.\nWe have seen their victims ourselves."
+                                "Among the Itoines, the Akou-garami are particularly dangerous.\nWe have seen their victims ourselves."
                             ],
                             "_original": "厭い根の中でも榕絡み（あこうがらみ）は特に危険だ。\n俺たちも、その犠牲者を目にしたな。"
                         },
@@ -8146,7 +8146,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "According to Aruko, Blight Roots act in order to propagate.\nTo do so, they seek out corpses to serve as nurseries."
+                                "According to Aruko, Itoines act in order to propagate.\nTo do so, they seek out corpses to serve as nurseries."
                             ],
                             "_original": "存子によると、厭い根は繁殖のために行動するらしい。\nよって苗床となる亡骸を求めるのだと。"
                         },
@@ -8196,7 +8196,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\C[17]Yachimata Akou\\C[0]──\nThe master of the Blight Roots; more accurately, their source.\nIt is the entity sealed in eastern Shikinowa."
+                                "\\C[17]Yachimata Akou\\C[0]──\nThe master of the Itoines; more accurately, their source.\nIt is the entity sealed in eastern Shikinowa."
                             ],
                             "_original": "\\C[17]八衢榕（やちまたあこう）\\C[0]──\n厭い根の親玉、正確には根源。\nシキノワの東部に封じられている存在だ。"
                         },
@@ -8216,7 +8216,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Unless something is done about it,\nthere is no way to suppress the appearance of Blight Roots."
+                                "Unless something is done about it,\nthere is no way to suppress the appearance of Itoines."
                             ],
                             "_original": "これを何とかしなければ、\n厭い根の出現を抑えることはできない。"
                         },

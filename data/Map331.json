@@ -16,7 +16,7 @@
         "volume": 50
     },
     "disableDashing": false,
-    "displayName": "Pure White Shrine",
+    "displayName": "Mashiro Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4385,7 +4385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The banquet hall of the Pure White Shrine. As\nUla and I spent time together there, I suddenly\nrealized no one else was around."
+                                "The banquet hall of the Mashiro Shrine. As\nUla and I spent time together there, I suddenly\nrealized no one else was around."
                             ],
                             "_original": "真白神社の宴会殿。\nそこでウーラと過ごしていた時、\nふと他に誰もいないことに気づいた。"
                         },
@@ -6513,7 +6513,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[4]の好感度 +10",
+                                    "message": "\\N[4]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -6522,7 +6522,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[4]の好感度 +10"
+                                "メッセージ = \\N[4]'s Favorability +10"
                             ]
                         },
                         {

@@ -3690,7 +3690,7 @@
                                 0,
                                 0,
                                 2,
-                                "Shitogatsuji"
+                                "Yotogatsuji"
                             ],
                             "_original": "四都ヶ辻"
                         },
@@ -4350,7 +4350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Changing the subject, did you know that\nthere is a Boss here in Shusuikyo?"
+                                "Changing the subject, did you know that\nthere is a Guardian here in Shusuikyo?"
                             ],
                             "_original": "話は変わりまして、この秋水京にヌシがいるのは\nご存知ですの？"
                         },
@@ -4509,7 +4509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Won't you come to the square just south\nof the station? I shall tell you more\nabout the Boss there."
+                                "Won't you come to the square just south\nof the station? I shall tell you more\nabout the Guardian there."
                             ],
                             "_original": "詰所を出てすぐ南の広場に来てくださる？\nそこでヌシについてお話ししますの。"
                         },
@@ -4896,7 +4896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Husk Disease, Blight Root, maritime accident...\nthey're just further fueling the people's anxiety\ncaused by Shogun-sama's abdication..."
+                                "Husk Disease, Itoine, maritime accident...\nthey're just further fueling the people's anxiety\ncaused by Shogun-sama's abdication..."
                             ],
                             "_original": "抜け殻病、厭い根、海難事故……\n将軍様の譲位による民の不安を更に煽ることに……"
                         },
@@ -5004,7 +5004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Is hunting the Blight Root first priority after all?\nAs for the accident...\nI believe I heard the remaining missing persons were found...\nIn that case... hmm... no... but..."
+                                "Is hunting the Itoine first priority after all?\nAs for the accident...\nI believe I heard the remaining missing persons were found...\nIn that case... hmm... no... but..."
                             ],
                             "_original": "まずはやはり厭い根狩りが先決か？\n事故は確か……残る行方不明者も見つかったとか……\nとなると……うむ……いや……しかし……"
                         },
@@ -5075,7 +5075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Blight Root problem is solved!\nFinally, it seems I might be able to rest a little..."
+                                "The Itoine problem is solved!\nFinally, it seems I might be able to rest a little..."
                             ],
                             "_original": "厭い根問題は解決した！\nこれでようやく私も少し休めそうだ……"
                         },
@@ -6252,7 +6252,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[4]の好感度 +10",
+                                    "message": "\\N[4]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -6261,7 +6261,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[4]の好感度 +10"
+                                "メッセージ = \\N[4]'s Favorability +10"
                             ]
                         },
                         {

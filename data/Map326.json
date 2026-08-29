@@ -3404,7 +3404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You need not worry. It is not as if I am preaching\nthe tenets of Seikyou—to doubt such tolerance would,\nin itself, be quite discourteous."
+                                "You need not worry. It is not as if I am preaching\nthe tenets of Shoukyou—to doubt such tolerance would,\nin itself, be quite discourteous."
                             ],
                             "_original": "心配はありませぬ。\n星教の教えを説くでもなし──寛容さを疑っては、\nかえって失礼にあたるというもの。"
                         },
@@ -5653,7 +5653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I never expected to find you here at the\nPure White Shrine... What a coincidence,\nor should I say fate?"
+                                "I never expected to find you here at the\nMashiro Shrine... What a coincidence,\nor should I say fate?"
                             ],
                             "_original": "まさか清殿にいるとは……\n奇遇というかなんというか。"
                         },
@@ -5723,7 +5723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...It's a strange story. Nazuna already knows\nthat the god of the Pure White Shrine is none\nother than herself."
+                                "...It's a strange story. Nazuna already knows\nthat the god of the Mashiro Shrine is none\nother than herself."
                             ],
                             "_original": "……奇妙な話だ。\n真白神社の神がナズナ本人であることは、\n既に彼女も知っている。"
                         },
@@ -6078,7 +6078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Alright! Let's begin the ritual at the\nPure White Shrine!"
+                                "Alright! Let's begin the ritual at the\nMashiro Shrine!"
                             ],
                             "_original": "さあ！\n清殿神事の始まりだ！"
                         },
@@ -8227,7 +8227,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[1]の好感度 +10",
+                                    "message": "\\N[1]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -8236,7 +8236,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[1]の好感度 +10"
+                                "メッセージ = \\N[1]'s Favorability +10"
                             ]
                         },
                         {
@@ -10379,7 +10379,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[1]の好感度 +10",
+                                    "message": "\\N[1]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -10388,7 +10388,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[1]の好感度 +10"
+                                "メッセージ = \\N[1]'s Favorability +10"
                             ]
                         },
                         {
@@ -13051,7 +13051,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[2]の好感度 +10",
+                                    "message": "\\N[2]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -13060,7 +13060,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[2]の好感度 +10"
+                                "メッセージ = \\N[2]'s Favorability +10"
                             ]
                         },
                         {
@@ -15251,7 +15251,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[3]の好感度 +10",
+                                    "message": "\\N[3]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -15260,7 +15260,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[3]の好感度 +10"
+                                "メッセージ = \\N[3]'s Favorability +10"
                             ]
                         },
                         {
@@ -16725,7 +16725,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[4]の好感度 +10",
+                                    "message": "\\N[4]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -16734,7 +16734,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[4]の好感度 +10"
+                                "メッセージ = \\N[4]'s Favorability +10"
                             ]
                         },
                         {
@@ -19423,7 +19423,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[5]の好感度 +10",
+                                    "message": "\\N[5]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -19432,7 +19432,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[5]の好感度 +10"
+                                "メッセージ = \\N[5]'s Favorability +10"
                             ]
                         },
                         {
@@ -21389,7 +21389,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[5]の好感度 +10",
+                                    "message": "\\N[5]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -21398,7 +21398,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[5]の好感度 +10"
+                                "メッセージ = \\N[5]'s Favorability +10"
                             ]
                         },
                         {
@@ -23251,7 +23251,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[6]の好感度 +10",
+                                    "message": "\\N[6]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -23260,7 +23260,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[6]の好感度 +10"
+                                "メッセージ = \\N[6]'s Favorability +10"
                             ]
                         },
                         {
@@ -29729,7 +29729,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "\\N[8]の好感度 +10",
+                                    "message": "\\N[8]'s Favorability +10",
                                     "icon": "90"
                                 }
                             ]
@@ -29738,7 +29738,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "メッセージ = \\N[8]の好感度 +10"
+                                "メッセージ = \\N[8]'s Favorability +10"
                             ]
                         },
                         {

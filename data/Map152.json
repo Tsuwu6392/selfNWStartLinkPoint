@@ -16,7 +16,7 @@
         "volume": 60
     },
     "disableDashing": false,
-    "displayName": "Hazamazuka Plains",
+    "displayName": "Hazamazuka-hara",
     "encounterList": [
         {
             "troopId": 74,
@@ -12597,7 +12597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm the boss around here. Now, what\nshould I do..."
+                                "It's the Guardian of this area.\nNow then, what should Nazuna do……"
                             ],
                             "_original": "ここのヌシだ。\nさて、どうすべきか……"
                         },
@@ -12606,7 +12606,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Defeat it",
+                                    "Subjugate",
                                     "Leave"
                                 ],
                                 1,
@@ -13049,7 +13049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Master revives using the mana of the\nEarth. If we stay here, we'll end up in\nbattle..."
+                                "The Guardian revives using Mana of this land.\nStaying here until then will likely lead to a fight……"
                             ],
                             "_original": "ヌシはその地のマナで復活する。\nここにいると戦闘になるだろう……"
                         },
@@ -13058,7 +13058,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Wait for the Master's revival",
+                                    "Wait for the Guardian's resurrection",
                                     "Leave"
                                 ],
                                 1,
@@ -13287,7 +13287,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "この辺りに未討伐のヌシがいるようだ……",
+                                    "message": "There seems to be an unsubjugated Guardian in this area……",
                                     "icon": "0"
                                 }
                             ]
@@ -13445,7 +13445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Beyond here is the Whispering Cemetery. It's the\nonly place in the Earth region where you can\nenter without the Governor's permission,\nprovided you have a good reason."
+                                "Past here is the Whispering Cemetery.\nProvided you have appropriate reasons,\nit is the only place in the eastern lands that\nmay be entered without Regent-sama's permission."
                             ],
                             "_original": "この先は囁き墓地。\n相応の事情があるなら、東の地で唯一\n執政様の許可を得ずに立ち入ってもいい場所だ。"
                         },
@@ -13465,7 +13465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…You don't look like you're here to pay\nrespects, though. Well, I won't pry."
+                                "……You all do not look like you have come to visit a grave.\nWell, I shall not pry."
                             ],
                             "_original": "……お前たちは墓参りに来たようには見えんが。\nまあ、詮索はしまい。"
                         },
@@ -13551,7 +13551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Whispering Cemetery is a graveyard for the\nforgotten. Most who visit carry complicated\nburdens."
+                                "The Whispering Cemetery is a cemetery for the kinless.\nThe majority of those who visit have complicated circumstances."
                             ],
                             "_original": "囁き墓地は無縁墓地。\n訪れる者の大半は、複雑な事情を抱えている。"
                         },
@@ -13629,7 +13629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Whispering Cemetery is a graveyard for the\nforgotten. Most who visit carry complicated\nburdens."
+                                "The Whispering Cemetery is a cemetery for the kinless.\nThe majority of those who visit have complicated circumstances."
                             ],
                             "_original": "囁き墓地は無縁墓地。\n訪れる者の大半は、複雑な事情を抱えている。"
                         },

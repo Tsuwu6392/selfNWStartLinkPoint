@@ -1225,7 +1225,7 @@
                 "parameters": [
                     [
                         "Kanmui Trailif(s[79])",
-                        "Kanmui Trail - Blight Root Lair\\I[157]if(s[80])"
+                        "Kanmui Trail - Itoine Lair\\I[157]if(s[80])"
                     ],
                     -1,
                     -1,
@@ -1931,7 +1931,7 @@
                 "parameters": [
                     [
                         "Sasame Mansionif(s[90])",
-                        "Hazamatsuka-hara\\I[157]if(s[91])",
+                        "Hazamazuka-hara\\I[157]if(s[91])",
                         "Whispering Graveyardif(s[99])"
                     ],
                     -1,
@@ -2946,7 +2946,7 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "Rock Cave Lidif(s[101])"
+                        "Iwaya no Futaif(s[101])"
                     ],
                     -1,
                     -1,
@@ -4352,7 +4352,7 @@
                 "indent": 1,
                 "parameters": [
                     [
-                        "▼Ramul Alamif(s[64])",
+                        "▼Ramla Aramif(s[64])",
                         "▼Al-Helmif(s[65])"
                     ],
                     -1,
@@ -31874,7 +31874,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "Do you want to check the explanation about the\nBoss?"
+                    "Do you want to check the explanation about Guardians?"
                 ],
                 "_original": "ヌシについての説明を確認しますか？"
             },
@@ -31927,7 +31927,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "In certain locations, there are monsters\nstronger than usual. These are called \\C[17]Bosses\\C[0]."
+                    "In certain locations, there are monsters stronger than usual.\nThey are called \\C[17]Guardians\\C[0]."
                 ],
                 "_original": "特定の場所には、通常よりも強力な魔物が存在します。\nこれらは\\C[17]ヌシ\\C[0]と呼ばれます。"
             },
@@ -31954,7 +31954,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "When you step into a map where a Boss is\npresent, a message indicating the Boss's\nexistence will be displayed. At the same time,\ninformation about the Boss will be added to the\nevent list."
+                    "When you step into a map where a Guardian is\npresent, a message indicating the Guardian's\nexistence will be displayed. At the same time,\ninformation about the Guardian will be added to the\nevent list."
                 ],
                 "_original": "ヌシがいるマップに足を踏み入れると、\nヌシが存在することを示すメッセージが表示されます。\nそれと同時にイベント一覧にヌシの情報が追加されます。"
             },
@@ -31981,7 +31981,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "You don't necessarily have to fight the Boss. If\nyou don't think you can win, ignoring it is also\nan option. However, if you defeat the Boss, you\ncan obtain a special item."
+                    "You don't necessarily have to fight the Guardian. If\nyou don't think you can win, ignoring it is also\nan option. However, if you defeat the Guardian, you\ncan obtain a special item."
                 ],
                 "_original": "ヌシとは必ずしも戦う必要はありません。\n勝てそうになければ無視するのも一つの手です。\nただし、ヌシに勝利すると特別なアイテムを入手できます。"
             },
@@ -32008,7 +32008,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "When moving with the Teleport Sword, maps that\nhave a Boss nearby will display \\I[157] at the end of\nthe map name."
+                    "When moving with the Teleport Sword, maps that\nhave a Guardian nearby will display \\I[157] at the end of\nthe map name."
                 ],
                 "_original": "転送剣での移動の際、ヌシが付近に存在するマップは\nマップ名の末尾に\\I[157]が表示されます。"
             },
@@ -32035,7 +32035,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "The Boss's stats do not change depending on\ndifficulty."
+                    "The Guardian's stats do not change depending on\ndifficulty."
                 ],
                 "_original": "ヌシは難易度によって能力値等が変動しません。"
             },
@@ -32130,7 +32130,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "Would you like to confirm the explanation about\nrematching the boss?"
+                    "Would you like to confirm the explanation about\nrematching the Guardian?"
                 ],
                 "_original": "ヌシとの再戦についての説明を確認しますか？"
             },
@@ -32183,7 +32183,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "When you defeat a boss, a red object will appear\nat that location. By examining it, you can\nrematch that boss."
+                    "When you defeat a Guardian, a red object will appear\nat that location. By examining it, you can\nrematch that Guardian."
                 ],
                 "_original": "ヌシを撃破すると、その場に赤いオブジェクトが出現します。\nそれを調べることで当該のヌシと再戦できます。"
             },
@@ -32210,7 +32210,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "If you defeat the boss again, you will be able\nto obtain a special item once more."
+                    "If you defeat the Guardian again, you will be able\nto obtain a special item once more."
                 ],
                 "_original": "そうして再びヌシを撃破すれば、\n改めて特別なアイテムを入手することができます。"
             },
@@ -32917,7 +32917,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "Let's trust Zafra-sama! Now, onward to\nthe next Burj!"
+                    "Let's trust Zahra-sama! Now, onward to\nthe next Burj!"
                 ],
                 "_original": "ザフラ殿を信じよう！\nさあ、次のブルジュに！"
             },
@@ -33666,7 +33666,7 @@
                 "code": 401,
                 "indent": 4,
                 "parameters": [
-                    "I trust Zafra-sama!"
+                    "I trust Zahra-sama!"
                 ],
                 "_original": "私はザフラ殿を信じている！"
             },
@@ -59163,7 +59163,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "Actually, my leave is about to end. You know,\nthe envoy from Ramul Alam came a little while\nago, right?"
+                    "Actually, my leave is about to end. You know,\nthe envoy from Ramla Aram came a little while\nago, right?"
                 ],
                 "_original": "実は、そろそろ休暇が終わりそうでね。\nほら、少し前にラムルアラムの使節が来られただろう？"
             },
@@ -68316,7 +68316,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Occurrences... in houses?"
+                    "Kaiis... in houses?"
                 ],
                 "_original": "怪異が……家に？"
             },
@@ -76027,7 +76027,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ah, I see...\nThere is no difference in rank among Seikyou monks.\nEveryone is on equal footing."
+                    "Ah, I see...\nThere is no difference in rank among Shoukyou monks.\nEveryone is on equal footing."
                 ],
                 "_original": "ああ、そういう……\n星教の僧侶に地位の差はありませぬ。\n皆、対等な関係です。"
             },
@@ -76231,7 +76231,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Yes, as we follow the same Seikyou.\nIf I were to name a clear difference, the monks of the mountain are\nmore like soul art users."
+                    "Yes, as we follow the same Shoukyou.\nIf I were to name a clear difference, the monks of the mountain are\nmore like soul art users."
                 ],
                 "_original": "ええ、同じ星教ですから。\n明瞭な差を挙げるならば、山の僧侶の方が\nより魂術師らしいと言えましょう。"
             },
@@ -76274,7 +76274,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "In the first place, just what is... Seikyou?\nWhat is the goal?"
+                    "In the first place, just what is... Shoukyou?\nWhat is the goal?"
                 ],
                 "_original": "そもそもその……星教？\nっていうのは何が目的なんです？"
             },
@@ -77705,7 +77705,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Outoku-dono. Do you know of the great\nbattle that took place on this land?"
+                    "Outoku-dono.\nDo you know of the great battle that took place on this land?"
                 ],
                 "_original": "桜悳殿。\nこの地で起こった大きな戦いを知っているか？"
             },
@@ -77732,7 +77732,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Yes. The Battle of Hazamazuka Plains, I presume."
+                    "Yes.\nThe Hazamazuka-hara Upheaval, right?"
                 ],
                 "_original": "はい。\n狭間塚原の乱でしょう。"
             },
@@ -77794,7 +77794,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Such a pained expression."
+                    "Such a sorrowful expression."
                 ],
                 "_original": "悲痛な顔です。"
             },
@@ -77857,7 +77857,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ah, but... I only know the name of the battle."
+                    "Ah, but...\nI only know the name of the battle."
                 ],
                 "_original": "あ、しかし……\n戦いの名しか知りませぬ。"
             },
@@ -77919,7 +77919,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "He seems happy."
+                    "She looks so happy."
                 ],
                 "_original": "嬉しそう。"
             },
@@ -77939,7 +77939,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "At this rate, there might be a problem\nwith Outoku as well."
+                    "At this point, Outoku might also be at fault here."
                 ],
                 "_original": "こうなると桜悳にも問題があるかもしれん。"
             },
@@ -77975,7 +77975,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "These Hazamazuka Plains are Shikinowa's largest\nancient battlefield. It's where the phantoms and\nthe forces of Iyai-ne fought!"
+                    "This Hazamazuka-hara is the largest ancient battlefield in Shikinowa. It is the place where the Kaiis and the Itoine legions clashed!"
                 ],
                 "_original": "この狭間塚原はシキノワ最大の古戦場だ。\n怪異たちと厭い根の軍勢が戦った場所なんだ！"
             },
@@ -78011,7 +78011,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "So, in other words... it's also a sad place.\nMany lives were lost."
+                    "So, in other words... it is also a sad place.\nMany lives were lost."
                 ],
                 "_original": "だから、つまり……悲しい場所でもある。\n多くの命が失われた。"
             },
@@ -78031,7 +78031,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Your expressions change so quickly."
+                    "Her expression changes so quickly."
                 ],
                 "_original": "表情がころころ変わりますね。"
             },
@@ -78074,7 +78074,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "The Whispering Cemetery to the north is\nprecisely its scar. It is an unmarked grave\nmound where many nameless phantoms sleep."
+                    "The Whispering Cemetery to the north is the very scar of it.\nIt is a burial mound for the kinless,\nwhere many Kaiis with no one to claim them lie at rest."
                 ],
                 "_original": "北にある囁き墓地は、まさにその傷痕。\n故無き怪異が多く眠る無縁塚です。"
             },
@@ -78180,7 +78180,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Nevertheless, Nazuna-san is truly knowledgeable.\nI admire that."
+                    "Nevertheless, you are truly well-informed, Nazuna-san.\nI am deep in admiration."
                 ],
                 "_original": "それにしても、ナズナさんは実に博識ですね。\n敬服します。"
             },
@@ -78223,7 +78223,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Huh? No, no, not at all."
+                    "Eh? No, no, not at all."
                 ],
                 "_original": "え？\nいやいや、そんな。"
             },
@@ -78243,7 +78243,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "You really do change expressions a lot."
+                    "Her expression really does change constantly."
                 ],
                 "_original": "本当に表情がころころ変わりますね。"
             },
@@ -80006,7 +80006,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Outoku-san. This house is full of cats."
+                    "Outoku-san.\nThis house is simply crawling with cats."
                 ],
                 "_original": "桜悳さん。\nこの家は猫だらけですよ。"
             },
@@ -80033,7 +80033,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "The Chancellor's love for cats is well-known...\nI feel like I'm seeing proof of it."
+                    "The Regent's love for cats is famous, after all...\nI feel as though I have obtained the evidence of it."
                 ],
                 "_original": "執政様の猫好きは有名ですから……\nその証を得た気分です。"
             },
@@ -80076,7 +80076,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "How about it? Why don't you join them?"
+                    "How about it?\nWhy don't you try joining them."
                 ],
                 "_original": "いかがでしょう？\nあなたも入ってみては。"
             },
@@ -80119,7 +80119,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Huh? Join what...?"
+                    "Pardon?\nJoining... what...?"
                 ],
                 "_original": "はい？\n何に……？"
             },
@@ -80146,7 +80146,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Into the circle of cats."
+                    "The cat circle."
                 ],
                 "_original": "猫の輪に。"
             },
@@ -80199,7 +80199,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "You're a cat too, aren't you?"
+                    "You are a cat as well, are you not?"
                 ],
                 "_original": "あなたも猫でしょう？"
             },
@@ -80242,7 +80242,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "A cat, but a monster. If an outsider like me\nmixes in, the cats will be startled and dislike\nit."
+                    "I may be a cat, but I am an Kaii.\nIf a foreign element like this humble monk were to mix in,\nI am sure the cats would be startled and repulsed."
                 ],
                 "_original": "猫は猫でも、怪異。\n拙僧のような異物が混じれば、\n猫たちも驚き、嫌がるでしょう。"
             },
@@ -80262,7 +80262,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Is that so? They're gathering around\nOutoku, though."
+                    "You think so?\nThey seem to be gathering around you already."
                 ],
                 "_original": "そうですかね？\n桜悳の周りに集まってきてますけど。"
             },
@@ -80289,7 +80289,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "A sense of camaraderie."
+                    "A sense of kinship."
                 ],
                 "_original": "仲間意識。"
             },
@@ -80359,7 +80359,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "...Surely you're not bad with cats? If so, I\napologize."
+                    "...Could it be that you are bad with cats?\nIf so, my apologies."
                 ],
                 "_original": "……まさか猫が苦手なのですか？\nだとすれば失礼。"
             },
@@ -80448,7 +80448,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "...It's that I like them too much. You could say\nit gets in the way of my training."
+                    "...To put it plainly, I like them too much.\nIt... interferes with my training, as it were."
                 ],
                 "_original": "……好きすぎて、こう。\n修行の妨げになると言いますか。"
             },
@@ -80491,7 +80491,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ah, so you're so happy that your soul can't\nsettle down. Hehe."
+                    "Ah, your soul is so filled with joy that you cannot keep it calm.\nFufu."
                 ],
                 "_original": "ああ、嬉しくて魂が落ち着かないのですね。\nふふっ。"
             },
@@ -80538,7 +80538,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "This too is a kind of desire... I must cast it\noff, cast it off..."
+                    "This, too, is a form of desire...\nI must cast it aside, I must cast it aside..."
                 ],
                 "_original": "これもある種の欲……\n捨てねば、捨てねば……"
             },
@@ -80565,7 +80565,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "You could just think of it as for the cats'\nsake."
+                    "You could just think of it as doing it for the cats' sake."
                 ],
                 "_original": "猫のためと思えばよいものを。"
             },
@@ -80760,7 +80760,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "......So you do come here often, don't you? To\nplaces like this."
+                    "...Do you come to places like this often,\nas I thought?"
                 ],
                 "_original": "……やっぱり、よく来るんですか？\nこういうところには。"
             },
@@ -80823,7 +80823,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "......I have visited the Whispering Cemetery\nonly once in the past. I made it my first\ndestination upon descending the mountain."
+                    "...I have only visited the Whispering Cemetery once in the past.\nAfter descending the mountain, I made it my first destination."
                 ],
                 "_original": "……囁き墓地への訪問は過去に一度のみ。\n山を下り、最初の目的地としました。"
             },
@@ -80843,7 +80843,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "That's surprising. I thought monks and\nmemorial services go hand in hand. Is\nthe Star Faith different?"
+                    "That's unexpected.\nI thought monks and memorial services were inextricably linked.\nIs Shoukyou different?"
                 ],
                 "_original": "意外だな。\n僧侶と供養は結び付いているものだと思っていた。\n星教は違うのか？"
             },
@@ -80863,7 +80863,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Not at all. Paying tribute to the dead is one of\na monk's core vows."
+                    "It is no different.\nMourning the dead is one of the fundamental vows of a monk."
                 ],
                 "_original": "違いませぬ。\n死者への弔いは僧侶の本願の一つ。"
             },
@@ -80899,7 +80899,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "However... this place is so full of untimely\ndeaths that even the souls of the living can be\naffected."
+                    "However... this place is so overflowing with tragic deaths.\nEven the souls of the living can be affected."
                 ],
                 "_original": "しかし……ここはあまりにも非業の死に溢れ、\n生者の魂も影響を受けることがある。"
             },
@@ -80935,7 +80935,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "In other words, it's a bad place for a soul arts\npractitioner. It's contradictory......"
+                    "In other words, it is a bad place for a soul art user.\nIt is quite a contradiction..."
                 ],
                 "_original": "すなわち、魂術師にとってはよくない場所。\n矛盾してしまっているのです……"
             },
@@ -80962,7 +80962,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Couldn't it be a form of training? Like, getting\nyour soul accustomed to that sort of thing?"
+                    "Does it not count as training?\nLike, getting your soul accustomed to that sort of thing."
                 ],
                 "_original": "修業になったりしないんですか？\nそういうのに魂を慣れさせる的な。"
             },
@@ -80989,7 +80989,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "To consider the influence of the dead's regrets\nas training... this humble monk cannot think of\nit as such."
+                    "To call being influenced by the regrets of the dead \"training\"...\nI simply cannot see it as such."
                 ],
                 "_original": "死者の無念の影響を修業とは……\n拙僧には、とても思えませぬ。"
             },
@@ -81032,7 +81032,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ah, right...... indeed. That was a slip of the\ntongue......"
+                    "Ah, yeah... true.\nThat was a slip of the tongue..."
                 ],
                 "_original": "あ、ああ……確かに。\n失言でしたね……"
             },
@@ -81052,7 +81052,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "But if that's the case, it's quite\npitiful. The ones resting here."
+                    "Still, they are pitiable.\nThose who sleep here."
                 ],
                 "_original": "しかし、そうなると憐れだな。\nここに眠る者たちは。"
             },
@@ -81079,7 +81079,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Indeed. However──"
+                    "Precisely. However──"
                 ],
                 "_original": "まさに。\nただ──"
             },
@@ -81115,7 +81115,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Under the Governor-sama's administration, they\nare not left unattended. I hear that members of\nthe Shiba-gumi visit regularly to clean the\ngraves."
+                    "Under the Regent-sama's management, they are never simply abandoned.\nI hear that Shibagumi officers visit periodically to tend to the graves."
                 ],
                 "_original": "執政様の管理のもと、放置されるなどということはありませぬ。\n定期的に柴組の隊士が訪れ、掃苔が行われるとのこと。"
             },
@@ -81151,7 +81151,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Huh~. That person really does all sorts of\nthings, doesn't he......"
+                    "Heh~.\nThat person really does so many different things..."
                 ],
                 "_original": "へえ～。\nあの人って本当にいろんなことしてますね……"
             },
@@ -81320,7 +81320,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ungh... u-ugh... ugh..."
+                    "Uuugh, uuwaa...\nuuuwaaa..."
                 ],
                 "_original": "ううっ、ううあ……\nううあぁ……"
             },
@@ -81373,7 +81373,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ahh... ah... ugh..."
+                    "Aah, uuuu...\naaa... uuu..."
                 ],
                 "_original": "ああううぅ……\nああ……う……"
             },
@@ -81416,7 +81416,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "That's noisy... What are you groaning about?"
+                    "You are being noisy...\nWhat exactly are you groaning about?"
                 ],
                 "_original": "うるさいですね……\n何を呻いているのですか？"
             },
@@ -81443,7 +81443,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "My tail... my pride and joy of a tail..."
+                    "My tail...\nMy tail that I'm so proud of..."
                 ],
                 "_original": "尻尾が……\n私の自慢の尻尾が……"
             },
@@ -81463,7 +81463,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "You must be miserable being soaked\nthrough. I understand."
+                    "It must be uncomfortable for it to be soaking wet.\nI understand the feeling."
                 ],
                 "_original": "ずぶ濡れで不快なのでしょう。\n分かりますよ。"
             },
@@ -81506,7 +81506,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Hah. Is this a feeling unique to those with\ntails?"
+                    "Hah.\nIs that a sensation unique to those with tails?"
                 ],
                 "_original": "はあ。\n尻尾を持つ者特有の感覚ですか？"
             },
@@ -81573,7 +81573,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "I am a monk in training, so I don't use\nan umbrella."
+                    "This humble monk is in the midst of training,\nso I do not use an umbrella."
                 ],
                 "_original": "拙僧は修行中の身ゆえ、傘はさしませぬ。"
             },
@@ -81616,7 +81616,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "I'm using one normally. I hate getting wet."
+                    "I'm using one normally.\nI simply dislike getting wet."
                 ],
                 "_original": "私は普通にさしています。\n濡れるのは嫌ですから。"
             },
@@ -81636,7 +81636,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "...Weren't you the one who said you\ndidn't understand how Nazuna and the\nothers feel?"
+                    "……Didn't you say you didn't understand how Nazuna and the others felt?"
                 ],
                 "_original": "……ナズナたちの感覚が分からないのではなかったのか？"
             },
@@ -81690,7 +81690,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Prim-dono... could I borrow an umbrella too...?"
+                    "Prim-dono...\nGive me an umbrella too..."
                 ],
                 "_original": "プリムどの……\n私にも傘を……"
             },
@@ -81753,7 +81753,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "To fit two people under it... it looks a\nbit cramped."
+                    "It looks...\na bit cramped for two people to share."
                 ],
                 "_original": "二人で入るには……\n……狭そうですね。"
             },
@@ -81789,7 +81789,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Just give it up."
+                    "Please give up."
                 ],
                 "_original": "諦めてください。"
             },
@@ -81816,7 +81816,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ughhh... ugh..."
+                    "Uuwaaa...\nuwa..."
                 ],
                 "_original": "ううあぁ……\nうあ……"
             },
@@ -84085,7 +84085,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "There's a strange monster here, huh."
+                    "There's some weird monster here,\nisn't there?"
                 ],
                 "_original": "なんか変な魔物がいますね。\nここ。"
             },
@@ -84112,7 +84112,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Hmm."
+                    "Oh?"
                 ],
                 "_original": "はて。"
             },
@@ -84132,7 +84132,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Is it weirder than Uura-san?"
+                    "Is it weirder than you, Uula-san?"
                 ],
                 "_original": "ウーラさんよりも変ですか？"
             },
@@ -84159,7 +84159,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Look, that... it's like cloth."
+                    "Look, that...\ncloth-like thing."
                 ],
                 "_original": "ほら、あの……\n布みたいな。"
             },
@@ -84186,7 +84186,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ah, you mean the Hitohira. Indeed, that one is\nstrange, isn't it."
+                    "Ah, were you referring to the Hitohira?\nThey are indeed eerie."
                 ],
                 "_original": "ああ、ヒトヒラのことでしたか。\n確かに面妖ですね、あれは。"
             },
@@ -84206,7 +84206,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Not as much as Uura-san, I'd say?"
+                    "Surely not as much as Uula-san, though?"
                 ],
                 "_original": "ウーラさんほどではないのでは？"
             },
@@ -84249,7 +84249,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "What is that thing? When I look at it, I get\noddly restless."
+                    "What even is it?\nLooking at it makes me feel strangely restless."
                 ],
                 "_original": "あれって何なんですか？\n眺めてると妙にそわそわするんですけど。"
             },
@@ -84292,7 +84292,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Hitohira is an ominous anomaly. If you keep\nstaring at it―you get flustered."
+                    "Hitohira is an ill-omened Kaii.\nIf you gaze at one for too long──you will panic."
                 ],
                 "_original": "ヒトヒラは不吉な怪異。\n見つめ続けると──慌てます。"
             },
@@ -84312,7 +84312,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Uura-san always seems impatient and\nflustered."
+                    "I feel like Uula-san is always\nimpatient and panicking anyway."
                 ],
                 "_original": "ウーラさんはいつもせっかちで\n慌てている感じがします。"
             },
@@ -84339,7 +84339,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Get flustered? ... Is that all?"
+                    "Panicking...\nis that all?"
                 ],
                 "_original": "慌てるって……\nそれだけですか？"
             },
@@ -84382,7 +84382,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Just that, but it's dangerous enough. When you\nface it, be careful not to be misled."
+                    "That is all, but it is sufficiently dangerous.\nWhen you face them, be careful not to be led astray."
                 ],
                 "_original": "それだけですが、充分に危険でしょう。\n相対したときは惑わされぬよう注意を。"
             },
@@ -84402,7 +84402,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "A confused Uura-san... hehe."
+                    "A bewildered Uula-san...\nfufu."
                 ],
                 "_original": "惑うウーラさん……\nふふっ。"
             },
@@ -84445,7 +84445,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "You've been noisy for a while now... please\ndon't interrupt our conversation."
+                    "You've been noisy for a while now...\nStay out of our conversation."
                 ],
                 "_original": "さっきからうるさいですね……\n私たちの会話に入ってこないでください。"
             },
@@ -84465,7 +84465,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "I'm trying to lighten the mood."
+                    "I am simply trying to lighten the mood."
                 ],
                 "_original": "私は場を和ませようとしているのです。"
             },
@@ -84492,7 +84492,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "You should be the one to look at that and get\nflustered."
+                    "I wish *you* were the one who would look at it and panic."
                 ],
                 "_original": "あなたこそあれを見て慌てたらいいのに。"
             },
@@ -85540,7 +85540,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Yes. Actually, the Star Faith has also been\npassed down in this village. It was something\nclose to me from the start."
+                    "Yes. Actually, the Shoukyou has also been\npassed down in this village. It was something\nclose to me from the start."
                 ],
                 "_original": "はい。\n実は、この村にも星教は伝わっておりまして。\nもとより身近なものではあったのです。"
             },
@@ -85560,7 +85560,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "I've also heard that the history of\nUpashimoshiri had some influence on the\nStar Faith."
+                    "I've also heard that the history of\nUpashimoshiri had some influence on the\nShoukyou."
                 ],
                 "_original": "ウパシモシリの歴史が星教にいくらか影響を\n与えたとも聞きます。"
             },
@@ -86962,7 +86962,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Come to think of it, Tsuzuri would have\nunderstood the situation and cooperated\nwith us between the time she released\nthe seal on the Rock Cave Lid and the\ndisturbance in the capital, but..."
+                    "Come to think of it, Tsuzuri would have\nunderstood the situation and cooperated\nwith us between the time she released\nthe seal on the Iwaya no Futa and the\ndisturbance in the capital, but..."
                 ],
                 "_original": "思えば、ツヅリは岩屋の蓋の封印を解いてから\n都での騒動が起こるまでの間に事情を把握し、\nそして協力してくれたことになるが……"
             },
@@ -97212,7 +97212,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Ah... So that's what \"Star Faith\" meant..."
+                    "Ah... So that's what \"Shoukyou\" meant..."
                 ],
                 "_original": "あ……\n星教って、そういう意味があったのか……"
             },
@@ -202640,7 +202640,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-ナズナ・ハクトウ"
+                    "テキスト-Nazuna Hakutou"
                 ]
             },
             {
@@ -211370,7 +211370,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-プリム・アンシルラ"
+                    "テキスト-Prim Ancilla"
                 ]
             },
             {
@@ -216400,7 +216400,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "You may find this surprising, but the Star Faith\ndoes not forbid drinking alcohol."
+                    "You may find this surprising, but the Shoukyou\ndoes not forbid drinking alcohol."
                 ],
                 "_original": "意外に思われるかもしれませぬが、\n星教は飲酒を禁じておりませぬ。"
             },
@@ -220271,7 +220271,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-桜悳"
+                    "テキスト-Outoku"
                 ]
             },
             {
@@ -228654,7 +228654,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-ウーラ・ジェラート"
+                    "テキスト-Uula Gelato"
                 ]
             },
             {
@@ -238331,7 +238331,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-壬生 杖"
+                    "テキスト-Mibu no Tsue"
                 ]
             },
             {
@@ -246801,7 +246801,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-隠神 存子"
+                    "テキスト-Inugami Aruko"
                 ]
             },
             {
@@ -255262,7 +255262,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-左雨 淡雪"
+                    "テキスト-Sasame Awayuki"
                 ]
             },
             {
@@ -263895,7 +263895,7 @@
                 "code": 655,
                 "indent": 0,
                 "parameters": [
-                    "テキスト-夕闇"
+                    "テキスト-Yuuyami"
                 ]
             },
             {
@@ -327566,7 +327566,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Uura-dono, you're distributing products all the\nway to Ramul Alam!"
+                    "Uura-dono, you're distributing products all the\nway to Ramla Aram!"
                 ],
                 "_original": "ウーラ殿、ラムルアラムにまで\n商品を流通させているんだな！"
             },
@@ -330283,7 +330283,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -330334,7 +330334,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Whoa, Zafra. You followed us."
+                    "Whoa, Zahra. You followed us."
                 ],
                 "_original": "うわっ、ザフラ。\nついてきてたんですか。"
             },
@@ -330373,7 +330373,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -330453,7 +330453,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -330579,7 +330579,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -330689,7 +330689,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -330759,7 +330759,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -330819,7 +330819,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -330889,7 +330889,7 @@
                     3,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -338223,7 +338223,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Impossible. This tourist facility is\nrecreating the Ramul Alam of the\nprevious era."
+                    "Impossible. This tourist facility is\nrecreating the Ramla Aram of the\nprevious era."
                 ],
                 "_original": "あり得ない。\nこの観光施設が再現しているのは\n前の時代のラムルアラムだ。"
             },
@@ -339879,7 +339879,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Zafra-san. If my memory serves me correctly,\nAl-Helm was created based on a city from another\nplanet, wasn't it?"
+                    "Zahra-san. If my memory serves me correctly,\nAl-Helm was created based on a city from another\nplanet, wasn't it?"
                 ],
                 "_original": "ザフラさん。\n拙僧の記憶が正しければ、アル・ヘルムは\n異星の都市を参考に作られたのでしたね。"
             },
@@ -339898,7 +339898,7 @@
                     2,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -339952,7 +339952,7 @@
                     2,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -339992,7 +339992,7 @@
                     2,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -340062,7 +340062,7 @@
                     2,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -340082,7 +340082,7 @@
                     2,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -340102,7 +340102,7 @@
                     2,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },
@@ -340156,7 +340156,7 @@
                     2,
                     0,
                     2,
-                    "Zafra"
+                    "Zahra"
                 ],
                 "_original": "ザフラ"
             },

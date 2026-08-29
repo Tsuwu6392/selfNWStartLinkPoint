@@ -5758,7 +5758,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Is it that the monster we just defeated\nwas a Boss?"
+                                "Is the monster we just defeated a Guardian?"
                             ],
                             "_original": "今の魔物がヌシとなっていたこと、ですか？"
                         },
@@ -5821,7 +5821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "By Boss, you mean a monster that revives\nover and over thanks to the land's mana...?"
+                                "By Guardian, you mean a monster that revives\nover and over thanks to the land's mana...?"
                             ],
                             "_original": "ヌシというと、その地のマナの力によって\n何度でも蘇る魔物……？"
                         },
@@ -6619,7 +6619,7 @@
                                 "notify",
                                 "通知の表示",
                                 {
-                                    "message": "この辺りに未討伐のヌシがいるようだ……",
+                                    "message": "There seems to be an unsubjugated Guardian in this area……",
                                     "icon": "0"
                                 }
                             ]

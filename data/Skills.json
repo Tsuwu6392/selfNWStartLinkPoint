@@ -7853,7 +7853,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 50: Dagger skill. Ice-element physical attack on a single enemy. Inflicts\n\\C[24]Frost Wound (Power 100: Physical Attack)\\C[0] on target for 7 turns. \\C[24]Frost Wound:\\C[0]\nReduces HP each turn.",
+        "description": "Power 50: Dagger skill. Ice-element physical attack on a single enemy. Inflicts \\C[24]Frost\nWound (Power 100: Physical Attack)\\C[0] on target that reduces HP each turn for 7 turns.",
         "effects": [
             {
                 "code": 21,
@@ -8528,7 +8528,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Grants self \\C[24]Empty Cicada Shell\\C[0] at the start of battle. \\C[24]Empty Cicada Shell:\\C[0]\nReduces physical and magic damage by 50%. Dispel after 4 turns upon taking\ndamage.",
+        "description": "Grants self \\C[24]Empty Cicada Shell\\C[0] at the start of battle. \\C[24]Empty Cicada Shell:\\C[0]Reduces\nphysical and magic damage by 50%. Dispel after 4 turns upon taking damage.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 83,
@@ -13226,7 +13226,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\C[24]Enhancement Value\\V[484]: \\C[0]Offering holy symbols increases stats. Effective only in\nRamul Alam.",
+        "description": "\\C[24]Enhancement Value\\V[484]: \\C[0]Offering holy symbols increases stats. Effective only in\nRamla Aram.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 83,
