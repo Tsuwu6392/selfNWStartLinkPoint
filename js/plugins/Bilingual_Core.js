@@ -25,11 +25,13 @@
  * @default JA
  *
  * @param LanguageVariable
- * @text Language switch variable ID
- * @desc Game variable ID that holds the active language tag as a string,
- * e.g. "EN". If the variable is empty/0, DefaultLanguage is used.
+ * @text (Optional) Mirror to Game Variable ID
+ * @desc Off by default (0). The plugin tracks its own language state
+ * internally now -- only set this if some OTHER plugin/event needs to
+ * read the active language tag out of a Game Variable directly. Pick an
+ * ID your project isn't already using for anything else.
  * @type variable
- * @default 1
+ * @default 0
  *
  * @param EnableAutoWrap
  * @text Enable auto word-wrap
@@ -71,6 +73,12 @@
  *   break (a deliberate pause) and is NEVER removed or overridden by
  *   auto-wrap. Auto-wrap only inserts breaks WITHIN the text between
  *   existing \n's.
+ * - Multi-line "Show Text" / "Scrolling Text" commands are several event
+ *   commands under the hood, one per line. Tag EACH line independently
+ *   (every line gets its own <EN>, etc.) -- the plugin resolves each line
+ *   before MZ joins them, so this is the correct way to write a multi-line
+ *   message and is handled safely even though it looks like repeated tags
+ *   in the raw JSON.
  *
  * ----------------------------------------------------------------------------
  * SWITCHING LANGUAGE
@@ -91,15 +99,21 @@
  * That choice is saved in the global config file (like BGM/SE volume),
  * NOT inside individual save files -- so it persists across new games and
  * loaded saves alike, and is available immediately from the title screen.
- * It also takes priority over the Game Variable below the moment the
- * player has changed it at least once.
+ * It also takes priority over the per-save language state below the
+ * moment the player has changed it at least once.
  *
- * You can still drive the language purely by script call if you never
- * touch the Options menu row:
- *   Control Variables > Script: $gameVariables.setValue(1, "EN")
+ * Below that, the plugin tracks its own active-language state internally
+ * on $gameSystem (saved with the rest of your save data, and namespaced
+ * so it can never collide with a Game Variable another plugin is using).
+ * You can drive it purely by script call if you never touch the Options
+ * menu row:
+ *   Control Variables > Script: $gameSystem.setBilingualLanguage("EN")
  * Set it back to "" or the DefaultLanguage to fall back to source text.
- * Changing the option also updates this variable automatically, so any
- * other plugin/event that reads it directly still sees the right value.
+ *
+ * If some OTHER plugin or event needs to read the active language tag
+ * out of a Game Variable directly, set LanguageVariable to an ID your
+ * project isn't using for anything else -- it's off (0) by default and
+ * purely a read-only mirror; the plugin's own logic never depends on it.
  *
  * Database text is re-applied whenever the language variable changes AND
  * a scene is loaded/refreshed. Any string field anywhere in $dataItems,
@@ -129,8 +143,8 @@
     const PLUGIN_NAME = "Bilingual_Core";
     const params = PluginManager.parameters(PLUGIN_NAME);
     const DEFAULT_LANG = String(params.DefaultLanguage || "JA");
-    const LANG_VAR_ID = Number(params.LanguageVariable || 1);
-    const AUTO_WRAP = params.EnableAutoWrap !== "true";
+    const LANG_VAR_ID = Number(params.LanguageVariable || 0);
+    const AUTO_WRAP = params.EnableAutoWrap !== "false";
     const WRAP_PADDING = Number(params.WrapPadding || 8);
     const OPTION_NAME = String(params.OptionName || "Language");
 
@@ -164,11 +178,19 @@
     function currentLanguage() {
         // A language chosen from the Options menu is a persistent,
         // cross-save preference and wins once the player has set one.
-        // Until then (or in projects that skip the Options row and only
-        // ever use the Game Variable), behavior is exactly as before.
         if (ConfigManager.language) return ConfigManager.language;
-        const v = $gameVariables ? $gameVariables.value(LANG_VAR_ID) : "";
-        return v ? String(v) : DEFAULT_LANG;
+        // Otherwise fall back to this save's own internal state, tracked
+        // on $gameSystem -- never a shared Game Variable slot.
+        if ($gameSystem && $gameSystem.bilingualLanguage()) {
+            return $gameSystem.bilingualLanguage();
+        }
+        // Last resort: the optional Game Variable mirror, only if the
+        // project has explicitly opted into one (LANG_VAR_ID > 0).
+        if (LANG_VAR_ID > 0 && $gameVariables) {
+            const v = $gameVariables.value(LANG_VAR_ID);
+            if (v) return String(v);
+        }
+        return DEFAULT_LANG;
     }
 
     function languageIndex(tag) {
@@ -221,12 +243,33 @@
         return AVAILABLE_LANGUAGES;
     }
 
-    // Mirror a language choice into the Game Variable too, so any script
-    // call / other plugin that reads it directly (per the documented
-    // convention) still sees the right value the instant the option
-    // changes, without having to know about ConfigManager.language.
-    function applyLanguageToVariable(tag) {
-        if ($gameVariables) $gameVariables.setValue(LANG_VAR_ID, tag);
+    // Game_System-level storage for the active language, private to this
+    // plugin (a Game Variable is a flat, shared numeric namespace that any
+    // other plugin/event can also be writing to -- a property namespaced
+    // under $gameSystem can't collide with anything). Persists with the
+    // save automatically since Game_System is part of save data.
+    const _Game_System_initialize = Game_System.prototype.initialize;
+    Game_System.prototype.initialize = function () {
+        _Game_System_initialize.call(this);
+        this._bilingualLanguage = "";
+    };
+
+    Game_System.prototype.bilingualLanguage = function () {
+        return this._bilingualLanguage || "";
+    };
+
+    Game_System.prototype.setBilingualLanguage = function (tag) {
+        this._bilingualLanguage = tag || "";
+    };
+
+    // Set the plugin's own internal state, and -- only if the project has
+    // opted into it (LANG_VAR_ID > 0) -- mirror the choice into a Game
+    // Variable too, so an other plugin/event reading it directly still
+    // sees the right value. The plugin's own behavior never depends on
+    // that mirror; it's purely for outside consumers.
+    function setLanguageState(tag) {
+        if ($gameSystem) $gameSystem.setBilingualLanguage(tag);
+        if (LANG_VAR_ID > 0 && $gameVariables) $gameVariables.setValue(LANG_VAR_ID, tag);
     }
 
     function selectLanguageText(raw) {
@@ -256,6 +299,26 @@
         const idx = raw.search(TAG_SPLIT_RE);
         return idx === -1 ? raw : raw.slice(0, idx);
     }
+
+    //-------------------------------------------------------------------
+    // Hook: message/scrolling-text LINES, before RPG Maker joins them
+    // A multi-line "Show Text" (or Scrolling Text) command is actually
+    // several separate event commands, one per line -- MZ only joins them
+    // into one string (Game_Message.allText()) afterward, for the window
+    // to draw. If a translator tags each line independently (the natural
+    // way to write a multi-line message: "JP<EN>EN" per line), that join
+    // produces a single blob containing multiple <EN> markers. The
+    // whole-string resolver below can only find one clean split point per
+    // string, so on a blob like that it grabs everything up to the FIRST
+    // tag's *next* occurrence -- i.e. line 1's translation followed by
+    // line 2's raw, untranslated source text. Resolving per line, before
+    // that join happens, avoids the ambiguity entirely.
+    //-------------------------------------------------------------------
+
+    const _Game_Message_add = Game_Message.prototype.add;
+    Game_Message.prototype.add = function (text) {
+        _Game_Message_add.call(this, selectLanguageText(text));
+    };
 
     //-------------------------------------------------------------------
     // Hook: event/message text, choices, scrolling text
@@ -492,22 +555,22 @@
     ConfigManager.applyData = function (config) {
         _ConfigManager_applyData.call(this, config);
         this.language = config.language || "";
-        applyLanguageToVariable(this.language || currentLanguage());
+        setLanguageState(this.language || currentLanguage());
     };
 
     // Re-assert the Options-menu choice over whatever tag happens to be
-    // stored in a save's Game Variable, so it's the persistent preference
+    // stored in a save's internal state, so it's the persistent preference
     // it looks like in the menu, not something a save can silently revert.
     const _DataManager_setupNewGame = DataManager.setupNewGame;
     DataManager.setupNewGame = function () {
         _DataManager_setupNewGame.call(this);
-        if (ConfigManager.language) applyLanguageToVariable(ConfigManager.language);
+        if (ConfigManager.language) setLanguageState(ConfigManager.language);
     };
 
     const _DataManager_extractSaveContents = DataManager.extractSaveContents;
     DataManager.extractSaveContents = function (contents) {
         _DataManager_extractSaveContents.call(this, contents);
-        if (ConfigManager.language) applyLanguageToVariable(ConfigManager.language);
+        if (ConfigManager.language) setLanguageState(ConfigManager.language);
     };
 
     const _Window_Options_addGeneralOptions = Window_Options.prototype.addGeneralOptions;
@@ -576,7 +639,7 @@
         const next = (idx + delta + list.length) % list.length;
         const tag = list[next].tag;
         ConfigManager.language = tag;
-        applyLanguageToVariable(tag);
+        setLanguageState(tag);
         this.redrawItem(this.findSymbol("language"));
         SoundManager.playCursor();
     };
