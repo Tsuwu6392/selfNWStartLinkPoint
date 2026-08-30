@@ -524,11 +524,56 @@
             .join("\n");
     }
 
+    // Window_Message indents every line by a left margin whenever a face
+    // graphic is showing (face width + spacing -- see the core's own
+    // newLineX), and that same margin is re-applied on every line, not
+    // just the first. Mirror that here so wrap width matches what's
+    // actually available, not the full content width.
+    function messageLeftMargin(win) {
+        if (typeof win.newLineX !== "function") return 0;
+        try {
+            return win.newLineX({ rtl: false });
+        } catch (e) {
+            return 0;
+        }
+    }
+
+    // Window_Message.prototype.startMessage() converts/wraps the message
+    // text BEFORE it calls updatePlacement() -- so any plugin (like
+    // LL_MessageWindowAdjust) that resizes the window inside
+    // updatePlacement() (e.g. narrower when no face graphic is shown) does
+    // so AFTER we've already measured against the old, wider width. Forcing
+    // placement to happen first means our wrap measurement always matches
+    // whatever width the window actually ends up at for this message.
+    // Calling it twice is harmless: the engine calls it again right after,
+    // with the same $gameMessage state, so it just recomputes the same
+    // numbers.
+    const _Window_Message_startMessage = Window_Message.prototype.startMessage;
+    Window_Message.prototype.startMessage = function () {
+        if (AUTO_WRAP && typeof this.updatePlacement === "function") {
+            this.updatePlacement();
+        }
+        _Window_Message_startMessage.call(this);
+    };
+
     const _Window_Message_convertEscapeCharacters = Window_Message.prototype.convertEscapeCharacters;
     Window_Message.prototype.convertEscapeCharacters = function (text) {
         let result = _Window_Message_convertEscapeCharacters.call(this, text);
         if (AUTO_WRAP) {
-            const maxWidth = this.contents ? this.contents.width - WRAP_PADDING : 640;
+            if (this.contents && typeof this.resetFontSettings === "function") {
+                this.resetFontSettings();
+            }
+            const margin = messageLeftMargin(this);
+            // this.contents is a Bitmap created once at window construction
+            // and never resized afterward -- plugins that narrow the window
+            // per-message (e.g. LL_MessageWindowAdjust, when no face graphic
+            // is showing) only ever change this.width/innerWidth, not the
+            // Bitmap. Measuring against contents.width means we're always
+            // reading a stale, too-generous number. innerWidth is the live
+            // value that actually reflects the window's current on-screen
+            // size, so that's what has to drive the wrap.
+            const baseWidth = typeof this.innerWidth === "number" ? this.innerWidth : (this.contents ? this.contents.width : 640);
+            const maxWidth = baseWidth - margin - WRAP_PADDING;
             result = autoWrapText(this.contents, result, maxWidth);
         }
         return result;
