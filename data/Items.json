@@ -16,7 +16,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Basic Items",
+        "name": "▼基本アイテム<EN>▼Basic Items",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -24,10 +24,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼基本アイテム"
-        }
+        "tpGain": 0
     },
     {
         "id": 2,
@@ -40,7 +37,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A jelly-like medicine that restores 50% HP to a single ally.",
+        "description": "味方単体のHPを50％回復するゼリー状の薬。<EN>A jelly-like medicine that restores 50% HP to a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -52,7 +49,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Life Jelly",
+        "name": "ライフゼリー<EN>Life Jelly",
         "note": "<dPlnText:A medicine that heals wounds. Made by the worldwide\norganization, the Aurum Trading Company. As a healing item,\nit is now a standard. You could call it an adventurer's\nessential.>",
         "occasion": 0,
         "price": 20,
@@ -60,11 +57,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "ライフゼリー",
-            "description": "味方単体のHPを50％回復するゼリー状の薬。"
-        }
+        "tpGain": 0
     },
     {
         "id": 3,
@@ -77,7 +70,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A jelly-like medicine that restores 100% HP to a single ally.",
+        "description": "味方単体のHPを100％回復するゼリー状の薬。<EN>A jelly-like medicine that restores 100% HP to a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -89,7 +82,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Super Life Jelly",
+        "name": "超ライフゼリー<EN>Super Life Jelly",
         "note": "<dPlnText:A medicine that heals wounds. Made by the worldwide\norganization, the Aurum Trading Company. As a healing item,\nit has a very great effect. At the same time, its price is\nalso very high.>",
         "occasion": 0,
         "price": 100,
@@ -97,11 +90,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "超ライフゼリー",
-            "description": "味方単体のHPを100％回復するゼリー状の薬。"
-        }
+        "tpGain": 0
     },
     {
         "id": 4,
@@ -114,7 +103,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A jelly-like medicine that restores 50% SP to a single ally.",
+        "description": "味方単体のSPを50％回復するゼリー状の薬。<EN>A jelly-like medicine that restores 50% SP to a single ally.",
         "effects": [
             {
                 "code": 12,
@@ -126,7 +115,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Energy Jelly",
+        "name": "エナジーゼリー<EN>Energy Jelly",
         "note": "<dPlnText:A medicine that restores energy. Made by the worldwide organization, the\nAurum Trading Company. To unleash techniques and magic, a corresponding\namount of energy is required. This will help with that, but it is expensive\ndue to the large amount of mana used as material.>",
         "occasion": 0,
         "price": 100,
@@ -134,11 +123,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "エナジーゼリー",
-            "description": "味方単体のSPを50％回復するゼリー状の薬。"
-        }
+        "tpGain": 0
     },
     {
         "id": 5,
@@ -151,7 +136,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A jelly-like medicine that restores 100% SP to a single ally.",
+        "description": "味方単体のSPを100％回復するゼリー状の薬。<EN>A jelly-like medicine that restores 100% SP to a single ally.",
         "effects": [
             {
                 "code": 12,
@@ -163,7 +148,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Super Energy Jelly",
+        "name": "超エナジーゼリー<EN>Super Energy Jelly",
         "note": "<dPlnText:A medicine that restores energy. Made by the worldwide\norganization, the Aurum Trading Company. As a healing item,\nit has a very great effect. At the same time, its price is\nalso very high.>",
         "occasion": 0,
         "price": 300,
@@ -171,11 +156,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "超エナジーゼリー",
-            "description": "味方単体のSPを100％回復するゼリー状の薬。"
-        }
+        "tpGain": 0
     },
     {
         "id": 6,
@@ -188,7 +169,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A jelly-like medicine that cures status ailments for a single ally. Cannot cure\nred-framed status ailments.",
+        "description": "味方単体の状態異常を解除するゼリー状の薬。\n赤枠の状態異常は解除できない。<EN>A jelly-like medicine that cures status ailments for a single ally. Cannot cure\nred-framed status ailments.",
         "effects": [
             {
                 "code": 22,
@@ -326,7 +307,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Health Jelly",
+        "name": "ヘルシーゼリー<EN>Health Jelly",
         "note": "<dPlnText:A medicine that treats physical abnormalities. Made by the\nworldwide organization, the Aurum Trading Company. This\ncures only status ailments. It does not heal wounds, nor\ndoes it have the power to recover one's stance.>",
         "occasion": 0,
         "price": 50,
@@ -334,11 +315,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "ヘルシーゼリー",
-            "description": "味方単体の状態異常を解除するゼリー状の薬。\n赤枠の状態異常は解除できない。"
-        }
+        "tpGain": 0
     },
     {
         "id": 7,
@@ -351,7 +328,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A jelly-like medicine that removes stat DOWN effects from a single ally.",
+        "description": "味方単体の能力値DOWNを解除するゼリー状の薬。<EN>A jelly-like medicine that removes stat DOWN effects from a single ally.",
         "effects": [
             {
                 "code": 22,
@@ -453,7 +430,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Power Jelly",
+        "name": "パワーゼリー<EN>Power Jelly",
         "note": "<dPlnText:A medicine that treats physical abnormalities. Made by the\nworldwide organization, the Aurum Trading Company. This\ncures only ability score reductions. It does not heal\nwounds, nor does it have the power to recover one's stance.>",
         "occasion": 0,
         "price": 50,
@@ -461,11 +438,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "パワーゼリー",
-            "description": "味方単体の能力値DOWNを解除するゼリー状の薬。"
-        }
+        "tpGain": 0
     },
     {
         "id": 8,
@@ -478,7 +451,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A liquid imbued with mana that revives a single ally and restores 25% HP.",
+        "description": "味方単体を復活させHPを25％回復するマナを宿した液体。<EN>A liquid imbued with mana that revives a single ally and restores 25% HP.",
         "effects": [
             {
                 "code": 22,
@@ -496,7 +469,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Mana Pot",
+        "name": "マナポット<EN>Mana Pot",
         "note": "<dPlnText:A liquid that revives those who are unable to fight. Made by the worldwide\norganization, the Aurum Trading Company. The unable-to-fight state and\ndeath are completely different. The former refers, as the name implies, to\na state where one cannot continue fighting.>",
         "occasion": 0,
         "price": 100,
@@ -504,11 +477,7 @@
         "scope": 9,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "マナポット",
-            "description": "味方単体を復活させHPを25％回復するマナを宿した液体。"
-        }
+        "tpGain": 0
     },
     {
         "id": 9,
@@ -521,7 +490,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A liquid imbued with mana that revives a single ally and restores 100% HP.",
+        "description": "味方単体を復活させHPを100％回復するマナを宿した液体。<EN>A liquid imbued with mana that revives a single ally and restores 100% HP.",
         "effects": [
             {
                 "code": 22,
@@ -539,7 +508,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Super Mana Pot",
+        "name": "超マナポット<EN>Super Mana Pot",
         "note": "<dPlnText:A liquid that revives those who are unable to fight. Made by\nthe worldwide organization, the Aurum Trading Company. The\nunable-to-fight state and death are completely different. No\nmedicine exists that can overturn the latter.>",
         "occasion": 0,
         "price": 500,
@@ -547,11 +516,7 @@
         "scope": 9,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "超マナポット",
-            "description": "味方単体を復活させHPを100％回復するマナを宿した液体。"
-        }
+        "tpGain": 0
     },
     {
         "id": 10,
@@ -564,7 +529,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A medicine that fully restores HP and SP of a single ally.",
+        "description": "味方単体のHPとSPを100％回復する薬。<EN>A medicine that fully restores HP and SP of a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -582,7 +547,7 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "Ultimate",
+        "name": "アルティメイト<EN>Ultimate",
         "note": "<dPlnText:A special medicine crafted by a top-tier alchemist. It is\nnot something you can easily obtain. You should use it when\nit really counts.>",
         "occasion": 0,
         "price": 1000,
@@ -590,11 +555,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "アルティメイト",
-            "description": "味方単体のHPとSPを100％回復する薬。"
-        }
+        "tpGain": 0
     },
     {
         "id": 11,
@@ -607,7 +568,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A medicine that fully restores HP and SP of all allies.",
+        "description": "味方全体のHPとSPを100％回復する薬。<EN>A medicine that fully restores HP and SP of all allies.",
         "effects": [
             {
                 "code": 11,
@@ -625,7 +586,7 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "Super Ultimate",
+        "name": "超アルティメイト<EN>Super Ultimate",
         "note": "<dPlnText:A special medicine crafted by a top-tier alchemist. It is\nnot something you can easily obtain. Even when it really\ncounts, you'd hesitate to use it.>",
         "occasion": 0,
         "price": 3000,
@@ -633,11 +594,7 @@
         "scope": 8,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "超アルティメイト",
-            "description": "味方全体のHPとSPを100％回復する薬。"
-        }
+        "tpGain": 0
     },
     {
         "id": 12,
@@ -676,12 +633,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mysterious seed that raises a single ally's level by 1.",
+        "description": "味方単体のレベルを1上昇させる不思議な種。<EN>A mysterious seed that raises a single ally's level by 1.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 182,
         "itypeId": 1,
-        "name": "Vivid Mana Seed",
+        "name": "鮮烈なマナの種<EN>Vivid Mana Seed",
         "note": "<ExpIncrease:1000000>\n<levelUpStop>\n<dPlnText:Something that holds astonishing growth potential. This is one form of\nmana, and it is called a seed due to its appearance. The power to promote\ngrowth could be said to be the essence of mana. A world that lacks it is\nfated to perish.>",
         "occasion": 2,
         "price": 0,
@@ -689,11 +646,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "鮮烈なマナの種",
-            "description": "味方単体のレベルを1上昇させる不思議な種。"
-        }
+        "tpGain": 0
     },
     {
         "id": 14,
@@ -706,7 +659,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fruit that raises all stats of a single ally by 5.",
+        "description": "味方単体のすべての能力値を5上昇させる果実。<EN>A fruit that raises all stats of a single ally by 5.",
         "effects": [
             {
                 "code": 42,
@@ -760,7 +713,7 @@
         "hitType": 0,
         "iconIndex": 265,
         "itypeId": 1,
-        "name": "Growth Fruit",
+        "name": "成長の果実<EN>Growth Fruit",
         "note": "<dPlnText:Eating it improves your body's basic abilities. This is a\nfruit of mana. Consuming it increases your strength as a\nliving being. It tastes absolutely awful.>",
         "occasion": 2,
         "price": 0,
@@ -768,11 +721,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "成長の果実",
-            "description": "味方単体のすべての能力値を5上昇させる果実。"
-        }
+        "tpGain": 0
     },
     {
         "id": 15,
@@ -811,12 +760,12 @@
             "type": 1,
             "variance": 5
         },
-        "description": "A bomb that deals about 500 wave-attribute magic damage to a single enemy.",
+        "description": "敵単体に約500の波動属性魔法ダメージを与える爆弾。<EN>A bomb that deals about 500 wave-attribute magic damage to a single enemy.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 218,
         "itypeId": 1,
-        "name": "Wave Bomb",
+        "name": "波動爆弾<EN>Wave Bomb",
         "note": "<dPlnText:A bomb imbued with wave magic. The wave attribute is the\npower of mana itself. Therefore, it works against most\nopponents, but it cannot ignore magical resistance.>",
         "occasion": 1,
         "price": 50,
@@ -824,11 +773,7 @@
         "scope": 1,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "波動爆弾",
-            "description": "敵単体に約500の波動属性魔法ダメージを与える爆弾。"
-        }
+        "tpGain": 0
     },
     {
         "id": 17,
@@ -841,7 +786,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A bomb that nullifies the buffs of all enemies.\nBuffs with red frames cannot be removed.",
+        "description": "敵全体の強化効果を打ち消す爆弾。\n赤枠の強化効果は解除できない。<EN>A bomb that nullifies the buffs of all enemies.\nBuffs with red frames cannot be removed.",
         "effects": [
             {
                 "code": 22,
@@ -985,7 +930,7 @@
         "hitType": 0,
         "iconIndex": 218,
         "itypeId": 1,
-        "name": "Shit Bomb",
+        "name": "糞爆弾<EN>Shit Bomb",
         "note": "<dPlnText:A bomb made from hardened shit. Excrement has the effect of\nhindering the power of mana. Through this action, it cancels out any\nenhancements on those drenched in it. Handle with care. If it goes off\naccidentally, it won't end well.>",
         "occasion": 1,
         "price": 20,
@@ -993,11 +938,7 @@
         "scope": 2,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "糞爆弾",
-            "description": "敵全体の強化効果を打ち消す爆弾。\n赤枠の強化効果は解除できない。"
-        }
+        "tpGain": 0
     },
     {
         "id": 18,
@@ -1067,7 +1008,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Gifts",
+        "name": "▼贈り物<EN>▼Gifts",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1075,10 +1016,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼贈り物"
-        }
+        "tpGain": 0
     },
     {
         "id": 21,
@@ -1091,12 +1029,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A ring dedicated to a loved one.",
+        "description": "愛する者に捧げる指輪。<EN>A ring dedicated to a loved one.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Vow Ring",
+        "name": "契りの輪<EN>Vow Ring",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. This pledges eternal love. A\ntimeless vow with one person alone.>",
         "occasion": 3,
         "price": 0,
@@ -1104,11 +1042,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "契りの輪",
-            "description": "愛する者に捧げる指輪。"
-        }
+        "tpGain": 0
     },
     {
         "id": 22,
@@ -1121,12 +1055,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An ornament made by pressing flowers onto paper.",
+        "description": "花を紙に押して作られた飾り。<EN>An ornament made by pressing flowers onto paper.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Pressed Cherry Blossom",
+        "name": "桜の押し花<EN>Pressed Cherry Blossom",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A stylish ornament. Cherry\nblossoms are beautiful and rarely disliked. It will likely\nplease anyone.>",
         "occasion": 3,
         "price": 0,
@@ -1134,11 +1068,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "桜の押し花",
-            "description": "花を紙に押して作られた飾り。"
-        }
+        "tpGain": 0
     },
     {
         "id": 23,
@@ -1151,12 +1081,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A wooden figurine modeled after a fox.",
+        "description": "狐を模した木彫りの人形。<EN>A wooden figurine modeled after a fox.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Fox Doll",
+        "name": "狐人形<EN>Fox Doll",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A simple doll. Made by who\nknows where, it is very endearing. It would make a nice\ndecorative piece.>",
         "occasion": 3,
         "price": 0,
@@ -1164,11 +1094,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "狐人形",
-            "description": "狐を模した木彫りの人形。"
-        }
+        "tpGain": 0
     },
     {
         "id": 24,
@@ -1181,12 +1107,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A toy that stimulates creative desire.",
+        "description": "創作意欲を刺激する玩具。<EN>A toy that stimulates creative desire.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Mechanical Toy",
+        "name": "からくり玩具<EN>Mechanical Toy",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A toy to enjoy combining\npieces. It requires a certain amount of aptitude, and some\npeople cannot grasp its true appeal.>",
         "occasion": 3,
         "price": 0,
@@ -1194,11 +1120,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "からくり玩具",
-            "description": "創作意欲を刺激する玩具。"
-        }
+        "tpGain": 0
     },
     {
         "id": 25,
@@ -1211,12 +1133,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A souvenir from Toraya, a famous shop in the capital.",
+        "description": "都の名店、とらやの土産物。<EN>A souvenir from Toraya, a famous shop in the capital.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Sweet Bun",
+        "name": "とらや饅頭<EN>Sweet Bun",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A famous confectionery of\nShikinowa. One of the standard souvenirs from the eastern\ncountry, not merely sweet, but with a profound flavor to\nenjoy.>",
         "occasion": 3,
         "price": 0,
@@ -1224,11 +1146,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "とらや饅頭",
-            "description": "都の名店、とらやの土産物。"
-        }
+        "tpGain": 0
     },
     {
         "id": 26,
@@ -1241,12 +1159,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A sake said to intoxicate and even trick gods.",
+        "description": "神をも酔わせ化かすという酒。<EN>A sake said to intoxicate and even trick gods.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Crown Confection",
+        "name": "冠化かし<EN>Crown Confection",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A liquor made on a remote\nisland of the eastern country. Quite strong, meant to be\ndiluted with water or the like. Only monsters can enjoy it\nstraight.>",
         "occasion": 3,
         "price": 0,
@@ -1254,11 +1172,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "冠化かし",
-            "description": "神をも酔わせ化かすという酒。"
-        }
+        "tpGain": 0
     },
     {
         "id": 27,
@@ -1271,12 +1185,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A publication issued by the Adventurers' Guild.",
+        "description": "冒険者ギルドが発行する読み物。<EN>A publication issued by the Adventurers' Guild.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Adventurer's Newsletter",
+        "name": "冒険者通信<EN>Adventurer's Newsletter",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A publication issued by the\nAdventurer's Guild. The information held by adventurers is\ncompiled into one organization, and by disseminating it,\npeople acquire common knowledge.>",
         "occasion": 3,
         "price": 0,
@@ -1284,11 +1198,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "冒険者通信",
-            "description": "冒険者ギルドが発行する読み物。"
-        }
+        "tpGain": 0
     },
     {
         "id": 28,
@@ -1301,12 +1211,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A work by an author from a great northern nation.",
+        "description": "北方の大国の作家の作品。<EN>A work by an author from a great northern nation.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Foreign Picture Book",
+        "name": "異国の絵本<EN>Foreign Picture Book",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A picture book with a dark\natmosphere. The blue-toned illustrations make the reader\nuneasy, but that is what colors the final hope.>",
         "occasion": 3,
         "price": 0,
@@ -1314,11 +1224,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "異国の絵本",
-            "description": "北方の大国の作家の作品。"
-        }
+        "tpGain": 0
     },
     {
         "id": 29,
@@ -1331,12 +1237,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A clump of hardened feces.",
+        "description": "握り固められた糞。<EN>A clump of hardened feces.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Dung Ball",
+        "name": "握り糞<EN>Dung Ball",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. This is feces. As a gift, it\nis utterly deranged.>",
         "occasion": 3,
         "price": 0,
@@ -1344,11 +1250,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "握り糞",
-            "description": "握り固められた糞。"
-        }
+        "tpGain": 0
     },
     {
         "id": 30,
@@ -1387,12 +1289,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Something stick-shaped.",
+        "description": "棒状の何か。<EN>Something stick-shaped.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Sturdy Stick",
+        "name": "逞しい棒<EN>Sturdy Stick",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A replica of a phallus. Used\nby women for masturbation. Rarely, men use it too.>",
         "occasion": 3,
         "price": 0,
@@ -1400,11 +1302,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "逞しい棒",
-            "description": "棒状の何か。"
-        }
+        "tpGain": 0
     },
     {
         "id": 32,
@@ -1417,12 +1315,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A pouch-like tool for collecting and storing semen.",
+        "description": "精液を集め留めるための袋状の道具。<EN>A pouch-like tool for collecting and storing semen.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Semen Collection Film",
+        "name": "採精用薄膜<EN>Semen Collection Film",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A bag-shaped thin membrane. A\ntool for collecting and preserving semen, with magical\nprocessing that keeps it fresh for a long period. It seems\nit had a different use in the past.>",
         "occasion": 3,
         "price": 0,
@@ -1430,11 +1328,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "採精用薄膜",
-            "description": "精液を集め留めるための袋状の道具。"
-        }
+        "tpGain": 0
     },
     {
         "id": 33,
@@ -1447,12 +1341,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A tool said to reflect the user's appearance.",
+        "description": "使用者の姿を写すという道具。<EN>A tool said to reflect the user's appearance.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Body Effigy",
+        "name": "身写し形代<EN>Body Effigy",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A peculiar effigy. A tool that\nmirrors the user's appearance, but the duration is short and\nthe clone is fragile. It would be difficult to use\neffectively in battle.>",
         "occasion": 3,
         "price": 0,
@@ -1460,11 +1354,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "身写し形代",
-            "description": "使用者の姿を写すという道具。"
-        }
+        "tpGain": 0
     },
     {
         "id": 34,
@@ -1477,12 +1367,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A sweet drink provided by the night demon.",
+        "description": "夜魔が提供する甘い飲み物。<EN>A sweet drink provided by the night demon.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Yotogi Oni's Sweet Sake",
+        "name": "夜伽鬼の甘酒<EN>Yotogi Oni's Sweet Sake",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. Its flavor is palatable to\nhumans. The source of its sweetness is night demon bodily\nfluid, which has a strong aphrodisiac effect.>",
         "occasion": 3,
         "price": 0,
@@ -1490,11 +1380,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "夜伽鬼の甘酒",
-            "description": "夜魔が提供する甘い飲み物。"
-        }
+        "tpGain": 0
     },
     {
         "id": 35,
@@ -1507,12 +1393,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An outfit worn by the night demon of the Eastern land during feasts.",
+        "description": "東国の夜魔が宴の折に纏う衣装。<EN>An outfit worn by the night demon of the Eastern land during feasts.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Yotogi Oni's Stage Costume",
+        "name": "夜伽鬼の舞台衣装<EN>Yotogi Oni's Stage Costume",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. An outfit that barely conceals\nthe private parts. At night demon banquets, mana flies\nabout. Exposing bare skin is for efficiency.>",
         "occasion": 3,
         "price": 0,
@@ -1520,11 +1406,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "夜伽鬼の舞台衣装",
-            "description": "東国の夜魔が宴の折に纏う衣装。"
-        }
+        "tpGain": 0
     },
     {
         "id": 36,
@@ -1537,12 +1419,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rare swimsuit in Shikinowa.",
+        "description": "シキノワでは珍しい水着。<EN>A rare swimsuit in Shikinowa.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Foreign Swimsuit",
+        "name": "異国の水着<EN>Foreign Swimsuit",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. A risque swimsuit. In the\neastern country, entering the sea itself is taboo, so\nswimsuits do not exist there.>",
         "occasion": 3,
         "price": 0,
@@ -1550,11 +1432,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "異国の水着",
-            "description": "シキノワでは珍しい水着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 37,
@@ -1567,12 +1445,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A book with risque content.",
+        "description": "過激な内容の本。<EN>A book with risque content.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 255,
         "itypeId": 2,
-        "name": "Extreme Book",
+        "name": "過激な書籍<EN>Extreme Book",
         "note": "<OrderId:120>\n<dPlnText:Something to give to someone. Its contents are notably\nflesh-colored. A rare item for men in modern times,\nsometimes treated as an antique.>",
         "occasion": 3,
         "price": 0,
@@ -1580,11 +1458,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "過激な書籍",
-            "description": "過激な内容の本。"
-        }
+        "tpGain": 0
     },
     {
         "id": 38,
@@ -1914,7 +1788,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Panties",
+        "name": "▼ぱんつ<EN>▼Panties",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -1922,10 +1796,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼ぱんつ"
-        }
+        "tpGain": 0
     },
     {
         "id": 51,
@@ -1938,12 +1809,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Nazuna's underwear.",
+        "description": "ナズナの下着。<EN>Nazuna's underwear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Nazuna's Panties",
+        "name": "ナズナのぱんつ<EN>Nazuna's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Nazuna's underwear There may\nbe various uses for it Let's try it out somewhere secluded>",
         "occasion": 3,
         "price": 0,
@@ -1951,11 +1822,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "ナズナのぱんつ",
-            "description": "ナズナの下着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 52,
@@ -1968,12 +1835,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Prim's underwear.",
+        "description": "プリムの下着。<EN>Prim's underwear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Prim's Panties",
+        "name": "プリムのぱんつ<EN>Prim's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Prim's underwear There may be\nvarious uses for it Let's try it out somewhere secluded>",
         "occasion": 3,
         "price": 0,
@@ -1981,11 +1848,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "プリムのぱんつ",
-            "description": "プリムの下着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 53,
@@ -1998,12 +1861,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sakura Toku's underwear.",
+        "description": "桜悳の下着。<EN>Sakura Toku's underwear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Sakura Toku's Panties",
+        "name": "桜悳のぱんつ<EN>Sakura Toku's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Sakura Toku's underwear There\nmay be various uses for it Let's try it out somewhere\nsecluded>",
         "occasion": 3,
         "price": 0,
@@ -2011,11 +1874,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "桜悳のぱんつ",
-            "description": "桜悳の下着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 54,
@@ -2028,12 +1887,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ula's underwear.",
+        "description": "ウーラの下着。<EN>Ula's underwear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Ula's Panties",
+        "name": "ウーラのぱんつ<EN>Ula's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Ula's underwear There may be\nvarious uses for it Let's try it out somewhere secluded>",
         "occasion": 3,
         "price": 0,
@@ -2041,11 +1900,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "ウーラのぱんつ",
-            "description": "ウーラの下着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 55,
@@ -2058,12 +1913,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Staff's underwear―or rather, swimsuit.",
+        "description": "杖の下着、もとい水着。<EN>Staff's underwear―or rather, swimsuit.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Staff's Panties",
+        "name": "杖のぱんつ<EN>Staff's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Staff's underwear, or rather\nswimsuit There may be various uses for it Let's try it out\nsomewhere secluded>",
         "occasion": 3,
         "price": 0,
@@ -2071,11 +1926,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "杖のぱんつ",
-            "description": "杖の下着、もとい水着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 56,
@@ -2088,12 +1939,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Aruko's underwear.",
+        "description": "存子の下着。<EN>Aruko's underwear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Aruko's Panties",
+        "name": "存子のぱんつ<EN>Aruko's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Aruko's underwear There may\nbe various uses for it Let's try it out somewhere secluded>",
         "occasion": 3,
         "price": 0,
@@ -2101,11 +1952,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "存子のぱんつ",
-            "description": "存子の下着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 57,
@@ -2118,12 +1965,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Awayuki's underwear.",
+        "description": "淡雪の下着。<EN>Awayuki's underwear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Awayuki's Panties",
+        "name": "淡雪のぱんつ<EN>Awayuki's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Awayuki's underwear There may\nbe various uses for it Let's try it out somewhere secluded>",
         "occasion": 3,
         "price": 0,
@@ -2131,11 +1978,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "淡雪のぱんつ",
-            "description": "淡雪の下着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 58,
@@ -2148,12 +1991,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Yuuyami's underwear.",
+        "description": "夕闇の下着。<EN>Yuuyami's underwear.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Yuuyami's Panties",
+        "name": "夕闇のぱんつ<EN>Yuuyami's Panties",
         "note": "<OrderId:115>\n<dPlnText:An unexpectedly obtained item Yuuyami's underwear There may\nbe various uses for it Let's try it out somewhere secluded>",
         "occasion": 3,
         "price": 0,
@@ -2161,11 +2004,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "夕闇のぱんつ",
-            "description": "夕闇の下着。"
-        }
+        "tpGain": 0
     },
     {
         "id": 59,
@@ -2230,12 +2069,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Currency once used in the eastern countries.",
+        "description": "かつて東国で使用されていた貨幣。<EN>Currency once used in the eastern countries.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "Old Shikinowa Coin",
+        "name": "シキノワ古銭<EN>Old Shikinowa Coin",
         "note": "<dPlnText:Old Shikinowa currency No longer in use today Created by\nanomalies during the chaotic era of old Each coin is said to\nhouse a faint soul>",
         "occasion": 3,
         "price": 0,
@@ -2243,11 +2082,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "シキノワ古銭",
-            "description": "かつて東国で使用されていた貨幣。"
-        }
+        "tpGain": 0
     },
     {
         "id": 62,
@@ -2260,12 +2095,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mysterious object found in Ramla Aram.",
+        "description": "ラムルアラムで見られる謎の物体。<EN>A mysterious object found in Ramla Aram.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 188,
         "itypeId": 1,
-        "name": "Harmony Token",
+        "name": "調和トークン<EN>Harmony Token",
         "note": "<dPlnText:An object lying around in Ramla Aram Its use is unclear Two\nhumans are depicted praising the sun That picture is drawn\non both of them>",
         "occasion": 3,
         "price": 0,
@@ -2273,11 +2108,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "調和トークン",
-            "description": "ラムルアラムで見られる謎の物体。"
-        }
+        "tpGain": 0
     },
     {
         "id": 63,
@@ -2446,12 +2277,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A round acorn. Generally worthless.",
+        "description": "丸いどんぐり。一般的に、価値はない。<EN>A round acorn. Generally worthless.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 262,
         "itypeId": 1,
-        "name": "Acorn",
+        "name": "どんぐり<EN>Acorn",
         "note": "<dPlnText:An inedible acorn Normally, it has no use The Yori\nare convinced That this is the supreme currency>",
         "occasion": 3,
         "price": 0,
@@ -2459,11 +2290,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "どんぐり",
-            "description": "丸いどんぐり。一般的に、価値はない。"
-        }
+        "tpGain": 0
     },
     {
         "id": 70,
@@ -2507,7 +2334,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Key Items",
+        "name": "▼重要アイテム<EN>▼Key Items",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2515,10 +2342,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼重要アイテム"
-        }
+        "tpGain": 0
     },
     {
         "id": 72,
@@ -2531,7 +2355,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\C[17]Move to Mashiro Shrine.\\C[0] Press \\C[17]C Key\\C[0] during movement to use directly.",
+        "description": "\\C[17]真白神社\\C[0]に移動する。\n移動中に\\C[17]Ｃキー\\C[0]を入力すると直接使用できる。<EN>\\C[17]Move to Mashiro Shrine.\\C[0] Press \\C[17]C Key\\C[0] during movement to use directly.",
         "effects": [
             {
                 "code": 44,
@@ -2543,7 +2367,7 @@
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Stone of Return",
+        "name": "帰郷の石<EN>Stone of Return",
         "note": "<dPlnText:A pebble that allows travel to one's homeland Made by the\nglobal organization, Aurum Trading Company Many swear that\nthey will return home only when their journey ends Yet even\nso, this stone will serve as a guide>",
         "occasion": 2,
         "price": 0,
@@ -2551,11 +2375,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "帰郷の石",
-            "description": "\\C[17]真白神社\\C[0]に移動する。\n移動中に\\C[17]Ｃキー\\C[0]を入力すると直接使用できる。"
-        }
+        "tpGain": 0
     },
     {
         "id": 73,
@@ -2568,7 +2388,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Display the event screen. Press \\C[17]D Key\\C[0] during movement to use directly.",
+        "description": "イベント画面を表示する。\n移動中に\\C[17]Ｄキー\\C[0]を入力すると直接使用できる。<EN>Display the event screen. Press \\C[17]D Key\\C[0] during movement to use directly.",
         "effects": [
             {
                 "code": 44,
@@ -2580,7 +2400,7 @@
         "hitType": 0,
         "iconIndex": 187,
         "itypeId": 2,
-        "name": "Adventurer's Memoir",
+        "name": "冒険者の手記<EN>Adventurer's Memoir",
         "note": "<dPlnText:A journal carried by every adventurer Recording everything\nof past journeys and those to come Some travel without a\njournal But they are called wanderers, not adventurers>",
         "occasion": 2,
         "price": 0,
@@ -2588,11 +2408,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "冒険者の手記",
-            "description": "イベント画面を表示する。\n移動中に\\C[17]Ｄキー\\C[0]を入力すると直接使用できる。"
-        }
+        "tpGain": 0
     },
     {
         "id": 74,
@@ -2605,7 +2421,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Restores 50% HP to all allies. Remaining uses: \\C[24]\\V[21]\\C[0]. Press \\C[17]V Key\\C[0] during movement to\nuse directly.",
+        "description": "味方全体のHPを50％回復させる。残り使用可能回数 \\C[24]\\V[21]\\C[0] 回。\n移動中に\\C[17]Ｖキー\\C[0]を入力すると直接使用できる。<EN>Restores 50% HP to all allies. Remaining uses: \\C[24]\\V[21]\\C[0]. Press \\C[17]V Key\\C[0] during movement to\nuse directly.",
         "effects": [
             {
                 "code": 44,
@@ -2617,7 +2433,7 @@
         "hitType": 0,
         "iconIndex": 228,
         "itypeId": 2,
-        "name": "Mana Vial",
+        "name": "マナの水瓶<EN>Mana Vial",
         "note": "<dPlnText:A magical bottle filled with water containing mana A tool\noriginating from the valley nation of Arzet It's been talked\nabout as something useful for adventures But for now, it's\nnot yet widely available>",
         "occasion": 2,
         "price": 0,
@@ -2625,11 +2441,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "マナの水瓶",
-            "description": "味方全体のHPを50％回復させる。残り使用可能回数 \\C[24]\\V[21]\\C[0] 回。\n移動中に\\C[17]Ｖキー\\C[0]を入力すると直接使用できる。"
-        }
+        "tpGain": 0
     },
     {
         "id": 75,
@@ -2720,7 +2532,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Choose whether to gain EXP.",
+        "description": "経験値を獲得するかどうか選択できる。<EN>Choose whether to gain EXP.",
         "effects": [
             {
                 "code": 44,
@@ -2732,7 +2544,7 @@
         "hitType": 0,
         "iconIndex": 222,
         "itypeId": 2,
-        "name": "Challenger's Mirror",
+        "name": "挑戦者の鏡<EN>Challenger's Mirror",
         "note": "<dPlnText:A hand mirror holding a strange ability It temporarily\ndenies the battle experience of the one reflected Efforts\nthat yield nothing must be futile Yet there are oddballs who\nchoose to walk that path anyway>",
         "occasion": 2,
         "price": 0,
@@ -2740,11 +2552,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "挑戦者の鏡",
-            "description": "経験値を獲得するかどうか選択できる。"
-        }
+        "tpGain": 0
     },
     {
         "id": 79,
@@ -2757,7 +2565,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Using this in battle results in defeat.",
+        "description": "戦闘中に使用すると敗北する。<EN>Using this in battle results in defeat.",
         "effects": [
             {
                 "code": 21,
@@ -2769,7 +2577,7 @@
         "hitType": 0,
         "iconIndex": 194,
         "itypeId": 2,
-        "name": "Mark of the Defeated",
+        "name": "敗者の印<EN>Mark of the Defeated",
         "note": "<dPlnText:A curse of those who cannot defeat anyone It lures the user\nand their allies to defeat This is a trap, not something to\nbe used willingly But perhaps there is something to be\ngained only through loss>",
         "occasion": 1,
         "price": 0,
@@ -2777,11 +2585,7 @@
         "scope": 8,
         "speed": 1,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "敗者の印",
-            "description": "戦闘中に使用すると敗北する。"
-        }
+        "tpGain": 0
     },
     {
         "id": 80,
@@ -2794,12 +2598,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A magical tool that illuminates the surroundings.",
+        "description": "周囲を照らす魔法道具。<EN>A magical tool that illuminates the surroundings.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 212,
         "itypeId": 2,
-        "name": "Light of Miriem",
+        "name": "ミリエマの光<EN>Light of Miriem",
         "note": "<dPlnText:A tool that lights a special flame Indispensable in dark\nplaces Some adventurers fumble their way through poor\nvisibility But the more seasoned never underestimate the\ndarkness>",
         "occasion": 3,
         "price": 0,
@@ -2807,11 +2611,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "ミリエマの光",
-            "description": "周囲を照らす魔法道具。"
-        }
+        "tpGain": 0
     },
     {
         "id": 81,
@@ -2824,12 +2624,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Increases the number of available uses of the Mana Vessel by the amount in your\npossession.",
+        "description": "マナの水瓶の使用可能回数が所持数分増加する。<EN>Increases the number of available uses of the Mana Vessel by the amount in your\npossession.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 273,
         "itypeId": 2,
-        "name": "Life Bottle",
+        "name": "生命瓶<EN>Life Bottle",
         "note": "<dPlnText:A special small vial for storing mana A meager amount, but\nit can supplement a waterskin Life bottles are common tools\nthat everyone has But this one is slightly different from\nthe general standard>",
         "occasion": 3,
         "price": 0,
@@ -2837,11 +2637,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "生命瓶",
-            "description": "マナの水瓶の使用可能回数が所持数分増加する。"
-        }
+        "tpGain": 0
     },
     {
         "id": 82,
@@ -2932,12 +2728,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Spring water from Mt. Meikoku.",
+        "description": "命刻山の湧き水。<EN>Spring water from Mt. Meikoku.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 228,
         "itypeId": 2,
-        "name": "Ryuen",
+        "name": "龍宴<EN>Ryuen",
         "note": "<dPlnText:Spring water welling up in the holy land of the rising sun.\nIn appearance, it is nothing out of the ordinary.\n　\nThe Crags of Yomi are ancient remains.\nThey still dream of the banquet from long ago even now.>",
         "occasion": 3,
         "price": 0,
@@ -2945,11 +2741,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "龍宴",
-            "description": "命刻山の湧き水。"
-        }
+        "tpGain": 0
     },
     {
         "id": 86,
@@ -2962,12 +2754,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A permit from the Shogunke Regent, Sasame Awayuki.",
+        "description": "将軍家執政、左雨淡雪の手形。<EN>A permit from the Shogunke Regent, Sasame Awayuki.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 191,
         "itypeId": 2,
-        "name": "Regent's Seal",
+        "name": "執政の印鑑<EN>Regent's Seal",
         "note": "<dPlnText:A permit granted by the Regent\nProof of recognition as a dignitary\n　\nThe greatest honor from Shikinowa,\nand instances of it being granted to foreigners are extremely rare\n　\nAmira Aswad, the Queen of Ramla Aram and 「Goddess of Love」, is\none of the few who holds this honor>",
         "occasion": 3,
         "price": 0,
@@ -2975,11 +2767,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "執政の印鑑",
-            "description": "将軍家執政、左雨淡雪の手形。"
-        }
+        "tpGain": 0
     },
     {
         "id": 87,
@@ -2992,12 +2780,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Ritual implements housed in a box.",
+        "description": "箱の中に納められた祭具。<EN>Ritual implements housed in a box.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 210,
         "itypeId": 2,
-        "name": "Cup of Fate",
+        "name": "縁の盃<EN>Cup of Fate",
         "note": "<dPlnText:An ancient ritual implement devised by the bloodline Given\nto the people of Sesek It is connected to the threads of the\ngods And opens the way to the Celestial Sanctuary, the\nPanoramic Domain>",
         "occasion": 3,
         "price": 0,
@@ -3005,11 +2793,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "縁の盃",
-            "description": "箱の中に納められた祭具。"
-        }
+        "tpGain": 0
     },
     {
         "id": 88,
@@ -3100,12 +2884,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A charm carried by a traveling Yori.",
+        "description": "旅の妖狸が持つお守り。<EN>A charm carried by a traveling Yori.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Yori Pouch",
+        "name": "妖狸小袋<EN>Yori Pouch",
         "note": "<dPlnText:A charm of the Yori A lucky item of the Four-Soul\nAnomaly, the Yori Kakuregami Its value is\nincomprehensible to other races>",
         "occasion": 3,
         "price": 0,
@@ -3113,11 +2897,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "妖狸小袋",
-            "description": "旅の妖狸が持つお守り。"
-        }
+        "tpGain": 0
     },
     {
         "id": 92,
@@ -3130,12 +2910,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A key used to seal the prison in Rakumeigahama",
+        "description": "落命ヶ浜の牢を封じるための鍵。<EN>A key used to seal the prison in Rakumeigahama",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
         "itypeId": 2,
-        "name": "Nezuka Seal",
+        "name": "涅塚の封じ<EN>Nezuka Seal",
         "note": "<dPlnText:A seal that closes the impure mosquito net There, the monk\nwarps and touches the truth The Nenuka becomes the womb of\nthe Nue And the serpent becomes the omniscient infant>",
         "occasion": 3,
         "price": 0,
@@ -3143,11 +2923,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "涅塚の封じ",
-            "description": "落命ヶ浜の牢を封じるための鍵。"
-        }
+        "tpGain": 0
     },
     {
         "id": 93,
@@ -3160,12 +2936,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A scrap of paper with a paw-print mark.",
+        "description": "肉球の印影がある紙切れ。<EN>A scrap of paper with a paw-print mark.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 191,
         "itypeId": 2,
-        "name": "Yori's Letter",
+        "name": "妖狸の手紙<EN>Yori's Letter",
         "note": "<dPlnText:A letter only a Yori can read\nOther races likely won't be able to understand it\n　\nThe contents consist only of a paw print mark>",
         "occasion": 3,
         "price": 0,
@@ -3173,11 +2949,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "妖狸の手紙",
-            "description": "肉球の印影がある紙切れ。"
-        }
+        "tpGain": 0
     },
     {
         "id": 94,
@@ -3190,7 +2962,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A box buried along Ishihiroi Path.",
+        "description": "石拾い道に埋められていた箱。<EN>A box buried along Ishihiroi Path.",
         "effects": [
             {
                 "code": 44,
@@ -3202,7 +2974,7 @@
         "hitType": 0,
         "iconIndex": 210,
         "itypeId": 2,
-        "name": "Treasure Chest",
+        "name": "宝の箱<EN>Treasure Chest",
         "note": "<dPlnText:A box buried in the ground It's fairly heavy. Seems like\nsomething is inside Written large on the lid: Treasure>",
         "occasion": 2,
         "price": 0,
@@ -3210,11 +2982,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "宝の箱",
-            "description": "石拾い道に埋められていた箱。"
-        }
+        "tpGain": 0
     },
     {
         "id": 95,
@@ -3227,12 +2995,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A box carried by a youri.",
+        "description": "妖狸が持ち歩く箱。<EN>A box carried by a youri.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 210,
         "itypeId": 2,
-        "name": "Yori Box",
+        "name": "妖狸箱<EN>Yori Box",
         "note": "<dPlnText:A box belonging to a youri.\nIt has no lid and cannot be opened.\n　\nThough it is said to be filled with treasure,\ngenerally, it is all nothing but tree leaves.>",
         "occasion": 3,
         "price": 0,
@@ -3240,11 +3008,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "妖狸箱",
-            "description": "妖狸が持ち歩く箱。"
-        }
+        "tpGain": 0
     },
     {
         "id": 96,
@@ -3257,12 +3021,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A tainted acorn.",
+        "description": "穢れているどんぐり。<EN>A tainted acorn.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 262,
         "itypeId": 2,
-        "name": "Tainted Acorn",
+        "name": "穢れどんぐり<EN>Tainted Acorn",
         "note": "<dPlnText:A thoroughly defiled acorn No use for it can be found Even\nthe Yori would likely avoid it It's not worth a\nsingle coin>",
         "occasion": 3,
         "price": 0,
@@ -3270,11 +3034,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "穢れどんぐり",
-            "description": "穢れているどんぐり。"
-        }
+        "tpGain": 0
     },
     {
         "id": 97,
@@ -3287,12 +3047,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mineral rarely found on Mount Meikoku.",
+        "description": "命刻山でごく稀に見つかる鉱石。<EN>A mineral rarely found on Mount Meikoku.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Pure Yotetsu",
+        "name": "純粋な陽鉄<EN>Pure Yotetsu",
         "note": "<dPlnText:A rare ore Rarely found in the holy land of the rising sun,\nMount Inochikoku It feels warm to the touch, exuding heat As\nif it holds sunlight within>",
         "occasion": 3,
         "price": 0,
@@ -3300,11 +3060,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "純粋な陽鉄",
-            "description": "命刻山でごく稀に見つかる鉱石。"
-        }
+        "tpGain": 0
     },
     {
         "id": 98,
@@ -3317,12 +3073,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A broken tachi.",
+        "description": "折れてしまった太刀。<EN>A broken tachi.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Broken Dragon Slayer",
+        "name": "折れた龍断ち<EN>Broken Dragon Slayer",
         "note": "<dPlnText:A broken Dragon-Severer With heavy chipping, it cannot be\nused as a weapon Originally a pair, the arms of the\nTabi-snake chief But one half was lost along with its arm>",
         "occasion": 3,
         "price": 0,
@@ -3330,11 +3086,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "折れた龍断ち",
-            "description": "折れてしまった太刀。"
-        }
+        "tpGain": 0
     },
     {
         "id": 99,
@@ -3347,12 +3099,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Material obtained from the dragonkin in the ruins of the History Museum.",
+        "description": "歴史館廃墟の竜人から手に入れた素材。<EN>Material obtained from the dragonkin in the ruins of the History Museum.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 2,
-        "name": "Volcanic Monster Material",
+        "name": "火山の魔物の素材<EN>Volcanic Monster Material",
         "note": "<dPlnText:Material obtained from a dragonkin A dull red scale This one\nis not genuine But it's remarkably well-made and detailed\nThis is the very definition of putting the cart before the\nhorse>",
         "occasion": 3,
         "price": 0,
@@ -3360,11 +3112,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "火山の魔物の素材",
-            "description": "歴史館廃墟の竜人から手に入れた素材。"
-        }
+        "tpGain": 0
     },
     {
         "id": 100,
@@ -3377,12 +3125,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A flower that had withered in the Alwaf Desert.",
+        "description": "アルワーフ砂漠で枯れていた花。<EN>A flower that had withered in the Alwaf Desert.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 182,
         "itypeId": 2,
-        "name": "Withered Desert Flower",
+        "name": "枯れた砂漠の花<EN>Withered Desert Flower",
         "note": "<dPlnText:A flower that blooms in the desert. It has withered away.\nThe Pure White flower is a gift from Retal. It leaves behind\nthe legend of the Roof bird.>",
         "occasion": 3,
         "price": 0,
@@ -3390,11 +3138,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "枯れた砂漠の花",
-            "description": "アルワーフ砂漠で枯れていた花。"
-        }
+        "tpGain": 0
     },
     {
         "id": 101,
@@ -3407,12 +3151,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Pure white thread made from Retal.",
+        "description": "レタルで作られた真っ白な糸。<EN>Pure white thread made from Retal.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 215,
         "itypeId": 2,
-        "name": "Pure White Thread",
+        "name": "真白糸<EN>Pure White Thread",
         "note": "<dPlnText:A faintly glowing white thread. It remains, undefiled and\nunrotted. Retal's thread is a bond of souls. It is fitting\nas an invitation to the Third Layer.>",
         "occasion": 3,
         "price": 0,
@@ -3420,11 +3164,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "真白糸",
-            "description": "レタルで作られた真っ白な糸。"
-        }
+        "tpGain": 0
     },
     {
         "id": 102,
@@ -3437,12 +3177,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A pure white flower that blooms in Aswad.",
+        "description": "アスワドに咲く真白の花。<EN>A pure white flower that blooms in Aswad.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 182,
         "itypeId": 2,
-        "name": "Desert Flower",
+        "name": "砂漠の花<EN>Desert Flower",
         "note": "<dPlnText:A flower that blooms in the desert. Everything is white,\nlike snow. Above the sleeping desert, the remains of Pure\nWhite drift. There are two gravestones there. Dreaming, and\nabandoning dreams. The world repeats that cycle.>",
         "occasion": 3,
         "price": 0,
@@ -3450,11 +3190,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "砂漠の花",
-            "description": "アスワドに咲く真白の花。"
-        }
+        "tpGain": 0
     },
     {
         "id": 103,
@@ -3779,7 +3515,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Something given to the peerless one.",
+        "description": "比類なき者に贈られるもの。<EN>Something given to the peerless one.",
         "effects": [
             {
                 "code": 44,
@@ -3791,7 +3527,7 @@
         "hitType": 0,
         "iconIndex": 192,
         "itypeId": 2,
-        "name": "Proof of Conquest",
+        "name": "制覇のあかし<EN>Proof of Conquest",
         "note": "<dPlnText:A medal given to the unparalleled. It is purely to honor great deeds, and\nholds no further meaning.\n\nThe proof of conquest lies in the fact of having achieved it.>",
         "occasion": 2,
         "price": 0,
@@ -3799,11 +3535,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "制覇のあかし",
-            "description": "比類なき者に贈られるもの。"
-        }
+        "tpGain": 0
     },
     {
         "id": 116,
@@ -3816,12 +3548,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Something Amei acquired somewhere.",
+        "description": "亜命がどこかで手に入れたもの。<EN>Something Amei acquired somewhere.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 244,
         "itypeId": 2,
-        "name": "Travel Souvenir",
+        "name": "長旅の土産<EN>Travel Souvenir",
         "note": "<dPlnText:What Amei obtained. Souvenirs from an excessively long wandering journey.\nThe small monstrosity moved many times, and each time sought help.\nBelieving that someday it would reach its beloved friend. Only once, it\nexperienced something that made even grief forget. A small machine in the\ndecadent city of Zeenpolis. There, it had a modest place to belong.>",
         "occasion": 3,
         "price": 0,
@@ -3829,11 +3561,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "長旅の土産",
-            "description": "亜命がどこかで手に入れたもの。"
-        }
+        "tpGain": 0
     },
     {
         "id": 117,
@@ -3929,7 +3657,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Material Base",
+        "name": "▼素材ベース<EN>▼Material Base",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -3937,10 +3665,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼素材ベース"
-        }
+        "tpGain": 0
     },
     {
         "id": 121,
@@ -3953,12 +3678,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A plain stone that serves as the base for a Seal.",
+        "description": "刻印のもととなる無機質な石。<EN>A plain stone that serves as the base for a Seal.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "Plain Engraving Stone",
+        "name": "無地の刻印石<EN>Plain Engraving Stone",
         "note": "<dPlnText:An eerily inorganic stone. It accepts power and becomes a\nSeal. It can sometimes be found after fierce battles.>",
         "occasion": 3,
         "price": 10,
@@ -3966,11 +3691,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "無地の刻印石",
-            "description": "刻印のもととなる無機質な石。"
-        }
+        "tpGain": 0
     },
     {
         "id": 122,
@@ -4035,12 +3756,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A thread said to weave souls.",
+        "description": "魂を編むという糸。<EN>A thread said to weave souls.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 290,
         "itypeId": 1,
-        "name": "Divine Thread",
+        "name": "神の糸<EN>Divine Thread",
         "note": "<dPlnText:A relic of the ancient great monstrosity, Kamuy. It becomes a material that\nproduces Soul Ropes. In that great war, the Battle of Hazama Tsukahara, the\nmonstrosity brilliantly subjugated the army of the Hateful Roots. The\nreason for that victory lay in the threads.>",
         "occasion": 3,
         "price": 0,
@@ -4048,11 +3769,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "神の糸",
-            "description": "魂を編むという糸。"
-        }
+        "tpGain": 0
     },
     {
         "id": 125,
@@ -4065,12 +3782,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A leaf harboring the Shikon.",
+        "description": "四魂を宿す葉。<EN>A leaf harboring the Shikon.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 288,
         "itypeId": 1,
-        "name": "Shikon-Vessel White Leaf",
+        "name": "四魂依り白葉<EN>Shikon-Vessel White Leaf",
         "note": "<dPlnText:A relic of the ancient Great Kaii, Kanmui\nMaterial for forging supreme weapons\n　\nIt looks like a white leaf and is called as such, but in reality, it is a scale>",
         "occasion": 3,
         "price": 0,
@@ -4078,11 +3795,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "四魂依り白葉",
-            "description": "四魂を宿す葉。"
-        }
+        "tpGain": 0
     },
     {
         "id": 126,
@@ -4204,7 +3917,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Enemy Material",
+        "name": "▼敵素材<EN>▼Enemy Material",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -4212,10 +3925,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼敵素材"
-        }
+        "tpGain": 0
     },
     {
         "id": 131,
@@ -4228,12 +3938,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Lingering remnants of a soul that refuses to fade.",
+        "description": "消えずに留まり残る魂の残滓。<EN>Lingering remnants of a soul that refuses to fade.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 1,
-        "name": "Soul Residue",
+        "name": "魂の残滓<EN>Soul Residue",
         "note": "<dPlnText:A soul left behind in that place. Though very faint, it\ninherits the power it once had. Souls that have lost their\nbodies drift aimlessly, eventually reaching the Yomi no\nIwao.>",
         "occasion": 3,
         "price": 10,
@@ -4241,11 +3951,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "魂の残滓",
-            "description": "消えずに留まり残る魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 132,
@@ -4258,12 +3964,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fleeting soul that lingers without vanishing.",
+        "description": "消えずに留まり残る儚い魂。<EN>A fleeting soul that lingers without vanishing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 1,
-        "name": "Fleeting Soul",
+        "name": "儚い魂<EN>Fleeting Soul",
         "note": "<dPlnText:A soul left behind in that place. Though faint, it inherits\nthe power it once had. Souls that have lost their bodies\ndrift aimlessly, eventually reaching the Yomi no Iwao.>",
         "occasion": 3,
         "price": 10,
@@ -4271,11 +3977,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "儚い魂",
-            "description": "消えずに留まり残る儚い魂。"
-        }
+        "tpGain": 0
     },
     {
         "id": 133,
@@ -4288,12 +3990,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A flickering soul that lingers without vanishing.",
+        "description": "消えずに留まり残る揺らめく魂。<EN>A flickering soul that lingers without vanishing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 1,
-        "name": "Flickering Soul",
+        "name": "揺らめく魂<EN>Flickering Soul",
         "note": "<dPlnText:A soul left behind in that place. It inherits the power it\nonce had. Souls that have lost their bodies drift aimlessly,\neventually reaching the Yomi no Iwao.>",
         "occasion": 3,
         "price": 10,
@@ -4301,11 +4003,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "揺らめく魂",
-            "description": "消えずに留まり残る揺らめく魂。"
-        }
+        "tpGain": 0
     },
     {
         "id": 134,
@@ -4318,12 +4016,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A steadfast soul that lingers without vanishing.",
+        "description": "消えずに留まり残る確かな魂。<EN>A steadfast soul that lingers without vanishing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 1,
-        "name": "Steadfast Soul",
+        "name": "確かな魂<EN>Steadfast Soul",
         "note": "<dPlnText:A soul left behind in that place. It surely inherits the\npower it once had. Souls that have lost their bodies drift\naimlessly, eventually reaching the Yomi no Iwao.>",
         "occasion": 3,
         "price": 10,
@@ -4331,11 +4029,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "確かな魂",
-            "description": "消えずに留まり残る確かな魂。"
-        }
+        "tpGain": 0
     },
     {
         "id": 135,
@@ -4348,12 +4042,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A radiant soul that lingers without vanishing.",
+        "description": "消えずに留まり残る輝く魂。<EN>A radiant soul that lingers without vanishing.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
         "itypeId": 1,
-        "name": "Radiant Soul",
+        "name": "輝く魂<EN>Radiant Soul",
         "note": "<dPlnText:A soul left behind in that place. It shines with the very\npower it once had. Souls that have lost their bodies drift\naimlessly, eventually reaching the Yomi no Iwao.>",
         "occasion": 3,
         "price": 10,
@@ -4361,11 +4055,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "輝く魂",
-            "description": "消えずに留まり残る輝く魂。"
-        }
+        "tpGain": 0
     },
     {
         "id": 136,
@@ -4456,12 +4146,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fragment used as material for a Seal.",
+        "description": "刻印の素材になる欠片。<EN>A fragment used as material for a Seal.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 292,
         "itypeId": 1,
-        "name": "Rainbow Fragment",
+        "name": "虹色の欠片<EN>Rainbow Fragment",
         "note": "<dPlnText:A fragment needed to turn a plain stone into a Seal. This is\na fragment of mana, a crystal of life force. If handled\ncorrectly, one can utilize its power.>",
         "occasion": 3,
         "price": 10,
@@ -4469,11 +4159,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "虹色の欠片",
-            "description": "刻印の素材になる欠片。"
-        }
+        "tpGain": 0
     },
     {
         "id": 140,
@@ -4512,12 +4198,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A sacred tool once used at Mashiro Shrine.",
+        "description": "かつて真白神社で用いられた神具。<EN>A sacred tool once used at Mashiro Shrine.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 213,
         "itypeId": 2,
-        "name": "Sacred Fire",
+        "name": "神事熾し<EN>Sacred Fire",
         "note": "<dPlnText:An ancient sacred tool of the Mashiro Shrine. A new power\ndwells in the forge. The divine fire can turn even old iron\ninto a sword. The power of lost rites shall not fade.>",
         "occasion": 3,
         "price": 0,
@@ -4525,11 +4211,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "神事熾し",
-            "description": "かつて真白神社で用いられた神具。"
-        }
+        "tpGain": 0
     },
     {
         "id": 142,
@@ -4542,12 +4224,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An old ember brought from a remote island.",
+        "description": "離島より持ち込まれた古い種火。<EN>An old ember brought from a remote island.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 213,
         "itypeId": 2,
-        "name": "Sesek's Ember",
+        "name": "セセクの種火<EN>Sesek's Ember",
         "note": "<dPlnText:A kindling that was once in the treasure hall. A new power\ndwells in the forge. The Sesek people excelled as craftsmen,\nand their techniques aided the rites of souls.>",
         "occasion": 3,
         "price": 0,
@@ -4555,11 +4237,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "セセクの種火",
-            "description": "離島より持ち込まれた古い種火。"
-        }
+        "tpGain": 0
     },
     {
         "id": 143,
@@ -4572,12 +4250,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An ember passed down among the bloodline of Kamuy.",
+        "description": "カンムイの血族に伝わる種火。<EN>An ember passed down among the bloodline of Kamuy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 213,
         "itypeId": 2,
-        "name": "Dragon Ember",
+        "name": "龍の種火<EN>Dragon Ember",
         "note": "<dPlnText:One of the treasures of the Togimiya family. A new power dwells in the\nforge. This is the primordial fire, the beginning of the rites of souls.\nOnly the forging rituals inherited by Mashiro shall recreate the sacred\nartifacts of old.>",
         "occasion": 3,
         "price": 0,
@@ -4585,11 +4263,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "龍の種火",
-            "description": "カンムイの血族に伝わる種火。"
-        }
+        "tpGain": 0
     },
     {
         "id": 144,
@@ -4763,7 +4437,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Boss Material",
+        "name": "▼ヌシ素材<EN>▼Boss Material",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -4771,10 +4445,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼ヌシ素材"
-        }
+        "tpGain": 0
     },
     {
         "id": 151,
@@ -4787,12 +4458,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Soul remnants of the Monk of Nezuka.",
+        "description": "涅塚の僧の魂の残滓。<EN>Soul remnants of the Monk of Nezuka.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Nezuka Monk's Soul",
+        "name": "涅塚僧の魂<EN>Nezuka Monk's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -4800,11 +4471,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "涅塚僧の魂",
-            "description": "涅塚の僧の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 152,
@@ -4817,12 +4484,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Soul remnants of the Executioner of the Ancient Capital.",
+        "description": "古都の人斬りの魂の残滓。<EN>Soul remnants of the Executioner of the Ancient Capital.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Murderer's Soul",
+        "name": "人斬りの魂<EN>Murderer's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -4830,11 +4497,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "人斬りの魂",
-            "description": "古都の人斬りの魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 153,
@@ -4847,12 +4510,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Soul remnants of the Root-Cutter Kid.",
+        "description": "根断ち童子の魂の残滓。<EN>Soul remnants of the Root-Cutter Kid.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Child's Soul",
+        "name": "童子の魂<EN>Child's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -4860,11 +4523,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "童子の魂",
-            "description": "根断ち童子の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 154,
@@ -4877,12 +4536,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Soul remnants of the Unfading Regret.",
+        "description": "消えない未練の魂の残滓。<EN>Soul remnants of the Unfading Regret.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Lingering Soul",
+        "name": "未練の魂<EN>Lingering Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -4890,11 +4549,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "未練の魂",
-            "description": "消えない未練の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 155,
@@ -4907,12 +4562,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Soul remnants of the Swamp Woman.",
+        "description": "沼女の魂の残滓。<EN>Soul remnants of the Swamp Woman.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Swamp Woman's Soul",
+        "name": "沼女の魂<EN>Swamp Woman's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -4920,11 +4575,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "沼女の魂",
-            "description": "沼女の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 156,
@@ -4937,12 +4588,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Soul remnants of the Forest Snow Woman.",
+        "description": "迷い森の雪女の魂の残滓。<EN>Soul remnants of the Forest Snow Woman.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Snow Woman's Soul",
+        "name": "雪女の魂<EN>Snow Woman's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -4950,11 +4601,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "雪女の魂",
-            "description": "迷い森の雪女の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 157,
@@ -4967,12 +4614,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul of the Oni of Inochikoku Mountain.",
+        "description": "命刻山の鬼の魂の残滓。<EN>Residual soul of the Oni of Inochikoku Mountain.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Oni Soul",
+        "name": "鬼の魂<EN>Oni Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -4980,11 +4627,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "鬼の魂",
-            "description": "命刻山の鬼の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 158,
@@ -4997,12 +4640,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul of the Guide of the Reise River.",
+        "description": "レーセ川の先導の魂の残滓。<EN>Residual soul of the Guide of the Reise River.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Guide's Soul",
+        "name": "先導の魂<EN>Guide's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -5010,11 +4653,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "先導の魂",
-            "description": "レーセ川の先導の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 159,
@@ -5027,12 +4666,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul of the Dragon's Wet Nurse.",
+        "description": "龍の乳母の魂の残滓。<EN>Residual soul of the Dragon's Wet Nurse.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Nanny's Soul",
+        "name": "乳母の魂<EN>Nanny's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -5040,11 +4679,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "乳母の魂",
-            "description": "龍の乳母の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 160,
@@ -5057,12 +4692,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul of the Secret Illegitimate Child.",
+        "description": "秘せる落胤の魂の残滓。<EN>Residual soul of the Secret Illegitimate Child.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 302,
         "itypeId": 1,
-        "name": "Bastard's Soul",
+        "name": "落胤の魂<EN>Bastard's Soul",
         "note": "<dPlnText:A soul left behind in that place. An extraordinary, special\none. The land of the Eastern Country is imbued with Kamuy's\npower, which, along with mana, influences souls.>",
         "occasion": 3,
         "price": 10,
@@ -5070,11 +4705,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "落胤の魂",
-            "description": "秘せる落胤の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 161,
@@ -5347,12 +4978,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "What remained when the ghost story \"Hundred Kings\" took form.",
+        "description": "怪談「百王」が形を成し残したもの。<EN>What remained when the ghost story \"Hundred Kings\" took form.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 1,
-        "name": "Hundred Kings' Soul Trace",
+        "name": "百王の魂跡<EN>Hundred Kings' Soul Trace",
         "note": "<dPlnText:A remnant of the soul of the Four-Soul Monstrosity. Though\nfading, it remains powerful. Only the Dragon's kindling, the\nBloodline's traditional forging rituals, can forge this.>",
         "occasion": 3,
         "price": 10,
@@ -5360,11 +4991,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "百王の魂跡",
-            "description": "怪談「百王」が形を成し残したもの。"
-        }
+        "tpGain": 0
     },
     {
         "id": 172,
@@ -5377,12 +5004,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "What remained when the ghost story \"Tale of the Lustrous Tail's Crossing\" took\nform.",
+        "description": "怪談「艶尾の辻」が形を成し残したもの。<EN>What remained when the ghost story \"Tale of the Lustrous Tail's Crossing\" took\nform.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 1,
-        "name": "Soul Trace of Glamorous Tail Crossroads",
+        "name": "艶尾の辻の魂跡<EN>Soul Trace of Glamorous Tail Crossroads",
         "note": "<dPlnText:A remnant of the soul of the Four-Soul Monstrosity. Though\nfading, it remains powerful. Only the Dragon's kindling, the\nBloodline's traditional forging rituals, can forge this.>",
         "occasion": 3,
         "price": 10,
@@ -5390,11 +5017,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "艶尾の辻の魂跡",
-            "description": "怪談「艶尾の辻」が形を成し残したもの。"
-        }
+        "tpGain": 0
     },
     {
         "id": 173,
@@ -5407,12 +5030,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "What remained when the ghost story \"Kakushigami Katari\" took form.",
+        "description": "怪談「隠神語り」が形を成し残したもの。<EN>What remained when the ghost story \"Kakushigami Katari\" took form.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 1,
-        "name": "Kakushigami Katari's Soul Trace",
+        "name": "隠神語りの魂跡<EN>Kakushigami Katari's Soul Trace",
         "note": "<dPlnText:A remnant of the soul of the Four-Soul Monstrosity. Though\nfading, it remains powerful. Only the Dragon's kindling, the\nBloodline's traditional forging rituals, can forge this.>",
         "occasion": 3,
         "price": 10,
@@ -5420,11 +5043,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "隠神語りの魂跡",
-            "description": "怪談「隠神語り」が形を成し残したもの。"
-        }
+        "tpGain": 0
     },
     {
         "id": 174,
@@ -5598,7 +5217,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Additional Materials",
+        "name": "▼追加素材<EN>▼Additional Materials",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -5606,10 +5225,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼追加素材"
-        }
+        "tpGain": 0
     },
     {
         "id": 181,
@@ -5622,12 +5238,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A substance seen in the soul space of the Nue.",
+        "description": "鵺の魂の空間で見られる物質。<EN>A substance seen in the soul space of the Nue.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "Unknown Substance",
+        "name": "不詳物質<EN>Unknown Substance",
         "note": "<OrderId:130>\n<dPlnText:Material that forms the birth canal of the Nue. It has an\nunknown texture. Very rarely, this remains as a trace. Even\nif you obtain it, you probably won't think of any use for\nit.>",
         "occasion": 3,
         "price": 10,
@@ -5635,11 +5251,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "不詳物質",
-            "description": "鵺の魂の空間で見られる物質。"
-        }
+        "tpGain": 0
     },
     {
         "id": 182,
@@ -5652,12 +5264,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A substance seen in the soul space of the Nue.",
+        "description": "鵺の魂の空間で見られる物質。<EN>A substance seen in the soul space of the Nue.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "Completely Unknown Substance",
+        "name": "完全不詳物質<EN>Completely Unknown Substance",
         "note": "<OrderId:130>\n<dPlnText:Material that forms the birth canal of the Nue. It has an\nunknown texture. Very rarely, this remains as a trace. Even\nif you obtain it, you probably won't think of any use for\nit.>",
         "occasion": 3,
         "price": 10,
@@ -5665,11 +5277,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "完全不詳物質",
-            "description": "鵺の魂の空間で見られる物質。"
-        }
+        "tpGain": 0
     },
     {
         "id": 183,
@@ -5682,12 +5290,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul left behind by the Nue's body.",
+        "description": "鵺の肉体が遺した魂の残滓。<EN>Residual soul left behind by the Nue's body.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "Black Fragment of Sarpa",
+        "name": "サーパの黒片<EN>Black Fragment of Sarpa",
         "note": "<OrderId:130>\n<dPlnText:Relic of the Nue's severed body. A tangible fragment of a\nsoul. Once, it sought not the rock, but the master. And thus\nthe land of the unknown was born.>\n",
         "occasion": 3,
         "price": 10,
@@ -5695,11 +5303,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "サーパの黒片",
-            "description": "鵺の肉体が遺した魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 184,
@@ -5712,12 +5316,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul left behind by the Nue's body.",
+        "description": "鵺の肉体が遺した魂の残滓。<EN>Residual soul left behind by the Nue's body.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "Black Fragment of Krihisaraha",
+        "name": "クリヒサラハの黒片<EN>Black Fragment of Krihisaraha",
         "note": "<OrderId:130>\n<dPlnText:Relic of the Nue's severed body. A tangible fragment of a\nsoul. Once, it sought not the rock, but the master. And thus\nthe land of the unknown was born.>\n",
         "occasion": 3,
         "price": 10,
@@ -5725,11 +5329,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "クリヒサラハの黒片",
-            "description": "鵺の肉体が遺した魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 185,
@@ -5742,12 +5342,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul left behind by the Nue's body.",
+        "description": "鵺の肉体が遺した魂の残滓。<EN>Residual soul left behind by the Nue's body.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "Black Fragment of Arasarushi",
+        "name": "アラサルシの黒片<EN>Black Fragment of Arasarushi",
         "note": "<OrderId:130>\n<dPlnText:Relic of the Nue's severed body. A tangible fragment of a\nsoul. Once, it sought not the rock, but the master. And thus\nthe land of the unknown was born.>\n",
         "occasion": 3,
         "price": 10,
@@ -5755,11 +5355,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "アラサルシの黒片",
-            "description": "鵺の肉体が遺した魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 186,
@@ -5772,12 +5368,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul left behind by the Nue's body.",
+        "description": "鵺の肉体が遺した魂の残滓。<EN>Residual soul left behind by the Nue's body.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "Black Fragment of Netapashiki",
+        "name": "ネタパシキの黒片<EN>Black Fragment of Netapashiki",
         "note": "<OrderId:130>\n<dPlnText:Relic of the Nue's severed body. A tangible fragment of a\nsoul. Once, it sought not the rock, but the master. And thus\nthe land of the unknown was born.>\n",
         "occasion": 3,
         "price": 10,
@@ -5785,11 +5381,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "ネタパシキの黒片",
-            "description": "鵺の肉体が遺した魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 187,
@@ -5802,12 +5394,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Residual soul of the Nue.",
+        "description": "鵺の魂の残滓。<EN>Residual soul of the Nue.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 303,
         "itypeId": 1,
-        "name": "Black Fragment of Nue",
+        "name": "鵺の黒片<EN>Black Fragment of Nue",
         "note": "<OrderId:130>\n<dPlnText:Relics of the Nue's severed body, brought together as one.\nOnce, it sought not the rock, but the master. And thus the\nland of the unknown was born.>\n",
         "occasion": 3,
         "price": 10,
@@ -5815,11 +5407,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "鵺の黒片",
-            "description": "鵺の魂の残滓。"
-        }
+        "tpGain": 0
     },
     {
         "id": 188,
@@ -5858,12 +5446,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A metal fragment engraved with sacred sigils for blessings.",
+        "description": "祝福のための聖刻が彫られた金属片。<EN>A metal fragment engraved with sacred sigils for blessings.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "Shattered Sacred Seal",
+        "name": "砕けた聖刻符<EN>Shattered Sacred Seal",
         "note": "<OrderId:140>\n<dPlnText:A mechanical metal fragment. Glowing letters are carved into\nit. Asward's blessing dwells in the sacred stigmata. A\nwarrior should gather them.>\n",
         "occasion": 3,
         "price": 10,
@@ -5871,11 +5459,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "砕けた聖刻符",
-            "description": "祝福のための聖刻が彫られた金属片。"
-        }
+        "tpGain": 0
     },
     {
         "id": 190,
@@ -5888,12 +5472,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A metal plate in poor condition, engraved with sacred sigils for blessings.",
+        "description": "祝福のための聖刻が彫られた、状態のよくない金属板。<EN>A metal plate in poor condition, engraved with sacred sigils for blessings.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "Deteriorated Sacred Seal",
+        "name": "劣化した聖刻符<EN>Deteriorated Sacred Seal",
         "note": "<OrderId:140>\n<dPlnText:A mechanical metal plate. Glowing letters are carved into\nit. Asward's blessing dwells in the sacred stigmata. A\nwarrior should gather them.>\n",
         "occasion": 3,
         "price": 10,
@@ -5901,11 +5485,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "劣化した聖刻符",
-            "description": "祝福のための聖刻が彫られた、状態のよくない金属板。"
-        }
+        "tpGain": 0
     },
     {
         "id": 191,
@@ -5918,12 +5498,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A metal plate engraved with sacred sigils for blessings.",
+        "description": "祝福のための聖刻が彫られた金属板。<EN>A metal plate engraved with sacred sigils for blessings.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "Aged Sacred Seal",
+        "name": "古びた聖刻符<EN>Aged Sacred Seal",
         "note": "<OrderId:140>\n<dPlnText:A mechanical metal plate. Glowing letters are carved into\nit. Asward's blessing dwells in the sacred stigmata. A\nwarrior should gather them.>\n",
         "occasion": 3,
         "price": 10,
@@ -5931,11 +5511,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "古びた聖刻符",
-            "description": "祝福のための聖刻が彫られた金属板。"
-        }
+        "tpGain": 0
     },
     {
         "id": 192,
@@ -5948,12 +5524,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A clean metal plate engraved with sacred sigils for blessings.",
+        "description": "祝福のための聖刻が彫られた綺麗な金属板。<EN>A clean metal plate engraved with sacred sigils for blessings.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "Pristine Sacred Seal",
+        "name": "綺麗な聖刻符<EN>Pristine Sacred Seal",
         "note": "<OrderId:140>\n<dPlnText:A mechanical metal plate. Glowing letters are carved into it. A sacred\nstigmata charm is a sort of privilege, issued to customers who experience\nbeing a warrior. A cheerful medal. New ones are now rare. The fact that\nthis truly holds the blessing's grace can truly be called a miracle of the\ngods.>",
         "occasion": 3,
         "price": 10,
@@ -5961,11 +5537,7 @@
         "scope": 0,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "綺麗な聖刻符",
-            "description": "祝福のための聖刻が彫られた綺麗な金属板。"
-        }
+        "tpGain": 0
     },
     {
         "id": 193,
@@ -6139,7 +5711,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Event 040",
+        "name": "▼イベント040<EN>▼Event 040",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6147,10 +5719,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼イベント040"
-        }
+        "tpGain": 0
     },
     {
         "id": 200,
@@ -6168,7 +5737,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼Recipes (Display)",
+        "name": "▼レシピ（表示用）<EN>▼Recipes (Display)",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6176,10 +5745,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "▼レシピ（表示用）"
-        }
+        "tpGain": 0
     },
     {
         "id": 201,
@@ -6192,12 +5758,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Seal Recipe 1",
+        "name": "刻印レシピ１<EN>Seal Recipe 1",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6205,11 +5771,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "刻印レシピ１",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 202,
@@ -6222,12 +5784,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Seal Recipe 2",
+        "name": "刻印レシピ２<EN>Seal Recipe 2",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6235,11 +5797,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "刻印レシピ２",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 203,
@@ -6252,12 +5810,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Seal Recipe 3",
+        "name": "刻印レシピ３<EN>Seal Recipe 3",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6265,11 +5823,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "刻印レシピ３",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 204,
@@ -6287,7 +5841,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Dragon's Tinder Recipe",
+        "name": "龍の種火レシピ<EN>Dragon's Tinder Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6295,10 +5849,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "龍の種火レシピ"
-        }
+        "tpGain": 0
     },
     {
         "id": 205,
@@ -6337,12 +5888,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Soul Recipe 1",
+        "name": "魂レシピ１<EN>Soul Recipe 1",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6350,11 +5901,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "魂レシピ１",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 207,
@@ -6367,12 +5914,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Soul Recipe 2",
+        "name": "魂レシピ２<EN>Soul Recipe 2",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6380,11 +5927,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "魂レシピ２",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 208,
@@ -6397,12 +5940,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Soul Recipe 3",
+        "name": "魂レシピ３<EN>Soul Recipe 3",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6410,11 +5953,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "魂レシピ３",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 209,
@@ -6479,12 +6018,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Soul Recipe of Nezuka Monk",
+        "name": "涅塚僧の魂レシピ<EN>Soul Recipe of Nezuka Monk",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6492,11 +6031,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "涅塚僧の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 212,
@@ -6509,12 +6044,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Killer's Soul Recipe",
+        "name": "人斬りの魂レシピ<EN>Killer's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6522,11 +6057,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "人斬りの魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 213,
@@ -6539,12 +6070,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Child's Soul Recipe",
+        "name": "童子の魂レシピ<EN>Child's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6552,11 +6083,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "童子の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 214,
@@ -6569,12 +6096,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Regret's Soul Recipe",
+        "name": "未練の魂レシピ<EN>Regret's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6582,11 +6109,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "未練の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 215,
@@ -6599,12 +6122,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Swamp Woman's Soul Recipe",
+        "name": "沼女の魂レシピ<EN>Swamp Woman's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6612,11 +6135,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "沼女の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 216,
@@ -6629,12 +6148,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Snow Woman's Soul Recipe",
+        "name": "雪女の魂レシピ<EN>Snow Woman's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6642,11 +6161,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "雪女の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 217,
@@ -6659,12 +6174,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Oni's Soul Recipe",
+        "name": "鬼の魂レシピ<EN>Oni's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6672,11 +6187,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "鬼の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 218,
@@ -6689,12 +6200,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Guide's Soul Recipe",
+        "name": "先導の魂レシピ<EN>Guide's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6702,11 +6213,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "先導の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 219,
@@ -6719,12 +6226,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Wet Nurse's Soul Recipe",
+        "name": "乳母の魂レシピ<EN>Wet Nurse's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6732,11 +6239,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "乳母の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 220,
@@ -6749,12 +6252,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Bastard's Soul Recipe",
+        "name": "落胤の魂レシピ<EN>Bastard's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -6762,11 +6265,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "落胤の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 221,
@@ -7039,12 +6538,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Hundred Kings' Soul Recipe",
+        "name": "百王の魂レシピ<EN>Hundred Kings' Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7052,11 +6551,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "百王の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 232,
@@ -7069,12 +6564,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Glamorous Tail Crossroads' Soul Recipe",
+        "name": "艶尾の辻の魂レシピ<EN>Glamorous Tail Crossroads' Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7082,11 +6577,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "艶尾の辻の魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 233,
@@ -7099,12 +6590,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Kakushigami Katari's Soul Recipe",
+        "name": "隠神語りの魂レシピ<EN>Kakushigami Katari's Soul Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7112,11 +6603,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "隠神語りの魂レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 234,
@@ -7129,12 +6616,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "Common Four-Soul Monster Recipe",
+        "name": "四魂怪異共通レシピ<EN>Common Four-Soul Monster Recipe",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7142,11 +6629,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "四魂怪異共通レシピ",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 235,
@@ -7159,12 +6642,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "High Difficulty Recipe 1",
+        "name": "高難易度レシピ１<EN>High Difficulty Recipe 1",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7172,11 +6655,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "高難易度レシピ１",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 236,
@@ -7189,12 +6668,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "For display.",
+        "description": "表示用。<EN>For display.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "High Difficulty Recipe 2",
+        "name": "高難易度レシピ２<EN>High Difficulty Recipe 2",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -7202,11 +6681,7 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0,
-        "_original": {
-            "name": "高難易度レシピ２",
-            "description": "表示用。"
-        }
+        "tpGain": 0
     },
     {
         "id": 237,

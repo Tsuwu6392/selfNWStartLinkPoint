@@ -6,13 +6,13 @@
         "chanceByDamage": 100,
         "iconIndex": 1,
         "maxTurns": 1,
-        "message1": "%1 has fallen!",
-        "message2": "%1 was defeated!",
+        "message1": "%1は倒れた！<EN>%1 has fallen!",
+        "message2": "%1を倒した！<EN>%1 was defeated!",
         "message3": "",
-        "message4": "%1 stood up!",
+        "message4": "%1は立ち上がった！<EN>%1 stood up!",
         "minTurns": 1,
         "motion": 3,
-        "name": "Unable to fight",
+        "name": "戦闘不能<EN>Unable to fight",
         "note": "ステート1番はHP0のときに付加されます。",
         "overlay": 0,
         "priority": 100,
@@ -30,13 +30,7 @@
                 "value": 0
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "戦闘不能",
-            "message1": "%1は倒れた！",
-            "message2": "%1を倒した！",
-            "message4": "%1は立ち上がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 2,
@@ -50,7 +44,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Defense",
+        "name": "防御<EN>Defense",
         "note": "",
         "overlay": 0,
         "priority": 0,
@@ -67,10 +61,7 @@
                 "value": 0
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "防御"
-        }
+        "messageType": 1
     },
     {
         "id": 3,
@@ -84,7 +75,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Boss defeat control",
+        "name": "ボスの消滅制御<EN>Boss defeat control",
         "note": "ボスの消滅制御",
         "overlay": 0,
         "priority": 0,
@@ -101,10 +92,7 @@
                 "value": 0
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "ボスの消滅制御"
-        }
+        "messageType": 1
     },
     {
         "id": 4,
@@ -112,14 +100,14 @@
         "chanceByDamage": 100,
         "iconIndex": 2,
         "maxTurns": 1,
-        "message1": "%1 was poisoned!",
-        "message2": "%1 was poisoned!",
+        "message1": "%1は毒に冒された！<EN>%1 was poisoned!",
+        "message2": "%1は毒に冒された！<EN>%1 was poisoned!",
         "message3": "",
-        "message4": "%1's poison wore off!",
+        "message4": "%1の毒が消えた！<EN>%1's poison wore off!",
         "minTurns": 1,
         "motion": 1,
         "overlay": 1,
-        "name": "Poison",
+        "name": "毒<EN>Poison",
         "note": "<HrgExValue:Math.min((b.luk) - (a.atk*2), -1)>",
         "priority": 50,
         "releaseByDamage": false,
@@ -130,13 +118,7 @@
         "restriction": 0,
         "stepsToRemove": 100,
         "traits": [],
-        "messageType": 1,
-        "_original": {
-            "name": "毒",
-            "message1": "%1は毒に冒された！",
-            "message2": "%1は毒に冒された！",
-            "message4": "%1の毒が消えた！"
-        }
+        "messageType": 1
     },
     {
         "id": 5,
@@ -144,14 +126,14 @@
         "chanceByDamage": 100,
         "iconIndex": 12,
         "maxTurns": 1,
-        "message1": "%1 became exhausted!",
-        "message2": "%1 became exhausted!",
+        "message1": "%1は困憊状態になった！<EN>%1 became exhausted!",
+        "message2": "%1は困憊状態になった！<EN>%1 became exhausted!",
         "message3": "",
-        "message4": "%1 regained energy!",
+        "message4": "%1は元気になった！<EN>%1 regained energy!",
         "minTurns": 1,
         "motion": 1,
         "overlay": 1,
-        "name": "Exhausted",
+        "name": "困憊<EN>Exhausted",
         "note": "",
         "priority": 50,
         "releaseByDamage": false,
@@ -168,13 +150,7 @@
                 "value": -0.1
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "困憊",
-            "message1": "%1は困憊状態になった！",
-            "message2": "%1は困憊状態になった！",
-            "message4": "%1は元気になった！"
-        }
+        "messageType": 1
     },
     {
         "id": 6,
@@ -182,13 +158,13 @@
         "chanceByDamage": 100,
         "iconIndex": 15,
         "maxTurns": 5,
-        "message1": "%1 was shrouded in darkness!",
-        "message2": "Shrouded %1 in darkness!",
+        "message1": "%1は暗闇に閉ざされた！<EN>%1 was shrouded in darkness!",
+        "message2": "%1を暗闇に閉ざした！<EN>Shrouded %1 in darkness!",
         "message3": "",
-        "message4": "%1's darkness faded!",
+        "message4": "%1の暗闇が消えた！<EN>%1's darkness faded!",
         "minTurns": 3,
         "motion": 1,
-        "name": "Darkness",
+        "name": "暗闇<EN>Darkness",
         "note": "",
         "overlay": 2,
         "priority": 60,
@@ -206,13 +182,7 @@
                 "value": -0.75
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "暗闇",
-            "message1": "%1は暗闇に閉ざされた！",
-            "message2": "%1を暗闇に閉ざした！",
-            "message4": "%1の暗闇が消えた！"
-        }
+        "messageType": 1
     },
     {
         "id": 7,
@@ -220,13 +190,13 @@
         "chanceByDamage": 100,
         "iconIndex": 14,
         "maxTurns": 8,
-        "message1": "%1 has forgotten a skill!",
-        "message2": "%1 has been made to forget a skill!",
+        "message1": "%1はスキルを忘れてしまった！<EN>%1 has forgotten a skill!",
+        "message2": "%1のスキルを忘れさせた！<EN>%1 has been made to forget a skill!",
         "message3": "",
-        "message4": "%1 has remembered a skill!",
+        "message4": "%1はスキルを思い出した！<EN>%1 has remembered a skill!",
         "minTurns": 5,
         "motion": 1,
-        "name": "Forget",
+        "name": "忘却<EN>Forget",
         "note": "",
         "overlay": 3,
         "priority": 61,
@@ -244,13 +214,7 @@
                 "value": 0
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "忘却",
-            "message1": "%1はスキルを忘れてしまった！",
-            "message2": "%1のスキルを忘れさせた！",
-            "message4": "%1はスキルを思い出した！"
-        }
+        "messageType": 1
     },
     {
         "id": 8,
@@ -258,13 +222,13 @@
         "chanceByDamage": 30,
         "iconIndex": 6,
         "maxTurns": 3,
-        "message1": "%1 is confused!",
-        "message2": "Confused %1!",
+        "message1": "%1は混乱した！<EN>%1 is confused!",
+        "message2": "%1を混乱させた！<EN>Confused %1!",
         "message3": "",
-        "message4": "%1 snaps out of it!",
+        "message4": "%1は我に返った！<EN>%1 snaps out of it!",
         "minTurns": 2,
         "motion": 1,
-        "name": "Confusion",
+        "name": "混乱<EN>Confusion",
         "note": "",
         "overlay": 5,
         "priority": 80,
@@ -276,13 +240,7 @@
         "restriction": 2,
         "stepsToRemove": 100,
         "traits": [],
-        "messageType": 1,
-        "_original": {
-            "name": "混乱",
-            "message1": "%1は混乱した！",
-            "message2": "%1を混乱させた！",
-            "message4": "%1は我に返った！"
-        }
+        "messageType": 1
     },
     {
         "id": 9,
@@ -290,13 +248,13 @@
         "chanceByDamage": 100,
         "iconIndex": 8,
         "maxTurns": 4,
-        "message1": "%1 fell asleep!",
-        "message2": "%1 was put to sleep!",
-        "message3": "%1 is sleeping...",
-        "message4": "%1 woke up!",
+        "message1": "%1は眠った！<EN>%1 fell asleep!",
+        "message2": "%1を眠らせた！<EN>%1 was put to sleep!",
+        "message3": "%1は眠っている……<EN>%1 is sleeping...",
+        "message4": "%1は目を覚ました！<EN>%1 woke up!",
         "minTurns": 3,
         "motion": 2,
-        "name": "Sleep",
+        "name": "睡眠<EN>Sleep",
         "note": "",
         "overlay": 7,
         "priority": 90,
@@ -329,14 +287,7 @@
                 "value": 2
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "睡眠",
-            "message1": "%1は眠った！",
-            "message2": "%1を眠らせた！",
-            "message3": "%1は眠っている……",
-            "message4": "%1は目を覚ました！"
-        }
+        "messageType": 1
     },
     {
         "id": 10,
@@ -361,13 +312,13 @@
         ],
         "iconIndex": 9,
         "maxTurns": 5,
-        "message1": "%1 is paralyzed and cannot move!",
-        "message2": "Paralyzed %1!",
-        "message3": "%1's body is paralyzed and cannot move!",
-        "message4": "%1's paralysis is cured!",
+        "message1": "%1は痺れて動けなくなった！<EN>%1 is paralyzed and cannot move!",
+        "message2": "%1を麻痺させた！<EN>Paralyzed %1!",
+        "message3": "%1は身体が痺れて動けない！<EN>%1's body is paralyzed and cannot move!",
+        "message4": "%1の麻痺が解けた！<EN>%1's paralysis is cured!",
         "minTurns": 4,
         "motion": 2,
-        "name": "Paralysis",
+        "name": "麻痺<EN>Paralysis",
         "note": "",
         "overlay": 8,
         "priority": 95,
@@ -377,14 +328,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "麻痺",
-            "message1": "%1は痺れて動けなくなった！",
-            "message2": "%1を麻痺させた！",
-            "message3": "%1は身体が痺れて動けない！",
-            "message4": "%1の麻痺が解けた！"
-        }
+        "messageType": 1
     },
     {
         "id": 11,
@@ -399,13 +343,13 @@
         ],
         "iconIndex": 13,
         "maxTurns": 2,
-        "message1": "%1 lost their balance!",
-        "message2": "%1 lost their balance!",
-        "message3": "%1 is off balance...",
-        "message4": "%1 regained their footing!",
+        "message1": "%1はバランスを崩した！<EN>%1 lost their balance!",
+        "message2": "%1はバランスを崩した！<EN>%1 lost their balance!",
+        "message3": "%1はバランスを崩している……<EN>%1 is off balance...",
+        "message4": "%1は体勢を立て直した！<EN>%1 regained their footing!",
         "minTurns": 1,
         "motion": 1,
-        "name": "Thud!",
+        "name": "スタン<EN>Thud!",
         "note": "",
         "overlay": 0,
         "priority": 90,
@@ -415,14 +359,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "スタン",
-            "message1": "%1はバランスを崩した！",
-            "message2": "%1はバランスを崩した！",
-            "message3": "%1はバランスを崩している……",
-            "message4": "%1は体勢を立て直した！"
-        }
+        "messageType": 1
     },
     {
         "id": 12,
@@ -462,13 +399,13 @@
         ],
         "iconIndex": 32,
         "maxTurns": 5,
-        "message1": "%1%2's Max HP increased!",
-        "message2": "%1%2's Max HP increased!",
+        "message1": "%1%2の最大HPが高まった！<EN>%1%2's Max HP increased!",
+        "message2": "%1%2の最大HPが高まった！<EN>%1%2's Max HP increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Max HP Up",
+        "name": "最大HPUP<EN>Max HP Up",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -478,12 +415,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大HPUP",
-            "message1": "%1%2の最大HPが高まった！",
-            "message2": "%1%2の最大HPが高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 14,
@@ -503,13 +435,13 @@
         ],
         "iconIndex": 40,
         "maxTurns": 5,
-        "message1": "%1%2's Max HP has greatly increased!",
-        "message2": "%1%2's Max HP has greatly increased!",
+        "message1": "%1%2の最大HPが大きく高まった！<EN>%1%2's Max HP has greatly increased!",
+        "message2": "%1%2の最大HPが大きく高まった！<EN>%1%2's Max HP has greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Max HP Greatly Increased",
+        "name": "最大HP大UP<EN>Max HP Greatly Increased",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -519,12 +451,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大HP大UP",
-            "message1": "%1%2の最大HPが大きく高まった！",
-            "message2": "%1%2の最大HPが大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 15,
@@ -539,13 +466,13 @@
         ],
         "iconIndex": 33,
         "maxTurns": 5,
-        "message1": "%1%2's max SP increased!",
-        "message2": "%1%2's max SP increased!",
+        "message1": "%1%2の最大SPが高まった！<EN>%1%2's max SP increased!",
+        "message2": "%1%2の最大SPが高まった！<EN>%1%2's max SP increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Max SP UP",
+        "name": "最大SPUP<EN>Max SP UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -555,12 +482,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大SPUP",
-            "message1": "%1%2の最大SPが高まった！",
-            "message2": "%1%2の最大SPが高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 16,
@@ -580,13 +502,13 @@
         ],
         "iconIndex": 41,
         "maxTurns": 5,
-        "message1": "%1%2's max SP has greatly increased!",
-        "message2": "%1%2's max SP has greatly increased!",
+        "message1": "%1%2の最大SPが大きく高まった！<EN>%1%2's max SP has greatly increased!",
+        "message2": "%1%2の最大SPが大きく高まった！<EN>%1%2's max SP has greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Max SP greatly increased",
+        "name": "最大SP大UP<EN>Max SP greatly increased",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -596,12 +518,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大SP大UP",
-            "message1": "%1%2の最大SPが大きく高まった！",
-            "message2": "%1%2の最大SPが大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 17,
@@ -616,13 +533,13 @@
         ],
         "iconIndex": 34,
         "maxTurns": 5,
-        "message1": "%1%2's Attack increased!",
-        "message2": "%1%2's Attack increased!",
+        "message1": "%1%2の攻撃力が高まった！<EN>%1%2's Attack increased!",
+        "message2": "%1%2の攻撃力が高まった！<EN>%1%2's Attack increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Attack Up",
+        "name": "攻撃力UP<EN>Attack Up",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -632,12 +549,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "攻撃力UP",
-            "message1": "%1%2の攻撃力が高まった！",
-            "message2": "%1%2の攻撃力が高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 18,
@@ -657,13 +569,13 @@
         ],
         "iconIndex": 42,
         "maxTurns": 5,
-        "message1": "%1%2's attack power greatly increased!",
-        "message2": "%1%2's attack power greatly increased!",
+        "message1": "%1%2の攻撃力が大きく高まった！<EN>%1%2's attack power greatly increased!",
+        "message2": "%1%2の攻撃力が大きく高まった！<EN>%1%2's attack power greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Attack power greatly increased!",
+        "name": "攻撃力大UP<EN>Attack power greatly increased!",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -673,12 +585,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "攻撃力大UP",
-            "message1": "%1%2の攻撃力が大きく高まった！",
-            "message2": "%1%2の攻撃力が大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 19,
@@ -693,13 +600,13 @@
         ],
         "iconIndex": 35,
         "maxTurns": 5,
-        "message1": "%1%2's defense increased!",
-        "message2": "%1%2's defense increased!",
+        "message1": "%1%2の防御力が高まった！<EN>%1%2's defense increased!",
+        "message2": "%1%2の防御力が高まった！<EN>%1%2's defense increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Defense UP",
+        "name": "防御力UP<EN>Defense UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -709,12 +616,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "防御力UP",
-            "message1": "%1%2の防御力が高まった！",
-            "message2": "%1%2の防御力が高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 20,
@@ -734,13 +636,13 @@
         ],
         "iconIndex": 43,
         "maxTurns": 5,
-        "message1": "%1%2's defense has greatly increased!",
-        "message2": "%1%2's defense has greatly increased!",
+        "message1": "%1%2の防御力が大きく高まった！<EN>%1%2's defense has greatly increased!",
+        "message2": "%1%2の防御力が大きく高まった！<EN>%1%2's defense has greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Defense greatly UP",
+        "name": "防御力大UP<EN>Defense greatly UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -750,12 +652,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "防御力大UP",
-            "message1": "%1%2の防御力が大きく高まった！",
-            "message2": "%1%2の防御力が大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 21,
@@ -770,13 +667,13 @@
         ],
         "iconIndex": 36,
         "maxTurns": 5,
-        "message1": "%1%2's Magic Attack increased!",
-        "message2": "%1%2's Magic Attack increased!",
+        "message1": "%1%2の魔攻力が高まった！<EN>%1%2's Magic Attack increased!",
+        "message2": "%1%2の魔攻力が高まった！<EN>%1%2's Magic Attack increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Magic Attack UP",
+        "name": "魔攻力UP<EN>Magic Attack UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -786,12 +683,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔攻力UP",
-            "message1": "%1%2の魔攻力が高まった！",
-            "message2": "%1%2の魔攻力が高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 22,
@@ -811,13 +703,13 @@
         ],
         "iconIndex": 44,
         "maxTurns": 5,
-        "message1": "%1%2's Magic Attack Power has greatly increased!",
-        "message2": "%1%2's Magic Attack Power has greatly increased!",
+        "message1": "%1%2の魔攻力が大きく高まった！<EN>%1%2's Magic Attack Power has greatly increased!",
+        "message2": "%1%2の魔攻力が大きく高まった！<EN>%1%2's Magic Attack Power has greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Magic Attack Power UP (Large)",
+        "name": "魔攻力大UP<EN>Magic Attack Power UP (Large)",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -827,12 +719,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔攻力大UP",
-            "message1": "%1%2の魔攻力が大きく高まった！",
-            "message2": "%1%2の魔攻力が大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 23,
@@ -847,13 +734,13 @@
         ],
         "iconIndex": 37,
         "maxTurns": 5,
-        "message1": "%1%2's Magic Defense increased!",
-        "message2": "%1%2's Magic Defense increased!",
+        "message1": "%1%2の魔防力が高まった！<EN>%1%2's Magic Defense increased!",
+        "message2": "%1%2の魔防力が高まった！<EN>%1%2's Magic Defense increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Magic Defense UP",
+        "name": "魔防力UP<EN>Magic Defense UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -863,12 +750,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔防力UP",
-            "message1": "%1%2の魔防力が高まった！",
-            "message2": "%1%2の魔防力が高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 24,
@@ -888,13 +770,13 @@
         ],
         "iconIndex": 45,
         "maxTurns": 5,
-        "message1": "%1%2's magic defense has greatly increased!",
-        "message2": "%1%2's magic defense has greatly increased!",
+        "message1": "%1%2の魔防力が大きく高まった！<EN>%1%2's magic defense has greatly increased!",
+        "message2": "%1%2の魔防力が大きく高まった！<EN>%1%2's magic defense has greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Magic Defense greatly increased",
+        "name": "魔防力大UP<EN>Magic Defense greatly increased",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -904,12 +786,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔防力大UP",
-            "message1": "%1%2の魔防力が大きく高まった！",
-            "message2": "%1%2の魔防力が大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 25,
@@ -924,13 +801,13 @@
         ],
         "iconIndex": 38,
         "maxTurns": 5,
-        "message1": "%1%2's Speed increased!",
-        "message2": "%1%2's Speed increased!",
+        "message1": "%1%2の素早さが高まった！<EN>%1%2's Speed increased!",
+        "message2": "%1%2の素早さが高まった！<EN>%1%2's Speed increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Speed UP",
+        "name": "素早さUP<EN>Speed UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -940,12 +817,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "素早さUP",
-            "message1": "%1%2の素早さが高まった！",
-            "message2": "%1%2の素早さが高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 26,
@@ -965,13 +837,13 @@
         ],
         "iconIndex": 46,
         "maxTurns": 5,
-        "message1": "%1%2's Agility greatly increased!",
-        "message2": "%1%2's Agility greatly increased!",
+        "message1": "%1%2の素早さが大きく高まった！<EN>%1%2's Agility greatly increased!",
+        "message2": "%1%2の素早さが大きく高まった！<EN>%1%2's Agility greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Greatly raises Agility.",
+        "name": "素早さ大UP<EN>Greatly raises Agility.",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -981,12 +853,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "素早さ大UP",
-            "message1": "%1%2の素早さが大きく高まった！",
-            "message2": "%1%2の素早さが大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 27,
@@ -1001,13 +868,13 @@
         ],
         "iconIndex": 39,
         "maxTurns": 5,
-        "message1": "%1%2's spirit has increased!",
-        "message2": "%1%2's spirit has increased!",
+        "message1": "%1%2の心気が高まった！<EN>%1%2's spirit has increased!",
+        "message2": "%1%2の心気が高まった！<EN>%1%2's spirit has increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Spirit Up",
+        "name": "心気UP<EN>Spirit Up",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1017,12 +884,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "心気UP",
-            "message1": "%1%2の心気が高まった！",
-            "message2": "%1%2の心気が高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 28,
@@ -1042,13 +904,13 @@
         ],
         "iconIndex": 47,
         "maxTurns": 5,
-        "message1": "%1%2's spirit greatly increased!",
-        "message2": "%1%2's spirit greatly increased!",
+        "message1": "%1%2の心気が大きく高まった！<EN>%1%2's spirit greatly increased!",
+        "message2": "%1%2の心気が大きく高まった！<EN>%1%2's spirit greatly increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Spirit greatly increased!",
+        "name": "心気大UP<EN>Spirit greatly increased!",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1058,12 +920,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "心気大UP",
-            "message1": "%1%2の心気が大きく高まった！",
-            "message2": "%1%2の心気が大きく高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 29,
@@ -1103,13 +960,13 @@
         ],
         "iconIndex": 48,
         "maxTurns": 3,
-        "message1": "%1%2's max HP decreased!",
-        "message2": "%1%2's max HP decreased!",
+        "message1": "%1%2の最大HPが下がった！<EN>%1%2's max HP decreased!",
+        "message2": "%1%2の最大HPが下がった！<EN>%1%2's max HP decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Max HP DOWN",
+        "name": "最大HPDOWN<EN>Max HP DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1119,12 +976,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大HPDOWN",
-            "message1": "%1%2の最大HPが下がった！",
-            "message2": "%1%2の最大HPが下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 31,
@@ -1144,13 +996,13 @@
         ],
         "iconIndex": 56,
         "maxTurns": 3,
-        "message1": "%1%2's Max HP has drastically decreased!",
-        "message2": "%1%2's Max HP has drastically decreased!",
+        "message1": "%1%2の最大HPが大きく下がった！<EN>%1%2's Max HP has drastically decreased!",
+        "message2": "%1%2の最大HPが大きく下がった！<EN>%1%2's Max HP has drastically decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Max HP drastically decreased",
+        "name": "最大HP大DOWN<EN>Max HP drastically decreased",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1160,12 +1012,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大HP大DOWN",
-            "message1": "%1%2の最大HPが大きく下がった！",
-            "message2": "%1%2の最大HPが大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 32,
@@ -1180,13 +1027,13 @@
         ],
         "iconIndex": 49,
         "maxTurns": 3,
-        "message1": "%1%2's Max SP decreased!",
-        "message2": "%1%2's Max SP decreased!",
+        "message1": "%1%2の最大SPが下がった！<EN>%1%2's Max SP decreased!",
+        "message2": "%1%2の最大SPが下がった！<EN>%1%2's Max SP decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Max SP Down",
+        "name": "最大SPDOWN<EN>Max SP Down",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1196,12 +1043,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大SPDOWN",
-            "message1": "%1%2の最大SPが下がった！",
-            "message2": "%1%2の最大SPが下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 33,
@@ -1221,13 +1063,13 @@
         ],
         "iconIndex": 57,
         "maxTurns": 3,
-        "message1": "%1%2's max SP has greatly decreased!",
-        "message2": "%1%2's max SP has greatly decreased!",
+        "message1": "%1%2の最大SPが大きく下がった！<EN>%1%2's max SP has greatly decreased!",
+        "message2": "%1%2の最大SPが大きく下がった！<EN>%1%2's max SP has greatly decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Max SP Large DOWN",
+        "name": "最大SP大DOWN<EN>Max SP Large DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1237,12 +1079,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "最大SP大DOWN",
-            "message1": "%1%2の最大SPが大きく下がった！",
-            "message2": "%1%2の最大SPが大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 34,
@@ -1257,13 +1094,13 @@
         ],
         "iconIndex": 50,
         "maxTurns": 3,
-        "message1": "%1%2's attack decreased!",
-        "message2": "%1%2's attack decreased!",
+        "message1": "%1%2の攻撃力が下がった！<EN>%1%2's attack decreased!",
+        "message2": "%1%2の攻撃力が下がった！<EN>%1%2's attack decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Attack DOWN",
+        "name": "攻撃力DOWN<EN>Attack DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1273,12 +1110,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "攻撃力DOWN",
-            "message1": "%1%2の攻撃力が下がった！",
-            "message2": "%1%2の攻撃力が下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 35,
@@ -1298,13 +1130,13 @@
         ],
         "iconIndex": 58,
         "maxTurns": 3,
-        "message1": "%1%2's Attack dropped significantly!",
-        "message2": "%1%2's Attack dropped significantly!",
+        "message1": "%1%2の攻撃力が大きく下がった！<EN>%1%2's Attack dropped significantly!",
+        "message2": "%1%2の攻撃力が大きく下がった！<EN>%1%2's Attack dropped significantly!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Attack greatly DOWN",
+        "name": "攻撃力大DOWN<EN>Attack greatly DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1314,12 +1146,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "攻撃力大DOWN",
-            "message1": "%1%2の攻撃力が大きく下がった！",
-            "message2": "%1%2の攻撃力が大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 36,
@@ -1334,13 +1161,13 @@
         ],
         "iconIndex": 51,
         "maxTurns": 3,
-        "message1": "%1%2's defense decreased!",
-        "message2": "%1%2's defense decreased!",
+        "message1": "%1%2の防御力が下がった！<EN>%1%2's defense decreased!",
+        "message2": "%1%2の防御力が下がった！<EN>%1%2's defense decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Defense DOWN",
+        "name": "防御力DOWN<EN>Defense DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1350,12 +1177,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "防御力DOWN",
-            "message1": "%1%2の防御力が下がった！",
-            "message2": "%1%2の防御力が下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 37,
@@ -1375,13 +1197,13 @@
         ],
         "iconIndex": 59,
         "maxTurns": 3,
-        "message1": "%1%2's defense has been greatly reduced!",
-        "message2": "%1%2's defense has been greatly reduced!",
+        "message1": "%1%2の防御力が大きく下がった！<EN>%1%2's defense has been greatly reduced!",
+        "message2": "%1%2の防御力が大きく下がった！<EN>%1%2's defense has been greatly reduced!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Defense greatly reduced",
+        "name": "防御力大DOWN<EN>Defense greatly reduced",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1391,12 +1213,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "防御力大DOWN",
-            "message1": "%1%2の防御力が大きく下がった！",
-            "message2": "%1%2の防御力が大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 38,
@@ -1411,13 +1228,13 @@
         ],
         "iconIndex": 52,
         "maxTurns": 3,
-        "message1": "%1%2's magic attack decreased!",
-        "message2": "%1%2's magic attack decreased!",
+        "message1": "%1%2の魔攻力が下がった！<EN>%1%2's magic attack decreased!",
+        "message2": "%1%2の魔攻力が下がった！<EN>%1%2's magic attack decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Magic Attack DOWN",
+        "name": "魔攻力DOWN<EN>Magic Attack DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1427,12 +1244,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔攻力DOWN",
-            "message1": "%1%2の魔攻力が下がった！",
-            "message2": "%1%2の魔攻力が下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 39,
@@ -1452,13 +1264,13 @@
         ],
         "iconIndex": 60,
         "maxTurns": 3,
-        "message1": "%1%2's Magic Attack power has decreased greatly!",
-        "message2": "%1%2's Magic Attack power has decreased greatly!",
+        "message1": "%1%2の魔攻力が大きく下がった！<EN>%1%2's Magic Attack power has decreased greatly!",
+        "message2": "%1%2の魔攻力が大きく下がった！<EN>%1%2's Magic Attack power has decreased greatly!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Magic Attack Power DOWN (Large)",
+        "name": "魔攻力大DOWN<EN>Magic Attack Power DOWN (Large)",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1468,12 +1280,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔攻力大DOWN",
-            "message1": "%1%2の魔攻力が大きく下がった！",
-            "message2": "%1%2の魔攻力が大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 40,
@@ -1488,13 +1295,13 @@
         ],
         "iconIndex": 53,
         "maxTurns": 3,
-        "message1": "%1%2's Magic Defense decreased!",
-        "message2": "%1%2's Magic Defense decreased!",
+        "message1": "%1%2の魔防力が下がった！<EN>%1%2's Magic Defense decreased!",
+        "message2": "%1%2の魔防力が下がった！<EN>%1%2's Magic Defense decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Magic Defense DOWN",
+        "name": "魔防力DOWN<EN>Magic Defense DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1504,12 +1311,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔防力DOWN",
-            "message1": "%1%2の魔防力が下がった！",
-            "message2": "%1%2の魔防力が下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 41,
@@ -1529,13 +1331,13 @@
         ],
         "iconIndex": 61,
         "maxTurns": 3,
-        "message1": "%1%2's magic defense has dropped significantly!",
-        "message2": "%1%2's magic defense has dropped significantly!",
+        "message1": "%1%2の魔防力が大きく下がった！<EN>%1%2's magic defense has dropped significantly!",
+        "message2": "%1%2の魔防力が大きく下がった！<EN>%1%2's magic defense has dropped significantly!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Magic Defense Large DOWN",
+        "name": "魔防力大DOWN<EN>Magic Defense Large DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1545,12 +1347,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔防力大DOWN",
-            "message1": "%1%2の魔防力が大きく下がった！",
-            "message2": "%1%2の魔防力が大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 42,
@@ -1565,13 +1362,13 @@
         ],
         "iconIndex": 54,
         "maxTurns": 3,
-        "message1": "%1%2's agility decreased!",
-        "message2": "%1%2's agility decreased!",
+        "message1": "%1%2の素早さが下がった！<EN>%1%2's agility decreased!",
+        "message2": "%1%2の素早さが下がった！<EN>%1%2's agility decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Agility DOWN",
+        "name": "素早さDOWN<EN>Agility DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1581,12 +1378,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "素早さDOWN",
-            "message1": "%1%2の素早さが下がった！",
-            "message2": "%1%2の素早さが下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 43,
@@ -1606,13 +1398,13 @@
         ],
         "iconIndex": 62,
         "maxTurns": 3,
-        "message1": "%1%2's agility has greatly decreased!",
-        "message2": "%1%2's agility has greatly decreased!",
+        "message1": "%1%2の素早さが大きく下がった！<EN>%1%2's agility has greatly decreased!",
+        "message2": "%1%2の素早さが大きく下がった！<EN>%1%2's agility has greatly decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Agility DOWN (Large)",
+        "name": "素早さ大DOWN<EN>Agility DOWN (Large)",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1622,12 +1414,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "素早さ大DOWN",
-            "message1": "%1%2の素早さが大きく下がった！",
-            "message2": "%1%2の素早さが大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 44,
@@ -1642,13 +1429,13 @@
         ],
         "iconIndex": 55,
         "maxTurns": 3,
-        "message1": "%1%2's spirit decreased!",
-        "message2": "%1%2's spirit decreased!",
+        "message1": "%1%2の心気が下がった！<EN>%1%2's spirit decreased!",
+        "message2": "%1%2の心気が下がった！<EN>%1%2's spirit decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Spirit DOWN",
+        "name": "心気DOWN<EN>Spirit DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1658,12 +1445,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "心気DOWN",
-            "message1": "%1%2の心気が下がった！",
-            "message2": "%1%2の心気が下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 45,
@@ -1683,13 +1465,13 @@
         ],
         "iconIndex": 63,
         "maxTurns": 3,
-        "message1": "%1%2's spirit has greatly decreased!",
-        "message2": "%1%2's spirit has greatly decreased!",
+        "message1": "%1%2の心気が大きく下がった！<EN>%1%2's spirit has greatly decreased!",
+        "message2": "%1%2の心気が大きく下がった！<EN>%1%2's spirit has greatly decreased!",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Spirit GREATLY DOWN",
+        "name": "心気大DOWN<EN>Spirit GREATLY DOWN",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1699,12 +1481,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "心気大DOWN",
-            "message1": "%1%2の心気が大きく下がった！",
-            "message2": "%1%2の心気が大きく下がった！"
-        }
+        "messageType": 1
     },
     {
         "id": 46,
@@ -1744,13 +1521,13 @@
         ],
         "iconIndex": 30,
         "maxTurns": 5,
-        "message1": "%1%2's Attack increased!",
-        "message2": "%1%2's Attack increased!",
+        "message1": "%1%2の攻撃力が高まった！<EN>%1%2's Attack increased!",
+        "message2": "%1%2の攻撃力が高まった！<EN>%1%2's Attack increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Critical Rate UP",
+        "name": "会心率UP<EN>Critical Rate UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1760,12 +1537,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "会心率UP",
-            "message1": "%1%2の攻撃力が高まった！",
-            "message2": "%1%2の攻撃力が高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 48,
@@ -1780,13 +1552,13 @@
         ],
         "iconIndex": 31,
         "maxTurns": 5,
-        "message1": "%1%2's attack power increased!",
-        "message2": "%1%2's attack power increased!",
+        "message1": "%1%2の攻撃力が高まった！<EN>%1%2's attack power increased!",
+        "message2": "%1%2の攻撃力が高まった！<EN>%1%2's attack power increased!",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Evasion Rate UP",
+        "name": "回避率UP<EN>Evasion Rate UP",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1796,12 +1568,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "回避率UP",
-            "message1": "%1%2の攻撃力が高まった！",
-            "message2": "%1%2の攻撃力が高まった！"
-        }
+        "messageType": 1
     },
     {
         "id": 49,
@@ -1822,7 +1589,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "HP Regeneration",
+        "name": "HP再生<EN>HP Regeneration",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1832,10 +1599,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "HP再生"
-        }
+        "messageType": 1
     },
     {
         "id": 50,
@@ -1856,7 +1620,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "SP Regen",
+        "name": "SP再生<EN>SP Regen",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1866,10 +1630,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "SP再生"
-        }
+        "messageType": 1
     },
     {
         "id": 51,
@@ -1904,13 +1665,13 @@
         ],
         "iconIndex": 357,
         "maxTurns": 5,
-        "message1": "%1 became easier to target!",
+        "message1": "%1は狙われやすくなった！<EN>%1 became easier to target!",
         "message2": "",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Provoke",
+        "name": "挑発<EN>Provoke",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1920,11 +1681,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "挑発",
-            "message1": "%1は狙われやすくなった！"
-        }
+        "messageType": 1
     },
     {
         "id": 52,
@@ -1939,13 +1696,13 @@
         ],
         "iconIndex": 358,
         "maxTurns": 5,
-        "message1": "%1 concealed themselves!",
+        "message1": "%1は姿を隠した！<EN>%1 concealed themselves!",
         "message2": "",
         "message3": "",
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Hide",
+        "name": "潜伏<EN>Hide",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1955,11 +1712,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "潜伏",
-            "message1": "%1は姿を隠した！"
-        }
+        "messageType": 1
     },
     {
         "id": 53,
@@ -1980,7 +1733,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "SP Cost 0",
+        "name": "SP消費0<EN>SP Cost 0",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -1990,10 +1743,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "SP消費0"
-        }
+        "messageType": 1
     },
     {
         "id": 54,
@@ -2018,13 +1768,13 @@
         ],
         "iconIndex": 432,
         "maxTurns": 2,
-        "message1": "%1 was restrained!",
-        "message2": "Restrained %1!",
-        "message3": "%1 is restrained and cannot move...",
-        "message4": "%1 broke free from the restraints!",
+        "message1": "%1は拘束された！<EN>%1 was restrained!",
+        "message2": "%1を拘束した！<EN>Restrained %1!",
+        "message3": "%1は拘束されて動けない……<EN>%1 is restrained and cannot move...",
+        "message4": "%1は拘束から抜け出した！<EN>%1 broke free from the restraints!",
         "minTurns": 2,
         "motion": 1,
-        "name": "Restraint",
+        "name": "拘束<EN>Restraint",
         "note": "",
         "overlay": 10,
         "priority": 90,
@@ -2034,14 +1784,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "拘束",
-            "message1": "%1は拘束された！",
-            "message2": "%1を拘束した！",
-            "message3": "%1は拘束されて動けない……",
-            "message4": "%1は拘束から抜け出した！"
-        }
+        "messageType": 1
     },
     {
         "id": 55,
@@ -2056,7 +1799,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Targeting the protagonist",
+        "name": "主人公狙い<EN>Targeting the protagonist",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2066,10 +1809,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "主人公狙い"
-        }
+        "messageType": 1
     },
     {
         "id": 56,
@@ -2090,7 +1830,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Nullifies physical attacks",
+        "name": "物理攻撃無効化<EN>Nullifies physical attacks",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2100,10 +1840,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "物理攻撃無効化"
-        }
+        "messageType": 1
     },
     {
         "id": 57,
@@ -2124,7 +1861,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Magic attack nullification.",
+        "name": "魔法攻撃無効化<EN>Magic attack nullification.",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2134,10 +1871,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔法攻撃無効化"
-        }
+        "messageType": 1
     },
     {
         "id": 58,
@@ -2158,7 +1892,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Critical hit rate 100%",
+        "name": "会心率100％<EN>Critical hit rate 100%",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2168,10 +1902,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "会心率100％"
-        }
+        "messageType": 1
     },
     {
         "id": 59,
@@ -2192,7 +1923,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Unavoidable",
+        "name": "回避不能<EN>Unavoidable",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2202,10 +1933,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "回避不能"
-        }
+        "messageType": 1
     },
     {
         "id": 60,
@@ -2226,7 +1954,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Fire Resistance",
+        "name": "炎耐性<EN>Fire Resistance",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2236,10 +1964,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "炎耐性"
-        }
+        "messageType": 1
     },
     {
         "id": 61,
@@ -2460,7 +2185,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Fire Weakness",
+        "name": "炎弱化<EN>Fire Weakness",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2470,10 +2195,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "炎弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 70,
@@ -2494,7 +2216,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Thunder Weakness",
+        "name": "雷弱化<EN>Thunder Weakness",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2504,10 +2226,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "雷弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 71,
@@ -2528,7 +2247,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Ice Weakness",
+        "name": "氷弱化<EN>Ice Weakness",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2538,10 +2257,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "氷弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 72,
@@ -2562,7 +2278,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Weakness to Water",
+        "name": "水弱化<EN>Weakness to Water",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2572,10 +2288,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "水弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 73,
@@ -2596,7 +2309,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Earth Weakness",
+        "name": "地弱化<EN>Earth Weakness",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2606,10 +2319,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "地弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 74,
@@ -2630,7 +2340,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Wind Weakness",
+        "name": "風弱化<EN>Wind Weakness",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2640,10 +2350,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "風弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 75,
@@ -2664,7 +2371,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Light Weakening",
+        "name": "光弱化<EN>Light Weakening",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2674,10 +2381,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "光弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 76,
@@ -2698,7 +2402,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Dark Weakness",
+        "name": "闇弱化<EN>Dark Weakness",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2708,10 +2412,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "闇弱化"
-        }
+        "messageType": 1
     },
     {
         "id": 77,
@@ -2762,7 +2463,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Wide Block",
+        "name": "ワイドブロック<EN>Wide Block",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2772,10 +2473,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ワイドブロック"
-        }
+        "messageType": 1
     },
     {
         "id": 79,
@@ -2801,7 +2499,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Ironworks",
+        "name": "アイアンワーク<EN>Ironworks",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2811,10 +2509,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "アイアンワーク"
-        }
+        "messageType": 1
     },
     {
         "id": 80,
@@ -2875,7 +2570,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Status Ailment Nullification",
+        "name": "状態異常無効化<EN>Status Ailment Nullification",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2885,10 +2580,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "状態異常無効化"
-        }
+        "messageType": 1
     },
     {
         "id": 81,
@@ -2909,7 +2601,7 @@
         "message4": "",
         "minTurns": 6,
         "motion": 0,
-        "name": "Restraint Nullification State",
+        "name": "拘束無効化状態<EN>Restraint Nullification State",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2919,10 +2611,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "拘束無効化状態"
-        }
+        "messageType": 1
     },
     {
         "id": 82,
@@ -2968,7 +2657,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Action Count +1",
+        "name": "行動回数+1<EN>Action Count +1",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -2978,10 +2667,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "行動回数+1"
-        }
+        "messageType": 1
     },
     {
         "id": 84,
@@ -3007,7 +2693,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Action count +2",
+        "name": "行動回数+2<EN>Action count +2",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3017,10 +2703,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "行動回数+2"
-        }
+        "messageType": 1
     },
     {
         "id": 85,
@@ -3066,7 +2749,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "HP Recovery",
+        "name": "HP回復<EN>HP Recovery",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 0,
@@ -3076,10 +2759,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "HP回復"
-        }
+        "messageType": 1
     },
     {
         "id": 87,
@@ -3130,7 +2810,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Absolute Evasion",
+        "name": "絶対回避<EN>Absolute Evasion",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3140,10 +2820,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "絶対回避"
-        }
+        "messageType": 1
     },
     {
         "id": 89,
@@ -3189,7 +2866,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Magic Defense 0",
+        "name": "魔防力0<EN>Magic Defense 0",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3199,10 +2876,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔防力0"
-        }
+        "messageType": 1
     },
     {
         "id": 91,
@@ -3223,7 +2897,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Divine Possession used",
+        "name": "神懸かり使用済み<EN>Divine Possession used",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -3233,10 +2907,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "神懸かり使用済み"
-        }
+        "messageType": 1
     },
     {
         "id": 92,
@@ -3257,7 +2928,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Shadow Art",
+        "name": "影の術<EN>Shadow Art",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3267,10 +2938,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "影の術"
-        }
+        "messageType": 1
     },
     {
         "id": 93,
@@ -3296,7 +2964,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Stalemate",
+        "name": "ステイルメイト<EN>Stalemate",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3306,10 +2974,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ステイルメイト"
-        }
+        "messageType": 1
     },
     {
         "id": 94,
@@ -3330,7 +2995,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Defensive Stance",
+        "name": "防御態勢<EN>Defensive Stance",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3340,10 +3005,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "防御態勢"
-        }
+        "messageType": 1
     },
     {
         "id": 95,
@@ -3364,7 +3026,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Speed 0",
+        "name": "素早さ0<EN>Speed 0",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3374,10 +3036,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "素早さ0"
-        }
+        "messageType": 1
     },
     {
         "id": 96,
@@ -3398,7 +3057,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Substitute",
+        "name": "身代わり<EN>Substitute",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 0,
@@ -3408,10 +3067,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "身代わり"
-        }
+        "messageType": 1
     },
     {
         "id": 97,
@@ -3432,7 +3088,7 @@
         "message4": "",
         "minTurns": 6,
         "motion": 0,
-        "name": "Immobility Resistance",
+        "name": "行動不能耐性<EN>Immobility Resistance",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3442,10 +3098,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "行動不能耐性"
-        }
+        "messageType": 1
     },
     {
         "id": 98,
@@ -3491,7 +3144,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "★ Casual Difficulty",
+        "name": "★カジュアル難易度<EN>★ Casual Difficulty",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 0,
@@ -3501,10 +3154,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "★カジュアル難易度"
-        }
+        "messageType": 1
     },
     {
         "id": 99,
@@ -3544,7 +3194,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "▼Unique States",
+        "name": "▼固有ステート<EN>▼Unique States",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3554,10 +3204,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "▼固有ステート"
-        }
+        "messageType": 1
     },
     {
         "id": 101,
@@ -3588,7 +3235,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Crimson Cup",
+        "name": "朱ノ盃<EN>Crimson Cup",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3598,10 +3245,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "朱ノ盃"
-        }
+        "messageType": 1
     },
     {
         "id": 102,
@@ -3627,7 +3271,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Attack Boost",
+        "name": "攻撃強化<EN>Attack Boost",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3637,10 +3281,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "攻撃強化"
-        }
+        "messageType": 1
     },
     {
         "id": 103,
@@ -3661,7 +3302,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Gale",
+        "name": "疾風<EN>Gale",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -3671,10 +3312,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "疾風"
-        }
+        "messageType": 1
     },
     {
         "id": 104,
@@ -3695,7 +3333,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Rally (Passive)",
+        "name": "起死回生（パッシブ）<EN>Rally (Passive)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -3705,10 +3343,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "起死回生（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 105,
@@ -3754,7 +3389,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Pawn I",
+        "name": "ポーンⅠ<EN>Pawn I",
         "note": "<pawn>",
         "overlay": 0,
         "priority": 50,
@@ -3764,10 +3399,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ポーンⅠ"
-        }
+        "messageType": 1
     },
     {
         "id": 107,
@@ -3793,7 +3425,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Pawn II",
+        "name": "ポーンⅡ<EN>Pawn II",
         "note": "<pawn>",
         "overlay": 0,
         "priority": 50,
@@ -3803,10 +3435,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ポーンⅡ"
-        }
+        "messageType": 1
     },
     {
         "id": 108,
@@ -3832,7 +3461,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Pawn III",
+        "name": "ポーンⅢ<EN>Pawn III",
         "note": "<pawn>",
         "overlay": 0,
         "priority": 50,
@@ -3842,10 +3471,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ポーンⅢ"
-        }
+        "messageType": 1
     },
     {
         "id": 109,
@@ -3871,7 +3497,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Pawn IV",
+        "name": "ポーンⅣ<EN>Pawn IV",
         "note": "<pawn>",
         "overlay": 0,
         "priority": 50,
@@ -3881,10 +3507,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ポーンⅣ"
-        }
+        "messageType": 1
     },
     {
         "id": 110,
@@ -3899,7 +3522,7 @@
         "message4": "",
         "minTurns": 6,
         "motion": 0,
-        "name": "Knight",
+        "name": "ナイト<EN>Knight",
         "note": "<AtkEx:a.def * 0.5>",
         "overlay": 0,
         "priority": 50,
@@ -3909,10 +3532,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ナイト"
-        }
+        "messageType": 1
     },
     {
         "id": 111,
@@ -3938,7 +3558,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Luke",
+        "name": "ルーク<EN>Luke",
         "note": "<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -3948,10 +3568,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ルーク"
-        }
+        "messageType": 1
     },
     {
         "id": 112,
@@ -4032,7 +3649,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "Queen",
+        "name": "クイーン<EN>Queen",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4042,10 +3659,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "クイーン"
-        }
+        "messageType": 1
     },
     {
         "id": 113,
@@ -4060,7 +3674,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Protection",
+        "name": "防護<EN>Protection",
         "note": "<SE_身代わり対象者:1>",
         "overlay": 0,
         "priority": 50,
@@ -4070,10 +3684,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "防護"
-        }
+        "messageType": 1
     },
     {
         "id": 114,
@@ -4088,7 +3699,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Discovered",
+        "name": "ディスカバード<EN>Discovered",
         "note": "<NoPopUp>\n<反撃拡張:ディスカバード>",
         "overlay": 0,
         "priority": 50,
@@ -4098,10 +3709,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ディスカバード"
-        }
+        "messageType": 1
     },
     {
         "id": 115,
@@ -4127,7 +3735,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Time of Endurance (Passive)",
+        "name": "耐え忍ぶ時（パッシブ）<EN>Time of Endurance (Passive)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -4137,10 +3745,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "耐え忍ぶ時（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 116,
@@ -4191,7 +3796,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Magic Power",
+        "name": "法力<EN>Magic Power",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4201,10 +3806,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "法力"
-        }
+        "messageType": 1
     },
     {
         "id": 118,
@@ -4230,7 +3832,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Single Prayer",
+        "name": "片合掌<EN>Single Prayer",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4240,10 +3842,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "片合掌"
-        }
+        "messageType": 1
     },
     {
         "id": 119,
@@ -4269,7 +3868,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "All Is Void",
+        "name": "一切皆空<EN>All Is Void",
         "note": "<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -4279,10 +3878,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "一切皆空"
-        }
+        "messageType": 1
     },
     {
         "id": 120,
@@ -4303,7 +3899,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Thunder Magic",
+        "name": "雷法<EN>Thunder Magic",
         "note": "<BoostEX:EL, 3, 20>",
         "overlay": 0,
         "priority": 50,
@@ -4313,10 +3909,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "雷法"
-        }
+        "messageType": 1
     },
     {
         "id": 121,
@@ -4337,7 +3930,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Wind Magic",
+        "name": "風法<EN>Wind Magic",
         "note": "<BoostEX:EL, 7, 20>",
         "overlay": 0,
         "priority": 50,
@@ -4347,10 +3940,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "風法"
-        }
+        "messageType": 1
     },
     {
         "id": 122,
@@ -4371,7 +3961,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Light Magic",
+        "name": "光法<EN>Light Magic",
         "note": "<BoostEX:EL, 8, 20>",
         "overlay": 0,
         "priority": 50,
@@ -4381,10 +3971,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "光法"
-        }
+        "messageType": 1
     },
     {
         "id": 123,
@@ -4405,7 +3992,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Great Cat Enlightenment",
+        "name": "大猫縁覚<EN>Great Cat Enlightenment",
         "note": "<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -4415,10 +4002,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "大猫縁覚"
-        }
+        "messageType": 1
     },
     {
         "id": 124,
@@ -4469,7 +4053,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Protective Barrier",
+        "name": "保護膜<EN>Protective Barrier",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4479,10 +4063,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "保護膜"
-        }
+        "messageType": 1
     },
     {
         "id": 126,
@@ -4497,7 +4078,7 @@
         "minTurns": 5,
         "motion": 1,
         "overlay": 1,
-        "name": "Healing Support",
+        "name": "回復支援<EN>Healing Support",
         "note": "<ST_全体化>",
         "priority": 50,
         "releaseByDamage": false,
@@ -4514,10 +4095,7 @@
                 "value": 0.15
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "回復支援"
-        }
+        "messageType": 1
     },
     {
         "id": 127,
@@ -4553,7 +4131,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Battle Start",
+        "name": "戦闘展開<EN>Battle Start",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4563,10 +4141,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "戦闘展開"
-        }
+        "messageType": 1
     },
     {
         "id": 128,
@@ -4581,7 +4156,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Acceleration",
+        "name": "加速<EN>Acceleration",
         "note": "<SPRevision:T,1,2>",
         "overlay": 0,
         "priority": 50,
@@ -4591,10 +4166,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "加速"
-        }
+        "messageType": 1
     },
     {
         "id": 129,
@@ -4620,7 +4192,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Overwork",
+        "name": "過重労働<EN>Overwork",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4630,10 +4202,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "過重労働"
-        }
+        "messageType": 1
     },
     {
         "id": 130,
@@ -4659,7 +4228,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Enthusiasm",
+        "name": "はりきり<EN>Enthusiasm",
         "note": "<AddNoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -4669,10 +4238,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "はりきり"
-        }
+        "messageType": 1
     },
     {
         "id": 131,
@@ -4703,7 +4269,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "I can't take it anymore.",
+        "name": "もうだめ<EN>I can't take it anymore.",
         "note": "<AddNoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -4713,10 +4279,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "もうだめ"
-        }
+        "messageType": 1
     },
     {
         "id": 132,
@@ -4742,7 +4305,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Stress Relief (Passive)",
+        "name": "ストレス発散（パッシブ）<EN>Stress Relief (Passive)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -4752,10 +4315,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ストレス発散（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 133,
@@ -4806,7 +4366,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Night's Gloom",
+        "name": "夜陰<EN>Night's Gloom",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4816,10 +4376,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "夜陰"
-        }
+        "messageType": 1
     },
     {
         "id": 135,
@@ -4859,13 +4416,13 @@
         ],
         "iconIndex": 496,
         "maxTurns": 3,
-        "message1": "%1 has become easier to target!",
+        "message1": "%1は狙われやすくなった！<EN>%1 has become easier to target!",
         "message2": "",
         "message3": "",
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Pitfall",
+        "name": "陥穽<EN>Pitfall",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -4875,11 +4432,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "陥穽",
-            "message1": "%1は狙われやすくなった！"
-        }
+        "messageType": 1
     },
     {
         "id": 136,
@@ -4894,7 +4447,7 @@
         "minTurns": 5,
         "motion": 1,
         "overlay": 1,
-        "name": "Miasma Smoke",
+        "name": "瘴煙<EN>Miasma Smoke",
         "note": "<HrgExValue:Math.min((b.def*1.6) - (a.atk*3.2), -1)>",
         "priority": 50,
         "releaseByDamage": false,
@@ -4911,10 +4464,7 @@
                 "value": -0.25
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "瘴煙"
-        }
+        "messageType": 1
     },
     {
         "id": 137,
@@ -4929,7 +4479,7 @@
         "minTurns": 6,
         "motion": 1,
         "overlay": 1,
-        "name": "Snakebite",
+        "name": "蛇咬傷<EN>Snakebite",
         "note": "<HrgExValue:Math.min((b.def*1.4) - (a.atk*2.8), -1)>",
         "priority": 50,
         "releaseByDamage": false,
@@ -4951,10 +4501,7 @@
                 "value": 0.9
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "蛇咬傷"
-        }
+        "messageType": 1
     },
     {
         "id": 138,
@@ -4969,7 +4516,7 @@
         "minTurns": 7,
         "motion": 1,
         "overlay": 1,
-        "name": "Ice Damage",
+        "name": "氷傷<EN>Ice Damage",
         "note": "<HrgExValue:Math.min((b.def*2) - (a.atk*4), -1)>",
         "priority": 50,
         "releaseByDamage": false,
@@ -4980,10 +4527,7 @@
         "restriction": 0,
         "stepsToRemove": 100,
         "traits": [],
-        "messageType": 1,
-        "_original": {
-            "name": "氷傷"
-        }
+        "messageType": 1
     },
     {
         "id": 139,
@@ -4998,7 +4542,7 @@
         "minTurns": 1,
         "motion": 1,
         "overlay": 1,
-        "name": "Stab Wound",
+        "name": "刺傷<EN>Stab Wound",
         "note": "<HrgExValue:Math.min((b.def) - (a.atk*2), -1)>",
         "priority": 50,
         "releaseByDamage": false,
@@ -5009,10 +4553,7 @@
         "restriction": 0,
         "stepsToRemove": 100,
         "traits": [],
-        "messageType": 1,
-        "_original": {
-            "name": "刺傷"
-        }
+        "messageType": 1
     },
     {
         "id": 140,
@@ -5038,7 +4579,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Surprise Attack",
+        "name": "奇襲<EN>Surprise Attack",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5048,10 +4589,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "奇襲"
-        }
+        "messageType": 1
     },
     {
         "id": 141,
@@ -5077,7 +4615,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Empty Cicada",
+        "name": "空蝉<EN>Empty Cicada",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5087,10 +4625,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "空蝉"
-        }
+        "messageType": 1
     },
     {
         "id": 142,
@@ -5105,7 +4640,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Empty Shell released",
+        "name": "空蝉解除<EN>Empty Shell released",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5115,10 +4650,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "空蝉解除"
-        }
+        "messageType": 1
     },
     {
         "id": 143,
@@ -5139,7 +4671,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Flee (Passive)",
+        "name": "遁走（パッシブ）<EN>Flee (Passive)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -5149,10 +4681,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "遁走（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 144,
@@ -5198,7 +4727,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Strange Energy I",
+        "name": "怪気Ⅰ<EN>Strange Energy I",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5208,10 +4737,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "怪気Ⅰ"
-        }
+        "messageType": 1
     },
     {
         "id": 146,
@@ -5237,7 +4763,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Mysterious Qi II",
+        "name": "怪気Ⅱ<EN>Mysterious Qi II",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5247,10 +4773,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "怪気Ⅱ"
-        }
+        "messageType": 1
     },
     {
         "id": 147,
@@ -5281,7 +4804,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Strange Aura III",
+        "name": "怪気Ⅲ<EN>Strange Aura III",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5291,10 +4814,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "怪気Ⅲ"
-        }
+        "messageType": 1
     },
     {
         "id": 148,
@@ -5335,7 +4855,7 @@
         "message4": "",
         "minTurns": 6,
         "motion": 0,
-        "name": "Youri Transformation",
+        "name": "妖狸変化<EN>Youri Transformation",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5345,10 +4865,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "妖狸変化"
-        }
+        "messageType": 1
     },
     {
         "id": 149,
@@ -5379,7 +4896,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "Drunkenness",
+        "name": "酔気<EN>Drunkenness",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5389,10 +4906,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "酔気"
-        }
+        "messageType": 1
     },
     {
         "id": 150,
@@ -5428,7 +4942,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Drunken Afterglow",
+        "name": "酔気余韻<EN>Drunken Afterglow",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5438,10 +4952,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "酔気余韻"
-        }
+        "messageType": 1
     },
     {
         "id": 151,
@@ -5462,7 +4973,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Spirit Energy Leak",
+        "name": "妖力漏出<EN>Spirit Energy Leak",
         "note": "<ST_全体化>\n",
         "overlay": 0,
         "priority": 50,
@@ -5472,10 +4983,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "妖力漏出"
-        }
+        "messageType": 1
     },
     {
         "id": 152,
@@ -5501,7 +5009,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Tanuki's Feast I (Passive)",
+        "name": "狸の宴Ⅰ（パッシブ）<EN>Tanuki's Feast I (Passive)",
         "note": "<NoPopUp>\n<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -5511,10 +5019,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "狸の宴Ⅰ（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 153,
@@ -5540,7 +5045,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Tanuki's Feast II (Passive)",
+        "name": "狸の宴Ⅱ（パッシブ）<EN>Tanuki's Feast II (Passive)",
         "note": "<NoPopUp>\n<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -5550,10 +5055,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "狸の宴Ⅱ（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 154,
@@ -5593,7 +5095,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Battle-Ready",
+        "name": "常在戦場<EN>Battle-Ready",
         "note": "<NoPopUp>\n<StateChangeHp:b.mhp*0.2>\n<StateChangeMp:b.mmp*0.2>\n<StateChangeTp:10>",
         "overlay": 0,
         "priority": 50,
@@ -5603,10 +5105,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "常在戦場"
-        }
+        "messageType": 1
     },
     {
         "id": 156,
@@ -5621,7 +5120,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Rekka Sekijitsu is now usable.",
+        "name": "烈火赤日使用可能<EN>Rekka Sekijitsu is now usable.",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -5631,10 +5130,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "烈火赤日使用可能"
-        }
+        "messageType": 1
     },
     {
         "id": 157,
@@ -5655,7 +5151,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Attack Boost +",
+        "name": "攻撃強化+<EN>Attack Boost +",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -5665,10 +5161,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "攻撃強化+"
-        }
+        "messageType": 1
     },
     {
         "id": 158,
@@ -5683,7 +5176,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Unable to act",
+        "name": "行動不能<EN>Unable to act",
         "note": "",
         "overlay": 0,
         "priority": 10,
@@ -5693,10 +5186,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "行動不能"
-        }
+        "messageType": 1
     },
     {
         "id": 159,
@@ -5736,7 +5226,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "▼Other",
+        "name": "▼その他<EN>▼Other",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5746,10 +5236,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "▼その他"
-        }
+        "messageType": 1
     },
     {
         "id": 161,
@@ -5764,7 +5251,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Counter Preparation",
+        "name": "反撃準備<EN>Counter Preparation",
         "note": "<反撃拡張:反撃準備>",
         "overlay": 0,
         "priority": 50,
@@ -5774,10 +5261,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "反撃準備"
-        }
+        "messageType": 1
     },
     {
         "id": 162,
@@ -5792,7 +5276,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Charm",
+        "name": "魅了<EN>Charm",
         "note": "",
         "overlay": 0,
         "priority": 95,
@@ -5802,10 +5286,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魅了"
-        }
+        "messageType": 1
     },
     {
         "id": 163,
@@ -5831,7 +5312,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Secret technique ready.",
+        "name": "奥義準備完了<EN>Secret technique ready.",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5841,10 +5322,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "奥義準備完了"
-        }
+        "messageType": 1
     },
     {
         "id": 164,
@@ -5880,7 +5358,7 @@
         "message4": "",
         "minTurns": 0,
         "motion": 0,
-        "name": "(Enemy) Cannot use secret technique.",
+        "name": "（敵）奥義使用不可<EN>(Enemy) Cannot use secret technique.",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -5890,10 +5368,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "（敵）奥義使用不可"
-        }
+        "messageType": 1
     },
     {
         "id": 165,
@@ -5919,7 +5394,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Lingering Snow",
+        "name": "残雪の未練<EN>Lingering Snow",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5929,10 +5404,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "残雪の未練"
-        }
+        "messageType": 1
     },
     {
         "id": 166,
@@ -5953,7 +5425,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Lingering Snow",
+        "name": "残雪の未練<EN>Lingering Snow",
         "note": "味方",
         "overlay": 0,
         "priority": 50,
@@ -5963,10 +5435,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "残雪の未練"
-        }
+        "messageType": 1
     },
     {
         "id": 167,
@@ -5987,7 +5456,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Omen of death",
+        "name": "死の前兆<EN>Omen of death",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -5997,10 +5466,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "死の前兆"
-        }
+        "messageType": 1
     },
     {
         "id": 168,
@@ -6015,7 +5481,7 @@
         "minTurns": 5,
         "motion": 1,
         "overlay": 1,
-        "name": "Clothing's Protective Garment",
+        "name": "衣の守り服<EN>Clothing's Protective Garment",
         "note": "<NoPopUp>\n<ST_全体化>",
         "priority": 50,
         "releaseByDamage": false,
@@ -6032,10 +5498,7 @@
                 "value": 0.05
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "衣の守り服"
-        }
+        "messageType": 1
     },
     {
         "id": 169,
@@ -6050,7 +5513,7 @@
         "message4": "",
         "minTurns": 10,
         "motion": 0,
-        "name": "Longing for Sacrifice",
+        "name": "犠牲への切望<EN>Longing for Sacrifice",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6060,10 +5523,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "犠牲への切望"
-        }
+        "messageType": 1
     },
     {
         "id": 170,
@@ -6078,7 +5538,7 @@
         "message4": "",
         "minTurns": 10,
         "motion": 0,
-        "name": "Sacrifice",
+        "name": "犠牲<EN>Sacrifice",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -6088,10 +5548,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "犠牲"
-        }
+        "messageType": 1
     },
     {
         "id": 171,
@@ -6142,7 +5599,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Swamp Membrane",
+        "name": "沼の被膜<EN>Swamp Membrane",
         "note": "味方",
         "overlay": 0,
         "priority": 50,
@@ -6152,10 +5609,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "沼の被膜"
-        }
+        "messageType": 1
     },
     {
         "id": 172,
@@ -6181,7 +5635,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Swamp Membrane",
+        "name": "沼の被膜<EN>Swamp Membrane",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6191,10 +5645,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "沼の被膜"
-        }
+        "messageType": 1
     },
     {
         "id": 173,
@@ -6209,7 +5660,7 @@
         "minTurns": 16,
         "motion": 1,
         "overlay": 0,
-        "name": "Blessing of the Rough Spirit",
+        "name": "荒魂の加護<EN>Blessing of the Rough Spirit",
         "note": "",
         "priority": 50,
         "releaseByDamage": false,
@@ -6236,10 +5687,7 @@
                 "value": 0.05
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "荒魂の加護"
-        }
+        "messageType": 1
     },
     {
         "id": 174,
@@ -6265,7 +5713,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Hostile",
+        "name": "敵対<EN>Hostile",
         "note": "<AddNoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -6275,10 +5723,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "敵対"
-        }
+        "messageType": 1
     },
     {
         "id": 175,
@@ -6329,7 +5774,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Fury of the Eight Crossroads",
+        "name": "八衢の猛威<EN>Fury of the Eight Crossroads",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6339,10 +5784,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "八衢の猛威"
-        }
+        "messageType": 1
     },
     {
         "id": 176,
@@ -6363,7 +5805,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Physical damage taken increased by 15%.",
+        "name": "被物理ダメージ15％増加<EN>Physical damage taken increased by 15%.",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6373,10 +5815,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "被物理ダメージ15％増加"
-        }
+        "messageType": 1
     },
     {
         "id": 177,
@@ -6412,7 +5851,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Dark Weakening",
+        "name": "闇による弱体化<EN>Dark Weakening",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6422,10 +5861,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "闇による弱体化"
-        }
+        "messageType": 1
     },
     {
         "id": 178,
@@ -6440,7 +5876,7 @@
         "minTurns": 4,
         "motion": 1,
         "overlay": 0,
-        "name": "Frozen",
+        "name": "凍結<EN>Frozen",
         "note": "",
         "priority": 50,
         "releaseByDamage": false,
@@ -6477,10 +5913,7 @@
                 "value": 0.5
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "凍結"
-        }
+        "messageType": 1
     },
     {
         "id": 179,
@@ -6495,7 +5928,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Physical Drain",
+        "name": "肉体の消耗<EN>Physical Drain",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6505,10 +5938,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "肉体の消耗"
-        }
+        "messageType": 1
     },
     {
         "id": 180,
@@ -6523,7 +5953,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Skip action during transformation.",
+        "name": "変身時の行動スキップ<EN>Skip action during transformation.",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 10,
@@ -6533,10 +5963,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "変身時の行動スキップ"
-        }
+        "messageType": 1
     },
     {
         "id": 181,
@@ -6562,7 +5989,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Sturdy",
+        "name": "堅牢<EN>Sturdy",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6572,10 +5999,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "堅牢"
-        }
+        "messageType": 1
     },
     {
         "id": 182,
@@ -6590,7 +6014,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Ice Wall Bastion",
+        "name": "氷壁籠城<EN>Ice Wall Bastion",
         "note": "<反撃拡張:氷壁籠城>",
         "overlay": 0,
         "priority": 50,
@@ -6600,10 +6024,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "氷壁籠城"
-        }
+        "messageType": 1
     },
     {
         "id": 183,
@@ -6618,7 +6039,7 @@
         "minTurns": 6,
         "motion": 1,
         "overlay": 0,
-        "name": "Last Stand",
+        "name": "背水之陣<EN>Last Stand",
         "note": "",
         "priority": 50,
         "releaseByDamage": false,
@@ -6650,10 +6071,7 @@
                 "value": 0.5
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "背水之陣"
-        }
+        "messageType": 1
     },
     {
         "id": 184,
@@ -6679,7 +6097,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Tendency to Fall",
+        "name": "傾倒傾向<EN>Tendency to Fall",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6689,10 +6107,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "傾倒傾向"
-        }
+        "messageType": 1
     },
     {
         "id": 185,
@@ -6707,7 +6122,7 @@
         "minTurns": 4,
         "motion": 1,
         "overlay": 0,
-        "name": "Infatuation",
+        "name": "傾倒<EN>Infatuation",
         "note": "<DefeatState>",
         "priority": 50,
         "releaseByDamage": false,
@@ -6729,10 +6144,7 @@
                 "value": -1
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "傾倒"
-        }
+        "messageType": 1
     },
     {
         "id": 186,
@@ -6803,7 +6215,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "Spirited Away",
+        "name": "神隠し<EN>Spirited Away",
         "note": "<DefeatState>",
         "overlay": 0,
         "priority": 50,
@@ -6813,10 +6225,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "神隠し"
-        }
+        "messageType": 1
     },
     {
         "id": 187,
@@ -6842,7 +6251,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Homeward Beacon usable",
+        "name": "家路への標使用可能<EN>Homeward Beacon usable",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -6852,10 +6261,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "家路への標使用可能"
-        }
+        "messageType": 1
     },
     {
         "id": 188,
@@ -6901,7 +6307,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "★ Casual (Shikon)",
+        "name": "★カジュアル（四魂）<EN>★ Casual (Shikon)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 0,
@@ -6911,10 +6317,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "★カジュアル（四魂）"
-        }
+        "messageType": 1
     },
     {
         "id": 189,
@@ -6980,7 +6383,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "Ghost Story: Spirit Disappearance",
+        "name": "怪談・神隠し<EN>Ghost Story: Spirit Disappearance",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -6990,10 +6393,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "怪談・神隠し"
-        }
+        "messageType": 1
     },
     {
         "id": 190,
@@ -7019,7 +6419,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Soul Technique Barrier usable",
+        "name": "魂術結界使用可能<EN>Soul Technique Barrier usable",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -7029,10 +6429,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魂術結界使用可能"
-        }
+        "messageType": 1
     },
     {
         "id": 191,
@@ -7068,7 +6465,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Mugen's Protection",
+        "name": "無玄の加護<EN>Mugen's Protection",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -7078,10 +6475,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "無玄の加護"
-        }
+        "messageType": 1
     },
     {
         "id": 192,
@@ -7142,7 +6536,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Soul Art Barrier",
+        "name": "魂術結界<EN>Soul Art Barrier",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -7152,10 +6546,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魂術結界"
-        }
+        "messageType": 1
     },
     {
         "id": 193,
@@ -7181,7 +6572,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Sturdy",
+        "name": "堅牢<EN>Sturdy",
         "note": "味方用",
         "overlay": 0,
         "priority": 50,
@@ -7191,10 +6582,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "堅牢"
-        }
+        "messageType": 1
     },
     {
         "id": 194,
@@ -7209,7 +6597,7 @@
         "minTurns": 5,
         "motion": 1,
         "overlay": 0,
-        "name": "Hatred",
+        "name": "憎悪<EN>Hatred",
         "note": "",
         "priority": 50,
         "releaseByDamage": false,
@@ -7236,10 +6624,7 @@
                 "value": 2
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "憎悪"
-        }
+        "messageType": 1
     },
     {
         "id": 195,
@@ -7265,7 +6650,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Spreading Poison",
+        "name": "蔓延毒<EN>Spreading Poison",
         "note": "<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -7275,10 +6660,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "蔓延毒"
-        }
+        "messageType": 1
     },
     {
         "id": 196,
@@ -7299,7 +6681,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Delay Poison",
+        "name": "遅延毒<EN>Delay Poison",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -7309,10 +6691,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "遅延毒"
-        }
+        "messageType": 1
     },
     {
         "id": 197,
@@ -7343,7 +6722,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Hidden Boss Phase 2",
+        "name": "裏ボスフェーズ２<EN>Hidden Boss Phase 2",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -7353,10 +6732,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "裏ボスフェーズ２"
-        }
+        "messageType": 1
     },
     {
         "id": 198,
@@ -7371,7 +6747,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Item Seal",
+        "name": "アイテム封印<EN>Item Seal",
         "note": "<道具封印スイッチ>",
         "overlay": 0,
         "priority": 50,
@@ -7381,10 +6757,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "アイテム封印"
-        }
+        "messageType": 1
     },
     {
         "id": 199,
@@ -7410,7 +6783,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Skill unusable",
+        "name": "スキル使用不可<EN>Skill unusable",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -7420,10 +6793,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "スキル使用不可"
-        }
+        "messageType": 1
     },
     {
         "id": 200,
@@ -7444,7 +6814,7 @@
         "message4": "",
         "minTurns": 0,
         "motion": 0,
-        "name": "Cannot use secret technique.",
+        "name": "奥義使用不可<EN>Cannot use secret technique.",
         "note": "<NoPopUp>\n<スキルタイプ3封印スイッチ>",
         "overlay": 0,
         "priority": 50,
@@ -7454,10 +6824,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "奥義使用不可"
-        }
+        "messageType": 1
     },
     {
         "id": 201,
@@ -7513,7 +6880,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "For Event 51",
+        "name": "イベント51用<EN>For Event 51",
         "note": "<AtkEx:100000>\n<NoPopUp>\n<スキル封印スイッチ>",
         "overlay": 0,
         "priority": 50,
@@ -7523,10 +6890,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "イベント51用"
-        }
+        "messageType": 1
     },
     {
         "id": 203,
@@ -7541,7 +6905,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Combo",
+        "name": "連携<EN>Combo",
         "note": "<AtkEx:a.atk * 0.3>",
         "overlay": 0,
         "priority": 50,
@@ -7551,10 +6915,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "連携"
-        }
+        "messageType": 1
     },
     {
         "id": 204,
@@ -7569,7 +6930,7 @@
         "minTurns": 3,
         "motion": 1,
         "overlay": 1,
-        "name": "Dark Wound",
+        "name": "冥傷<EN>Dark Wound",
         "note": "",
         "priority": 50,
         "releaseByDamage": false,
@@ -7586,10 +6947,7 @@
                 "value": 1.3
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "冥傷"
-        }
+        "messageType": 1
     },
     {
         "id": 205,
@@ -7649,13 +7007,13 @@
         ],
         "iconIndex": 461,
         "maxTurns": 8,
-        "message1": "%1 has become easier to target!",
+        "message1": "%1は狙われやすくなった！<EN>%1 has become easier to target!",
         "message2": "",
         "message3": "",
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "Concentrated Attack",
+        "name": "集中攻撃<EN>Concentrated Attack",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -7665,11 +7023,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "集中攻撃",
-            "message1": "%1は狙われやすくなった！"
-        }
+        "messageType": 1
     },
     {
         "id": 206,
@@ -7684,7 +7038,7 @@
         "minTurns": 2,
         "motion": 1,
         "overlay": 1,
-        "name": "Lurk in Shadows",
+        "name": "影への潜伏<EN>Lurk in Shadows",
         "note": "<反撃拡張:影の暴走>",
         "priority": 50,
         "releaseByDamage": false,
@@ -7751,10 +7105,7 @@
                 "value": 0.1
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "影への潜伏"
-        }
+        "messageType": 1
     },
     {
         "id": 207,
@@ -7768,7 +7119,7 @@
         "message4": "",
         "minTurns": 10,
         "motion": 1,
-        "name": "Madness",
+        "name": "狂気<EN>Madness",
         "note": "",
         "overlay": 5,
         "priority": 80,
@@ -7796,10 +7147,7 @@
                 "value": 0
             }
         ],
-        "messageType": 1,
-        "_original": {
-            "name": "狂気"
-        }
+        "messageType": 1
     },
     {
         "id": 208,
@@ -7825,7 +7173,7 @@
         "message4": "",
         "minTurns": 8,
         "motion": 0,
-        "name": "Madness",
+        "name": "発狂<EN>Madness",
         "note": "<DefeatState>",
         "overlay": 0,
         "priority": 50,
@@ -7835,10 +7183,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "発狂"
-        }
+        "messageType": 1
     },
     {
         "id": 209,
@@ -7853,7 +7198,7 @@
         "message4": "",
         "minTurns": 6,
         "motion": 0,
-        "name": "Water Sword Forging",
+        "name": "水剣錬成<EN>Water Sword Forging",
         "note": "<ChainSkill:756>\n<ChainDamageType:1,5>\n<ChainHitType:0,1,2>\n<ChainSkillType:0,2>",
         "overlay": 0,
         "priority": 50,
@@ -7863,10 +7208,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "水剣錬成"
-        }
+        "messageType": 1
     },
     {
         "id": 210,
@@ -7937,7 +7279,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Weakness to Water I",
+        "name": "水弱化Ⅰ<EN>Weakness to Water I",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -7947,10 +7289,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "水弱化Ⅰ"
-        }
+        "messageType": 1
     },
     {
         "id": 211,
@@ -7976,7 +7315,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Weakness to Water II",
+        "name": "水弱化Ⅱ<EN>Weakness to Water II",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -7986,10 +7325,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "水弱化Ⅱ"
-        }
+        "messageType": 1
     },
     {
         "id": 212,
@@ -8030,7 +7366,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Midnight",
+        "name": "夜中<EN>Midnight",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8040,10 +7376,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "夜中"
-        }
+        "messageType": 1
     },
     {
         "id": 213,
@@ -8089,7 +7422,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Dawn",
+        "name": "暁<EN>Dawn",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8099,10 +7432,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "暁"
-        }
+        "messageType": 1
     },
     {
         "id": 214,
@@ -8148,7 +7478,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Dawn",
+        "name": "夜明け<EN>Dawn",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8158,10 +7488,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "夜明け"
-        }
+        "messageType": 1
     },
     {
         "id": 215,
@@ -8176,7 +7503,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Netapashiki's Shield",
+        "name": "ネタパシキの盾<EN>Netapashiki's Shield",
         "note": "<反撃拡張:発狂>",
         "overlay": 0,
         "priority": 50,
@@ -8186,10 +7513,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "ネタパシキの盾"
-        }
+        "messageType": 1
     },
     {
         "id": 216,
@@ -8204,7 +7528,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Chimera Pursuit",
+        "name": "キマイラ追撃<EN>Chimera Pursuit",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8214,10 +7538,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "キマイラ追撃"
-        }
+        "messageType": 1
     },
     {
         "id": 217,
@@ -8232,7 +7553,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Friend Pursuit",
+        "name": "トモダチ追撃<EN>Friend Pursuit",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8242,10 +7563,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "トモダチ追撃"
-        }
+        "messageType": 1
     },
     {
         "id": 218,
@@ -8266,7 +7584,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Magic cannot be evaded",
+        "name": "魔法回避不能<EN>Magic cannot be evaded",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8276,10 +7594,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔法回避不能"
-        }
+        "messageType": 1
     },
     {
         "id": 219,
@@ -8294,7 +7609,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Amei's companion self-destruct turn.",
+        "name": "亜命お供自爆ターン<EN>Amei's companion self-destruct turn.",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8304,10 +7619,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "亜命お供自爆ターン"
-        }
+        "messageType": 1
     },
     {
         "id": 220,
@@ -8338,7 +7650,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Weakness: Thunder",
+        "name": "脆弱性：雷<EN>Weakness: Thunder",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8348,10 +7660,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "脆弱性：雷"
-        }
+        "messageType": 1
     },
     {
         "id": 221,
@@ -8372,7 +7681,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Lurking",
+        "name": "虎視<EN>Lurking",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8382,10 +7691,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "虎視"
-        }
+        "messageType": 1
     },
     {
         "id": 222,
@@ -8411,7 +7717,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Preemptive Secret Strategy",
+        "name": "事前の秘策<EN>Preemptive Secret Strategy",
         "note": "<NoPopUp>\n<反撃拡張:事前の秘策>",
         "overlay": 0,
         "priority": 50,
@@ -8421,10 +7727,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "事前の秘策"
-        }
+        "messageType": 1
     },
     {
         "id": 223,
@@ -8439,7 +7742,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "All-Out Attack",
+        "name": "一斉攻撃<EN>All-Out Attack",
         "note": "<NoPopUp>\n<BoostEX:PH, 30>",
         "overlay": 0,
         "priority": 50,
@@ -8449,10 +7752,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "一斉攻撃"
-        }
+        "messageType": 1
     },
     {
         "id": 224,
@@ -8473,7 +7773,7 @@
         "message4": "",
         "minTurns": 1,
         "motion": 0,
-        "name": "Dulling Trap",
+        "name": "鈍らせの罠<EN>Dulling Trap",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8483,10 +7783,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "鈍らせの罠"
-        }
+        "messageType": 1
     },
     {
         "id": 225,
@@ -8507,7 +7804,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Long-Term Strategy I (Passive)",
+        "name": "長期戦略Ⅰ（パッシブ）<EN>Long-Term Strategy I (Passive)",
         "note": "<NoPopUp>\n<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -8517,10 +7814,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "長期戦略Ⅰ（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 226,
@@ -8541,7 +7835,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Long-Term Strategy II (Passive)",
+        "name": "長期戦略Ⅱ（パッシブ）<EN>Long-Term Strategy II (Passive)",
         "note": "<NoPopUp>\n<ST_全体化>",
         "overlay": 0,
         "priority": 50,
@@ -8551,10 +7845,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "長期戦略Ⅱ（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 227,
@@ -8575,7 +7866,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Sensual allure",
+        "name": "艶気<EN>Sensual allure",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8585,10 +7876,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "艶気"
-        }
+        "messageType": 1
     },
     {
         "id": 228,
@@ -8614,7 +7902,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Flame Fox Life",
+        "name": "炎狐生命<EN>Flame Fox Life",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8624,10 +7912,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "炎狐生命"
-        }
+        "messageType": 1
     },
     {
         "id": 229,
@@ -8668,7 +7953,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Fox Enchantment",
+        "name": "妖狐魅了<EN>Fox Enchantment",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8678,10 +7963,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "妖狐魅了"
-        }
+        "messageType": 1
     },
     {
         "id": 230,
@@ -8717,7 +7999,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Action Count +4",
+        "name": "行動回数+4<EN>Action Count +4",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8727,10 +8009,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "行動回数+4"
-        }
+        "messageType": 1
     },
     {
         "id": 231,
@@ -8751,7 +8030,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Good Mood (Passive)",
+        "name": "上機嫌（パッシブ）<EN>Good Mood (Passive)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8761,10 +8040,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "上機嫌（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 232,
@@ -8790,7 +8066,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Yuuyami Time I (Passive)",
+        "name": "夕闇時Ⅰ（パッシブ）<EN>Yuuyami Time I (Passive)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8800,10 +8076,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "夕闇時Ⅰ（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 233,
@@ -8829,7 +8102,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Yuuyami Time II (Passive)",
+        "name": "夕闇時Ⅱ（パッシブ）<EN>Yuuyami Time II (Passive)",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8839,10 +8112,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "夕闇時Ⅱ（パッシブ）"
-        }
+        "messageType": 1
     },
     {
         "id": 234,
@@ -8857,7 +8127,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Next Secret Sword available.",
+        "name": "次ぎ秘剣使用可能<EN>Next Secret Sword available.",
         "note": "<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -8867,10 +8137,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "次ぎ秘剣使用可能"
-        }
+        "messageType": 1
     },
     {
         "id": 235,
@@ -8896,7 +8163,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 1,
-        "name": "Shutdown",
+        "name": "機能停止<EN>Shutdown",
         "note": "",
         "overlay": 10,
         "priority": 90,
@@ -8906,10 +8173,7 @@
         "removeByWalking": false,
         "restriction": 4,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "機能停止"
-        }
+        "messageType": 1
     },
     {
         "id": 236,
@@ -8930,7 +8194,7 @@
         "message4": "",
         "minTurns": 4,
         "motion": 0,
-        "name": "Magic Absorption",
+        "name": "魔法吸収<EN>Magic Absorption",
         "note": "<反撃拡張:魔法吸収>",
         "overlay": 0,
         "priority": 50,
@@ -8940,10 +8204,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "魔法吸収"
-        }
+        "messageType": 1
     },
     {
         "id": 237,
@@ -8974,7 +8235,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Echo Command",
+        "name": "残響の指令<EN>Echo Command",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -8984,10 +8245,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "残響の指令"
-        }
+        "messageType": 1
     },
     {
         "id": 238,
@@ -9008,7 +8266,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Action Count +1",
+        "name": "行動回数+1<EN>Action Count +1",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -9018,10 +8276,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "行動回数+1"
-        }
+        "messageType": 1
     },
     {
         "id": 239,
@@ -9057,7 +8312,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Mana Famine",
+        "name": "マナの飢餓<EN>Mana Famine",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -9067,10 +8322,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "マナの飢餓"
-        }
+        "messageType": 1
     },
     {
         "id": 240,
@@ -9096,7 +8348,7 @@
         "message4": "",
         "minTurns": 3,
         "motion": 0,
-        "name": "Shield of Praise",
+        "name": "賛美の盾<EN>Shield of Praise",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -9106,10 +8358,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "賛美の盾"
-        }
+        "messageType": 1
     },
     {
         "id": 241,
@@ -9145,7 +8394,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Unwavering resolve",
+        "name": "不退転<EN>Unwavering resolve",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -9155,10 +8404,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "不退転"
-        }
+        "messageType": 1
     },
     {
         "id": 242,
@@ -9173,7 +8419,7 @@
         "message4": "",
         "minTurns": 5,
         "motion": 0,
-        "name": "Light Enhancement",
+        "name": "光強化<EN>Light Enhancement",
         "note": "<BoostEX:EL, 8, 100>",
         "overlay": 0,
         "priority": 50,
@@ -9183,10 +8429,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "光強化"
-        }
+        "messageType": 1
     },
     {
         "id": 243,
@@ -9212,7 +8455,7 @@
         "message4": "",
         "minTurns": 2,
         "motion": 0,
-        "name": "Power Charge",
+        "name": "力ため<EN>Power Charge",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -9222,10 +8465,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "力ため"
-        }
+        "messageType": 1
     },
     {
         "id": 244,
@@ -9256,7 +8496,7 @@
         "message4": "",
         "minTurns": 31,
         "motion": 0,
-        "name": "Price of Immortality",
+        "name": "不滅の代償<EN>Price of Immortality",
         "note": "",
         "overlay": 0,
         "priority": 50,
@@ -9266,10 +8506,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "不滅の代償"
-        }
+        "messageType": 1
     },
     {
         "id": 245,
@@ -9290,7 +8527,7 @@
         "message4": "",
         "minTurns": 31,
         "motion": 0,
-        "name": "Invincibility Removed 1",
+        "name": "不滅解除１<EN>Invincibility Removed 1",
         "note": "<反撃拡張:不滅解除>\n<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -9300,10 +8537,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "不滅解除１"
-        }
+        "messageType": 1
     },
     {
         "id": 246,
@@ -9324,7 +8558,7 @@
         "message4": "",
         "minTurns": 31,
         "motion": 0,
-        "name": "Invincibility Removal 2",
+        "name": "不滅解除２<EN>Invincibility Removal 2",
         "note": "<反撃拡張:不滅解除２>\n<NoPopUp>",
         "overlay": 0,
         "priority": 50,
@@ -9334,10 +8568,7 @@
         "removeByWalking": false,
         "restriction": 0,
         "stepsToRemove": 100,
-        "messageType": 1,
-        "_original": {
-            "name": "不滅解除２"
-        }
+        "messageType": 1
     },
     {
         "id": 247,

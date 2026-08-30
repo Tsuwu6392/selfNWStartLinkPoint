@@ -151,8 +151,8 @@ skillTreeTypes: [
     {
         actorId: 6,
         types: [
-            ["存子１", "妖狸隠神", "四魂怪異としての力を発揮し、敵を痛めつけます。"],
-            ["存子２", "酔いどれ古狸", "戦いながらお酒を飲めるため、とてもお得です。"],
+            ["存子１", "Yori Inugami", "Exerts her power as a Shikon Kaii to torment her enemies."],
+            ["存子２", "Drunken Old Bake-danuki", "Allows her to drink sake while fighting, making it quite advantageous."],
         ]
     },
 

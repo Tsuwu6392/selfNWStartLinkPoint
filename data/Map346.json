@@ -10623,9 +10623,8 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Error detected... Stored in the Uni Circuit\nisolation folder.\""
-                            ],
-                            "_original": "「不具合発生……\n　ユニ・サーキット隔離フォルダに保管済み」"
+                                "「不具合発生……\n　ユニ・サーキット隔離フォルダに保管済み」<EN>\"Error detected... Stored in the Uni Circuit\nisolation folder.\""
+                            ]
                         },
                         {
                             "code": 101,
@@ -10642,9 +10641,8 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Error details: An individual that induces\nbiological death. No other notable features.\""
-                            ],
-                            "_original": "「不具合情報：生物学的な死を誘発させる個体。\n　その他の特筆事項なし」"
+                                "「不具合情報：生物学的な死を誘発させる個体。\n　その他の特筆事項なし」<EN>\"Error details: An individual that induces\nbiological death. No other notable features.\""
+                            ]
                         },
                         {
                             "code": 0,
@@ -10721,9 +10719,8 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Isolation folder access permissions: Abnormal\""
-                            ],
-                            "_original": "「隔離フォルダアクセス権限：異常」"
+                                "「隔離フォルダアクセス権限：異常」<EN>\"Isolation folder access permissions: Abnormal\""
+                            ]
                         },
                         {
                             "code": 250,
@@ -10806,9 +10803,8 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"Correcting access permissions...\""
-                            ],
-                            "_original": "「アクセス権限設定修正……」"
+                                "「アクセス権限設定修正……」<EN>\"Correcting access permissions...\""
+                            ]
                         },
                         {
                             "code": 250,
@@ -10868,17 +10864,15 @@
                                 0,
                                 0,
                                 2,
-                                "Nazuna"
-                            ],
-                            "_original": "ナズナ"
+                                "ナズナ<EN>Nazuna"
+                            ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Uh..."
-                            ],
-                            "_original": "ええと。"
+                                "ええと。<EN>Uh..."
+                            ]
                         },
                         {
                             "code": 101,
@@ -10888,17 +10882,15 @@
                                 3,
                                 0,
                                 2,
-                                "Uula"
-                            ],
-                            "_original": "ウーラ"
+                                "ウーラ<EN>Uula"
+                            ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Dia."
-                            ],
-                            "_original": "ダイア。"
+                                "ダイア。<EN>Dia."
+                            ]
                         },
                         {
                             "code": 101,
@@ -10908,17 +10900,15 @@
                                 7,
                                 0,
                                 2,
-                                "Dia"
-                            ],
-                            "_original": "ダイア"
+                                "ダイア<EN>Dia"
+                            ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Don't ask me to explain, I'm just as\nconfused... Well, maybe something\nchanged somewhere."
-                            ],
-                            "_original": "俺に説明を求められても困るが……\nまあ、どこかで何かが変化したのかもしれん。"
+                                "俺に説明を求められても困るが……\nまあ、どこかで何かが変化したのかもしれん。<EN>Don't ask me to explain, I'm just as\nconfused... Well, maybe something\nchanged somewhere."
+                            ]
                         },
                         {
                             "code": 101,
@@ -10928,17 +10918,15 @@
                                 1,
                                 0,
                                 2,
-                                "Prim"
-                            ],
-                            "_original": "プリム"
+                                "プリム<EN>Prim"
+                            ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "That's vague information."
-                            ],
-                            "_original": "曖昧な情報です。"
+                                "曖昧な情報です。<EN>That's vague information."
+                            ]
                         },
                         {
                             "code": 221,
@@ -11061,26 +11049,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Isolation folder access: Normal. You can move\nto the Uni Circuit Portal.\""
-                            ],
-                            "_original": "「隔離フォルダアクセス権限：正常\n　ユニ・サーキット・ポータルに移動できます」"
+                                "「隔離フォルダアクセス権限：正常\n　ユニ・サーキット・ポータルに移動できます」<EN>\"Isolation folder access: Normal. You can move\nto the Uni Circuit Portal.\""
+                            ]
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Move",
-                                    "Don't move"
+                                    "移動する<EN>Move",
+                                    "移動しない<EN>Don't move"
                                 ],
                                 1,
                                 -1,
                                 2,
                                 0
-                            ],
-                            "_original": [
-                                "移動する",
-                                "移動しない"
                             ]
                         },
                         {

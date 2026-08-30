@@ -3727,26 +3727,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Save game?"
-                            ],
-                            "_original": "セーブしますか？"
+                                "セーブしますか？<EN>Save game?"
+                            ]
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Yes",
-                                    "No"
+                                    "する<EN>Yes",
+                                    "しない<EN>No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
-                            ],
-                            "_original": [
-                                "する",
-                                "しない"
                             ]
                         },
                         {
