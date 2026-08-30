@@ -352,6 +352,34 @@
     }
 
     //-------------------------------------------------------------------
+    // Compatibility: MPP_ChoiceEX
+    // Its per-choice visibility syntax ("Label if(condition)") is parsed
+    // with a NON-global regex (/\s?if\((.+?)\)/, no /g flag) that assumes
+    // at most one "if(...)" clause per choice string, and strips only the
+    // FIRST match it finds. A bilingual-merged choice ("JP if(cond)<EN>EN
+    // if(cond)") has TWO such clauses -- MPP_ChoiceEX's own condition
+    // parsing runs directly on the raw event-command parameters, before
+    // this plugin ever gets a chance to reduce the string to one language,
+    // so it only ever strips the first (source-language) clause and
+    // leaves the other language's "if(...)" dangling in the visible text.
+    // Pre-resolving each choice string to just the active language HERE,
+    // before MPP_ChoiceEX's addChoices() reads them, restores the
+    // single-clause-per-string shape it was actually designed for.
+    //-------------------------------------------------------------------
+
+    if (typeof Game_Interpreter !== "undefined" && typeof Game_Interpreter.prototype.addChoices === "function") {
+        const _Game_Interpreter_addChoices = Game_Interpreter.prototype.addChoices;
+        Game_Interpreter.prototype.addChoices = function (params, index, data, d) {
+            let langParams = params;
+            if (Array.isArray(params) && Array.isArray(params[0])) {
+                langParams = params.slice();
+                langParams[0] = params[0].map(selectLanguageText);
+            }
+            return _Game_Interpreter_addChoices.call(this, langParams, index, data, d);
+        };
+    }
+
+    //-------------------------------------------------------------------
     // Database text (item/skill/actor/etc. name & description fields)
     // Cache originals once, re-resolve whenever language changes.
     //-------------------------------------------------------------------
