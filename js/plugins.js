@@ -1990,5 +1990,5 @@ var $plugins = [{
 ,
 {"name":"POI_Highlight","status":true,"description":"","parameters":{}}
 ,
-{"name":"Bilingual_Core","status":true,"description":"Inline bilingual text selection + auto word-wrap v1.0.0","parameters":{"DefaultLanguage":"JA","LanguageVariable":"0","EnableAutoWrap":"true","WrapPadding":"8"}}
+{"name":"Bilingual_Core","status":true,"description":"Inline bilingual text selection + auto word-wrap v1.0.0","parameters":{"DefaultLanguage":"JA","LanguageVariable":"1","EnableAutoWrap":"true","WrapPadding":"8","OptionName":"Language","AvailableLanguages":"[]","TextSizeOptionName":"Text Size","TextSizes":"[\"{\\\"Name\\\":\\\"Small\\\",\\\"Offset\\\":\\\"-4\\\"}\",\"{\\\"Name\\\":\\\"Normal\\\",\\\"Offset\\\":\\\"0\\\"}\",\"{\\\"Name\\\":\\\"Large\\\",\\\"Offset\\\":\\\"4\\\"}\",\"{\\\"Name\\\":\\\"X-Large\\\",\\\"Offset\\\":\\\"8\\\"}\"]"}}
 ];
