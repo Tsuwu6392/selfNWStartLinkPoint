@@ -39,15 +39,6 @@
  * source language (e.g. JA). This segment has no <TAG> in front of it.
  * @default JA
  *
- * @param LanguageVariable
- * @text (Optional) Mirror to Game Variable ID
- * @desc Off by default (0). The plugin tracks its own language state
- * internally now -- only set this if some OTHER plugin/event needs to
- * read the active language tag out of a Game Variable directly. Pick an
- * ID your project isn't already using for anything else.
- * @type variable
- * @default 0
- *
  * @param EnableAutoWrap
  * @text Enable auto word-wrap
  * @type boolean
@@ -131,16 +122,13 @@
  *
  * Below that, the plugin tracks its own active-language state internally
  * on $gameSystem (saved with the rest of your save data, and namespaced
- * so it can never collide with a Game Variable another plugin is using).
- * You can drive it purely by script call if you never touch the Options
- * menu row:
+ * so it can never collide with anything -- this plugin never reads or
+ * writes any Game Variable for its own state). You can drive it purely
+ * by script call if you never touch the Options menu row:
  *   Control Variables > Script: $gameSystem.setBilingualLanguage("EN")
  * Set it back to "" or the DefaultLanguage to fall back to source text.
- *
- * If some OTHER plugin or event needs to read the active language tag
- * out of a Game Variable directly, set LanguageVariable to an ID your
- * project isn't using for anything else -- it's off (0) by default and
- * purely a read-only mirror; the plugin's own logic never depends on it.
+ * Any other plugin/event that needs the active language tag should call
+ * that same getter directly: $gameSystem.bilingualLanguage()
  *
  * Database text is re-applied whenever the language variable changes AND
  * a scene is loaded/refreshed. Any string field anywhere in $dataItems,
@@ -195,7 +183,6 @@
     const PLUGIN_NAME = "Bilingual_Core";
     const params = PluginManager.parameters(PLUGIN_NAME);
     const DEFAULT_LANG = String(params.DefaultLanguage || "JA");
-    const LANG_VAR_ID = Number(params.LanguageVariable || 0);
     const AUTO_WRAP = params.EnableAutoWrap !== "false";
     const WRAP_PADDING = Number(params.WrapPadding || 8);
     const OPTION_NAME = String(params.OptionName || "Language");
@@ -252,12 +239,6 @@
         // on $gameSystem -- never a shared Game Variable slot.
         if ($gameSystem && $gameSystem.bilingualLanguage()) {
             return $gameSystem.bilingualLanguage();
-        }
-        // Last resort: the optional Game Variable mirror, only if the
-        // project has explicitly opted into one (LANG_VAR_ID > 0).
-        if (LANG_VAR_ID > 0 && $gameVariables) {
-            const v = $gameVariables.value(LANG_VAR_ID);
-            if (v) return String(v);
         }
         return DEFAULT_LANG;
     }
@@ -331,14 +312,8 @@
         this._bilingualLanguage = tag || "";
     };
 
-    // Set the plugin's own internal state, and -- only if the project has
-    // opted into it (LANG_VAR_ID > 0) -- mirror the choice into a Game
-    // Variable too, so an other plugin/event reading it directly still
-    // sees the right value. The plugin's own behavior never depends on
-    // that mirror; it's purely for outside consumers.
     function setLanguageState(tag) {
         if ($gameSystem) $gameSystem.setBilingualLanguage(tag);
-        if (LANG_VAR_ID > 0 && $gameVariables) $gameVariables.setValue(LANG_VAR_ID, tag);
     }
 
     function selectLanguageText(raw) {
@@ -446,6 +421,224 @@
             }
             return _Game_Interpreter_addChoices.call(this, langParams, index, data, d);
         };
+    }
+
+    //-------------------------------------------------------------------
+    // Compatibility: command windows built via Window_Command.addCommand
+    // (e.g. MenuSubCommand's parent/child menu entries defined in its own
+    // plugin parameters). Command labels are drawn with plain drawText,
+    // never drawTextEx, so they never reach the Window_Base hook above --
+    // and since they live in a plugin's own parameters rather than
+    // $dataSystem/database, the DB-caching patch below never sees them
+    // either. addCommand is the one shared low-level method every command
+    // window in the engine (menus, this plugin's own Options rows, shop
+    // menus, third-party command windows) already funnels through, so
+    // resolving the label there fixes MenuSubCommand and stays harmless
+    // everywhere else -- untagged names pass through unchanged.
+    //-------------------------------------------------------------------
+
+    if (typeof Window_Command !== "undefined" && typeof Window_Command.prototype.addCommand === "function") {
+        const _Window_Command_addCommand = Window_Command.prototype.addCommand;
+        Window_Command.prototype.addCommand = function (name, symbol, enabled, ext) {
+            _Window_Command_addCommand.call(this, selectLanguageText(name), symbol, enabled, ext);
+        };
+    }
+
+    //-------------------------------------------------------------------
+    // Compatibility: CBR_EroStatus
+    // This plugin draws its own custom status window entirely outside the
+    // engine's normal text pipeline -- Window_EroStatus.prototype.refresh
+    // resolves \V[n]/\N[n]/\P[n]/eval-script substitution and then does
+    // its own \{ \} (font size) / \C[n] (color) / \I[n] (icon) parsing and
+    // width measurement, drawing via this.contents.drawText() directly. It
+    // never calls Window_Base.prototype.convertEscapeCharacters, so none of
+    // this plugin's other hooks ever see this text.
+    //
+    // CBR_EroStatus doesn't factor the substitution step out into its own
+    // method, so there's no clean point to wrap -- the tag has to be
+    // resolved to one language strictly BETWEEN its variable-substitution
+    // pass and its formatting/width-measurement pass (resolving any later
+    // would mean CBR_EroStatus measures and wraps against the padded
+    // two-language text before drawing only half of it). That requires a
+    // full override rather than a small hook. This is copied verbatim from
+    // CBR_EroStatus.js's own Window_EroStatus.prototype.refresh, with
+    // exactly one added line (marked below) -- if CBR_EroStatus is ever
+    // updated upstream, this override needs to be re-diffed against it.
+    //-------------------------------------------------------------------
+
+    if (typeof Window_EroStatus !== "undefined") {
+    Window_EroStatus.prototype.refresh = function() {
+        const rect = this.itemLineRect(0);
+        const x = rect.x;
+        const y = rect.y;
+        const width = rect.width;
+        this.contents.clear();
+
+    	var test = CBR.eroStatus.data[CBR.eroStatus.pageNow];//このページの画像&&テキスト
+    	if(!test){
+    		return;
+    	}
+    	for(var obj of test["画像"]){
+
+    		var val = obj.val.replace(/\\V\[(\d+)\]/g,function(a,b){
+    			return $gameVariables.value(b);
+    		});
+    		const bitmap = ImageManager.loadPicture(val.slice(0,-4));
+		
+    		const pw = bitmap.width;
+    		const ph = bitmap.height;
+    		var top = 0;
+    		var left = 0;
+    		if(obj["左右"] =="中"){
+    			left -= pw / 2;
+    		}else if(obj["左右"] =="右"){
+    			left -= pw;
+    		}
+    		if(obj["上下"] =="中"){
+    			top -= ph / 2;
+    		}else if(obj["上下"] =="下"){
+    			top -= ph;
+    		}
+    		if(obj["透明度"]){
+    			this.contents.paintOpacity = 255 * Number(obj["透明度"]) / 100;
+    		}
+    		var zoom = 1;
+    		if(obj["サイズ"]){
+    			zoom = Number(obj["サイズ"]) / 100;
+    		}
+    		this.contents.blt(bitmap, 0, 0, pw, ph, Number(obj.x)+left, Number(obj.y)+top,pw*zoom,ph*zoom);
+    		this.contents.paintOpacity = 255;
+    	}
+	
+    	//画像読み込み全部終わってなかったら終了
+    	if(!ImageManager.isReady()){
+    		return;
+    	}
+
+
+    	for(var obj of test["テキスト"]){
+    		//まず変数や値を変換
+    		var text = obj.val.replace(/\\(\\)|\\([VNP])\[(\d+)\]|\\(<)(.+)\\>/g,function(a,b,c,d,e,f){
+    			if(b){//\\
+    				return '\\';
+    			}else if(c){//[VNP]
+    				d = Number(d);
+    				switch(c){
+    					case 'V':
+    						return $gameVariables.value(d);
+    						break;
+    					case 'N':
+    						return $gameActors._data[d]._name;
+    						break;
+    					case 'P':
+    						return $dataActors[$gameParty._actors[d-1]].name;
+    						break;
+    				}
+    			}else{//script
+    				return eval(f);
+    			}
+    		});
+    		// Bilingual_Core: resolve to the active language BEFORE CBR_EroStatus's
+    		// own formatting/width-measurement pass runs. text is Latin-safe already
+    		// (no \{ \} \C[n] \I[n] codes exist here, those are parsed next), so this
+    		// tag resolution never interferes with them.
+    		text = selectLanguageText(text);
+
+    		this.contents.context.font = this.contents._makeFontNameText();
+    		this.contents.fontSize = Number(obj["サイズ"]) || $gameSystem.mainFontSize();
+    		this.resetTextColor();
+
+    		const reg = RegExp(/\\([CI])\[(\d+)\]|\\\{|\\\}/, 'g');
+    		var ary;
+    		var c = 0;
+    		var left = 0;
+		
+    		var strAry = [];//分割された文字列いれる
+    		var wAry = [];//分割された横幅いれる
+    		var fAry = [];//分割ごとの操作を入れる
+		
+    		var ii = 0;
+    		var strWidth = 0;
+    		var maxH = this.contents.fontSize;
+    		//テキストのwidthや分割集め
+    		while ((ary = reg.exec(text)) !== null){
+
+    			var str = text.substring(c,ary.index);//描写したい部分を抜き出す
+    			strAry[ii] = str;
+    			wAry[ii] = this.textWidth(str);
+    			strWidth += wAry[ii];
+
+    			switch(ary[1]){
+    				case undefined://{や}の時
+    					if(ary[0].substring(1)=="{"){
+    						fAry[ii] = {type:"{"};
+    						this.contents.fontSize += 6;
+    						if(maxH < this.contents.fontSize){
+    							maxH = this.contents.fontSize;
+    						}
+    					}else{
+    						fAry[ii] = {type:"}"};
+    						this.contents.fontSize -= 6;
+    					}
+    					break;
+    				default:
+    					fAry[ii] = {type:ary[1],val:ary[2]};
+    					break;
+    			}
+
+    			c = reg.lastIndex;
+    			ii++;
+    		}
+    		if(c != text.length){
+    			var str = text.substring(c);//描写したい部分を抜き出す
+    			strAry[ii] = str;
+    			fAry[ii] = {type:false,val:false};
+    			wAry[ii] = this.textWidth(str);
+    			strWidth += wAry[ii];
+    			ii++;
+    		}
+
+    		this.contents.context.font = this.contents._makeFontNameText();
+    		this.contents.fontSize = Number(obj["サイズ"]) || $gameSystem.mainFontSize();
+
+    		var left = 0;
+    		var top = 0;
+    		if(obj["左右"] == "中"){
+    			left -= strWidth / 2;
+    		}else if(obj["左右"] == "右"){
+    			left -= strWidth;
+    		}
+    		for(var i=0; i<ii; i++){	
+    			var top = 0;
+    			if(obj["上下"] == "中"){
+    				top = maxH / 2 - this.contents.fontSize / 2;
+    			}else if(obj["上下"] == "下"){
+    				top = maxH - this.contents.fontSize;
+    			}
+    			this.drawText(strAry[i], Number(obj.x)+left, Number(obj.y)+top, wAry[i], this.contents.fontSize, "right");
+    			left += wAry[i];
+    			switch(fAry[i].type){
+    				case 'C':
+    					this.changeTextColor(ColorManager.textColor(fAry[i].val));//カラチェン
+    					break;
+    				case 'I':
+    					//return $gameActors._data[d]._name;
+    					break;
+    				case "{":
+    					this.contents.fontSize += 6;
+    					break;
+    				case "}":
+    					this.contents.fontSize -= 6;
+    					break;
+    			}
+    		}
+
+    		this.resetTextColor();
+    		this.contents.fontSize = $gameSystem.mainFontSize();
+    		this._CBR_drawn = true;
+    	}
+    };
+
     }
 
     //-------------------------------------------------------------------
@@ -827,9 +1020,9 @@
         _Window_Options_cursorLeft.call(this);
     };
 
-    // Cycle to the next/previous language, persist it, mirror it to the
-    // Game Variable, and redraw just this row (matching how the built-in
-    // volume options update themselves without a full window refresh).
+    // Cycle to the next/previous language, persist it, and redraw just this
+    // row (matching how the built-in volume options update themselves
+    // without a full window refresh).
     Window_Options.prototype.changeLanguage = function (delta) {
         const list = ensureLanguagesBuilt();
         const idx = languageIndex(currentLanguage());
