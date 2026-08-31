@@ -13,6 +13,21 @@
  * @desc Name shown for this language in the Options menu.
  * @default English
  */
+/*~struct~TextSize:
+ * @param Name
+ * @text Display Name
+ * @desc Name shown for this size in the Options menu (e.g. "Small").
+ * @default Normal
+ *
+ * @param Offset
+ * @text Font size offset (px)
+ * @desc Added to the project's own default font size (System > Advanced).
+ * 0 = that default. Negative shrinks, positive enlarges.
+ * @type number
+ * @min -40
+ * @max 40
+ * @default 0
+ */
 /*:
  * @target MZ
  * @plugindesc Inline bilingual text selection + auto word-wrap v1.0.0
@@ -55,6 +70,18 @@
  * markers in your data -- use this only to give a tag a nicer display name.
  * @type struct<Lang>[]
  * @default []
+ *
+ * @param TextSizeOptionName
+ * @text Text-size options menu label
+ * @desc The row label shown in the default Options menu.
+ * @default Text Size
+ *
+ * @param TextSizes
+ * @text Text size choices
+ * @desc Offsets from the project's default font size (System > Advanced),
+ * shown as a cycling Options row exactly like the volume sliders.
+ * @type struct<TextSize>[]
+ * @default ["{\"Name\":\"Small\",\"Offset\":\"-4\"}","{\"Name\":\"Normal\",\"Offset\":\"0\"}","{\"Name\":\"Large\",\"Offset\":\"4\"}","{\"Name\":\"X-Large\",\"Offset\":\"8\"}"]
  *
  * @help
  * ----------------------------------------------------------------------------
@@ -126,6 +153,27 @@
  * and non-destructive.
  *
  * ----------------------------------------------------------------------------
+ * TEXT SIZE
+ * ----------------------------------------------------------------------------
+ * The plugin adds a second row (named by TextSizeOptionName) to the same
+ * Options menu, cycling through the choices in TextSizes -- each one an
+ * offset from the project's own default font size (System > Advanced),
+ * not a hardcoded pixel value, so "Normal" always matches whatever size
+ * you actually authored the game at.
+ *
+ * This works by overriding $gameSystem.mainFontSize(), the one method
+ * every window in the engine already calls to size its text -- so it
+ * applies uniformly everywhere (dialogue, choices, menus, item lists),
+ * and composes correctly with auto-wrap: the wrap hook already calls
+ * resetFontSettings() before measuring text width, so a size change is
+ * picked up automatically with no extra wiring. If some other plugin or
+ * event calls $gameSystem.setMainFontSize() (e.g. a "change font size"
+ * plugin command), this offset is added on top of that, not replacing it.
+ *
+ * Saved the same way as the language choice: global config file, not
+ * per-save, available from the title screen.
+ *
+ * ----------------------------------------------------------------------------
  * LIMITATIONS
  * ----------------------------------------------------------------------------
  * - Plugin commands / script calls that string-match on exact text will NOT
@@ -135,6 +183,10 @@
  * - Word-wrap uses simple whitespace splitting for Latin-script languages
  *   and per-character splitting for the source (JA) segment. If you add a
  *   language that is neither, extend LANG_IS_CJK below.
+ * - Larger text sizes only affect HORIZONTAL wrapping, which auto-wrap
+ *   already handles. They do NOT resize windows or add scrolling, so a
+ *   message window with a lot of text at a large size can still overflow
+ *   its fixed height -- this plugin doesn't attempt to compensate for that.
  */
 
 (() => {
@@ -147,6 +199,7 @@
     const AUTO_WRAP = params.EnableAutoWrap !== "false";
     const WRAP_PADDING = Number(params.WrapPadding || 8);
     const OPTION_NAME = String(params.OptionName || "Language");
+    const TEXT_SIZE_OPTION_NAME = String(params.TextSizeOptionName || "Text Size");
 
     // AvailableLanguages is now OPTIONAL and purely cosmetic: a tag -> nicer
     // display name override (e.g. EN -> "English"). Which languages actually
@@ -164,6 +217,22 @@
     } catch (e) {
         NAME_OVERRIDES = {};
     }
+
+    // Text-size choices: {name, offset} pairs, offset relative to the
+    // project's own default font size (see mainFontSize override below).
+    // Always guaranteed at least one entry (offset 0, "Normal") even if
+    // the parameter is empty/malformed, so the Options row never ends up
+    // with nothing to cycle through.
+    let TEXT_SIZES = [];
+    try {
+        TEXT_SIZES = JSON.parse(params.TextSizes || "[]")
+            .map(s => JSON.parse(s))
+            .map(e => ({ name: String(e.Name || "Normal"), offset: Number(e.Offset || 0) }))
+            .filter(e => Number.isFinite(e.offset));
+    } catch (e) {
+        TEXT_SIZES = [];
+    }
+    if (TEXT_SIZES.length === 0) TEXT_SIZES = [{ name: "Normal", offset: 0 }];
 
     // Languages that wrap by character rather than by whitespace word.
     // Add codes here if you introduce another CJK-style language.
@@ -646,6 +715,42 @@
         if (ConfigManager.language) setLanguageState(ConfigManager.language);
     };
 
+    //-------------------------------------------------------------------
+    // Options menu: text size
+    // Same storage approach as language (global config, not per-save).
+    // Applied via $gameSystem.mainFontSize() -- the one method every
+    // window in the engine already calls to size its text -- so a
+    // change here reaches dialogue, choices, and menus uniformly with
+    // no per-window wiring, and composes correctly with auto-wrap since
+    // that hook already calls resetFontSettings() before measuring.
+    //-------------------------------------------------------------------
+
+    ConfigManager.textSizeOffset = 0;
+
+    function textSizeIndex(offset) {
+        const i = TEXT_SIZES.findIndex(e => e.offset === offset);
+        return i === -1 ? 0 : i;
+    }
+
+    const _ConfigManager_makeData2 = ConfigManager.makeData;
+    ConfigManager.makeData = function () {
+        const config = _ConfigManager_makeData2.call(this);
+        config.textSizeOffset = this.textSizeOffset;
+        return config;
+    };
+
+    const _ConfigManager_applyData2 = ConfigManager.applyData;
+    ConfigManager.applyData = function (config) {
+        _ConfigManager_applyData2.call(this, config);
+        const offset = Number(config.textSizeOffset);
+        this.textSizeOffset = Number.isFinite(offset) ? offset : 0;
+    };
+
+    const _Game_System_mainFontSize = Game_System.prototype.mainFontSize;
+    Game_System.prototype.mainFontSize = function () {
+        return _Game_System_mainFontSize.call(this) + (ConfigManager.textSizeOffset || 0);
+    };
+
     const _Window_Options_addGeneralOptions = Window_Options.prototype.addGeneralOptions;
     Window_Options.prototype.addGeneralOptions = function () {
         _Window_Options_addGeneralOptions.call(this);
@@ -664,6 +769,7 @@
             );
         }
         this.addCommand(OPTION_NAME, "language");
+        if (TEXT_SIZES.length > 1) this.addCommand(TEXT_SIZE_OPTION_NAME, "textSize");
     };
 
     const _Window_Options_statusText = Window_Options.prototype.statusText;
@@ -673,13 +779,21 @@
             const list = ensureLanguagesBuilt();
             return list[languageIndex(currentLanguage())].name;
         }
+        if (symbol === "textSize") {
+            return TEXT_SIZES[textSizeIndex(ConfigManager.textSizeOffset || 0)].name;
+        }
         return _Window_Options_statusText.call(this, index);
     };
 
     const _Window_Options_processOk = Window_Options.prototype.processOk;
     Window_Options.prototype.processOk = function () {
-        if (this.currentSymbol() === "language") {
+        const symbol = this.currentSymbol();
+        if (symbol === "language") {
             this.changeLanguage(1);
+            return;
+        }
+        if (symbol === "textSize") {
+            this.changeTextSize(1);
             return;
         }
         _Window_Options_processOk.call(this);
@@ -687,8 +801,13 @@
 
     const _Window_Options_cursorRight = Window_Options.prototype.cursorRight;
     Window_Options.prototype.cursorRight = function () {
-        if (this.currentSymbol() === "language") {
+        const symbol = this.currentSymbol();
+        if (symbol === "language") {
             this.changeLanguage(1);
+            return;
+        }
+        if (symbol === "textSize") {
+            this.changeTextSize(1);
             return;
         }
         _Window_Options_cursorRight.call(this);
@@ -696,8 +815,13 @@
 
     const _Window_Options_cursorLeft = Window_Options.prototype.cursorLeft;
     Window_Options.prototype.cursorLeft = function () {
-        if (this.currentSymbol() === "language") {
+        const symbol = this.currentSymbol();
+        if (symbol === "language") {
             this.changeLanguage(-1);
+            return;
+        }
+        if (symbol === "textSize") {
+            this.changeTextSize(-1);
             return;
         }
         _Window_Options_cursorLeft.call(this);
@@ -714,6 +838,18 @@
         ConfigManager.language = tag;
         setLanguageState(tag);
         this.redrawItem(this.findSymbol("language"));
+        SoundManager.playCursor();
+    };
+
+    // Cycle to the next/previous text size and persist it. No redraw of
+    // OTHER already-open windows is attempted here -- like the built-in
+    // volume sliders, the visible effect is on whatever window draws
+    // text next (this Options window's own row redraws immediately).
+    Window_Options.prototype.changeTextSize = function (delta) {
+        const idx = textSizeIndex(ConfigManager.textSizeOffset || 0);
+        const next = (idx + delta + TEXT_SIZES.length) % TEXT_SIZES.length;
+        ConfigManager.textSizeOffset = TEXT_SIZES[next].offset;
+        this.redrawItem(this.findSymbol("textSize"));
         SoundManager.playCursor();
     };
 
