@@ -1986,9 +1986,6 @@ var $plugins = [{
   "description": "TL source inspector",
   "parameters": {}
 },
-{"name":"CoordinateDisplay","status":true,"description":"Shows map coordinates top-right.","parameters":{"fontSize":"20","textColor":"#ffffff","outlineColor":"#000000"}}
-,
-{"name":"POI_Highlight","status":true,"description":"","parameters":{}}
-,
-{"name":"Bilingual_Core","status":true,"description":"Inline bilingual text selection + auto word-wrap v1.0.0","parameters":{"DefaultLanguage":"JA","EnableAutoWrap":"true","WrapPadding":"8","OptionName":"Language","AvailableLanguages":"[]","TextSizeOptionName":"Text Size","TextSizes":"[\"{\\\"Name\\\":\\\"Small\\\",\\\"Offset\\\":\\\"-4\\\"}\",\"{\\\"Name\\\":\\\"Normal\\\",\\\"Offset\\\":\\\"0\\\"}\",\"{\\\"Name\\\":\\\"Large\\\",\\\"Offset\\\":\\\"4\\\"}\",\"{\\\"Name\\\":\\\"X-Large\\\",\\\"Offset\\\":\\\"8\\\"}\"]"}}
+{"name":"Bilingual_Core","status":true,"description":"Inline bilingual text selection + auto word-wrap v1.0.0","parameters":{"DefaultLanguage":"JA","EnableAutoWrap":"true","WrapPadding":"8","OptionName":"Language","AvailableLanguages":"[]","TextSizeOptionName":"Text Size","TextSizes":"[\"{\\\"Name\\\":\\\"Small\\\",\\\"Offset\\\":\\\"-2\\\"}\",\"{\\\"Name\\\":\\\"Normal\\\",\\\"Offset\\\":\\\"0\\\"}\",\"{\\\"Name\\\":\\\"Large\\\",\\\"Offset\\\":\\\"2\\\"}\",\"{\\\"Name\\\":\\\"X-Large\\\",\\\"Offset\\\":\\\"4\\\"}\"]"}},
+{"name":"TA_AdventureNote_BilingualWrap","status":true,"description":"Extends Bilingual_Core's auto word-wrap to TA_AdventureNoteMZ's note windows. v1.0.0","parameters":{}}
 ];
