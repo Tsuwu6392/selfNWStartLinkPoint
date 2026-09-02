@@ -1584,4 +1584,13 @@
       this.addCommand(advnmc, "advnote", enable);
     }
   };
+
+  // Exposed for TA_AdventureNote_BilingualWrap.js (a separate compatibility
+  // patch plugin that needs to reach these classes from outside this IIFE).
+  // Purely additive -- doesn't change any behavior of this plugin itself.
+  window.Window_MainEvent = Window_MainEvent;
+  window.Window_SubEventHeader = Window_SubEventHeader;
+  window.Window_SubEventList = Window_SubEventList;
+  window.Window_SubEventNote = Window_SubEventNote;
+  window.Scene_AdventureNote = Scene_AdventureNote;
 })();

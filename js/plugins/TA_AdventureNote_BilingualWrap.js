@@ -3,7 +3,7 @@
 //=============================================================================
 /*:
  * @target MZ
- * @plugindesc Extends Bilingual_Core's auto word-wrap to TA_AdventureNoteMZ's note windows. v1.0.0
+ * @plugindesc Extends Bilingual_Core's auto word-wrap to TA_AdventureNoteMZ's note windows, with auto-resize (incl. live on language switch). v1.2.1
  * @author (custom)
  * @base Bilingual_Core
  * @base TA_AdventureNoteMZ
@@ -24,6 +24,13 @@
  * without this plugin -- Bilingual_Core patches that generically at the
  * Window_Base level. This plugin ONLY adds the missing wrap step on top.
  *
+ * It also auto-resizes Window_MainEvent to fit however many lines the
+ * wrapped note text actually needs (never shrinking below the configured
+ * MainEventWindowHeight), and shifts Window_SubEventHeader / Window_SubEventList
+ * down to match, so longer translations no longer spill across the window
+ * boundary below it. This re-sizing runs both when the AdventureNote scene
+ * opens and live if the player switches language while the scene is open.
+ *
  * ----------------------------------------------------------------------------
  * REQUIREMENTS / LOAD ORDER
  * ----------------------------------------------------------------------------
@@ -32,20 +39,35 @@
  * DefaultLanguage parameters directly, so the two never disagree about
  * settings -- there is nothing to configure here.
  *
+ * REQUIRES a small addition to TA_AdventureNoteMZ.js itself: its window and
+ * scene classes (Window_MainEvent, Window_SubEventHeader, Window_SubEventList,
+ * Window_SubEventNote, Scene_AdventureNote) are declared inside that file's
+ * own IIFE with no global export, so a separate plugin file has no way to
+ * reach them otherwise. TA_AdventureNoteMZ.js now has these five lines added
+ * right before its closing `})();`:
+ *   window.Window_MainEvent = Window_MainEvent;
+ *   window.Window_SubEventHeader = Window_SubEventHeader;
+ *   window.Window_SubEventList = Window_SubEventList;
+ *   window.Window_SubEventNote = Window_SubEventNote;
+ *   window.Scene_AdventureNote = Scene_AdventureNote;
+ * Purely additive -- doesn't change any of TA_AdventureNoteMZ's own behavior.
+ * If you ever update TA_AdventureNoteMZ.js from an upstream source, re-add
+ * these five lines or this whole patch plugin goes back to silently doing
+ * nothing (no error -- its guards are designed to no-op safely if the
+ * classes aren't found, which is exactly what masked this the first time).
+ *
  * If Bilingual_Core is missing/disabled, or if TA_AdventureNoteMZ's window
- * classes aren't found (e.g. a future version renames them), this plugin
- * safely does nothing rather than throwing an error.
+ * classes still aren't found, this plugin safely does nothing rather than
+ * throwing an error.
  *
  * ----------------------------------------------------------------------------
  * KNOWN LIMITATION (pre-existing, not caused by this patch)
  * ----------------------------------------------------------------------------
  * Window_SubEventNote has its own refresh() and redraws (and re-wraps) every
  * time its note_index changes, so it updates live if the player switches
- * language while it's open.
- *
- * Window_MainEvent only draws its text once, in initialize(). If you need it
- * to re-wrap on a live language change while open, it would need its own
- * refresh() hook -- ask if you want that added too.
+ * language while it's open. Window_MainEvent updates live too (text, size,
+ * and the position of the windows below it) via this plugin's own polling
+ * hook -- no limitation left here as of v1.1.0.
  */
 
 (() => {
@@ -108,6 +130,18 @@
             .join("\n");
     }
 
+    // Shared by both the scene-create sizing and the live-resize-on-
+    // language-change hook below. Mirrors the y passed to drawMSNote() in
+    // drawMSTexts(): header row + divider line take up the first two line
+    // heights before the note text starts.
+    function computeRequiredHeight(win) {
+        const topOffset = win.lineHeight() * 2;
+        const lines = win._bilingualLastWrapLines || 1;
+        const bottomMargin = win.itemPadding();
+        const requiredInner = topOffset + lines * win.lineHeight() + bottomMargin;
+        return requiredInner + win.padding * 2;
+    }
+
     // Layer a wrap step on top of whatever convertEscapeCharacters this
     // window class currently resolves to -- at patch time that's already
     // Bilingual_Core's Window_Base override (language-tag resolution), so
@@ -123,6 +157,9 @@
                 const baseWidth = typeof this.innerWidth === "number" ? this.innerWidth : this.contents.width;
                 const maxWidth = baseWidth - WRAP_PADDING;
                 result = autoWrapText(this.contents, result, maxWidth);
+                // Stashed for the auto-resize block below -- lets it know how
+                // many lines the wrap actually produced without re-measuring.
+                this._bilingualLastWrapLines = result.split("\n").length;
             }
             return result;
         };
@@ -157,8 +194,101 @@
             if (lang !== this._bilingualLastLang) {
                 this._bilingualLastLang = lang;
                 this.refresh();
+                if (AUTO_WRAP) this._bilingualLiveResize();
             }
         };
+
+        // Re-sizes this window if the new language's wrapped text needs a
+        // different height than what's currently allotted, and repositions
+        // Window_SubEventHeader / Window_SubEventList to match. Floors at
+        // this window's originally configured height (_bilingualBaseHeight,
+        // captured once at scene-create time) -- same floor the initial
+        // sizing below uses, so it can grow OR shrink back but never go
+        // below what the author configured.
+        Window_MainEvent.prototype._bilingualLiveResize = function () {
+            const base = this._bilingualBaseHeight || this.height;
+            const requiredOuter = Math.max(computeRequiredHeight(this), base);
+            if (requiredOuter !== this.height) {
+                this.move(this.x, this.y, this.width, requiredOuter);
+                this.createContents();
+                this.refresh();
+            }
+
+            const scene = SceneManager._scene;
+            if (!scene || typeof Scene_AdventureNote === "undefined" || !(scene instanceof Scene_AdventureNote)) return;
+            if (scene._maineventWindow !== this) return;
+
+            const delta = requiredOuter - base;
+            if (delta === scene._bilingualHeightDelta) return;
+            scene._bilingualHeightDelta = delta;
+
+            const header = scene._ssheaderWindow;
+            if (header && typeof scene._bilingualHeaderBaseY === "number") {
+                header.move(header.x, scene._bilingualHeaderBaseY + delta, header.width, header.height);
+            }
+            const list = scene._subeventlistWindow;
+            if (list && typeof scene._bilingualListBaseY === "number") {
+                list.move(list.x, scene._bilingualListBaseY + delta, list.width, list.height);
+            }
+        };
+    }
+
+    // ------------------------------------------------------------------
+    // Auto-resize: MainEventWindowHeight is a fixed plugin parameter,
+    // sized for ~1-2 lines. Wrapped text in a longer language can need
+    // more lines than that budget holds, and the overflow used to spill
+    // into Window_SubEventHeader directly below it (zero gap, by design).
+    //
+    // This measures the wrapped line count right after Window_MainEvent's
+    // first draw, grows the window to fit if it's too short (never
+    // shrinks below the author's configured height), and shifts
+    // Window_SubEventHeader / Window_SubEventList down by the same
+    // amount so the original gap is preserved either way.
+    //
+    // Runs at scene-create time, and again live if the player switches
+    // language while the scene is open (see _bilingualLiveResize above).
+    // Window_SubEventNote is a separate overlay window and isn't
+    // affected by this.
+    // ------------------------------------------------------------------
+    if (AUTO_WRAP && typeof Scene_AdventureNote !== "undefined") {
+        if (typeof Scene_AdventureNote.prototype.createMainEventWindow === "function") {
+            const _createMainEventWindow = Scene_AdventureNote.prototype.createMainEventWindow;
+            Scene_AdventureNote.prototype.createMainEventWindow = function () {
+                _createMainEventWindow.call(this);
+                this._bilingualHeightDelta = 0;
+
+                const win = this._maineventWindow;
+                if (!win) return;
+
+                win._bilingualBaseHeight = win.height;
+                const requiredOuter = Math.max(computeRequiredHeight(win), win._bilingualBaseHeight);
+
+                if (requiredOuter > win._bilingualBaseHeight) {
+                    this._bilingualHeightDelta = requiredOuter - win._bilingualBaseHeight;
+                    win.move(win.x, win.y, win.width, requiredOuter);
+                    win.createContents();
+                    win.refresh();
+                }
+            };
+        }
+
+        // Shifts a Scene_AdventureNote window-rect method's y down by
+        // whatever _bilingualHeightDelta createMainEventWindow (above)
+        // computed earlier in the same create() call, and caches the
+        // *unshifted* y on the scene (by cacheKey) so a later live language
+        // switch can reposition the window without recomputing the rect.
+        function shiftRectDown(rectMethodName, cacheKey) {
+            if (typeof Scene_AdventureNote.prototype[rectMethodName] !== "function") return;
+            const _rectMethod = Scene_AdventureNote.prototype[rectMethodName];
+            Scene_AdventureNote.prototype[rectMethodName] = function () {
+                const rect = _rectMethod.call(this);
+                this[cacheKey] = rect.y;
+                rect.y += this._bilingualHeightDelta || 0;
+                return rect;
+            };
+        }
+        shiftRectDown("subEventHeaderWindowRect", "_bilingualHeaderBaseY");
+        shiftRectDown("subEventListWindowRect", "_bilingualListBaseY");
     }
 
 })();

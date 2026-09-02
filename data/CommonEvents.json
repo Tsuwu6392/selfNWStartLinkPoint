@@ -423,7 +423,7 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "ともしび村if(s[74])<EN>Tomoshibi Villageif(s[74])",
+                        "ともしび村if(s[74])<EN>Tomoshibi-muraif(s[74])",
                         "夜寄せ塔if(s[75])<EN>Yoyose Towerif(s[75])"
                     ],
                     -1,
@@ -1283,9 +1283,9 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "秋水京if(s[81])<EN>Shusuikyoif(s[81])",
-                        "秋水京 柴組詰所\\I[157]if(s[82])<EN>Shusuikyo - Shibagumi Outpost\\I[157]if(s[82])",
-                        "秋水京 南の外れif(s[83])<EN>Shusuikyo - Southern Outskirtsif(s[83])"
+                        "秋水京if(s[81])<EN>Shuusui-kyouif(s[81])",
+                        "秋水京 柴組詰所\\I[157]if(s[82])<EN>Shuusui-kyou - Shibagumi Outpost\\I[157]if(s[82])",
+                        "秋水京 南の外れif(s[83])<EN>Shuusui-kyou - Southern Outskirtsif(s[83])"
                     ],
                     -1,
                     -1,
@@ -16369,7 +16369,7 @@
                         "転送剣に移動<EN>Move to Teleport Sword",
                         "隠居所に移動<EN>Move to Retreat",
                         "宴会殿に移動<EN>Move to Banquet Hall",
-                        "本殿地下に移動<EN>Move to Main Hall Underground",
+                        "本殿地下に移動<EN>Move to Honden Underground",
                         "清殿に移動<EN>Move to Purification Hall",
                         "鍛冶場に移動<EN>Move to Forge"
                     ],
@@ -40035,7 +40035,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "\\N[10]殿。\n突然だが、私は暇を見て改めてともしび村を\n訪れるつもりなんだ。<EN>\\N[10]-dono. I know this is sudden, but I plan to\nvisit Tomoshibi Village again when I have the\ntime."
+                    "\\N[10]殿。\n突然だが、私は暇を見て改めてともしび村を\n訪れるつもりなんだ。<EN>\\N[10]-dono. I know this is sudden, but I plan to\nvisit Tomoshibi-mura again when I have the\ntime."
                 ]
             },
             {
@@ -43709,7 +43709,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "……周辺の住民は、すなわちともしび村の人々。\nともしび村の人々と言えば、釣りで生計を立てています。<EN>……The local residents, namely, the people of Tomoshibi Village.\nSpeaking of them, they make their living by fishing."
+                    "……周辺の住民は、すなわちともしび村の人々。\nともしび村の人々と言えば、釣りで生計を立てています。<EN>……The local residents, namely, the people of Tomoshibi-mura.\nSpeaking of them, they make their living by fishing."
                 ]
             },
             {
@@ -53320,7 +53320,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "そうだ、ともしび村の廃材を旧笹倉町まで\n運ぶ予定があるのですが、そちらをお願いできますか？\n家事ではありませんが……<EN>Oh, right. I plan to transport scrap materials from Tomoshibi Village to Sasakura Town of Yore.\nCould I ask you to handle that for me?\nIt's not exactly housework, but..."
+                    "そうだ、ともしび村の廃材を旧笹倉町まで\n運ぶ予定があるのですが、そちらをお願いできますか？\n家事ではありませんが……<EN>Oh, right. I plan to transport scrap materials from Tomoshibi-mura to Sasakura Town of Yore.\nCould I ask you to handle that for me?\nIt's not exactly housework, but..."
                 ]
             },
             {
@@ -66992,7 +66992,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "その昔、怪異の時代が終わる頃……\nこの国に秋水京という都はなかったのだ。\n旧笹倉町こそが都で、城下町だった。<EN>Long ago, around the time the era of occurrences was\nending... In this land, there was no capital called\nShusuikyo. Sasakura Town of Yore itself was\nthe capital, the castle town."
+                    "その昔、怪異の時代が終わる頃……\nこの国に秋水京という都はなかったのだ。\n旧笹倉町こそが都で、城下町だった。<EN>Long ago, around the time the era of occurrences was\nending... In this land, there was no capital called\nShuusui-kyou. Sasakura Town of Yore itself was\nthe capital, the castle town."
                 ]
             },
             {
@@ -67900,7 +67900,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "初めて来たときにも思いましたが、\n普通に魔物がいますよね。\n秋水京には。<EN>I thought the same thing the first time I came here,\nbut monsters just wander about quite normally,\ndon't they? In Shusuikyo."
+                    "初めて来たときにも思いましたが、\n普通に魔物がいますよね。\n秋水京には。<EN>I thought the same thing the first time I came here,\nbut monsters just wander about quite normally,\ndon't they? In Shuusui-kyou."
                 ]
             },
             {
@@ -70766,7 +70766,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "桜悳殿。\n秋水京という名の由来を知っているか？<EN>Outoku-dono. Do you know the origin of the\nname Shusuikyo?"
+                    "桜悳殿。\n秋水京という名の由来を知っているか？<EN>Outoku-dono. Do you know the origin of the\nname Shuusui-kyou?"
                 ]
             },
             {
@@ -71020,7 +71020,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "秋水京とは、神話の時代にあった都の名なんだ。\nあ、神話の時代は分かるだろうか？<EN>Shusuikyo is the name of a capital that existed\nin the age of myth. Ah, do you know what the age\nof myth is?"
+                    "秋水京とは、神話の時代にあった都の名なんだ。\nあ、神話の時代は分かるだろうか？<EN>Shuusui-kyou is the name of a capital that existed\nin the age of myth. Ah, do you know what the age\nof myth is?"
                 ]
             },
             {
@@ -71086,7 +71086,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "よい！\nかつての秋水京も平和な都だったそうで、\nそうありたいという思いから名付けられたんだ！<EN>Correct!\nI hear the Shusuikyo of old was also\na peaceful capital,so it was named that\nin the hopes it would be the same!"
+                    "よい！\nかつての秋水京も平和な都だったそうで、\nそうありたいという思いから名付けられたんだ！<EN>Correct!\nI hear the Shuusui-kyou of old was also\na peaceful capital,so it was named that\nin the hopes it would be the same!"
                 ]
             },
             {
@@ -71163,7 +71163,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "一説によると、シキノワはかつての秋水京に\n所縁のある地でもあるそうです。\n昨今では、ゆえに名を借りたと──<EN>According to one theory, Shikinowa is also\na land that shares a connection with the\nShusuikyo of old. People say that is why\nthe name was borrowed──"
+                    "一説によると、シキノワはかつての秋水京に\n所縁のある地でもあるそうです。\n昨今では、ゆえに名を借りたと──<EN>According to one theory, Shikinowa is also\na land that shares a connection with the\nShuusui-kyou of old. People say that is why\nthe name was borrowed──"
                 ]
             },
             {
@@ -73803,7 +73803,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ええ、同じ星教ですから。\n明瞭な差を挙げるならば、山の僧侶の方が\nより魂術師らしいと言えましょう。<EN>Yes, as we follow the same Shoukyou.\nIf I were to name a clear difference, the monks of the mountain are\nmore like soul art users."
+                    "ええ、同じ星教ですから。\n明瞭な差を挙げるならば、山の僧侶の方が\nより魂術師らしいと言えましょう。<EN>Yes, as we follow the same Shoukyou.\nIf I were to name a clear difference, the monks of the mountain are\nmore like konjutjushis."
                 ]
             },
             {
@@ -78268,7 +78268,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "すなわち、魂術師にとってはよくない場所。\n矛盾してしまっているのです……<EN>In other words, it is a bad place for a soul art user.\nIt is quite a contradiction..."
+                    "すなわち、魂術師にとってはよくない場所。\n矛盾してしまっているのです……<EN>In other words, it is a bad place for a konjutjushi.\nIt is quite a contradiction..."
                 ]
             },
             {
@@ -79426,7 +79426,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "別にないわ。\n私は個人的に魂術の修行のために来ただけ。<EN>Not really. I just came here personally to train\nin soul arts."
+                    "別にないわ。\n私は個人的に魂術の修行のために来ただけ。<EN>Not really. I just came here personally to train\nin konjutsus."
                 ]
             },
             {
@@ -79444,7 +79444,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ほう？\n魂術師なのですね。<EN>Oh? So you're a soul arts practitioner."
+                    "ほう？\n魂術師なのですね。<EN>Oh? So you're a konjutsus practitioner."
                 ]
             },
             {
@@ -79496,7 +79496,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ええ、同じく魂術師でもあります。<EN>Yes, and I'm also a soul arts\npractitioner."
+                    "ええ、同じく魂術師でもあります。<EN>Yes, and I'm also a konjutsus\npractitioner."
                 ]
             },
             {
@@ -80116,7 +80116,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "師匠……かな。\n魂術を教えてもらってるの。<EN>Master... I guess. She's teaching me soul arts."
+                    "師匠……かな。\n魂術を教えてもらってるの。<EN>Master... I guess. She's teaching me konjutsus."
                 ]
             },
             {
@@ -98476,7 +98476,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "その通りよ。\n以前にも言ったと思うが、余は魂術が苦手でな。\nああでもせねば魂を見れぬ。<EN>That's right. I think I mentioned before, but\nI'm not good at soul arts. If I don't do that, I\ncan't see souls."
+                    "その通りよ。\n以前にも言ったと思うが、余は魂術が苦手でな。\nああでもせねば魂を見れぬ。<EN>That's right. I think I mentioned before, but\nI'm not good at konjutsus. If I don't do that, I\ncan't see souls."
                 ]
             },
             {
@@ -100048,7 +100048,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "腕のいい魂術師の助けがあれば大丈夫なの。\nそうでしょ？<EN>With the help of a skilled soul artist, it'll be\nfine. Right?"
+                    "腕のいい魂術師の助けがあれば大丈夫なの。\nそうでしょ？<EN>With the help of a skilled konjutsuist, it'll be\nfine. Right?"
                 ]
             },
             {
@@ -129481,7 +129481,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "しゃがみ、こちらを見下ろす存子は元気そうだ。\n自分が最も多くの廃材を持っていたとはいえ……\nともしび村の村人といい、頑健である。<EN>Crouching and looking down at me, Aruko looks full of energy.\nEven though she was carrying the most scrap materials herself...\nJust like the villagers of Tomoshibi Village, she is remarkably robust."
+                    "しゃがみ、こちらを見下ろす存子は元気そうだ。\n自分が最も多くの廃材を持っていたとはいえ……\nともしび村の村人といい、頑健である。<EN>Crouching and looking down at me, Aruko looks full of energy.\nEven though she was carrying the most scrap materials herself...\nJust like the villagers of Tomoshibi-mura, she is remarkably robust."
                 ]
             },
             {
@@ -141682,7 +141682,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "魂術に関してはよく分からないが、\n恐らく逆手に取られたのだと思う。\n魂に何かが侵入したような感覚があった。<EN>I don't know much about soul arts, but I think I\nwas probably outmaneuvered. I felt as if\nsomething had invaded my soul."
+                    "魂術に関してはよく分からないが、\n恐らく逆手に取られたのだと思う。\n魂に何かが侵入したような感覚があった。<EN>I don't know much about konjutsus, but I think I\nwas probably outmaneuvered. I felt as if\nsomething had invaded my soul."
                 ]
             },
             {
@@ -183956,7 +183956,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "存子の下着だ。\n以前、ともしび村での手伝いのあとに見たものと\n同じものだろうか。<EN>It's Aruko's underwear.\nIs it the same one I saw previously, after helping out in Tomoshibi Village,\nI wonder?"
+                    "存子の下着だ。\n以前、ともしび村での手伝いのあとに見たものと\n同じものだろうか。<EN>It's Aruko's underwear.\nIs it the same one I saw previously, after helping out in Tomoshibi-mura,\nI wonder?"
                 ]
             },
             {
@@ -196531,7 +196531,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "私たちはともしび村へと向かい、\n柴組の隊士を手助けした。\n\\N[10]殿が活躍したんだ！<EN>We headed to Tomoshibi Village,\nand helped the soldiers of the Shibagumi.\n\\N[10]-dono did some great work!"
+                    "私たちはともしび村へと向かい、\n柴組の隊士を手助けした。\n\\N[10]殿が活躍したんだ！<EN>We headed to Tomoshibi-mura,\nand helped the soldiers of the Shibagumi.\n\\N[10]-dono did some great work!"
                 ]
             },
             {
@@ -196597,7 +196597,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "次に、秋水京のこそ泥について調べた。\nその正体はなんと……夜伽鬼だった！<EN>Next, we investigated the thief in Shusuikyou.\nIts true identity was... Yotogi Oni!"
+                    "次に、秋水京のこそ泥について調べた。\nその正体はなんと……夜伽鬼だった！<EN>Next, we investigated the thief in Shuusui-kyouu.\nIts true identity was... Yotogi Oni!"
                 ]
             },
             {
@@ -210411,7 +210411,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "元々は魂術をもとに作られたものだったと聞きます。\n魂術の中には己の魂を複製する技があり……<EN>I hear it was originally made based on soul\narts. Among soul arts, there is a technique that\nduplicates one's own soul..."
+                    "元々は魂術をもとに作られたものだったと聞きます。\n魂術の中には己の魂を複製する技があり……<EN>I hear it was originally made based on soul\narts. Among konjutsus, there is a technique that\nduplicates one's own soul..."
                 ]
             },
             {
@@ -239479,7 +239479,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "まずはテンちゃんの力になるべく、\nともしび村で手伝いをしたのう。\nいろんなものを運んだんじゃ。<EN>First of all, to be of help to Ten-chan,\nwe helped out at Tomoshibi Village.\nWe carried all sorts of things, you see."
+                    "まずはテンちゃんの力になるべく、\nともしび村で手伝いをしたのう。\nいろんなものを運んだんじゃ。<EN>First of all, to be of help to Ten-chan,\nwe helped out at Tomoshibi-mura.\nWe carried all sorts of things, you see."
                 ]
             },
             {
@@ -268894,7 +268894,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "そういえば、存子さんはツヅリさんに\n魂術を教えていた様子でしたが、やはり修行を？<EN>Come to think of it, Aruko-san, you seemed to\nbe teaching Tsuzuri-san soul arts―so was that\ntraining as well?"
+                    "そういえば、存子さんはツヅリさんに\n魂術を教えていた様子でしたが、やはり修行を？<EN>Come to think of it, Aruko-san, you seemed to\nbe teaching Tsuzuri-san konjutsus―so was that\ntraining as well?"
                 ]
             },
             {
